@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 
 *.raw
+*.sublime*
+
+_translated/Glossary.txt

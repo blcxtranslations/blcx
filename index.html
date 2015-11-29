@@ -6,25 +6,24 @@ layout: default
 
   <h1 class="page-heading">Recent Updates</h1>
 
-  {% capture ntime %}
-    {{ 'now' | date: '%s' | minus: 259200 | date: '%s' }}
-  {% endcapture %}
+  {% assign stime = 'now' | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
+  {% assign zero = 0 | plus: 0 %}
 
   <ul>
-    {% for chapter in site.translated reversed limit:3 %}
+    {% for chapter in site.translated reversed %}
 
-      {% capture ptime %}
-        {{ chapter.date | date: '%s' }}
-      {% endcapture %}
+      {% assign ptime = chapter.date | date: '%s' | plus: 0 | minus: stime %}
 
-      {% if ptime < ntime %}
-        <strong>
+      {% if ptime < zero %}
+        {% break %}
       {% endif %}
 
       <li>
+        <strong>
         {{ chapter.date | date: "%b %-dth, %Y" }}
+        </strong>
         <br />
-        {{ chapter.number }}
+          {{ chapter.number }}
         &nbsp&nbsp&nbsp
         <a href="{{site.baseurl}}{{chapter.url}}">
           {{ chapter.title }}
@@ -32,10 +31,6 @@ layout: default
         <br />
         <br />
       </li>
-
-      {% if ptime < ntime %}
-        </strong>
-      {% endif %}
 
     {% endfor %}
   </ul>
