@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">Chapter {{ page.name }}</h1>
+  <h1 class="page-title">{{ page.title }}</h1>
+  <p class="post-meta">
+    <time datetime="{{ page.date }}" itemprop="datePublished">{{ page.date | date: "%b %-dth, %Y" }}</time>
+  </p>
+
+  <br />
+  <br />
+  <br />
+
+  {{ content }}
+
+  <br />
+  <br />
+  <br />
+
+  {% for chapter in site.translated %}
+    {% if chapter.name == page.name %}
+
+      {% unless forloop.first %}
+        <br />
+        <a href="{{site.baseurl}}{{prev.url}}">Previous Chapter: {{prev.name}}</a>
+        <!-- {{ prev.url }} -->
+      {% endunless %}
+
+      {% unless forloop.last %}
+        {% assign next = site.translated[forloop.index] %}
+        <br />
+        <a href="{{site.baseurl}}{{next.url}}">Next Chapter: {{next.name}}</a>
+        <!-- {{ next.url }} -->
+      {% endunless %}
+
+    {% endif %}
+
+    {% assign prev = chapter %}
+
+  {% endfor %}
+
+  <br />
+  <br />
+  <br />
+
+</div>
