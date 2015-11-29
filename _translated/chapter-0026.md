@@ -3,7 +3,7 @@ layout: page
 number: "0026"
 name: "Twenty Six"
 title: "Learning about Spirit Tools"
-date: "Nov 28th, 2015"
+date: "Nov 29th, 2015"
 ---
 
 Not so long ago, Lin Xuan had already reached the fourth layer of Spirit Gathering and could already use spirit tools. But a long time ago, from when he acquired them from Zhang Yu and Zhou Yan, he was already paying attention to spirit tools. Asking others about them would arouse suspicion, and of course, Lin Xuan would certainly not do something so stupid. So he quietly researched by consulting many books.
