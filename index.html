@@ -6,6 +6,7 @@ layout: default
 
   <h1 class="page-heading">Recent Updates</h1>
 
+  {% assign ntime = 'now' | date: '%s' | plus: 0 %}
   {% assign stime = 'now' | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
   {% assign zero = 0 | plus: 0 %}
 
@@ -13,9 +14,14 @@ layout: default
     {% for chapter in site.translated reversed %}
 
       {% assign ptime = chapter.date | date: '%s' | plus: 0 | minus: stime %}
+      {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
 
       {% if ptime < zero %}
         {% break %}
+      {% endif %}
+
+      {% if dtime > zero %}
+        {% continue %}
       {% endif %}
 
       <li>
@@ -81,6 +87,12 @@ layout: default
 
     <!-- The rest which are not from Saber -->
     {% for chapter in site.translated %}
+
+      {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
+
+      {% if dtime > zero %}
+        {% break %}
+      {% endif %}
 
       {% assign cnum = chapter.number | plus: 0 %}
       {% assign bnum = site.data.books[book].number | plus: 0 %}
