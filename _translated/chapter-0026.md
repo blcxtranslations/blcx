@@ -3,6 +3,7 @@ layout: page
 number: "0026"
 name: "Twenty Six"
 title: "Learning about Spirit Tools"
+chinese: "http://www.520xs.com/10264/128357/"
 date: "Nov 29th, 2015"
 ---
 

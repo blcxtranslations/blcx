@@ -51,178 +51,53 @@ layout: default
   <h1 class="page-heading">Table of Contents</h1>
 
   <ul>
-    <li>
-      0001
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/03/tempered-immortal-chapter-1/">
-        Lin Xuan
-      </a>
-    </li>
-    <li>
-      0002
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/05/tempered-immortal-chapter-2/">
-        Spirit Gathering
-      </a>
-    </li>
-    <li>
-      0003
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/07/tempered-immortal-chapter-3/">
-        Illusionary Torture
-      </a>
-    </li>
-    <li>
-      0004
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/07/tempered-immortal-chapter-4/">
-        Telekinesis
-      </a>
-    </li>
-    <li>
-      0005
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/07/tempered-immortal-chapter-5-teaser/">
-        Purifying Essence Pill
-      </a>
-    </li>
-    <li>
-      0006
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/08/tempered-immortal-chapter-6-teaser/">
-        Mystic Canyon
-      </a>
-    </li>
-    <li>
-      0007
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/09/tempered-immortal-chapter-7/">
-        Spirit Control
-      </a>
-    </li>
-    <li>
-      0008
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/11/tempered-immortal-chapter-8/">
-        A Battle of Wits
-      </a>
-    </li>
-    <li>
-      0009
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/11/tempered-immortal-chapter-9/">
-        Treasure
-      </a>
-    </li>
-    <li>
-      0010
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/12/tempered-immortal-chapter-10/">
-        Blue Lights
-      </a>
-    </li>
-    <li>
-      0011
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/07/12/tempered-immortal-chapter-11/">
-        Spirit Beast
-      </a>
-    </li>
-    <li>
-      0012
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/08/16/tempered-immortal-chapter-12/">
-        Mysterious Spots of Light
-      </a>
-    </li>
-    <li>
-      0013
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/08/18/tempered-immortal-chapter-13/">
-        Trash to Treasure
-      </a>
-    </li>
-    <li>
-      0014
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/08/21/tempered-immortal-chapter-14/" target="_blank">
-        Purifying Pills
-      </a>
-    </li>
-    <li>
-      0015
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/08/29/tempered-immortal-chapter-15/">
-        Trial and Error
-      </a>
-    </li>
-    <li>
-      0016
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/05/tempered-immortal-chapter-16/">
-        Medicinal Breakthrough
-      </a>
-    </li>
-    <li>
-      0017
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/06/tempered-immortal-chapter-17/">
-        Pill Upgrade Attempt
-      </a>
-    </li>
-    <li>
-      0018
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/06/tempered-immortal-chapter-18/">
-        Danxia Mountain
-      </a>
-    </li>
-    <li>
-      0019
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/06/tempered-immortal-v2-chapter-1/">
-        Play the Role of the Pig to Eat the Tiger
-      </a>
-    </li>
-    <li>
-      0020
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/07/tempered-immortal-v2-chapter-2/">
-        Trash Pill Storage
-      </a>
-    </li>
-    <li>
-      0021
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/07/tempered-immortal-v2-chapter-3/">
-        Symbol Array
-      </a>
-    </li>
-    <li>
-      0022
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/07/tempered-immortal-v2-chapter-4/">
-        Closed Door Cultivation
-      </a>
-    </li>
-    <li>
-      0023
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/11/tempered-immortal-v2-chapter-5/">
-        Mid-Grade Purified Essence Pill
-      </a>
-    </li>
-    <li>
-      0024
-      &nbsp&nbsp&nbsp
-      <a href="https://sabertranslations.wordpress.com/2015/09/11/tempered-immortal-v2-chapter-6/">
-        Pros and Cons
-      </a>
-    </li>
+    {% assign book = 0 %}
+
+    {% for chapter in site.data.saber %}
+
+      {% assign cnum = chapter.number | plus: 0 %}
+      {% assign bnum = site.data.books[book].number | plus: 0 %}
+
+      {% if bnum == cnum %}
+
+        <li>
+          <h2>
+            {{ site.data.books[book].name }}: {{ site.data.books[book].title }}
+          </h2>
+        </li>
+        {% assign book = book | plus: 1 %}
+
+      {% endif %}
+
+      <li>
+        &nbsp&nbsp&nbsp
+        {{ chapter.number }}
+        &nbsp&nbsp&nbsp
+        <a href="{{ chapter.url }}">
+          {{ chapter.title }}
+        </a>
+      </li>
+    {% endfor %}
 
     <!-- The rest which are not from Saber -->
     {% for chapter in site.translated %}
+
+      {% assign cnum = chapter.number | plus: 0 %}
+      {% assign bnum = site.data.books[book].number | plus: 0 %}
+
+      {% if bnum == cnum %}
+
+        <li>
+          <h2>
+            {{ site.data.books[book].name }}: {{ site.data.books[book].title }}
+          </h2>
+        </li>
+        {% assign book = book | plus: 1 %}
+
+      {% endif %}
+
       <li>
+        &nbsp&nbsp&nbsp
         {{ chapter.number }}
         &nbsp&nbsp&nbsp
         <a href="{{site.baseurl}}{{chapter.url}}">

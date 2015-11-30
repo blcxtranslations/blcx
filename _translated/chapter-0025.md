@@ -3,6 +3,7 @@ layout: page
 number: "0025"
 name: "Twenty Five"
 title: "Cultivation Basics"
+chinese: "http://www.520xs.com/10264/128356/"
 date: "Nov 27th, 2015"
 ---
 

@@ -2,247 +2,69 @@
 layout: page
 number: "0027"
 name: "Twenty Seven"
-title: "法术之道"
+title: "The Doctrine of Spells"
+chinese: "http://www.520xs.com/10264/128358/"
 date: "Dec 1st, 2015"
 ---
 
-修真一道，
-浩如烟海，
-法宝，
-灵器威力无比，
-符箓具有神奇的能力，
-除了这些，
-还有各种各样奇妙的法诀。
+The path of cultivation was vast. Other than powerful magic treasures and spirit tools, there were also a variety of wondrous spells.
 
-借助灵力，
-驱动天地之威，
-虽然法术的威力与灵器相比，
-还有差距，
-但一来它消耗的灵力较少，
-二来不需要任何媒介，
-所以深受低阶修真者的喜爱。
+With the support of spiritual power, one could shake the heavens and the earth. Although spells were not as powerful as spirit tools, they do not consume as much spiritual power, they also did not require any mediums, so they were deeply favoured by lower level cultivators.
 
-比如说冰弹诀，
-内视术，
-灵力护盾，
-都是属于常用的法术。
+For example, Ice Missiles, Inner Sense, and Spirit Shield, were all commonly used spells.
 
-修真共分为灵动、筑基、凝丹、元婴、离合、洞玄、分神，
-渡劫八个阶段，
-妖兽也与之像对应，
-从一级到八级，
-然而法术却不一样，
-只有低阶法术，
-阶法术，
-高阶法术三个层次。
+Cultivation levels were split into the Spirit Gathering, Foundation Building, Core Formation, Nascent Soul, LiHe, DongXuan, Spirit Severing, and Tribulation Ascension stages. Spirit beasts had the same corresponding stages. But spells were different, they only have 3 stages, the low level spells, mid level spells, and high level spells.
 
-原因无他，
-凝丹期的修真者就拥有法宝了啊，
-威力无比，
-不管是防御，
-进攻都依靠法宝，
-不需要任何媒介的法术在这些高阶修真者看来，
-太弱，
-属于鸡肋一样的东东，
-所以当然会弃之不用。
+There was only one reason, Core Formation cultivators can have magic treasures, with matchless power. They relied on them for both offense and defense without any spells. In the eyes of these high level cultivators, spells were too weak, and were just useless things, so of course they would not use them.
 
-会使用法术的只有灵动和筑基两个阶段的修真者，
-其灵动期只能学低阶与阶法术，
-筑基期修真者则可以学高阶法术。
+Only Spirit Gathering and Foundation Building cultivators would know spells, Spirit Gathering cultivators could only learn low or mid level spells, high level spells were for Foundation Building cultivators.
 
-其实使用最多的还是灵动期，
-因为筑基期一般都拥有了灵器，
-威力也比法术强，
-当然，
-凡事没有绝对，
-也有少数高阶法诀威力不比灵器逊色，
-更何况灵器虽然仅仅是简易版的法宝，
-但同样十分珍贵，
-有一些破落门派，
-或者贫穷的散修，
-即便修为到了筑基期，
-可同样没有灵器。
+In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than spirit tools. Of course, everything is not absolute, and there are a few high level spells that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
 
-由此可见，
-拥有三件灵器，
-其一件还是极品的林轩，
-是多么富有了。
+Thus, it can be seen that Lin Xuan, having three spirit tools, one of which was a top grade tool, was very rich indeed.
 
-如今以自己的法力支撑使用灵器，
-还稍微勉强了些，
-备用的方法，
-就是学习一些合适的法术，
-做下决定以后，
-林轩开始付诸行动。
+Now to support the spirit tool with his spirit power is still very straining and barely manageable. The alternative is to then learn some suitable and appropriate spells. After making this decision, Lin Xuan began to put it into action.
 
-他从储物戒指取出了一个普通的本，
-毫不起眼，
-上面的字也是用手书写，
-从表面上看不出什么价值，
-但林轩却显得很重视。
+H took out an ordinary book from his storage ring, it wasn't very eye catching, all of it was handwritten, and did not seem to have much value, but it seemed important to Lin Xuan.
 
-这是笔记，
-三年来由林轩亲手记载。
+These were his notes, hand written personally by Lin Xuan over these three years.
 
-由于没有灵根，
-以前林轩的修行速度远跟不上同门，
-没有足够的法力做为支撑，
-很多教席传授的法术他都只能看着眼馋而已，
-如果换一个人，
-早就心灰意冷，
-不再去稚鹰阁被同门嘲讽，
-可林轩没有这么做，
-他不仅每一次教席传功的时候都准时去，
-而且还认真的做笔记，
-风雨无阻。
+Because he had no spiritual roots, Lin Xuan's cultivation speed could not keep up with his peers, without enough spiritual power for support, he could only be envious of the various spells that were taught. If it was someone else, they would have long ago became disheartened, and would stop going to the Young Hawks pavilion to get ridiculed. But Lin Xuan did not do that, not only did he go to every single session on time, but he also carefully took notes, be it rain or shine.
 
-在别人看来，
-这样的行为很傻，
-可林轩却有自己的想法，
-而且现在看来，
-确实非常聪明，
-非常的有远见。
+To others, it might seem to be very stupid behaviour, but Lin Xuan had his own ideas, and now it seems, it was actually very smart and very far-sighted.
 
-当时林轩就想，
-这些东西自己暂时虽然无法修炼，
-但以后功力到了，
-可以再慢慢研究，
-先在本上写下来，
-就不会忘了。
+Back then, Lin Xuan thought, even though temporarily he was unable to practice some things, but when he had the cultivation later, he could slowly start to analyze it. So he wrote it down in his notebook, so not to forget these teachings.
 
-也幸亏他当初这么做，
-否则现在就算是想要修炼法术，
-还不知道从何练起，
-这也是林轩性格的好处，
-做事情喜欢未雨绸缪，
-谋定而后动。
+It was fortunate that he did copy them down, otherwise, is he wanted to practice these spells now that he had the cultivation, he would have no where to start. This is one of Lin Xuan's good characteristics, he liked to take precautions before making any decisions.
 
-三年来，
-教席传授的法诀很多，
-当然不可能全部练习，
-一来没有那么多时间，
-二来，
-也没有必要，
-通晓百家不如专精一艺，
-与其学习一些重复没用的法术，
-不如挑几种适合自己。
+Over these three years, there have been many spells taught by many teachers, he could not practice all of them. This was because firstly, there was not that much time, and secondly, it was not all necessary. Being proficient in many spells was not as good as mastering one, besides, there were some useless and duplicate spells, it was better to pick a few suitable ones for himself.
 
-有了这样的决定以后，
-林轩就开始仔细翻阅起笔记来了，
-首先将低阶法术排除，
-虽然比较容易学，
-但威力也有限，
-林轩可不想浪费宝贵的时间。
+After making such a decision, Lin Xuan began to carefully read his notes. First he excluded the low level spells, even though they were easier to learn, they were also limited in power, he did not want to waste precious time learning them.
 
-他的目标是阶法诀，
-经过仔细筛选，
-挑了三个，
-灵力护盾，
-冰针诀，
-御风术。
+His goal was mid grade spells, and after careful screening, he picked three spells: Spirit Shield, Ice Needles, and Imperial Wind.
 
-这样的选择，
-是有缜密思考。
+There was careful though put into making these choices.
 
-灵力护盾，
-一听名字就很清楚，
-防御性法诀，
-所谓未学打人，
-先学挨打，
-对敌的时候，
-首先要考虑的事情，
-应该是如何保住自己的小命，
-所以林轩第一个要学习的法诀，
-就是防御性质。
+Spirit Shield, its name was very clear, it is a defensive spell. To learn how to beat someone, one must first learn how to be beaten. When fighting the enemy, the first thing one must consider, is how to escape with one's life. Therefore, Lin Xuan's first spell to learn is also the defensive spell.
 
-冰针诀，
-乃五行之的水属性法术，
-特点是攻击力强悍，
-防不胜防，
-虽然相对来说，
-比较难练，
-但这没有关系，
-林轩从来不怕吃苦，
-只要威力足够就行了。
+Ice Needles, was a five elements spell of the water attribute. It is characterized by its strong attacking power, it was hard to detect. Although relatively, it was harder to practice, but that was not an issue, Lin Xuan has never been afraid of hardship, as long as it had enough power it was fine.
 
-最后一种御风术，
-则属于辅助性法诀，
-与林轩以前学习过的低阶法诀轻身术比较相似，
-但更加的厉害，
-更加的高级。
+The last spell, the Imperial Wind spell, was a support type spell. Compared to the Light-Wind spell he learned before, it much more powerful and advanced.
 
-虽然修真者要拥有灵器，
-并熟练驾驭后才能飞行，
-但掌握御风术后，
-则相当于拥有了惊世骇俗的轻功，
-一个腾挪，
-就可以飘出数十米，
-就算是凡人武者最强的天道高手，
-也望尘莫及，
-毕竟，
-御风术是以灵力做为基础，
-修真者也脱离了普通人的范畴，
-两者根本不是一个层次。
+Although all cultivators wanted to have spirit tools, and after much practice controlling then could they fly. But after grasping the Imperial Wind technique, it was equivalent to having shocking Light Body skill. With one maneuver, they can float tens of meters, even the strongest mortal experts would be left in the dust. After all, the Imperial Wind technique used spiritual power as the basis, cultivators were not within a mortals understanding. They were simply at different levels.
 
-防御，
-进攻，
-以及逃跑或者是躲闪时用的法术，
-林轩各选了一种，
-进可攻，
-退可守，
-这样的组合，
-应该是完美无缺了。
+Defense, attack, and escape and dodge spells, Lin Xuan selected one each. He could move forward and attack, or retreat and defend, this kind of combination, should be perfect with nothing missing.
 
-接下来的时间，
-林轩变得异常繁忙了起来，
-提纯丹药，
-打坐修行，
-除此以外，
-还要挤出时间练习法诀，
-真的是一点休息也没有，
-还好随着修为的不断增长，
-每天需要的睡眠时间也越来越少。
+For the next while, Lin Xuan became very busy. Purifying pills, sitting cultivation, and additionally, he also had to make time to practice spells. There was really no time to rest. Fortunately, as his cultivation kept rising, he required less and less time to sleep each day.
 
-吃得苦苦，
-方为仙上仙，
-换一个人，
-或许很难忍受这样艰苦的修炼生活，
-但林轩不同，
-以前因为没有灵根，
-一次次失败，
-还被同门冷嘲热讽的日都熬过来了，
-炼心路的幻境都不曾挡住他修炼的脚步，
-现在有了提纯的本领，
-有了成功的希望，
-这点苦算什么？
+One must work harder than anyone else to be better than everyone else. If it was a different person, perhaps they would not be able to endure this difficult like of cultivation. But Lin Xuan was different, he had no spiritual roots and failed over and over again, and had to enduring the taunts and jeers of his peers every day. Even the illusions of the Heart Refinement Road could not stop Lin Xuan's progress, now that he had the ability to purify and the hope of success, what would the previous bitter days count for?
 
-努力修行！
+Focus on cultivating!
 
-日一天天过去，
-林轩的练习也颇为顺利，
-他首先学的是灵力护盾，
-这是阶防御法诀，
-同时也是灵动期，
-甚至是筑基期修真者最喜欢，
-最常用的基本防御法术。
+Day by day, Lin Xuan's studies progressed smoothly. His first spell, the Spirit Shield, was a defensive spell, it was also the Spirit Gathering, and even Foundation Building cultivators favourite and most used basic defensive spell.
 
-原理并不难，
-甚至可以说非常简单，
-就是将灵力布于身体表面，
-形成气罩，
-从而将敌人的攻击挡在外面。
+The principle is not difficult, it could even be said to be very simple. It was to to use spiritual power to cover the body, which could block the enemy's attack.
 
-非常坚固，
-刀枪不入，
-当然具体的防御上限，
-根据每个人法力的不同，
-有所区别。
+It was very stable and nothing could get in. Of course, there was a limit, which would differ based on the spiritual power of each person.
 
-说穿了，
-这虽然是一个阶法诀，
-但只要有足够的灵力做为支撑，
-修炼起来还是很容易，
-就算是林轩这种没有灵根的普通人，
-因为他的法力够强，
-所以也仅仅花了三天的时间，
-就将灵力护盾熟练掌握！
+To put it bluntly, although Spirit Shield is just a spell, but was long as there is enough spiritual power to support it, practicing this spell would be very easy. Even Lin Xuan, with no spiritual roots, because his spiritual power was strong, he only split three short days to become proficient in this spell!
