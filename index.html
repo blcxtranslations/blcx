@@ -9,6 +9,7 @@ layout: default
   {% assign ntime = 'now' | date: '%s' | plus: 0 %}
   {% assign stime = 'now' | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
   {% assign zero = 0 | plus: 0 %}
+  {% assign datetitle = '' %}
 
   <ul>
     {% for chapter in site.translated reversed %}
@@ -24,30 +25,35 @@ layout: default
         {% continue %}
       {% endif %}
 
-      <li>
-        <strong>
-          {% assign d = chapter.date | date: "%-d" %}
-          {{ chapter.date | date: "%b" }}
-          {% case d %}
-            {% when "1" or "21" or "31" %}
-              {{ d }}st,
-            {% when "2" or "22" %}
-              {{ d }}nd,
-            {% when "3" or "23" %}
-              {{ d }}rd,
-            {% else %}
-              {{ d }}th,
-          {% endcase %}
-          {{ chapter.date | date: "%Y" }}
-        </strong>
+      {% if chapter.date != datetitle %}
+        {% assign datetitle = chapter.date %}
         <br />
-          {{ chapter.number }}
+        <li>
+          <strong>
+            {% assign d = chapter.date | date: "%-d" %}
+            {{ chapter.date | date: "%b" }}
+            {% case d %}
+              {% when "1" or "21" or "31" %}
+                {{ d }}st,
+              {% when "2" or "22" %}
+                {{ d }}nd,
+              {% when "3" or "23" %}
+                {{ d }}rd,
+              {% else %}
+                {{ d }}th,
+            {% endcase %}
+            {{ chapter.date | date: "%Y" }}
+          </strong>
+        </li>
+        {% endif %}
+
+      <li>
+        &nbsp&nbsp&nbsp
+        {{ chapter.number }}
         &nbsp&nbsp&nbsp
         <a href="{{site.baseurl}}{{chapter.url}}">
           {{ chapter.title }}
         </a>
-        <br />
-        <br />
       </li>
 
     {% endfor %}
@@ -98,7 +104,7 @@ layout: default
       {% assign bnum = site.data.books[book].number | plus: 0 %}
 
       {% if bnum == cnum %}
-
+        <br />
         <li>
           <h2>
             {{ site.data.books[book].name }}: {{ site.data.books[book].title }}
