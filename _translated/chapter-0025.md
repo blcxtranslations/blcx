@@ -61,7 +61,7 @@ Even though it doesn't look like much, this Jade Snow Bracelet was very famous i
 
 Spirit tools are split into low grade, medium grade, high grade, and top grade. Only Core Formation cultivators could use magic treasures. Foundation Building cultivators, even the most powerful have but one top grade spirit tool.
 
-And in Floating Cloud Valley, even most of the martials uncles only had high grade spirit tools. Only a few possessed these top grade spirit tools, and Zhang Yu was one of these people. It must be said that Lin Xuan had really good luck.
+And in Floating Cloud Valley, even most of the martial uncles only had high grade spirit tools. Only a few possessed these top grade spirit tools, and Zhang Yu was one of these people. It must be said that Lin Xuan had really good luck.
 
 Apart from the Jade Snow Bracelet, Zhou Yan's spirit tools were also extraordinary, the golden rope could bound enemies, this was a tool whose use was between attacking and defending, it is a medium grade spirit tool.
 

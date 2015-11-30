@@ -9,7 +9,7 @@ date: "Nov 29th, 2015"
 
 Not so long ago, Lin Xuan had already reached the fourth layer of Spirit Gathering and could already use spirit tools. But a long time ago, from when he acquired them from Zhang Yu and Zhou Yan, he was already paying attention to spirit tools. Asking others about them would arouse suspicion, and of course, Lin Xuan would certainly not do something so stupid. So he quietly researched by consulting many books.
 
-The second and third floors of the library is closed off to lower leveled disciples. The the books on the first floor, to cultivators, were mostly trash, since there were no cultivation techniques. But the first floor had a lot of books on introductory knowledge on a variety of subjects.
+The second and third floors of the library is closed off to lower levelled disciples. The the books on the first floor, to cultivators, were mostly trash, since there were no cultivation techniques. But the first floor had a lot of books on introductory knowledge on a variety of subjects.
 
 The higher the grade of spirit tool, the greater the power, but was also harder to grasp. They would not only consume more spiritual power, but also require much more advanced skills.
 
