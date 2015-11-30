@@ -36,6 +36,9 @@ layout: default
 
   <br />
 
+  {% assign ntime = 'now' | date: '%s' | plus: 0 %}
+  {% assign zero = 0 | plus: 0 %}
+
   {% for chapter in site.translated %}
     {% if chapter.name == page.name %}
 
@@ -47,9 +50,14 @@ layout: default
 
       {% unless forloop.last %}
         {% assign next = site.translated[forloop.index] %}
-        <br />
-        <a href="{{site.baseurl}}{{next.url}}">Next Chapter: {{next.name}}</a>
-        <!-- {{ next.url }} -->
+
+        {% assign dtime = next.date | date: '%s' | plus: 0 | minus: ntime %}
+
+        {% if dtime < zero %}
+          <br />
+          <a href="{{site.baseurl}}{{next.url}}">Next Chapter: {{next.name}}</a>
+        {% endif %}
+
       {% endunless %}
 
     {% endif %}
