@@ -1,27 +1,44 @@
 - name: Book One
   title: Floating Cloud Valley
+  chinese: 飘云谷
   number: 0001
 
 - name: Book Two
-  title: Steal Immortal Herbs
+  title: 盗仙草
+  chinese: 盗仙草
   number: 0069
 
 - name: Book Three
-  title: Hidden Province Unrest
+  title: 幽州乱
+  chinese: 幽州乱
   number: 0276
 
 - name: Book Four
-  title: Seven Star Island
+  title: 七星岛
+  chinese: 七星岛
   number: 0548
 
 - name: Book Five
-  title: Sky Cloud Twelve Provinces
+  title: 天云十二州
+  chinese: 天云十二州
   number: 0849
 
 - name: Book Six
-  title: East Sea Chronicles of Entering the Spirit World
+  title: 天云十二州
+  chinese: 天云十二州
   number: 1526
 
 - name: Book Seven
-  title: Pinnacle the Three Realms
+  title: 纵横三界
+  chinese: 纵横三界
   number: 1999
+
+- name: Book Eight
+  title: 上古隐秘
+  chinese: 上古隐秘
+  number: 2722
+
+- name: Book Nine
+  title: 真仙之秘
+  chinese: 真仙之秘
+  number: 3613

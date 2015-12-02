@@ -3,8 +3,10 @@ layout: page
 number: "0025"
 name: "Twenty Five"
 title: "Cultivation Basics"
-chinese: "http://www.520xs.com/10264/128356/"
+chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,M4g-jl5Kw28ex0RJOkJclQ2.aspx"
 date: "Nov 27th, 2015"
+characters: 2118
+sponsored: false
 ---
 
 For the next period of time, Lin Xuan focused on practicing purifying the Purified Essence Pills. It was very difficult to start, each initial step is very hard, and the success rate was extremely low.

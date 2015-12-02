@@ -2,6 +2,24 @@
 layout: default
 ---
 
+
+<!-- Page Functions -->
+<script type="text/javascript">
+function numfy(val) {
+  // http://stackoverflow.com/a/2901298
+
+  var parts = val.toString().split(".");
+  parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  return parts.join(".");
+}
+
+function curfy(val) {
+  return "$" + numfy(val.toFixed(2))
+}
+</script>
+<!-- Page Functions -->
+
+
 <div class="page">
   <h1 class="page-title">Chapter {{ page.name }}</h1>
   <h1 class="page-title">{{ page.title }}</h1>
@@ -31,6 +49,72 @@ layout: default
   <br />
   <br />
   <br />
+
+  {% if page.sponsored %}
+  <h2>
+    Sponsors
+  </h2>
+  <!-- Sponsors Go Here -->
+  <script type="text/javascript">
+    var total = 0;
+    var count = 0;
+  </script>
+  {% for book in site.data.donations %}
+    <script type="text/javascript">
+    var cpc = {{ book.characters }} / {{ book.chapters }}
+    var dpc = {{ book.donations }} / cpc
+    total += dpc;
+    count += 1;
+    </script>
+  {% endfor %}
+  <script type="text/javascript">
+    var average = total / count;
+    var cost = {{ page.characters}} * average;
+    var beforecost = 0;
+  </script>
+  {% for chapter in site.translated %}
+
+    {% if page.name == chapter.name %}
+      {% break %}
+    {% endif %}
+
+    {% if chapter.sponsored %}
+      <script type="text/javascript">
+        beforecost += {{ chapter.characters}} * average;
+      </script>
+    {% endif %}
+  {% endfor %}
+  <script type="text/javascript">
+    console.log(beforecost);
+    console.log(cost);
+  </script>
+  <ul>
+  {% for sponsor in site.data.sponsors %}
+    <script type="text/javascript">
+      console.log(beforecost);
+      if(beforecost >= 0 )
+      {
+        console.log("Greater than zero");
+        beforecost -= {{ sponsor.amount }}
+        console.log(beforecost);
+        console.log(beforecost + cost);
+        if(beforecost < 0)
+        {
+          // console.log("{{ sponsor.name }}");
+          // console.log({{ sponsor.amount }});
+          document.write("<li><strong> &nbsp&nbsp&nbsp {{ sponsor.name }} </strong> &nbsp&nbsp&nbsp " + curfy({{ sponsor.amount }}) + " </li>");
+          // document.write({{ sponsor.amount }});
+        }
+      }
+    </script>
+  {% endfor %}
+  </ul>
+
+  <br />
+  <br />
+  <br />
+  {% endif %}
+
 
   {{ content }}
 

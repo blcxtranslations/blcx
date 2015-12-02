@@ -3,8 +3,10 @@ layout: page
 number: "0027"
 name: "Twenty Seven"
 title: "The Doctrine of Spells"
-chinese: "http://www.520xs.com/10264/128358/"
+chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,PvteUYopsioex0RJOkJclQ2.aspx"
 date: "Dec 1st, 2015"
+characters: 2163
+sponsored: false
 ---
 
 The path of cultivation was vast. Other than powerful magic treasures and spirit tools, there were also a variety of wondrous spells.
@@ -13,13 +15,13 @@ With the support of spiritual power, one could shake the heavens and the earth. 
 
 For example, Ice Missiles, Inner Sense, and Spirit Shield, were all commonly used spells.
 
-Cultivation levels were split into the Spirit Gathering, Foundation Building, Core Formation, Nascent Soul, LiHe, DongXuan, Spirit Severing, and Tribulation Ascension stages. Spirit beasts had the same corresponding stages. But spells were different, they only have 3 stages, the low level spells, mid level spells, and high level spells.
+Cultivation levels were split into the Spirit Gathering, Foundation Building, Core Formation, Nascent Soul, LiHe, DongXuan, Spirit Severing, and Tribulation Ascension stages. Spirit beasts had the same corresponding stages. But spells were different, they only have 3 stages, the low rank spells, mid rank spells, and high rank spells.
 
 There was only one reason, Core Formation cultivators can have magic treasures, with matchless power. They relied on them for both offense and defense without any spells. In the eyes of these high level cultivators, spells were too weak, and were just useless things, so of course they would not use them.
 
-Only Spirit Gathering and Foundation Building cultivators would know spells, Spirit Gathering cultivators could only learn low or mid level spells, high level spells were for Foundation Building cultivators.
+Only Spirit Gathering and Foundation Building cultivators would know spells, Spirit Gathering cultivators could only practice rank low or mid rank, high rank spells were for Foundation Building cultivators.
 
-In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than spirit tools. Of course, everything is not absolute, and there are a few high level spells that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
+In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than spirit tools. Of course, everything is not absolute, and there are a few high rank spells that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
 
 Thus, it can be seen that Lin Xuan, having three spirit tools, one of which was a top grade tool, was very rich indeed.
 
@@ -39,7 +41,7 @@ It was fortunate that he did copy them down, otherwise, is he wanted to practice
 
 Over these three years, there have been many spells taught by many teachers, he could not practice all of them. This was because firstly, there was not that much time, and secondly, it was not all necessary. Being proficient in many spells was not as good as mastering one, besides, there were some useless and duplicate spells, it was better to pick a few suitable ones for himself.
 
-After making such a decision, Lin Xuan began to carefully read his notes. First he excluded the low level spells, even though they were easier to learn, they were also limited in power, he did not want to waste precious time learning them.
+After making such a decision, Lin Xuan began to carefully read his notes. First he excluded the low rank spells, even though they were easier to learn, they were also limited in power, he did not want to waste precious time learning them.
 
 His goal was mid grade spells, and after careful screening, he picked three spells: Spirit Shield, Ice Needles, and Imperial Wind.
 
