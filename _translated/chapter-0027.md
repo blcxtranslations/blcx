@@ -21,7 +21,7 @@ There was only one reason, Core Formation cultivators can have magic treasures, 
 
 Only Spirit Gathering and Foundation Building cultivators would know spells, Spirit Gathering cultivators could only practice rank low or mid rank, high rank spells were for Foundation Building cultivators.
 
-In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than spirit tools. Of course, everything is not absolute, and there are a few high rank spells that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
+In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than spells. Of course, everything is not absolute, and there are a few high rank spells that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
 
 Thus, it can be seen that Lin Xuan, having three spirit tools, one of which was a top grade tool, was very rich indeed.
 
