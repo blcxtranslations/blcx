@@ -12,11 +12,26 @@ function numfy(val) {
 
   var parts = val.toString().split(".");
   parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
+  if(parts.length > 1)
+  {
+    if(parts[1].length > 0)
+    {
+      if(parts[1].length == 1)
+      {
+        parts[1] = parts[1] + "0";
+      } else
+      {
+        parts[1] = parts[1].substring(0, 2);
+      }
+    }
+  }
+
   return parts.join(".");
 }
 
 function curfy(val) {
-  return "$" + numfy(val.toFixed(2))
+  return "$" + numfy(val.toFixed(2));
 }
 </script>
 <!-- Page Functions -->
@@ -188,7 +203,7 @@ function curfy(val) {
     </td>
     <td>
       <script type="text/javascript">
-        document.write(curfy({{ item.donations }}))
+        document.write(numfy({{ item.donations }}))
       </script>
     </td>
   </tr>
