@@ -222,7 +222,7 @@ function curfy(val) {
   dpc = parseInt("{{ item.donations }}") / cpc;
   total += dpc;
 
-  document.getElementById("{{ item.book }}cpc").innerHTML = curfy(cpc);
+  document.getElementById("{{ item.book }}cpc").innerHTML = numfy(cpc);
   document.getElementById("{{ item.book }}dpc").innerHTML = curfy(dpc);
 </script>
 {% endfor %}
@@ -238,7 +238,7 @@ function curfy(val) {
 
   document.getElementById("tc").innerHTML = numfy(tc);
   document.getElementById("nc").innerHTML = numfy(nc);
-  document.getElementById("cpc").innerHTML = curfy(cpc);
+  document.getElementById("cpc").innerHTML = numfy(cpc);
   document.getElementById("average").innerHTML = curfy(average);
   document.getElementById("dpc").innerHTML = curfy(dpc);
 </script>
