@@ -7,6 +7,14 @@ html {
   font-size: 2.75rem;
 }
 
+@media (min-width: 58em) {
+  .sidebar {
+    font-size: 18px;
+  }
+}
+
+
+
 ul {
   list-style-type: none;
 }
