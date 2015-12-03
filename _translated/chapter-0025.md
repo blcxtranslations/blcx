@@ -9,7 +9,7 @@ characters: 2118
 sponsored: false
 ---
 
-For the next period of time, Lin Xuan focused on practicing purifying the Purified Essence Pills. It was very difficult to start, each initial step is very hard, and the success rate was extremely low.
+For the next period of time, Lin Xuan focused on practising purifying the Purified Essence Pills. It was very difficult to start, each initial step is very hard, and the success rate was extremely low.
 
 For approximately every ten pills, He would succeed once. With this kind of success rate, Lin Xuan thought of giving up, but compared to his peers, Lin Xuan was more mature, and had a more resilient mindset. He is the kind of person who would doggedly pursue his goal. So he clenched his teeth and persevered.
 
@@ -39,13 +39,13 @@ For example, cultivating to the fifth layer, entering into the latter layers, ma
 
 Even with this analysis, Lin Xuan did not immediately and desperately try to increase his cultivation. Although cultivation requires lots of effort, but one should not be anxious to achieve quick success, because haste does not bring success. The Spirit Gathering stage is like pouring a foundation for the long road of cultivation, Objectively, with the support of pills and elixirs, his own cultivation speed was much faster than normal, and if he blindly pursues faster cultivation, it is possible to achieve good results in the short term, but for his future cultivation efforts, there will be no benefits.
 
-Although young, Lin Xuan is not impetuous, even though he had such a treasure in his body, he did not blindly increase his cultivation. Food is eaten mouthful by mouthful and cultivation should be practiced step by step. Lin Xuan would not get carried away by this purification ability. In contrast, Since the heavens gave him this benefit, it needs to be even more cherished and carefully used. Everyday, after practicing cultivation, Lin Xuan would summarize his experience.
+Although young, Lin Xuan is not impetuous, even though he had such a treasure in his body, he did not blindly increase his cultivation. Food is eaten mouthful by mouthful and cultivation should be practised step by step. Lin Xuan would not get carried away by this purification ability. In contrast, Since the heavens gave him this benefit, it needs to be even more cherished and carefully used. Everyday, after practising cultivation, Lin Xuan would summarize his experience.
 
 He has made the decision to lay a firm foundation, and not to look for instant success. So following that, Lin Xuan even deliberately slowed down the pace, wanting to stabilize and solidify his foundation.
 
 In this situation, Every day, other than purifying pills and mediation, Lin Xuan even had some spare time. In order to not waste it, he decided to start learning about spirit tools.
 
-These so called spirit tools, are just simplified versions of magical treasures. They were for low level cultivators. But do not underestimate their power, although they could not overturn rivers or seas, they still had great magical power. they were marvelous beyond compare.
+These so called spirit tools, are just simplified versions of magical treasures. They were for low level cultivators. But do not underestimate their power, although they could not overturn rivers or seas, they still had great magical power. they were marvellous beyond compare.
 
 With the fourth level of Spirit Gathering stage, one can start manipulating spirit tools, but this was only in theory. The only reason is, even though spirit tools could not compare to magic treasures, they were still very precious. Generally speaking, only Foundation Building cultivators would have them. For someone in the Spirit Gathering stage, apart from those few who inherited some from their ancestors, or those who with natural talent who were granted them by their sect elders, it was impossible to have spirit tools.
 
