@@ -8,8 +8,11 @@ html {
 }
 
 @media (min-width: 58em) {
+  html {
+    font-size: 20px;
+  }
   .sidebar {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
