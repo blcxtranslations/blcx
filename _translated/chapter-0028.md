@@ -53,15 +53,7 @@ Therefore, in the previous days of practicing Ice Needles, even though he made n
 
 The lecturer was very clear, even though in hundreds of years, Spirit Gathering disciples who have successfully learned the Ice Needles spell were rare, but there still were successes. If others can do it, why can't I?
 
-怀着这种不达目的，
-誓不罢休的心理，
-林轩刻苦修炼，
-失败了一遍又一遍，
-却越挫越勇，
-终于，
-两个月后，
-冰针诀略有小成。
-Lin Xuan continued to practice hard, failing over and over again, but the more he failed, the harder he tried, until finally, after two months, he made some small advancements.
+With this kind of not giving up until he reached his goal mindset, Lin Xuan continued to practice hard, failing over and over again. But the more he failed, the harder he tried, until finally, after two months, he made some small advancements.
 
 Compare to learning the Spirit Shield, which only took three days, it seemed the time it took to grasp Ice Needles was very slow. But that was not the case. According to the records, not to mention Spirit Gathering disciples, even the experts in the Foundation Building stage, to want to grasp the Ice Needles spell, it would take almost two months. So Lin Xuan's speed was already very stunning.
 
