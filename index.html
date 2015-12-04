@@ -6,8 +6,8 @@ layout: default
 
   <h1 class="page-heading">Recent Updates</h1>
 
-  {% assign ntime = 'now' | date: '%s' | plus: 0 %}
-  {% assign stime = 'now' | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
+  {% assign ntime = site.time | date: '%s' | plus: 0 %}
+  {% assign stime = site.time | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
   {% assign zero = 0 | plus: 0 %}
   {% assign datetitle = '' %}
 

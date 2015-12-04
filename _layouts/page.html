@@ -20,9 +20,25 @@ function curfy(val) {
 <!-- Page Functions -->
 
 
+
+{% assign ntime = site.time | date: '%s' | plus: 0 %}
+{% assign ptime = page.date | date: '%s' | plus: 0 | minus: ntime %}
+{% assign zero = 0 | plus: 0 %}
+
+
+
+
 <div class="page">
   <h1 class="page-title">Chapter {{ page.name }}</h1>
   <h1 class="page-title">{{ page.title }}</h1>
+
+
+
+  <!-- Display if post date greater the current date -->
+  {% if ptime < zero %}
+
+
+
   <p class="post-meta">
     <time datetime="{{ page.date }}" itemprop="datePublished">
     {% assign d = page.date | date: "%-d" %}
@@ -120,7 +136,7 @@ function curfy(val) {
 
   <br />
 
-  {% assign ntime = 'now' | date: '%s' | plus: 0 %}
+  {% assign ntime = site.time | date: '%s' | plus: 0 %}
   {% assign zero = 0 | plus: 0 %}
 
   {% for chapter in site.translated %}
@@ -151,5 +167,12 @@ function curfy(val) {
   {% endfor %}
 
   <br />
+
+
+
+  <!-- Display if post date greater the current date -->
+  {% endif %}
+
+
 
 </div>
