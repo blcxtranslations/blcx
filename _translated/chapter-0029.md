@@ -13,11 +13,7 @@ The hardest technique, Ice Needles, has already been grasped, and the last techn
 
 Foundation Building cultivators can ride on their spirit tools, and travel thousands of kilometers a day. Spirit Gathering cultivators do not have this kind of ability. But the Imperial Wind spell was also extraordinary, take Lin Xuan as an example. With one movement, he could float nearly fifty meters, and jumping up, he could easily reach a height of close to twenty meters.
 
-Using the Imperial Wind technique to travel, in the eyes of ordinary people, was already like flying. Also, after grasping this kind of technique, the body would become much more flexible.
-静若处，
-动若脱兔，
-好处是显而易见的。
-the benefits were obvious.
+Using the Imperial Wind technique to travel, in the eyes of ordinary people, was already like flying. Also, after grasping this kind of technique, the body would become much more flexible. The benefits were obvious.
 
 The perfect combination of offense, defense, and the support techniques greatly increased Lin Xuan's power.
 
@@ -29,7 +25,6 @@ Day after day flew by.
 
 Holding the golden rope, with a gentle flick, Lin Xuan injected his spirtual power. It instantly lengthened, and under the controll of his spritual sense, it was dancing in the air like a spirtual snake.
 
-“着！”
 Foward!
 
 With a point of his finger, the golden rope accurately wrapped around the big tree in front of him. This was the mystic canyon, there was not enough space in his room to practice, so Lin Xuan quietly came to this deserted place.
@@ -84,9 +79,7 @@ Of the two methods to enter the second floor of the library, either he could not
 
 Is it okay to control spirit tools with telekinesis? It was barely adequate and could only display ten or twenty percent of its power. This was a clearly a reckless waste, and Lin Xuan was unwilling in his heart.
 
-And even without considering spirit tools, he could surely require more advanced techniques to pair with his rising cultivation. To cultivators, spiritual power was the foundation,
-而功法则是如何运用，
-the two must complement eachother and were indispensible. Only then could one display great power.
+And even without considering spirit tools, he could surely require more advanced techniques to pair with his rising cultivation. To cultivators, spiritual power was the foundation, and techniques built upon this foundation. The two must complement eachother and were indispensible. Only then could one display great power.
 
 Although Lin Xuan does not have spiritual roots, he does have a great mind, or else he would be able to calculate every step before making decisions. But how, he really did face a conundrum.
 
