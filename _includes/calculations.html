@@ -1,0 +1,65 @@
+<!-- Do all the calculations here and add them to the js so they can be pulled and used later -->
+
+
+<!-- Globals -->
+<script type="text/javascript">
+  var totaldonations = 0;
+  var currentdonations = 0;
+  var otherwebnovelscount = 0;
+  var otherwebnovelsdpc = 0;
+  var otherwebnovels = [];
+  var average = 0;
+</script>
+
+
+<!-- Book Stats -->
+{% for webnovel in site.data.otherwebnovels %}
+<script type="text/javascript">
+  otherwebnovels.push(
+    new OtherWebNovel(
+      "{{ webnovel.name }}",
+      {{ webnovel.characters }},
+      {{ webnovel.chapters }},
+      {{ webnovel.donations }}
+      )
+    );
+  otherwebnovelsdpc += otherwebnovels[otherwebnovelscount].dpc;
+  otherwebnovelscount += 1;
+</script>
+{% endfor %}
+
+<!-- Average Calc -->
+<script type="text/javascript">
+  average = otherwebnovelsdpc / otherwebnovelscount;
+</script>
+
+<!-- Current Donations -->
+{% for chapter in site.translated %}
+<script type="text/javascript">
+  if({{ chapter.sponsored }})
+  {
+    currentdonations += {{ chapter.characters }} * average;
+  }
+</script>
+{% endfor %}
+
+<!-- Total Donations calculation -->
+{% for sponsor in site.data.sponsors %}
+<script type="text/javascript">
+  totaldonations += {{ sponsor.amount }};
+</script>
+{% endfor %}
+
+<!-- Current Donations -->
+<script type="text/javascript">
+  currentdonations = totaldonations - currentdonations;
+</script>
+
+<script type="text/javascript">
+  var temperedimmortal = new OtherWebNovel("Tempered Immortal", 9802189, 4220, calcdonations(9802189, 4220, average))
+  var queue = Math.round(currentdonations / temperedimmortal.donations);
+  if(queue < 0)
+  {
+    queue = 0;
+  }
+</script>

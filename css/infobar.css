@@ -1,0 +1,73 @@
+/*@media (min-width: 82em) {*/
+  .infobar {
+    text-align: center;
+
+    padding-top:    4rem;
+    padding-bottom: 4rem;
+
+    position: fixed;
+    top: 0;
+    left: 64rem;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
+  .infobar-box {
+    padding: 2rem;
+    color: rgba(255,255,255,.5);
+    background-color: #202020;
+    margin-bottom: 1rem;
+  }
+  .infobar h1 {
+    color: #fff;
+    margin-top: 0;
+    font-size: 1.25rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #fff;
+  }
+  .infobar a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .infobar a:hover, a:focus {
+    text-decoration: none;
+  }
+  .infobar h2 {
+    color: #fff;
+    margin-top: 1rem;
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #fff;
+  }
+  .infobar ul {
+    margin-left: -2rem;
+    margin-bottom: 0;
+  }
+  .infobar li
+  {
+    padding-bottom: 0.5rem;
+  }
+  .infobar li:last-child {
+    padding-bottom: 0;
+  }
+  .infobar strong {
+    width: 10rem;
+  }
+
+  .infobar table {
+    margin-bottom: 0rem;
+    /*width: 100%;*/
+    border: 0;
+    /*border-collapse: collapse;*/
+  }
+  .infobar td, th {
+    /*padding: .25rem .5rem;*/
+    border: 0px;
+  }
+  .infobar tbody tr:nth-child(odd) td,
+  .infobar tbody tr:nth-child(odd) th {
+    background-color: #202020;
+  }
+/*}*/
+
+

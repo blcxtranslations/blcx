@@ -3,29 +3,9 @@ layout: default
 ---
 
 
-<!-- Page Functions -->
-<script type="text/javascript">
-function numfy(val) {
-  // http://stackoverflow.com/a/2901298
-
-  var parts = val.toString().split(".");
-  parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-  return parts.join(".");
-}
-
-function curfy(val) {
-  return "$" + numfy(val.toFixed(2))
-}
-</script>
-<!-- Page Functions -->
-
-
-
 {% assign ntime = site.time | date: '%s' | plus: 0 %}
 {% assign ptime = page.date | date: '%s' | plus: 0 | minus: ntime %}
 {% assign zero = 0 | plus: 0 %}
-
-
 
 
 <div class="page">
@@ -39,7 +19,7 @@ function curfy(val) {
 
 
 
-  <p class="post-meta">
+  <h2 class="page-date">
     <time datetime="{{ page.date }}" itemprop="datePublished">
     {% assign d = page.date | date: "%-d" %}
     {{ page.date | date: "%A" }},
@@ -56,36 +36,23 @@ function curfy(val) {
     {% endcase %}
     {{ page.date | date: "%Y" }}
     </time>
-  </p>
-
-  <br />
-
-  Raw: <a href="{{ page.chinese }}">{{ page.name }}</a>.
-
-  <br />
-  <br />
-  <br />
+  </h2>
+  <div class="spacer">
+    Raw:
+    <a href="{{ page.chinese }}">{{ page.name }}</a>.
+  </div>
 
   {% if page.sponsored %}
-  <h2>
-    Sponsors
-  </h2>
+  <!-- <div class="spacer"> -->
+  <table>
+  <tr>
+    <th>
+      Sponsors
+    </th>
+  </tr>
   <!-- Sponsors Go Here -->
   <script type="text/javascript">
-    var total = 0;
-    var count = 0;
-  </script>
-  {% for book in site.data.donations %}
-    <script type="text/javascript">
-    var cpc = {{ book.characters }} / {{ book.chapters }}
-    var dpc = {{ book.donations }} / cpc
-    total += dpc;
-    count += 1;
-    </script>
-  {% endfor %}
-  <script type="text/javascript">
-    var average = total / count;
-    var cost = {{ page.characters}} * average;
+    var cost = {{ page.characters}} * temperedimmortal.dpc;
     var beforecost = 0;
   </script>
   {% for chapter in site.translated %}
@@ -96,45 +63,45 @@ function curfy(val) {
 
     {% if chapter.sponsored %}
       <script type="text/javascript">
-        beforecost += {{ chapter.characters}} * average;
+        beforecost += {{ chapter.characters}} * temperedimmortal.dpc;
       </script>
     {% endif %}
   {% endfor %}
   <script type="text/javascript">
-    console.log(beforecost);
-    console.log(cost);
   </script>
   <ul>
   {% for sponsor in site.data.sponsors %}
     <script type="text/javascript">
-      console.log(beforecost);
-      if(beforecost >= 0 )
+      if(beforecost > 0 )
       {
-        console.log("Greater than zero");
-        beforecost -= {{ sponsor.amount }}
-        console.log(beforecost);
-        console.log(beforecost + cost);
-        if(beforecost < 0)
+        if(beforecost - {{ sponsor.amount }} < 0)
         {
-          // console.log("{{ sponsor.name }}");
-          // console.log({{ sponsor.amount }});
-          document.write("<li><strong> &nbsp&nbsp&nbsp {{ sponsor.name }} </strong> &nbsp&nbsp&nbsp " + curfy({{ sponsor.amount }}) + " </li>");
-          // document.write({{ sponsor.amount }});
+          document.write("<tr><td><strong>{{ sponsor.name }}</strong></td><td>" + curfy({{ sponsor.amount }}) + "</td></tr>");
+          cost -= beforecost - {{ sponsor.amount }};
+          beforecost = 0;
         }
+        else
+        {
+          beforecost -= {{ sponsor.amount }};
+        }
+      }
+      else if(cost > 0)
+      {
+        document.write("<tr><td><strong>{{ sponsor.name }}</strong></td><td>" + curfy({{ sponsor.amount }}) + "</td></tr>");
+        cost -= {{ sponsor.amount }};
       }
     </script>
   {% endfor %}
   </ul>
 
+  </table>
   <br />
-  <br />
-  <br />
+  <!-- </div> -->
   {% endif %}
 
 
   {{ content }}
 
-  <br />
 
   {% assign ntime = site.time | date: '%s' | plus: 0 %}
   {% assign zero = 0 | plus: 0 %}
@@ -166,7 +133,6 @@ function curfy(val) {
 
   {% endfor %}
 
-  <br />
 
 
 

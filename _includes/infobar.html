@@ -1,0 +1,98 @@
+<!-- This file should contain all site wide info -->
+<!-- This will also allow for some specific pages to have access to different variables stored in JS -->
+
+<!-- Donations -->
+<!-- Recent Sponsors -->
+<!-- Recent Chapters -->
+
+
+<link rel="stylesheet" href="{{ site.baseurl }}/css/infobar.css">
+
+<div class="infobar">
+  <!-- Donations -->
+  <div class="infobar-box">
+    <h1>
+      <a href="{{ site.baseurl }}/donations.html">
+        Donations
+      </a>
+    </h1>
+    <h2>
+      Queue
+    </h2>
+    <script type="text/javascript">
+      if(queue >= 0)
+      {
+        document.write(queue);
+      }
+      else
+      {
+        document.write(0);
+      }
+      document.write(" Chapter");
+      if(queue != 1)
+      {
+        document.write("s");
+      }
+    </script>
+    <h2>
+      Current
+    </h2>
+    <script type="text/javascript">
+      document.write(curfy(currentdonations) + " / " + curfy(calcdonations(9802189, 4220, average)));
+    </script>
+    <h2>
+      Total
+    </h2>
+    <script type="text/javascript">
+      document.write(curfy(totaldonations));
+    </script>
+    </ul>
+  </div>
+
+  <!-- Recent Sponsors -->
+  <div class="infobar-box">
+    <h1>
+      <a href="{{ site.baseurl }}/sponsors.html">
+        Recent Sponsors
+      </a>
+    </h1>
+    <table>
+      {% for sponsor in site.data.sponsors reversed limit: 3 %}
+      <tr>
+        <td>
+          <strong>
+            {{ sponsor.name }}
+          </strong>
+        </td>
+        <td>
+          <script type="text/javascript">
+            document.write(curfy({{ sponsor.amount }}))
+          </script>
+        </td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+
+  <!-- Recent Chapters -->
+  <div class="infobar-box">
+    <h1>
+      <a href="{{ site.baseurl }}/">
+        Recent Chapters
+      </a>
+    </h1>
+    <ul>
+      {% for chapter in site.translated reversed limit: 3 %}
+      <li>
+        <strong>
+          {{ chapter.number }}
+        </strong>
+        <br />
+        &nbsp&nbsp&nbsp
+        {{ chapter.title }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>

@@ -1,0 +1,69 @@
+---
+layout: default
+title: "Sponsors"
+permalink: /sponsors.html
+---
+
+
+{% if site.data.sponsors | size > 0 %}
+
+{% assign recent = site.data.sponsors | sort: 'date' %}
+{% assign stime = site.time | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
+{% assign zero = 0 | plus: 0 %}
+
+
+<!-- List of recent Sponsors -->
+<h1>
+  Recent Sponsors
+</h1>
+<table>
+  {% for sponsor in recent reversed %}
+
+  {% assign ptime = sponsor.date | date: '%s' | plus: 0 | minus: stime %}
+
+  {% if ptime < zero %}
+    {% break %}
+  {% endif %}
+
+  <tr>
+    <td>
+      {{ sponsor.date }}
+    </td>
+    <td>
+      <strong>
+        {{ sponsor.name }}
+      </strong>
+    </td>
+    <td>
+      <script type="text/javascript">
+        document.write(curfy({{ sponsor.amount }}))
+      </script>
+    </td>
+  </tr>
+{% endfor %}
+</table>
+
+<!-- List of all Sponsors -->
+{% assign sponsors = site.data.sponsors | sort: 'amount' %}
+<h1>
+  All Sponsors
+</h1>
+<table>
+  {% for sponsor in sponsors reversed %}
+  <tr>
+    <td>
+      <strong>
+        {{ sponsor.name }}
+      </strong>
+    </td>
+    <td>
+      <script type="text/javascript">
+        document.write(curfy({{ sponsor.amount }}))
+      </script>
+    </td>
+  </tr>
+{% endfor %}
+</table>
+<!--  -->
+
+{% endif %}

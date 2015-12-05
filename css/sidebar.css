@@ -1,0 +1,36 @@
+.sidebar {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
+}
+
+.sidebar h1 {
+  color: #fff;
+  margin-top: 0;
+  font-size: 3.25rem;
+}
+.sidebar a {
+  color: #fff;
+}
+
+
+/*Stick to the bottom of the sidebar*/
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    bottom: 1rem;
+    left:   1rem;
+  }
+}

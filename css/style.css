@@ -1,11 +1,35 @@
-@media (min-width: 58em) {
-  html {
-    font-size: 16px;
-  }
+/*This is for global styles that should be applied everywhere*/
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
 }
 
 html {
   font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+body {
+  color: #515151;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
 }
 
 .sidebar-about h1 {
@@ -13,146 +37,121 @@ html {
   font-size: 2.75rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
 
-
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
 
 ul {
   list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
-td + td {
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td, th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+td {
+  text-align: left;
+}
+td:last-child {
   text-align: right;
   width: 30%
 }
 
-td.left {
-  text-align: left;
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.container {
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+.content {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+@media (min-width: 48em) {
+  .content {
+    max-width: 38rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+    font-size: 22px;
+  }
+}
+@media (min-width: 64em) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
+.content p {
+  text-indent: 3rem;
+}
+
+.page {
+  margin-bottom: 4em;
+}
+.page-title {
+  color: #303030;
+  margin-top: 0;
+}
+.page-date {
+  display: block;
+  margin-top: -.25rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+.page a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.spacer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 
-
-/* #Orange Flat Button
-==================================================*/
-.orange-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #f39c12;
-  border: 0;
-  border-bottom: 2px solid #e8930c;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #2a8bcc;
-  box-shadow: inset 0 -2px #2a8bcc;
-}
-
-/* #Alizarin Flat Button
-==================================================*/
-.alizarin-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #e74c3c;
-  border: 0;
-  border-bottom: 2px solid #db4334;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #db4334;
-  box-shadow: inset 0 -2px #db4334;
-}
-
-/* #Turquoise Flat Button
-==================================================*/
-.turquoise-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #1abc9c;
-  border: 0;
-  border-bottom: 2px solid #12ab8d;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #12ab8d;
-  box-shadow: inset 0 -2px #12ab8d;
-}
-
-/* #Emerald Flat Button
-==================================================*/
-.emerald-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #2ecc71;
-  border: 0;
-  border-bottom: 2px solid #28be68;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #28be68;
-  box-shadow: inset 0 -2px #28be68;
-}
-
-/* #Peter River Flat Button
-==================================================*/
-.peter-river-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #3498db;
-  border: 0;
-  border-bottom: 2px solid #2a8bcc;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #2a8bcc;
-  box-shadow: inset 0 -2px #2a8bcc;
-}
-.peter-river-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-
-/* #Amethyst Flat Button
-==================================================*/
-.amethyst-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #9b59b6;
-  border: 0;
-  border-bottom: 2px solid #8d4ca7;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #8d4ca7;
-  box-shadow: inset 0 -2px #8d4ca7;
+input {
+  margin-bottom: 1rem;
 }
