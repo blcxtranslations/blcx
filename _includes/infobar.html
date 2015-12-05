@@ -89,7 +89,9 @@
         </strong>
         <br />
         &nbsp&nbsp&nbsp
-        {{ chapter.title }}
+        <a href="{{site.baseurl}}{{chapter.url}}">
+          {{ chapter.title }}
+        </a>
       </li>
       {% endfor %}
     </ul>
