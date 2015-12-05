@@ -56,8 +56,15 @@
         Recent Sponsors
       </a>
     </h1>
+    {% assign sponsors = site.data.sponsors | reverse %}
+    {% assign count = 0 | plus: 0 %}
+    {% assign ntime = site.time | date: '%s' | plus: 0 %}
+    {% assign zero = 0 | plus: 0 %}
+    {% if site.data.sponsors | size > 0 %}
     <table>
-      {% for sponsor in site.data.sponsors reversed limit: 3 %}
+      {% for sponsor in sponsors %}
+      {% assign count = count | plus: 1 %}
+
       <tr>
         <td>
           <strong>
@@ -70,8 +77,12 @@
           </script>
         </td>
       </tr>
+      {% if count >= 3 %}
+        {% break %}
+      {% endif %}
       {% endfor %}
     </table>
+    {% endif %}
   </div>
 
   <!-- Recent Chapters -->
@@ -81,8 +92,19 @@
         Recent Chapters
       </a>
     </h1>
+    {% assign chapters = site.translated | reverse %}
+    {% assign count = 0 | plus: 0 %}
+    {% assign ntime = site.time | date: '%s' | plus: 0 %}
+    {% assign zero = 0 | plus: 0 %}
     <ul>
-      {% for chapter in site.translated reversed limit: 3 %}
+      {% for chapter in chapters %}
+      {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
+      {% if dtime > zero %}
+        {% continue %}
+      {% else %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+
       <li>
         <strong>
           {{ chapter.number }}
@@ -93,6 +115,9 @@
           {{ chapter.title }}
         </a>
       </li>
+      {% if count >= 3 %}
+        {% break %}
+      {% endif %}
       {% endfor %}
     </ul>
   </div>
