@@ -5,7 +5,7 @@ name: "Twenty Nine"
 title: "Problem"
 date: "Dec 5th, 2015"
 characters: 2430
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,oSdC_uO9SOUex0RJOkJclQ2.aspx"
+chinese: "http://baishuku.com/html/30/30364/12441339.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3vc419/cn_tempered_immortal_chapter_29/"
 sponsored: false
 ---

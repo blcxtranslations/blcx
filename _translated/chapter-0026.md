@@ -5,7 +5,7 @@ name: "Twenty Six"
 title: "Learning Spirit Tools"
 date: "Nov 29th, 2015"
 characters: 2111
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,0uMRriiZMMgex0RJOkJclQ2.aspx"
+chinese: "http://baishuku.com/html/30/30364/12441334.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"
 sponsored: false
 ---

@@ -5,7 +5,7 @@ name: "Twenty Five"
 title: "Cultivation Basics"
 date: "Nov 27th, 2015"
 characters: 2118
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,M4g-jl5Kw28ex0RJOkJclQ2.aspx"
+chinese: "http://baishuku.com/html/30/30364/12441332.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"
 sponsored: false
 ---

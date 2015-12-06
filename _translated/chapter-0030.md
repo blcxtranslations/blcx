@@ -3,9 +3,10 @@ layout: page
 number: "0030"
 name: "Thirty"
 title: "Shocking News"
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,1RbIc11a3XUex0RJOkJclQ2.aspx"
 date: "Dec 7th, 2015"
 characters: 2131
+chinese: "http://baishuku.com/html/30/30364/12441341.html"
+reddit: ""
 sponsored: false
 ---
 

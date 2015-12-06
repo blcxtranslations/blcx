@@ -3,9 +3,10 @@ layout: page
 number: "0031"
 name: "Thirty One"
 title: "Soaring Cloud Sect"
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,3a3Y53vo0wMex0RJOkJclQ2.aspx"
-date: "Dec 9th, 2015"
+date: "Dec 11th, 2015"
 characters: 2134
+chinese: "http://baishuku.com/html/30/30364/12441343.html"
+reddit: ""
 sponsored: false
 ---
 
@@ -27,72 +28,35 @@ These two were also at the Spirit Gathering stage, their cultivation levels were
 
 "Senior brother?" Hearing these two calling him that, he secretly laughed. These two were clearly past their thirties, and most likely entered the sect before him, but insisted on treating themselves as the juniors. This would be unthinkable in the past. Lin Xuan once again experienced the superiority of having high spiritual power. It really felt good.
 
-表面上不动声色，
-林轩微笑道：“两位师弟客气了，
-不知道该怎样称呼？”
+Looking calm, Lin Xuan smiled and asked: "The two brothers are too polite, what should I address you by?"
 
-“在下厉海，
-这位是陈丰陈师弟。”
+"I am Li Hai, and this is junior fellow apprentice Chen Feng Chen"
 
-“嗯，
-我们过去坐坐吧！”
+"Okay, let us go sit!"
 
-“好。”两人点点头同意了，
-这倒不是他们性格随和，
-与待人热情更不沾边，
-而是林轩刚才故意外放灵气，
-显露出了第四层功法的实力，
-让两人心生顾忌。
+"Okay." The two nodded their agreement. This was not because they were easygoing and were nice and caring of others. But it was because Lin Xuan deliberately released his spiritual power just now, revealing the power of the fourth layer, putting hesitation in their hearts.
 
-这位自称赵刚的同门年纪轻轻，
-还不到二十的样，
-就已经将第四层功法练到了顶点，
-距离灵动后期也仅有一步之遥，
-肯定是灵根优异的天才弟，
-两人自以为是的想着。
+This junior fellow apprentice, who was called Zhao Gang, who didn't look to be over twenty, was already at the peak of the fourth layer, only one step away from the latter Spirit Gathering stages. He must be a genius disciple with excellent spiritual roots. This is what these two thought.
 
-像这样的天才，
-不仅深受门长辈的重视，
-而且也有极大的希望筑基成功，
-成为更高一级的修真者。
+Geniuses like this, were not only the focuses of the sect elders, but also had a great chance of successfully building their Foundation, becoming an even higher levelled cultivator.
 
-也就是说，
-在两人的眼里，
-林轩前途无量，
-这样的人，
-当然不可以怠慢了。
+That is to say, in the eyes of these two, Lin Xuan had an immeasurable future. These kind of people could not be given the cold shoulder.
 
 人心隔肚皮，
 不过以林轩的聪明，
-也将两人的想法猜了个**不离十，
+也将两人的想法猜了个 ba jiu 不离十，
 心暗暗好笑，
 也深切感受到蓝色星海带来的变化，
 如果不是可以将废丹提纯，
 有了大量灵药做为支撑，
 自己怎么可能被误认为是天才。
 
-在一个僻静的角落，
-三人坐了下来，
-先随便寒暄了几句，
-结果还是那位叫厉海的先沉不住气：“赵师兄，
-你叫住我俩，
-不知究竟有何事指教？”
+The three of them sat down in a secluded corner and exchanged some pleasantries. But Li Hai ran out of patience and asked: "Brother Zhao, you stopped us, I do not know if you have anything to advise us about?"
 
-“呵呵，
-没什么，
-只是刚才听两位师弟谈起，
-什么凌云门解散，
-感觉到有些好奇。”
+"Haha, it's nothing much, I just heard the two brothers discussing something about the Soaring Cloud sect disbanding and was curious about it."
+"So it was about that!" Li was relieved. He adopted a relaxed and somewhat proud expression and said: "I don't dare say anything else, but in terms of being well informed, this junior is one of the best in the sect. The news of this situation hasn't been spread it, so it was no wonder that senior brother did not know."
 
-“原来是这事啊！”厉海松了口气，
-脸上换了一副轻松而且有些得意的表情道：“别的不敢说，
-论消息的灵通程度，
-师弟在本门里也算数一数二，
-这件事情还没有传开，
-难怪师兄你不知道。”
-
-“呵呵，
-正要像师弟请教。”
+"Haha, I just wanted to ask about that."
 
 一般说来，
 实力强大的修真者面对修为比自己低的修士时都是一副扯高气昂的模样，

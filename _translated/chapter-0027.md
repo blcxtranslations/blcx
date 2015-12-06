@@ -5,7 +5,7 @@ name: "Twenty Seven"
 title: "The Doctrine of Techniques"
 date: "Dec 1st, 2015"
 characters: 2163
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,PvteUYopsioex0RJOkJclQ2.aspx"
+chinese: "http://baishuku.com/html/30/30364/12441336.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3v010y/cn_tempered_immortal_chapter_0027/"
 sponsored: false
 ---
