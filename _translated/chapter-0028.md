@@ -3,9 +3,10 @@ layout: page
 number: "0028"
 name: "Twenty Eight"
 title: "Ice Needles Spell"
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,qbK-PNrL1zYex0RJOkJclQ2.aspx"
 date: "Dec 3rd, 2015"
 characters: 2179
+chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,qbK-PNrL1zYex0RJOkJclQ2.aspx"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3v8tpm/cn_tempered_immortal_chapter_0028/"
 sponsored: false
 ---
 
@@ -27,11 +28,11 @@ But for whatever reason, that proposal was not passed, and the Ice Needles spell
 
 Some people even called the Ice Needles spell the “false mid rank technique”.
 
-It can be practiced at the Spirit Gathering stage, and can even rival high rank techniques. When first hearing about this, the Ice Needles spell would have great attraction, lower level disciples would all want to practice it. But in reality, this was not the case. There was no such miracle in the world, however much one pays, will be however much one gains. Although the power of Ice Needles spell was the highest in the mid rank techniques, its difficulty of practicing was also notorious.
+It can be practised at the Spirit Gathering stage, and can even rival high rank techniques. When first hearing about this, the Ice Needles spell would have great attraction, lower level disciples would all want to practice it. But in reality, this was not the case. There was no such miracle in the world, however much one pays, will be however much one gains. Although the power of Ice Needles spell was the highest in the mid rank techniques, its difficulty of practising was also notorious.
 
 It did not require that much spiritual power to use, but successfully practice, it required one to have very strong spiritual sense. Because this the so called Ice Needles spell was, in fact, using spiritual power to condense the moisture in the air into hundreds of icicles, each one hard as steel, which can then be used to harm the enemy.
 
-Each needle might be small, but to to simultaneously control hundreds of them, required so much spiritual sense that was hard to imagine, so it was very difficult in practicing.
+Each needle might be small, but to to simultaneously control hundreds of them, required so much spiritual sense that was hard to imagine, so it was very difficult in practising.
 
 In hundreds of years, an uncountable number of low level disciples at the Spirit Gathering stage have attempted to learn this technique, but in the end, there were few that were able to succeed. Before the Foundation Building stage, to learn the Ice Needle spell requires a lot of tenacity.
 
@@ -49,7 +50,7 @@ It can’t be said that they have no patience, this can be considered to be bein
 
 Even when trying to break into the second layer of Spirit Gathering, Lin Xuan failed tens of times, but he still kept cultivating without complaints or regrets.
 
-Therefore, in the previous days of practicing Ice Needles, even though he made not the slightest progress, for get being discouraged, Lin Xuan wasn't even irritated, and kept on consistently practicing.
+Therefore, in the previous days of practising Ice Needles, even though he made not the slightest progress, for get being discouraged, Lin Xuan wasn't even irritated, and kept on consistently practising.
 
 The lecturer was very clear, even though in hundreds of years, Spirit Gathering disciples who have successfully learned the Ice Needles spell were rare, but there still were successes. If others can do it, why can’t I?
 
@@ -59,7 +60,7 @@ Compare to learning the Spirit Shield, which only took three days, it seemed the
 
 The reason he had such success was due to his diligence, his character of never giving up, but it was also due to the fact that he used of many Purifying Essence Pills daily.
 
-Nine pills a day, one of which was a mid grade pill. With such strong medicinal power, it not only improved his cultivation, there were also many other benefits to practicing techniques. Therefore, Lin Xuan was able to, in a relatively short period, grasp the Ice Needles spell, which was not surprising at all.
+Nine pills a day, one of which was a mid grade pill. With such strong medicinal power, it not only improved his cultivation, there were also many other benefits to practising techniques. Therefore, Lin Xuan was able to, in a relatively short period, grasp the Ice Needles spell, which was not surprising at all.
 
 As the strongest mid rank technique, Ice Needles was also very well known. The day he grasped it, Lin Xuan went again to that mystic canyon that only he know, to quietly test its power.
 

@@ -38,8 +38,11 @@ layout: default
     </time>
   </h2>
   <div class="spacer">
-    Raw:
-    <a href="{{ page.chinese }}">{{ page.name }}</a>.
+    <hr>
+    Raw: <a href="{{ page.chinese }}">{{ page.name }}</a>.
+    <br />
+    Post comments / concerns / typos on <a href="{{ page.reddit }}">Reddit</a>.
+    <hr>
   </div>
 
   {% if page.sponsored %}
@@ -69,7 +72,6 @@ layout: default
   {% endfor %}
   <script type="text/javascript">
   </script>
-  <ul>
   {% for sponsor in site.data.sponsors %}
     <script type="text/javascript">
       if(beforecost > 0 )
@@ -92,9 +94,8 @@ layout: default
       }
     </script>
   {% endfor %}
-  </ul>
-
   </table>
+  <hr>
   <br />
   <!-- </div> -->
   {% endif %}

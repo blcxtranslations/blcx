@@ -3,9 +3,10 @@ layout: page
 number: "0027"
 name: "Twenty Seven"
 title: "The Doctrine of Techniques"
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,PvteUYopsioex0RJOkJclQ2.aspx"
 date: "Dec 1st, 2015"
 characters: 2163
+chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,PvteUYopsioex0RJOkJclQ2.aspx"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3v010y/cn_tempered_immortal_chapter_0027/"
 sponsored: false
 ---
 

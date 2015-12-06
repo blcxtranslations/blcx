@@ -3,9 +3,10 @@ layout: page
 number: "0025"
 name: "Twenty Five"
 title: "Cultivation Basics"
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,M4g-jl5Kw28ex0RJOkJclQ2.aspx"
 date: "Nov 27th, 2015"
 characters: 2118
+chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,M4g-jl5Kw28ex0RJOkJclQ2.aspx"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"
 sponsored: false
 ---
 

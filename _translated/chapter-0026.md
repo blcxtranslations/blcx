@@ -3,9 +3,10 @@ layout: page
 number: "0026"
 name: "Twenty Six"
 title: "Learning Spirit Tools"
-chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,0uMRriiZMMgex0RJOkJclQ2.aspx"
 date: "Nov 29th, 2015"
 characters: 2111
+chinese: "http://read.qidian.com/BookReader/wQhOXBZh_CA1,0uMRriiZMMgex0RJOkJclQ2.aspx"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"
 sponsored: false
 ---
 
@@ -43,7 +44,7 @@ Lin Xuan's face showed a sliver of delight, but his mind did not fluctuate, and 
 
 In the blink of an eye, half an hour passed.
 
-The golden rope was back to its original shape. Lin Xuan was covered in sweat, lying on his bed. He didn't want to move even a finger, his spiritual power was almost exhausted. No wonder spirit tools were so powerful, it consumed simply too much spiritual power. Even though someone at the fourth layer of Spirit Gathering was able to manipulate them, but if they wanted to willfully operate them as they liked, they would need to be at least in the fifth layer. And only at the sixth layer would one have enough spiritual power to support them.
+The golden rope was back to its original shape. Lin Xuan was covered in sweat, lying on his bed. He didn't want to move even a finger, his spiritual power was almost exhausted. No wonder spirit tools were so powerful, it consumed simply too much spiritual power. Even though someone at the fourth layer of Spirit Gathering was able to manipulate them, but if they wanted to wilfully operate them as they liked, they would need to be at least in the fifth layer. And only at the sixth layer would one have enough spiritual power to support them.
 
 But this first time practising, was much easier than he imagined. According to what was recorded in the books, manipulating spirit tools for the first time, even with the easiest low grade spirit tool, the failure rate was very high. It was very difficult to move spirit tools with spiritual sense for the first time, but Lin Xuan accomplished it, and even did it with a more difficult mid grade spirit tool.
 
