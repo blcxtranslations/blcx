@@ -27,7 +27,6 @@ layout: default
 
       {% if chapter.date != datetitle %}
         {% assign datetitle = chapter.date %}
-        <br />
         <li>
           <strong>
             {% assign d = chapter.date | date: "%-d" %}
