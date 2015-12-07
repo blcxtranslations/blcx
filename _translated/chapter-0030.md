@@ -12,31 +12,31 @@ sponsored: false
 
 "Immortal!" Zhao Ming respectfully saluted.
 
-"En." Lin Xuan nodded. Wearing a casual expression, he asked "Recently, what is the situation at the waste pills storage?"
+"En." Lin Xuan nodded. Wearing a casual expression, he asked "Recently, what is the situation at the Waste Pills storage?"
 
 "Rest assured, everything is normal."
 
-Four months after becoming the steward of the waste pills storage, Lin Xuan finally came back to inspect his territory. Even though the children lead by Zhao Ming were surprised, they still carefully and respectfully waited on him.
+Four months after becoming the steward of the Waste Pills storage, Lin Xuan finally came back to inspect his territory. Even though the children led by Zhao Ming were surprised, they still carefully and respectfully waited on him.
 
 In order to make it more convenient to cultivate, Lin Xuan erected a loves to sleep, lazy, eccentric, and reclusive image for them.
 
-Originally, the intention was to allow him self to cultivate in peace and not arouse suspicions, this was not his original intention to gain the support of these children, and yet this fake image received just that, these children support.
+Originally, the intention was to allow him self to cultivate in peace and not arouse suspicions. It was not his original intention to gain the support of these children, and yet this fake image received just that, these children support.
 
 The only reason was because to those lofty high levelled cultivators, mortals are like ants. Therefore, in Floating Cloud Valley, theses children held very low status, to put it nicely, they are outer sect disciples, to put it harshly, they are just slaves and menial labourers who serve the cultivators. If they make the smallest mistake, they might get scolded or beat, or they might lose their lives. This is very common and no one would concern themselves or interfere.
 
-These children lives, are like walking on thin ice and trembling in fear every day. If they were fortunate, they might have a kind cultivator as their immediate higher-up. If they had a moodier guy for a boss, it was simply......
+These children lives, are like walking on thin ice and they trembled in fear every day. If they were fortunate, they might have a kind cultivator as their immediate higher-up. If they had a moodier guy for a boss, it was simply......
 
 When talking about all the random jobs around Danxia mountain, the last choice of the cultivators would be the Waste Pill Storage, because there was nothing in it for them, such as bribes or being able to skim from their duties. But in contrast, the children desired to be there the most, because for a long time now, there has not be a cultivator acting as a steward. The temporary steward was also an outer sect disciple like the rest of them. So they lived a very safe and leisurely life.
 
 When Lin Xuan first arrived, Zhao Ming and the rest did not say anything, and did not dare to show anything on their faces. But in their hearts, they were reluctant in every possible way, because they though their happy days were coming to an end.
 
-This the situation was different from what they imagined. Even though Lin Xuan came, but it hard to even catch sight of him. This immortal's character was very eccentric and he loved shutting himself in his house.
+But the situation was different from what they imagined. Even though Lin Xuan came, but it hard to even catch sight of him. This immortal's character was very eccentric and he loved shutting himself in his house.
 
-In other words, Lin Xuan's arrival, did not cause the slightest change in their lives. Many months have passed, not a single person has been punished. Of course, this was provided that they did not violate the immortal's rules, which was to stay away from his house.
+In other words, Lin Xuan's arrival, did not cause the slightest change in their lives. Many months have passed, not a single person has been punished. Of course, this was provided that they did not violate the immortal's rule, which was to stay away from his house.
 
-Such a good steward, an easy to serve immortal, was very hard to come by even in a thousand years. Zhao Ming and the rest supported him from the bottom of their hearts and hoped that he would stay the steward of the waste pills storage forever. Because as long as he was here, the sect would not send another cultivator as a steward.
+Such a good steward, an easy to serve immortal, was very hard to come by even in a thousand years. Zhao Ming and the rest supported him from the bottom of their hearts and hoped that he would stay the steward of the Waste Pills storage forever. Because as long as he was here, the sect would not send another cultivator as a steward.
 
-After inspecting the waste pills storage, and chatting about some innocuous things, Lin Xuan asked the children to carefully perform their duties, then left to relieve some boredom and get some fresh air.
+After inspecting the Waste Pills storage, and chatting about some innocuous things, Lin Xuan asked the children to carefully perform their duties, then left to relieve some boredom and get some fresh air.
 
 "Farewell immortal!"
 
@@ -48,7 +48,7 @@ These days, Lin Xuan was thinking a lot. He considered a variety of different me
 
 Fantasizing will not solve the problem, and stuffily sitting there would cause a headache. It's better to go for a walk and play it by ear, maybe there would be a turnaround in the situation.
 
-After leaving DanXia mountain, his temperament changed yet again. He now seed normal and ordinary. He first took a walk around the sect, and have no spoils, he headed to the library.
+After leaving DanXia mountain, his temperament changed yet again. He now seed normal and ordinary. He first took a walk around the sect, and having no spoils, he headed to the library.
 
 As a low levelled Spirit Gathering disciple, he could only freely use the first floor. Despite knowing that there were no techniques and there there was only knowledge that would be valuable to ordinary people, which cultivators held no interest in, Lin Xuan still held some minuscule hope, and carefully looked through the first floor again.
 
@@ -56,11 +56,11 @@ Nothing!
 
 After being silent for a while, Lin Xuan grit his teeth and walked towards the second floor.
 
-The layout is different from building in the secular world. The first and second floors were not connected by stairs, one could not fly up to the second level, there were also many layers of restrictions, and could only rely on the teleportation array to enter or leave.
+The layout is different from building in the secular world. The first and second floors were not connected by stairs, one could not fly up to the second level, there were also many layers of restrictions, and one could only rely on the teleportation array to enter or leave.
 
 Lin Xuan only took a few steps, but air in front of him started fluctuating like water ripples, and a layer of yellow coloured shield, like a wall, blocked him way forward.
 
-This is a restriction, to reach the teleportation array, one must first break through the shield, which is also a test. Because according to the design of the sect, to break this restriction, one needed to be at least at the Foundation Building stage. This also guaranteed that those who entered the second floor were not low levelled disciples. Of course, that was excluding applying to the patriarch for permission to enter.
+This is a restriction. To reach the teleportation array, one must first break through the shield, which is also a test. Because according to the design of the sect, to break this restriction, one needed to be at least at the Foundation Building stage. This also guaranteed that those who entered the second floor were not low levelled disciples. Of course, that was excluding applying to the patriarch for permission to enter.
 
 Looking at the yellow light before him, Lin Xuan came to a stop and silently observed. Although according to common sense, this restriction could only be broken by those with the minimum cultivation of Foundation Building, but he still had a good chance of breaking through.
 
