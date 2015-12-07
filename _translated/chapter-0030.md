@@ -6,7 +6,7 @@ title: "Shocking News"
 date: "Dec 07, 2015"
 characters: 2131
 chinese: "http://baishuku.com/html/30/30364/12441341.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/Zaiphyr/comments/3vr72a/cn_tempered_immortal_chapter_0030/"
 sponsored: false
 ---
 
@@ -81,3 +81,4 @@ Looks like he has to think of something else. After making this decision, Lin Xu
 A cultivator up ahead nodded, and regretfully said: "Although the Soaring Cloud sect cannot compare to our Floating Cloud Valley, but they are still a sect with almost a thousand years of heritage, they must have a lot of techniques, spirit tools, and seals."
 
 "Yes, I heard there are also a lot of Foundation Building mid rank techniques for sale."
+
