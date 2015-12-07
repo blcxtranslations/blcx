@@ -1,19 +1,14 @@
-@media (min-width: 82em) {
+@media (min-width: 105em) {
   .background {
     position: fixed;
     top: 0;
-    left: 82rem;
+    left: auto;
+    right: 0;
     bottom: 0;
     width: 18rem;
 
     background-image: url("/blcx/images/background.jpg");
     background-size: cover;
     background-position: right;
-  }
-}
-@media (min-width: 100em) {
-  .background {
-    left: auto;
-    right: 0;
   }
 }

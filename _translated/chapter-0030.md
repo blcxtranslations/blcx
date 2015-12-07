@@ -16,25 +16,17 @@ sponsored: false
 
 "Rest assured, everything is normal."
 
-Four months after becoming the steward of the waste pills storage, Lin Xuan finally came back to inspect his territory. Even though the juniors lead by Zhao Ming were surprised, they still carefully and respectfully waited on him.
+Four months after becoming the steward of the waste pills storage, Lin Xuan finally came back to inspect his territory. Even though the children lead by Zhao Ming were surprised, they still carefully and respectfully waited on him.
 
 In order to make it more convenient to cultivate, Lin Xuan erected a loves to sleep, lazy, eccentric, and reclusive image for them.
 
-Originally, the intention was to allow him self to cultivate in peace and not arouse suspicions,
-但无心插柳，
-this fake image instead received these juniors support.
+Originally, the intention was to allow him self to cultivate in peace and not arouse suspicions, this was not his original intention to gain the support of these children, and yet this fake image received just that, these children support.
 
-The only reason was because to those lofty high levelled cultivators, mortals are like ants. Therefore, in Floating Cloud Valley, theses juniors held very low status, to put it nicely, they are outer sect disciples, to put it harshly, they are just slaves and menial labourers who serve the cultivators. If they make the smallest mistake, they might get scolded or beat, or they might lose their lives. This is very common and no one would concern themselves or interfere.
+The only reason was because to those lofty high levelled cultivators, mortals are like ants. Therefore, in Floating Cloud Valley, theses children held very low status, to put it nicely, they are outer sect disciples, to put it harshly, they are just slaves and menial labourers who serve the cultivators. If they make the smallest mistake, they might get scolded or beat, or they might lose their lives. This is very common and no one would concern themselves or interfere.
 
-These juniors lives, are like walking on thin ice and trembling in fear every day. If they were fortunate, they might have a kind cultivator as their immediate higher-up. If they had a moodier guy for a boss, it was simply......
+These children lives, are like walking on thin ice and trembling in fear every day. If they were fortunate, they might have a kind cultivator as their immediate higher-up. If they had a moodier guy for a boss, it was simply......
 
-拿丹霞山负责各处杂务的地方来说，
-修真者最不愿意来担管事的地方，
-就是废丹房，
-因为没有油水，
-但与之相反，
-童们却最向往，
-Because for a long time now, there has not be a cultivator acting as a steward. The temporary steward was also an outer sect disciple like the rest of them. So they lived a very safe and leisurely life.
+When talking about all the random jobs around Danxia mountain, the last choice of the cultivators would be the Waste Pill Storage, because there was nothing in it for them, such as bribes or being able to skim from their duties. But in contrast, the children desired to be there the most, because for a long time now, there has not be a cultivator acting as a steward. The temporary steward was also an outer sect disciple like the rest of them. So they lived a very safe and leisurely life.
 
 When Lin Xuan first arrived, Zhao Ming and the rest did not say anything, and did not dare to show anything on their faces. But in their hearts, they were reluctant in every possible way, because they though their happy days were coming to an end.
 
@@ -44,9 +36,9 @@ In other words, Lin Xuan's arrival, did not cause the slightest change in their 
 
 Such a good steward, an easy to serve immortal, was very hard to come by even in a thousand years. Zhao Ming and the rest supported him from the bottom of their hearts and hoped that he would stay the steward of the waste pills storage forever. Because as long as he was here, the sect would not send another cultivator as a steward.
 
-After inspecting the waste pills storage, and chatting about some innocuous things, Lin Xuan asked the juniors to carefully perform their duties, then left to relieve some boredom and get some fresh air.
+After inspecting the waste pills storage, and chatting about some innocuous things, Lin Xuan asked the children to carefully perform their duties, then left to relieve some boredom and get some fresh air.
 
-“恭送仙师！”
+"Farewell immortal!"
 
 Zhao Ming and the rest were not suspicious. Although the steward was lazy and did not like to move, going out for a little was normal, no one would like to stay in their houses forever.
 
@@ -64,12 +56,7 @@ Nothing!
 
 After being silent for a while, Lin Xuan grit his teeth and walked towards the second floor.
 
-与凡间的建筑不同，
-第一层与第二层之间没有楼梯，
-不能够飞上去，
-The layout is different from building in the secular world. The first and second floors were not connected by stairs,
-还布有重重禁制，
-one could not fly up to the second level, and could only rely on the teleportation array to enter or leave.
+The layout is different from building in the secular world. The first and second floors were not connected by stairs, one could not fly up to the second level, there were also many layers of restrictions, and could only rely on the teleportation array to enter or leave.
 
 Lin Xuan only took a few steps, but air in front of him started fluctuating like water ripples, and a layer of yellow coloured shield, like a wall, blocked him way forward.
 

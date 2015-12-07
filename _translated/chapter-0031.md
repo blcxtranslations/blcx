@@ -66,75 +66,20 @@ The three of them sat down in a secluded corner and exchanged some pleasantries.
 将整件事情的经过，
 详细的讲了出来。
 
-修真界宗门万千，
-以飘云谷来说，
-实力算是等偏下，
-上千修士之，
-百分之十都是灵动期的低阶弟，
-但也有近百人的筑基期修士，
-做为护法长老，
-同时掌门云鹤真人，
-还是一位进入了凝丹初期的大高手。
+There are tens of thousands of sects in the world of cultivation, and Floating Cloud Valley can be considered on the lower end of that scale. In thousands of cultivators they had, ten percent of them were in the early layers of Spirit Gathering, but they did have almost one hundred Foundation Building cultivators as protector elders. At the same time, the patriarch Immortal Yun He was a early Core Formation stage expert.
 
-这样的实力，
-当然说不上强，
-但也不容轻辱，
-毕竟掌门凝丹期的修为已经非常厉害，
-近百筑基期修士也让人胆寒，
-在这一片地域，
-称霸扩张说不上，
-但自保不受排挤欺负还是没有问题。
+This kind of strength, cannot said to be strong, but also can't be easily looked down upon. After all, the patriarch did have a cultivation in the Core Formation stage and was powerful, and with almost a hundred Foundation Building stage cultivators also caused fear in peoples hearts. In this area, they would not be able to seek hegemony or expand easily, but protecting against being supplanted or being bullied is no problem.
 
-当然，
-在这方圆数千里之内，
-不可能只有飘云谷一个修真门派，
-散修暂且不谈，
-小门派林林种种的还有七八个，
-其凌云门就是其之一了。
+Of course, in the radius of 500 kilometres, it was not possible that the Floating Cloud Valley was the only sect. Excluding rogue cultivators, there were seven or eight various other sects, one of them being the Soaring Cloud sect.
 
-如果说飘云谷的实力在整个修真界来说算三流，
-那么凌云门就是四流或者五流了，
-他的门人倒也不少，
-和飘云谷一样也有上千，
-然而筑基期的修士才十几个，
-凝丹期的高手更是想也别想，
-便是掌门，
-也才筑基期的修为而已。
+If Floating Cloud Valley was classified as a third rate sect in the cultivation world, then Soaring Cloud sect would be a fourth or even fifth rate sect. But they had, like Floating Could Valley, over a thousand people, but they had less than twenty Foundation Building cultivators. Don't even think about Core Formation experts, it was impossible for them to have one. And therefore, their patriarch was also only in the Foundation Building stage.
 
-一个门派，
-高级修士才是力量的间，
-灵动期的低阶弟再多，
-在争斗也没有什么作用，
-所以尽管凌云门修真者的人数也不少，
-实力却远远无法与飘云谷相比。
+In a sect, the high levelled cultivators made up the power, even if they had more Spirit Gathering disciples, they would be useless in a conflict. Therefore, even though the Soaring Cloud sect had a lot of disciples, their strength was still far from the Floating Cloud Valley.
 
-可就是这么一个小门派，
-在前不久，
-却得罪了一位凝丹期的大高手，
-事情具体的经过，
-除了当事者，
-其他人也并不清楚，
-但有一点是肯定的，
-那位凝丹期的高手非常恼怒，
-放话说一个月之内，
-要将凌云门杀得鸡犬不留。
+But it was this tiny sect that, a while ago, offended a Core Formation expert. The specifics of the offense, other than the witnesses, were not too clear to others. But one thing was for sure, the expert was very angry, and said that within one month, he would exterminate every living thing in the Soaring Cloud sect.
 
-修真境界每提升一个层次，
-实力是完全不一样的，
-可以说质的飞跃，
-面对凝丹期的敌人，
-灵动期低阶弟再多也没用，
-做炮灰都没有资格，
-而仅仅靠十几个筑基期修士，
-无异于螳臂当车。
+With every increase in cultivator level, their strength would rapid increase, complete different than the level before and can be said to be a qualitative leap. When facing a Core Formation enemy, even if the sect had the most Spirit Gathering disciples, they would still be all useless, they couldn't even be cannon fodder. And only relying on these Foundation Building cultivators would be like a mantis trying to stop a cart and only result in failure.
 
-所以对凌云门来说，
-这次简直是大祸临头。
+So to the Soaring Cloud sect, this was a catastrophe.
 
-像他们这样的小门派，
-肯定也无法找到强有力的援手，
-在经过一系列努力，
-并千般斟酌后，
-凌云门终于做出了一个痛苦而无奈的选择，
-解散，
-这也是他们唯一一条可以躲过血光之灾的活路。
+For this kind of tiny sect, it was impossible for them to find a strong helping hand. After a series of efforts, and many considerations, the Soaring Cloud sect finally made a painful and helpless choice to disband, because this was the only way to survive total extermination.
