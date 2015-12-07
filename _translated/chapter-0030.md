@@ -6,7 +6,7 @@ title: "Shocking News"
 date: "Dec 07, 2015"
 characters: 2131
 chinese: "http://baishuku.com/html/30/30364/12441341.html"
-reddit: "https://www.reddit.com/r/Zaiphyr/comments/3vr72a/cn_tempered_immortal_chapter_0030/"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3vr6oz/cn_tempered_immortal_chapter_0030/"
 sponsored: false
 ---
 
