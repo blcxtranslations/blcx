@@ -20,7 +20,7 @@ They just mentioned some Soaring Cloud sect getting disbanded, and mid rank tech
 
 "I am called Zhao Gang, I salute you." Lin Xuan's attitude was very friendly, with a harmless on his face, because he wanted to find out some information from them.
 
-At the same time, he released his spiritual power, allowing those two to see that he was at the fourth layer of the Spirit Gathering stage. The reason he was being this bold was because they have never met before, and they did not know that he had no spiritual roots. The cultivation world followed the law of the jungle, 非常势力. If one did not have enough strength, they would not be taken seriously, not to mention inquiring about the current situation.
+At the same time, he released his spiritual power, allowing those two to see that he was at the fourth layer of the Spirit Gathering stage. The reason he was being this bold was because they have never met before, and they did not know that he had no spiritual roots. The cultivation world followed the law of the jungle, very hierarchical. If one did not have enough strength, they would not be taken seriously, not to mention inquiring about the current situation.
 
 But Lin Xuan did not play all of his cards, he didn't give them his real name, he just casually made one up.
 
@@ -42,14 +42,7 @@ Geniuses like this, were not only the focuses of the sect elders, but also had a
 
 That is to say, in the eyes of these two, Lin Xuan had an immeasurable future. These kind of people could not be given the cold shoulder.
 
-人心隔肚皮，
-不过以林轩的聪明，
-也将两人的想法猜了个 ba jiu 不离十，
-心暗暗好笑，
-也深切感受到蓝色星海带来的变化，
-如果不是可以将废丹提纯，
-有了大量灵药做为支撑，
-自己怎么可能被误认为是天才。
+It's hard to see into the hearts of people, but because Lin Xuan was intelligent, he basically understood what they were thinking. Secretly laughing, he also deeply felt the changes brought about by the star ocean. If not for the fact that he was able to purify waste pills and had the support of all those pills, how could he be mistaken for a genius?
 
 The three of them sat down in a secluded corner and exchanged some pleasantries. But Li Hai ran out of patience and asked: "Brother Zhao, you stopped us, I do not know if you have anything to advise us about?"
 
@@ -58,13 +51,7 @@ The three of them sat down in a secluded corner and exchanged some pleasantries.
 
 "Haha, I just wanted to ask about that."
 
-一般说来，
-实力强大的修真者面对修为比自己低的修士时都是一副扯高气昂的模样，
-林轩平易近人的态度让厉海很受用，
-当下，
-知无不言言无不尽，
-将整件事情的经过，
-详细的讲了出来。
+Generally, when powerful cultivators faced cultivators with lower cultivation, they would all be very arrogant. Li Hai was very impressed by Lin Xuan's kind and approachable attitude. Therefore, currently, he was telling Lin Xuan a very detailed account of everything he knew about the incident.
 
 There are tens of thousands of sects in the world of cultivation, and Floating Cloud Valley can be considered on the lower end of that scale. In thousands of cultivators they had, ten percent of them were in the early layers of Spirit Gathering, but they did have almost one hundred Foundation Building cultivators as protector elders. At the same time, the patriarch Immortal Yun He was a early Core Formation stage expert.
 

@@ -2,7 +2,7 @@
 layout: page
 number: "0032"
 name: "Thirty Two"
-title: "修真天条"
+title: "The Commandment of the Cultivation World"
 date: "Dec 13, 2015"
 characters: 2222
 chinese: "http://baishuku.com/html/30/30364/12441345.html"
@@ -10,74 +10,27 @@ reddit: ""
 sponsored: false
 ---
 
-“解散？”林轩一怔：“难道这样就可以避免大祸临头，
-那位凝丹期的前辈就会收手不杀了。”
+"Disband?" Lin Xuan was shocked: "You can avoid the catastrophe this way? Will that Core Formation senior stay his hand?"
 
-“当然。”厉海表情惊奇，
-有点疑惑的道：“难道师兄没有听说过修真界的天条？”
+"Of course." Li Hai was surprised and a little puzzled. He said: "Could it be that senior brother has not heard the commandment of the cultivation world?"
 
-“天条？”林轩摇了摇头，
-装出一副不好意思的表情道：“小弟平时不喜欢看书，
-也从来没有听长辈讲过，
-还要像师兄请教。”
+"Commandment?" Lin Xuan shook his head, showing an embarrassed expression, and said: "Little brother doesn't like to read books, and have never heard the seniors mention it. Could senior brothers advise me?"
 
-这话当然是骗人，
-林轩经常来藏书阁，
-不过都是查资料，
-也就是说，
-对自己修行有益的书才看，
-关于修真界天条什么的，
-倒真是第一次听说。
+Of course that was a lie. Lin Xuan often went to the library, but it was always for research. That is, books that were useful to cultivation he would read, but about this commandment of the cultivation world, this was his first time hearing it.
 
-装傻充愣是林轩的拿手好戏，
-厉海丝毫没有怀疑，
-这人也确实喜欢讲话，
-难得有修为高深的师弟像自己请教，
-正下怀，
-当下滔滔不绝的讲了起来。
+Lin Xuan was good a playing the fool, Li Hai bascially did not doubt him. He also really liked to talk and it was very rare for an advanced junior to ask him for advice. So playing right into Lin Xuan's hands, he started explaining again.
 
-修真界的残酷是众所周知的，
-林轩入谷这几年来，
-虽然没有外出历练，
-但耳濡目染，
-听也听过了不少，
-世俗间还存在着法律，
-但修真界可没有那么多规矩，
-谁的拳头大，
-谁就是老大，
-讲出来的话歪理也就变成了真理，
-凡事都用力量解决。
+The cruelness of the cultivation world is well know. In the few years that Lin Xuan has been in the valley, although he had no experience of the outside world, but he kept his ears on the ground and his eyed peeled and heard a lot. There are still laws with in the sect, but there were not that many rules out in the cultivation world. Whoever has the bigger fist would be the boss, falsehood would become the truth, everything would be resolved by force.
 
-什么一言不合惹来杀身之祸，
-或者匹夫无罪，
-怀璧其罪，
-惹来杀人夺宝的事情天天都在发生，
-严格说来，
-其实不存在什么正邪，
-修真者都是凭力量，
-凭自己的喜好行事。
+Killing over disagreements or killing strangers for their treasures were things that happened everyday. Strictly speaking, good and evil does not exist, cultivators all relied on their strength, acting on their own whims.
 
-不过凡事没有绝对，
-修真界虽然天天上演腥风血雨，
-但多少还是有一点限制，
-这也就是厉海说的天条了。
+But nothing was absolute, and even though acts of slaughter happened each day, but there was still a limit, and this was the commandment that Li Hai was talking about.
 
-内容是这样：门派与门派之间，
-或者门派与散修之间发生争执，
-不论有什么样的深仇大恨，
-只要一方认输，
-并自废修为，
-这是对散修，
-对门派不仅要求门里的每一个成员自废修为，
-而且还必须将门派解散。
+The commandment was thus: Between sects, or in disputes between sects and rogue cultivators, not matter what kind of hatred or feud, if one side concedes defeat, then they must, as a rogue cultivator, cripple their own cultivation, or as a sect, cripple every member's cultivation and also disband.
 
-只要做到这一点，
-另一方就算有再大的仇恨也不许再为难寻仇，
-否则就会成为整个修真界的公敌，
-被追杀至魂飞魄散。
+As long as they did this, it doesn't matter what kind of hatred the other party had, they were not allowed to make things difficult or seek revenge on them again. Otherwise, they would become the public enemy of the entire cultivation world and hunted down until their souls were scattered.
 
-这是铁律，
-万年来从来没有修真者敢违反。
+This is the iron rule, in tens of thousands of years, no cultivator had dared to violate it.
 
 对于凡人来说，
 除死无大事，
