@@ -19,49 +19,24 @@
   <!-- Donations -->
   <div class="infobar-box">
     <h1>
-      <a href="{{ site.baseurl }}/donations.html">
+      <!-- <a href="{{ site.baseurl }}/donations.html"> -->
         Donations
-      </a>
+      <!-- </a> -->
     </h1>
-    <h2>
-      Queue
-    </h2>
-    <script type="text/javascript">
-      if(queue >= 0)
-      {
-        document.write(queue);
-      }
-      else
-      {
-        document.write(0);
-      }
-      document.write(" Chapter");
-      if(queue != 1)
-      {
-        document.write("s");
-      }
-    </script>
-    <h2>
-      Current
-    </h2>
-    <script type="text/javascript">
-      document.write(curfy(currentdonations) + " / " + curfy(calcdonations(9802189, 4220, average)));
-    </script>
-    <h2>
-      Total
-    </h2>
-    <script type="text/javascript">
-      document.write(curfy(totaldonations));
-    </script>
-    </ul>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+      ">
+      <input type="submit" value="Donate" class="peter-river-flat-button">
+    </form>
   </div>
 
   <!-- Recent Sponsors -->
   <div class="infobar-box">
     <h1>
-      <a href="{{ site.baseurl }}/sponsors.html">
+      <!-- <a href="{{ site.baseurl }}/sponsors.html"> -->
         Recent Sponsors
-      </a>
+      <!-- </a> -->
     </h1>
     {% assign sponsors = site.data.sponsors | reverse %}
     {% assign count = 0 | plus: 0 %}
