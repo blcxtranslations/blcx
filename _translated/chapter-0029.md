@@ -3,7 +3,7 @@ layout: page
 number: "0029"
 name: "Twenty Nine"
 title: "Problem"
-date: "Dec 5th, 2015"
+date: "Dec 05, 2015"
 characters: 2430
 chinese: "http://baishuku.com/html/30/30364/12441339.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3vc419/cn_tempered_immortal_chapter_29/"
@@ -87,3 +87,4 @@ Although Lin Xuan does not have spiritual roots, he does have a great mind, or e
 Of course, Lin Xuan was not worried like others, one cannot solve problems while depressed, rather, it will make the situation worse. Everyday, he still cultivated when it was time to cultivate, and purified pills when it was time to purify pills, conforming to his cultivation routine.
 
 Only in his spare time, did he contemplate how to solve this problem in front of him.
+

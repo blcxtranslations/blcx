@@ -3,7 +3,7 @@ layout: page
 number: "0033"
 name: "Thirty Three"
 title: "天柱山"
-date: "Dec 15th, 2015"
+date: "Dec 15, 2015"
 characters: 2099
 chinese: "http://baishuku.com/html/30/30364/12441346.html"
 reddit: ""

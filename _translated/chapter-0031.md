@@ -3,7 +3,7 @@ layout: page
 number: "0031"
 name: "Thirty One"
 title: "Soaring Cloud Sect"
-date: "Dec 11th, 2015"
+date: "Dec 11, 2015"
 characters: 2134
 chinese: "http://baishuku.com/html/30/30364/12441343.html"
 reddit: ""

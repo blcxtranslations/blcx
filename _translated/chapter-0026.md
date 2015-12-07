@@ -3,7 +3,7 @@ layout: page
 number: "0026"
 name: "Twenty Six"
 title: "Learning Spirit Tools"
-date: "Nov 29th, 2015"
+date: "Nov 29, 2015"
 characters: 2111
 chinese: "http://baishuku.com/html/30/30364/12441334.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"

@@ -3,7 +3,7 @@ layout: page
 number: "0025"
 name: "Twenty Five"
 title: "Cultivation Basics"
-date: "Nov 27th, 2015"
+date: "Nov 27, 2015"
 characters: 2118
 chinese: "http://baishuku.com/html/30/30364/12441332.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"

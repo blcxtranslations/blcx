@@ -3,7 +3,7 @@ layout: page
 number: "0027"
 name: "Twenty Seven"
 title: "The Doctrine of Techniques"
-date: "Dec 1st, 2015"
+date: "Dec 01, 2015"
 characters: 2163
 chinese: "http://baishuku.com/html/30/30364/12441336.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3v010y/cn_tempered_immortal_chapter_0027/"

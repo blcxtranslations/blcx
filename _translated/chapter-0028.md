@@ -3,7 +3,7 @@ layout: page
 number: "0028"
 name: "Twenty Eight"
 title: "Ice Needles Spell"
-date: "Dec 3rd, 2015"
+date: "Dec 03, 2015"
 characters: 2179
 chinese: "http://baishuku.com/html/30/30364/12441338.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3v8tpm/cn_tempered_immortal_chapter_0028/"
