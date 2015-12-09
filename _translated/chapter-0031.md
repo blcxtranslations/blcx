@@ -6,7 +6,7 @@ title: "Soaring Cloud Sect"
 date: "Dec 09, 2015"
 characters: 2134
 chinese: "http://baishuku.com/html/30/30364/12441343.html"
-reddit: "https://www.reddit.com/r/Zaiphyr/comments/3w3emk/cn_tempered_immortal_chapter_0031/"
+reddit: "https://www.reddit.com/r/Zaiphyr/comments/3w3f3f/cn_tempered_immortal_chapter_0031/"
 sponsored: false
 ---
 
