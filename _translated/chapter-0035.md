@@ -3,7 +3,7 @@ layout: page
 number: "0035"
 name: "Thirty Five"
 title: "Three Forces"
-date: "Dec 19, 2015"
+date: "Dec 17, 2015"
 characters: 1999
 chinese: "http://baishuku.com/html/30/30364/12441350.html"
 reddit: ""

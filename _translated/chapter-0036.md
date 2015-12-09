@@ -3,7 +3,7 @@ layout: page
 number: "0036"
 name: "Thirty Six"
 title: "The Value of Pills"
-date: "Dec 21, 2015"
+date: "Dec 19, 2015"
 characters: 2168
 chinese: "http://baishuku.com/html/30/30364/12441351.html"
 reddit: ""

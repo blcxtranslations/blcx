@@ -3,7 +3,7 @@ layout: page
 number: "0032"
 name: "Thirty Two"
 title: "The Commandment of the Cultivation World"
-date: "Dec 13, 2015"
+date: "Dec 11, 2015"
 characters: 2222
 chinese: "http://baishuku.com/html/30/30364/12441345.html"
 reddit: ""
@@ -32,65 +32,23 @@ As long as they did this, it doesn't matter what kind of hatred the other party 
 
 This is the iron rule, in tens of thousands of years, no cultivator had dared to violate it.
 
-对于凡人来说，
-除死无大事，
-可对修真者来说，
-失去力量，
-成为碌碌无为的普通人才最痛苦，
-这是比死更难的选择，
-而且自废修为是不可逆的，
-也就是说以后再也没有修真的希望了，
-放过他们的一方也不用担心留下后患，
-会被寻仇。
+To mortals, 除死无大事, but to cultivators, to lose their strength, 成为碌碌无为的普通人才最痛苦. This was a more difficult choice than death. And since crippling of their cultivation was irreversible, they would no hope of practising cultivation in the future. The party that let them off would also not have to worry about trouble or revenge.
 
-这天条已经延续了数万年，
-是谁定下的，
-为什么会定下现在已经说不清楚，
-反正从来也没有人违背过，
-其实对于百分之十的修真者与门派来说，
-成为了高高再上的“仙师”，
-都不愿再做回凡人，
-宁为玉碎不为瓦全，
-愿意自废修为的事情屈指可数。
+This commandment has been upheld for tens of thousands of years. Who exactly it was that laid down this commandment, or why they laid it down, was not clear, but no one has ever disobeyed it. In fact, to ninety nine percent of the cultivators and sects, being superior "immortals", they would not want to go back to being mortals. It was better to to have an honourable death than to live a disgraceful life, and those that would be willing to cripple their own cultivation could be counted on the fingers of one hand.
 
-所以凌云门虽然仅仅是四五流的小派，
-可这个消息传出以后，
-还是引起了轰动，
-尤其是附近几千里范围内的修真者，
-无不闻风而动，
-准备参加宝物交易会。
+So, although the Soaring Cloud sect was only a fourth or fifth rate sect, after this news was spread, it still caused a sensation. Especially to the cultivators in the couple of thousands of kilometres of the surrounding area, they all acted without delay, getting ready to participate in the treasures trade fair.
 
-“宝物交易会？”林轩顿时留上了神，
-难道这就是刚才他们提到的出售筑基期用的阶功法，
-虽然急切的想要探听情报，
-不过表面上，
-林轩却一点都没有表现出来，
-随意的道：“什么是宝物交易会，
-还请师弟指教。”
+"Treasures trade fair?" Lin Xuan was momentarily stunned. Is this the mid rank techniques for Foundation Building stage that they just mentioned? Although Lin Xuan was excited and wanted to learn more about it, but on his face, he did not display any expression, and casually said: "What is this treasures trade fair? Could junior brothers advise me?"
 
-虽然相处才一会儿，
-不过林轩已经看穿了厉海的性格，
-这家伙属于藏不住话的那种，
-只要自己随便点上一句，
-他自然就会往下讲了。
+Although they have only known eachother for a short while, but Lin Xuan had already seen through Li Hai's character. This guy is one of those that could not keep anything to himself, and as long as one casually brought a point, then he would continue to talk about that point.
 
-不出所料，
-厉海越说越兴奋，
-旁边那个叫陈丰的几次想插嘴都插不上，
+Unsurprisingly, the more Li Hai talked, the more excited he got. The one called Chen Feng tried many times but could not even get a word in edgewise.
 看着两人抢着说话，
 将情报透露给自己，
 林轩暗暗好笑，
 神色自若的听他们介绍。
 
-宝物交易会，
-说白了非常的简单，
-凌云门既然解散，
-门内的众弟也自废修为变成了凡人，
-那么门派的功法，
-晶石，
-灵器，
-符箓等等对修真者来说重要的宝物自然也用不上了，
-全部变卖出售。
+The treasures trade fair, to put it bluntly, was very simple. Since the Soaring Cloud sect was disbanding, and all the members were crippling their cultivations to become mortals, then all the techniques, spirit stones, spirit tools, seals, and other important treasures for cultivators, were useless to them and would all be sold off.
 
 只不过与修真者平常交易用晶石做为货币不同，
 这种特殊的交易会，
