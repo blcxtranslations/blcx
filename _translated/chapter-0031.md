@@ -6,7 +6,7 @@ title: "Soaring Cloud Sect"
 date: "Dec 09, 2015"
 characters: 2134
 chinese: "http://baishuku.com/html/30/30364/12441343.html"
-reddit: "https://www.reddit.com/r/Zaiphyr/comments/3w3f3f/cn_tempered_immortal_chapter_0031/"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3w3dsr/cn_tempered_immortal_chapter_0031/"
 sponsored: false
 ---
 
@@ -70,6 +70,5 @@ With every increase in cultivator level, their strength would rapid increase, co
 So to the Soaring Cloud sect, this was a catastrophe.
 
 For this kind of tiny sect, it was impossible for them to find a strong helping hand. After a series of efforts, and many considerations, the Soaring Cloud sect finally made a painful and helpless choice to disband, because this was the only way to survive total extermination.
-
 
 

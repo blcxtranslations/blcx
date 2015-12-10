@@ -50,45 +50,13 @@ Unsurprisingly, the more Li Hai talked, the more excited he got. The one called 
 
 The treasures trade fair, to put it bluntly, was very simple. Since the Soaring Cloud sect was disbanding, and all the members were crippling their cultivations to become mortals, then all the techniques, spirit stones, spirit tools, seals, and other important treasures for cultivators, were useless to them and would all be sold off.
 
-只不过与修真者平常交易用晶石做为货币不同，
-这种特殊的交易会，
-只接受丹药，
-原因无他，
-晶石对于普通人也没有用啊，
-而丹药就不同了，
-修真者的各种灵丹，
-不仅可以提升修为，
-有助于修炼，
-普通人吃了，
-同样可以强身健体，
-祛病延年。
+Only this was different from normal transactions between cultivators, which used spirit stones as currency, because this kind of special trade fair only accepted pills. There was only one reason, spirit stones were useless to mortals, but pills were different. The various pills of cultivators, not only could they help with cultivating raise ones cultivation, but if mortals ate them, they could also strength their bodies, eliminate sickness, and prolong their lives.
 
-凌云门的成员既然怕死，
-情愿做一个普通人，
-当然希望快乐的活久一点，
-无病无灾，
-所以就将他们成为凡人后用不到的各种宝贝换成丹药，
-不仅自己一生受用不尽，
-还可以传给孙后代，
-保证家族的兴旺。
+Since the members of the Soaring Cloud sect feared death and were willing to become mortals, they of course wanted to live a long and happy life, without disease or disasters. So they wanted to exchange all the treasure, that would be useless to them when they became mortal, into pills. This way, not only could they enjoy the benefits over their life time, they could also pass it onto future generations and ensure that their family could prosper.
 
-至于没有了修为，
-又有大量丹药在身会不会惹上灾祸，
-不用担心，
-也有天条的保障，
-修真者平时随便怎样杀人夺宝都属正常，
-但对于这种自废修为，
-成为凡人的修真者的东西却不准抢，
-否则也会成为公敌，
-被追杀致死。
+There was no need to worry about bring disaster onto themselves by having large amounts of pills and no cultivation because they would be protected by a commandment. It was normal for cultivators to kill and steal treasures as they pleased, but they cannot do so to people who crippled their own cultivation, or else they would also become a public enemy and be hunted down.
 
-凌云门虽然弱小，
-但毕竟传承了上千年，
-家底怎么也会有一些，
-功法、晶石，
-符箓，
-各种材料，
-甚至还有宝贵的灵器。
+Although the Soaring Cloud sect was weak, but they still had a history of over a thousand years. The would still have some accumulated resources, techniques, spirit stones, seals, various materials, and even valuable spirit tools.
 
 传说在一些修真门派众多，
 修士繁盛的地域，
@@ -105,30 +73,12 @@ The treasures trade fair, to put it bluntly, was very simple. Since the Soaring 
 还可以互通有无，
 想必会非常热闹了。
 
-将情报打听清楚以后，
-林轩心欢喜，
-真是踏破铁鞋无觅处，
-得来全不费功夫，
-在这样的交易会上，
-肯定可以买到灵控术的修炼方法：“请问师弟，
-这交易会何时，
-又在哪个地方举行呢？”
+After gathering clear information about this, Lin Xuan was very glad. This was definitely "finding something by change after travelling far and wide in search of it". In this kind of trade fair, he could definitely find the Spirit Control technique. "Excuse me junior brother, when is this trade fair and where will it be held?"
 
-“怎么，
-师兄也想去购买宝物？”
+"What? Does senior brother want to go purchase treasures?"
 
-厉海好奇的看了林轩一眼，
-虽然这位赵师弟修为不凡，
-但只是相对他的年纪，
-一个灵动期应该没有什么可以交换的东西。
+Li Hai looked at Lin Xuan curiously. Although the junior brother Zhao's cultivation was extraordinary, but that was only relative to his age. A Spirit Gathering stage cultivator should not have anything that could be exchanged.
 
-“呵呵，
-当然不是了。”林轩可不会傻到暴露自己的意图：“愚兄怎么可能有东西交换呢，
-最多看着眼馋，
-我只是好奇，
-才想要打听一下而已。”
+"Haha, of course not." Lin Xuan would not stupidly expose his intent. "愚兄怎么可能有东西交换呢, 最多看着眼馋? I am just curious and want to find out more, that's all."
 
-这番话合情合理，
-再加上林轩完美的骗人表情，
-厉海和陈丰果然没有怀疑，
-再一次解答了林轩想要知道的问题。
+This remark was very reasonable, and combined with Lin Xuan's perfect lying face, caused Li Hai and Chen Feng to have zero doubts. And once again, they gave the answers to Lin Xuan's questions.
