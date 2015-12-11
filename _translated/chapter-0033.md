@@ -10,116 +10,44 @@ reddit: ""
 sponsored: false
 ---
 
-宝物交易会天后举行，
-地点是凌云门所在的天柱山，
-打听到这些情报后，
-林轩又和两个修真者闲聊了几句，
-然而就不动声色的告辞。
+The treasures trade fair would be held nine days from now and the place is the location of the Soaring Cloud sect, Sky Pillar mountan. After getting this information, Lin Xuan continued to chat some more with these two, then casually left.
 
-整个过程，
-他脸上的表情都很随意，
-怎么看，
-都仅仅像是好奇心比较旺盛，
-而丝毫没有别的意思，
-直到离开藏书阁，
-四周都没有人后，
-林轩的嘴角边才露出了欣喜的笑容。
+The whole time, he had a very casual expression on his face. No matter how you looked at it, it just seemed to be a strong curiosity and did not have any hidden meanings. And until finally leaving the library, and seeing no one else around, did Lin Xuan finally should a delighted smile on his lips.
 
-灵控术有着落了！
+He finally found the whereabouts of the Spirit Control technique!
 
-进入藏书阁第二层的两个条件，
-自己要么不满足，
-要么会引起怀疑，
-都不可取，
-而宝物交易会上，
-肯定会有阶功法出售，
-自己做为一个外来者，
+There were two ways to enter the second level of the library. Either he didn't satisfy it, or he would arouse suspicion, so both were not desirable. But the treasures trade fair, there would definitely be mid rank techniques for sale. As an outsider,
 买完就怕拍屁股走路，
-不用担心后患。
+and about other troubles.
 
-身后有脚步声传了过来，
-林轩嘴角边的笑容随之消失，
-露出一副平常的表情，
-与来者擦肩而过，
-然后他不再耽搁，
-直接回到了废丹房的院落。
+The sound of footsteps came from behind and Lin Xuan's smile disappeared. Revealing a very normal expression, closely passing the approaching person, he no longer delayed and directly went back to the courtyard of the Waste Pills storage.
 
-既然决定了要去参见交易会并收购功法，
-接下来，
-林轩当然要为此行做准备了，
-他已经问得很清楚，
-天柱山距离这里约八百里，
-对于普通人来说可能远了些，
-但林轩可是修真者，
-虽然还不能驾驭灵器飞行，
-但学会了御风术的他赶路也非常迅速，
-八百里，
-快则一日，
-慢则两天，
-怎么都能到达，
-那么自己还有七天的准备时间。
+Since he made the decision to participate and acquire the Spirit Control technique in the trade fair, the following that, Lin Xuan started to prepare for the trip. He had already as and figured out clearly, Sky Pillar mountain was around four hundred kilometres away. To mortals, it can be said to be a little far, but Lin Xuan was a cultivator, and even though he could not fly on his spirit tools, he still knew the Imperial Wind technique and could cover the distance quickly. Four hundred kilometres would take one day while hurrying and two if he took it slow. He could reach it either way, so that gave him seven days time to prepare.
 
-这种门派解散的交易会，
-与修真坊市的交易不同，
-不用晶石，
-而以丹药做为货币，
-这对林轩来说，
-可是一大喜讯，
-虽然继承了周燕和张羽的身家，
-他手也有数十块下品晶石，
+This kind of sect disbanding trade fair was different from the regular trade fairs of the cultivator cities. These did not use spirit stones, but pills, as money. To Lin Xuan, the was great news, even though he acquired Zhou Yan and Zhang Yu's wealth, he only had dozens of low grade spirit stones.
 但晶石除了交易，
 以后练功，
 制器都有用，
 轻易林轩可舍不得。
 
-何况林轩情况特殊，
-缺什么就是不缺丹药，
-所以对他来说，
-用丹药交换最好，
-当然，
-财不露白的道理林轩心清楚，
-自己只是灵动期的低阶修真者，
-如果显得财大气粗很容易引来杀身之祸，
-自己可不像凌云门的那些家伙，
-有天条的保护。
+Moveover, Lin Xuan had special circumstances, the only thing he had no shortage of was pills. So to him, using pills as currency was the the best. Of course, the concept of "when you go out to buy, don't show your silver" was very clear to Lin Xuan, he was only a low level Spirit Gathering cultivator, it he seemed like he had deep pockets, it was easily to bring disaster on himself. He could not like the people of the Soaring Cloud sect, who had the protection of the commandment.
 
 所以此行，
 准备既要充分，
 带上足够多的丹药，
-同时又要小心谨慎，
-不看准时机，
-绝不轻易出手，
-总之一句话小心，
-不引人注意。
+So for this trip, to be fully prepare, he needed to bring enough pills, and he also needed to be cautious. If it wasn't a good opportunity, he would not easily act. All in all, he needed to be careful and not attract attention.
 
-做好打算以后，
-林轩就开始行动了。
+After making this plan, Lin Xuan started putting it in action.
 
-这几天的主要任务，
-是将更多的丹药提纯出来，
-练功都可以暂时缓一缓，
-毕竟事有轻重缓急，
-不需要那么死板，
-根据情况的不同，
-要学会灵活变通。
+The primary task for these few days was to purify a lot of pills. Cultivation practice can be temporarily slowed. After all, there are priorities, and things did not need to be that rigid, one needed to learn to be flexible based on different situations.
 
-经过这几个月来，
-对蓝色星海的运用，
-提纯洗髓丹林轩已经驾轻就熟，
+After these last few months, as to the usage of the star ocean to purify Purified Essence pills, Lin Xuan could do with ease.
 他待在屋里，
 昼夜奋战。
 
-对于仙师回来后又闭门不出，
-以赵明为首的众童丝毫也不疑惑，
-以为管事大人又忙着偷懒睡觉了。
+When the immortal coming back and shutting himself indoors, the children led by Zhao Ming were not suspicious at all. They simply that the steward was busy being lazy and sleeping again.
 
-就这样过去了五天，
-林轩从地上站起来，
-活动了一下有些僵硬的身体，
-这几天没日没夜的提纯还真是累，
-不过收获也不菲，
-共得到了三瓶也就是三百粒下品洗髓丹，
-以及粒品丹。
+Five days passed like this. Lin Xuan got up off the ground, and stretched his stiff body. These few days and nights of purifying was really tiring, but the haul was considerable. In total, he had three bottles, which was equal to three hundred low grade pills, and nine mid grade pills.
 
 从数量上来说，
 已经十分骇人，
