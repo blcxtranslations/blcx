@@ -6,7 +6,7 @@ title: "The Commandment of the Cultivation World"
 date: "Dec 11, 2015"
 characters: 2222
 chinese: "http://baishuku.com/html/30/30364/12441345.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3wc1fn/cn_tempered_immortal_chapter_0032/"
 sponsored: false
 ---
 
@@ -18,7 +18,7 @@ sponsored: false
 
 Of course that was a lie. Lin Xuan often went to the library, but it was always for research. That is, books that were useful to cultivation he would read, but about this commandment of the cultivation world, this was his first time hearing it.
 
-Lin Xuan was good a playing the fool, Li Hai bascially did not doubt him. He also really liked to talk and it was very rare for an advanced junior to ask him for advice. So playing right into Lin Xuan's hands, he started explaining again.
+Lin Xuan was good a playing the fool, Li Hai basically did not doubt him. He also really liked to talk and it was very rare for an advanced junior to ask him for advice. So playing right into Lin Xuan's hands, he started explaining again.
 
 The cruelness of the cultivation world is well know. In the few years that Lin Xuan has been in the valley, although he had no experience of the outside world, but he kept his ears on the ground and his eyed peeled and heard a lot. There are still laws with in the sect, but there were not that many rules out in the cultivation world. Whoever has the bigger fist would be the boss, falsehood would become the truth, everything would be resolved by force.
 
@@ -32,7 +32,7 @@ As long as they did this, it doesn't matter what kind of hatred the other party 
 
 This is the iron rule, in tens of thousands of years, no cultivator had dared to violate it.
 
-To mortals, 除死无大事, but to cultivators, to lose their strength, 成为碌碌无为的普通人才最痛苦. This was a more difficult choice than death. And since crippling of their cultivation was irreversible, they would no hope of practising cultivation in the future. The party that let them off would also not have to worry about trouble or revenge.
+To mortals, life and death was a big matter, but to cultivators, to lose their strength and become mortal was the greatest pain they could suffer. This was a more difficult choice than death. And since crippling of their cultivation was irreversible, they would no hope of practising cultivation in the future. The party that let them off would also not have to worry about trouble or revenge.
 
 This commandment has been upheld for tens of thousands of years. Who exactly it was that laid down this commandment, or why they laid it down, was not clear, but no one has ever disobeyed it. In fact, to ninety nine percent of the cultivators and sects, being superior "immortals", they would not want to go back to being mortals. It was better to to have an honourable death than to live a disgraceful life, and those that would be willing to cripple their own cultivation could be counted on the fingers of one hand.
 
@@ -42,11 +42,7 @@ So, although the Soaring Cloud sect was only a fourth or fifth rate sect, after 
 
 Although they have only known eachother for a short while, but Lin Xuan had already seen through Li Hai's character. This guy is one of those that could not keep anything to himself, and as long as one casually brought a point, then he would continue to talk about that point.
 
-Unsurprisingly, the more Li Hai talked, the more excited he got. The one called Chen Feng tried many times but could not even get a word in edgewise.
-看着两人抢着说话，
-将情报透露给自己，
-林轩暗暗好笑，
-神色自若的听他们介绍。
+Unsurprisingly, the more Li Hai talked, the more excited he got. The one called Chen Feng tried many times but could not even get a word in edgewise. Seeing these two fighting to talk over eachother, trying to be then one to give the information, Lin Xuan secretly smiled, and listened on unperturbed.
 
 The treasures trade fair, to put it bluntly, was very simple. Since the Soaring Cloud sect was disbanding, and all the members were crippling their cultivations to become mortals, then all the techniques, spirit stones, spirit tools, seals, and other important treasures for cultivators, were useless to them and would all be sold off.
 
@@ -58,20 +54,7 @@ There was no need to worry about bring disaster onto themselves by having large 
 
 Although the Soaring Cloud sect was weak, but they still had a history of over a thousand years. The would still have some accumulated resources, techniques, spirit stones, seals, various materials, and even valuable spirit tools.
 
-传说在一些修真门派众多，
-修士繁盛的地域，
-有修真者专门交换买卖东西的坊市，
-不过飘云谷所在的赵国兖州，
-方圆几千里，
-只有寥寥几个修真小派，
-散修的数量也很稀薄，
-所以坊市是没有的，
-这次凌云门的解散与宝物交易会，
-顿时吸引了附近的修真者，
-算是给大家提供了一个机会，
-不仅可以来淘选凌云门的宝物，
-还可以互通有无，
-想必会非常热闹了。
+It is said that in some areas, where there are many many cultivators and cultivation sects, there are cities whose sole purpose was for the exchange of cultivation resources and treasures. But the Floating Cloud Valley was situated in the Yan prefecture of Zhao country, and in the thousands of kilometres of the surrounding area, there were only a handful of small cultivation sects. The number of rogue cultivators were also tiny. Therefore, there was no trade cities. This disbanding of the Soaring Cloud sect and the treasures trade fair, immediately attracted the nearby cultivators. It gave everyone an opportunity, to not only browse the treasures of the Soaring Cloud sect, but to also exchange for things they needed. Naturally it was very lively.
 
 After gathering clear information about this, Lin Xuan was very glad. This was definitely "finding something by change after travelling far and wide in search of it". In this kind of trade fair, he could definitely find the Spirit Control technique. "Excuse me junior brother, when is this trade fair and where will it be held?"
 
@@ -79,6 +62,7 @@ After gathering clear information about this, Lin Xuan was very glad. This was d
 
 Li Hai looked at Lin Xuan curiously. Although the junior brother Zhao's cultivation was extraordinary, but that was only relative to his age. A Spirit Gathering stage cultivator should not have anything that could be exchanged.
 
-"Haha, of course not." Lin Xuan would not stupidly expose his intent. "愚兄怎么可能有东西交换呢, 最多看着眼馋? I am just curious and want to find out more, that's all."
+"Haha, of course not." Lin Xuan would not stupidly expose his intent. "How could this lowly one have anything to trade? I can only look on enviously. I am just curious and want to find out more, that's all."
 
 This remark was very reasonable, and combined with Lin Xuan's perfect lying face, caused Li Hai and Chen Feng to have zero doubts. And once again, they gave the answers to Lin Xuan's questions.
+
