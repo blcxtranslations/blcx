@@ -22,11 +22,11 @@ The sound of footsteps came from behind and Lin Xuan's smile disappeared. Reveal
 
 Since he made the decision to participate and acquire the Spirit Control technique in the trade fair, the following that, Lin Xuan started to prepare for the trip. He had already as and figured out clearly, Sky Pillar mountain was around four hundred kilometres away. To mortals, it can be said to be a little far, but Lin Xuan was a cultivator, and even though he could not fly on his spirit tools, he still knew the Imperial Wind technique and could cover the distance quickly. Four hundred kilometres would take one day while hurrying and two if he took it slow. He could reach it either way, so that gave him seven days time to prepare.
 
-This kind of sect disbanding trade fair was different from the regular trade fairs of the cultivator cities. These did not use spirit stones, but pills, as money. To Lin Xuan, the was great news, even though he acquired Zhou Yan and Zhang Yu's wealth, he only had dozens of low grade spirit stones. But other than using spirit stones as a currency, it can also be used to cultivate or even to craft items. Lin Xuan would bear to easily part with them.
+This kind of sect disbanding trade fair was different from the regular trade fairs of the cultivator cities. These did not use spirit stones, but pills, as money. To Lin Xuan, the was great news, even though he acquired Zhou Yan and Zhang Yu's wealth, he only had dozens of low grade spirit stones. But other than using spirit stones as a currency, it can also be used to cultivate or even to craft items. Lin Xuan would not bear to easily part with them.
 
-Moveover, Lin Xuan had special circumstances, the only thing he had no shortage of was pills. So to him, using pills as currency was the the best. Of course, the concept of "when you go out to buy, don't show your silver" was very clear to Lin Xuan, he was only a low level Spirit Gathering cultivator, it he seemed like he had deep pockets, it was easily to bring disaster on himself. He could not like the people of the Soaring Cloud sect, who had the protection of the commandment.
+Moveover, Lin Xuan had special circumstances, the only thing he had no shortage of was pills. So to him, using pills as currency was the the best. Of course, the concept of "when you go out to buy, don't show your silver" was very clear to Lin Xuan, he was only a low level Spirit Gathering cultivator, it he seemed like he had deep pockets, it was easy to bring disaster on himself. He could not be like the people of the Soaring Cloud sect, who had the protection of the commandment.
 
-So for this trip, to be fully prepare, he needed to bring enough pills, and he also needed to be cautious. If it wasn't a good opportunity, he would not easily act. All in all, he needed to be careful and not attract attention.
+So for this trip, to be fully prepared, he needed to bring enough pills, and he also needed to be cautious. If it wasn't a good opportunity, he would not easily act. All in all, he needed to be careful and not attract attention.
 
 After making this plan, Lin Xuan started putting it in action.
 
@@ -42,7 +42,7 @@ In terms of volume, this was already frightening. Lin Xuan's reason for purifyin
 
 He did not want a situation where he did not have enough pills to purchase the skill he wanted!
 
-After finished purifying the pills, Lin Xuan prepared to leave. He first organized his wealth and items. He had in total: twenty eight spirit stones, three spirit tools, and in addition, he also had dozens of seals of the five elements.
+After he finished purifying the pills, Lin Xuan prepared to leave. He first organized his wealth and items. He had in total: twenty eight spirit stones, three spirit tools, and in addition, he also had dozens of seals of the five elements.
 
 These items and the purified pills must be kept on his person. Firstly it would stop him from worrying about them, and secondly, on this trip, only god knows if he would meet danger. With these items, his power would also be greater.
 
@@ -56,7 +56,7 @@ Foundation Building cultivators would be recorded, but for disciples of the Spir
 
 After getting the medallion allowing him to leave, Lin Xuan left the Floating Cloud Valley. This is his first time, in the four years he has been in the sect, that he has left on a long journey. He had many mixed feelings.
 
-In fact, it was still early, the fair would only open in four days time. But there were advantages to leaving early. After all, he had never been there, first he needed to familiarize himself with the environment and learning about the market prices. This way he would be more secure. This was just the character of Lin Xuan, he did not like to be bold and stand out, and he had a habit of planning before acting.
+In fact, it was still early, the fair would only open in four days time. But there were advantages to leaving early. After all, he had never been there, first he needed to familiarize himself with the environment and learn about the market prices. This way he would be more secure. This was just the character of Lin Xuan, he did not like to be bold and stand out, and he had a habit of planning before acting.
 
 Two days later.
 
