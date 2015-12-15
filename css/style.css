@@ -32,6 +32,11 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
+a.page-heading {
+  color: #313131;
+  /*text-decoration: none;*/
+}
+
 .sidebar-about h1 {
   font-family: 'Lato', sans-serif;
   font-size: 2.75rem;

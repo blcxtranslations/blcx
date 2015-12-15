@@ -4,7 +4,32 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Recent Updates</h1>
+  <h1><a href="{{site.baseurl}}/announcements.html" class="page-heading">Announcements</a></h1>
+
+  {% assign announcements = site.data.announcements | reverse %}
+  {% assign count = 0 | plus: 0 %}
+  {% assign zero = 0 | plus: 0 %}
+  <ul>
+    {% for announcement in announcements %}
+    {% assign count = count | plus: 1 %}
+
+    <li>
+      <strong>
+        {{ announcement.date }}
+      </strong>
+      <br />
+      &nbsp&nbsp&nbsp
+      {{ announcement.short }}
+    </li>
+    {% if count >= 3 %}
+      {% break %}
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+
+
+  <h1>Recent Updates</h1>
 
   {% assign ntime = site.time | date: '%s' | plus: 0 %}
   {% assign stime = site.time | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
@@ -59,7 +84,7 @@ layout: default
   </ul>
 
 
-  <h1 class="page-heading">Table of Contents</h1>
+  <h1>Table of Contents</h1>
 
   <ul>
     {% assign book = 0 %}

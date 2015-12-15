@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Announcements"
+permalink: /announcements.html
+---
+
+<h1>
+  Announcements
+</h1>
+
+
+<ul>
+  {% for announcement in site.data.announcements reversed %}
+
+  <li>
+    <strong>
+    {{ announcement.date }}
+    </strong>
+    <br />
+    &nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp
+    {{ announcement.content }}
+  </li>
+  <br />
+
+  {% endfor %}
+</ul>
