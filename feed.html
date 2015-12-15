@@ -1,0 +1,57 @@
+---
+permalink: /feed.xml
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>
+    {{ site.title }}
+  </title>
+  <subtitle>
+    {{ site.description }}
+  </subtitle>
+  <link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" />
+  <link href="{{ site.url }}{{ site.baseurl }}" />
+  <updated>
+    {{ site.time | date_to_xmlschema }}
+  </updated>
+
+  {% assign chapters = site.translated | reverse %}
+  {% assign count = 0 | plus: 0 %}
+  {% assign ntime = site.time | date: '%s' | plus: 0 %}
+  {% assign zero = 0 | plus: 0 %}
+
+  {% for chapter in chapters %}
+  {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
+  {% if dtime > zero %}
+    {% continue %}
+  {% else %}
+    {% assign count = count | plus: 1 %}
+  {% endif %}
+
+  <entry>
+    <title>
+      {{ site.title }} - Chapter {{ chapter.name }}: {{ chapter.title }}
+    </title>
+    <link href="{{ site.url }}{{ site.baseurl }}{{ chapter.url }}"/>
+    <id>
+      {{ chapter.number }}
+    </id>
+    <updated>
+      {{ chapter.date | date_to_xmlschema }}
+    </updated>
+    <category term="Tempered Immortal"></category>
+    <category term="Magical Rain"></category>
+  </entry>
+
+  {% if count >= 10 %}
+    {% break %}
+  {% endif %}
+  {% endfor %}
+
+
+
+
+
+</feed>
