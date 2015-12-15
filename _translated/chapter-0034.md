@@ -6,214 +6,74 @@ title: "Arriving at the Soaring Cloud Sect"
 date: "Dec 15, 2015"
 characters: 2018
 chinese: "http://baishuku.com/html/30/30364/12441348.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3wyfy1/cn_tempered_immortal_chapter_0034/"
 sponsored: false
 ---
 
-抬头看了险峻的天柱峰一眼，
-据厉海说，
-凌云门的山门就在峰顶，
-普通人当然上不去，
-不过却难不倒林轩。
+Lin Xuan looked up at the steep slopes of Sky Pillar peak. According to Li Hai, the gate to the Soaring Cloud sect was at the summit. Of course, mortals would not be able to climb to it, but it would not be able to stop Lin Xuan.
 
-体内真元流转，
-林轩将御风术施展开，
-过悬崖绝壁如履平地，
-很轻易就像山顶飞驰而去。
+Circulating his spiritual power, Lin Xuan used the Imperial Wind technique and passed over the cliffs as if walking on flat ground, easily ascending the mountain and flying towards the peak.
 
-虽然仙法神奇，
-但爬高五千米，
-还是需要一定的时间，
-路上，
-林轩也遇见几个人影闪过，
-不用说，
-也都是想要参加宝物交易会的修真者。
+Although the technique was magical, but climbing five thousand metres would still take some time. On the way, Lin Xuan also saw some shadows flash past. Needless to say, these were all cultivators that wanted to participate in the treasures trade fair.
 
-林轩没有上前攀谈，
-反而刻意躲开，
-他才不会冒冒然的去结交陌生人，
-如果遇见法力高强又心术不正的家伙岂不自讨苦吃，
-此行的目的是收购功法而非增长见识，
-多一事不如少一事。
+Lin Xuan did not move forward to strike up a conversation, instead, he deliberately dodged out of the way. He would not randomly approach strangers, he would be in trouble if he some more powerful people who were up to no good. The purpose of this trip was to acquire techniques rather than gain worldly experience, so the less troubles the better.
 
-就这样，
-小半个时辰后，
-林轩来到了峰顶，
-然而眼前却被层层迷雾所笼罩，
-遮挡了视线，
-什么也看不清楚。
+And like this, after almost an hour, Lin Xuan arrived at the peak. However, he could not see anything because there were layers upon layers of fog shrouding his line of sight.
 
-林轩微微一笑，
-虽然他仅仅是灵动期的修真者，
-但还是一眼就看出眼前是一座最粗浅的迷乱方向的幻阵。
+Lin Xuan smiled slightly. Although he was merely a cultivator of the Spirit Gathering stage, but even he could tell with a single glance that this was the most shallow of the confusion arrays.
 
-这种幻阵，
-严格说来还算不上禁制，
-因为太粗线，
-太低级，
-哪怕是灵动期第一层功法的修士，
-只要将法力运到眼睛上，
-也不会受影响，
-它的作用，
-主要是阻挡凡人，
-毕竟天柱峰虽然险峻，
-但凡人的武林高手，
-如果准备好工具，
-还是有可能上得来，
-所以才在这里设下了区别普通人与修真者的幻阵。
+This kind of array, strictly speaking, could not be considered a restrictive array. Because it was too crude and too low levelled. Even Spirit Gathering stage one cultivators, if they concentrated spiritual power to their eyes, would not be affected. This array was used mainly to keep mortals away. After all, although Sky Pillar peak was very steep and treacherous, but there were still martial arts masters among mortals. If they had the proper tools, they could still be able to climb to the peak. So an array to differentiate between cultivators and mortals was placed here.
 
-林轩的修为已经到了灵动期，
-自然更加不会受影响，
-丹田里的灵力顺着经脉流到了眼睛上，
-顿时，
-迷雾幻象消失了，
-眼前出现了一个简陋的传送阵。
+Lin Xuan was already at the middle stages of the Spirit Gathering stage, so naturally this array would not affect him. After concentrating his spiritual power, flowing it along his meridians to his eyes, the illusive fog suddenly vanished, and in front of him appeared simple teleportation array.
 
-之所以说简陋，
-是因为这种传送阵只能移动很短的距离，
-不过也有好处，
-因为所需要的能量不多，
-不用消耗晶石，
-只需要往阵眼注入灵力就可以。
+The reason that the teleportation array was called simple was because the movement distance of this array was very short. But this was also good, because it did not require much energy to use, no need to use spirit stones to power it, one only needed to inject spiritual power into the eye of the array for it to work.
 
-站在上面，
-林轩伸出手，
-将法力注入，
-顿时，
-传送阵周围的花纹亮了起来，
-景物也变得模糊，
-眼前白茫茫的一片，
-当这些异象消失后，
-林轩已经来到了另一处地点。
+Standing upon the array, Lin Xuan extended his hand, and injected his spiritual power into it. Suddenly, the lines and patterns of the array lit up, the surrounding scenery also turned blurry and became a vast expanse of whiteness. After all these visions disappeared, Lin Xuan had already arrived at another place.
 
-这似乎是一处小山坳里面，
-不过面积却十分宽广，
-绿草如茵，
-百花绽放，
-景色十分优美。
+This place seemed to be a small basin in the mountains, but it was a very open area, with a soft carpet of grass, and many blooming flowers. It was a very beautiful scene.
 
-“道友是来参加宝物交易会的吧！”
+"Fellow cultivator must be here to participate in the treasures trade fair!"
 
-一个声音传入耳朵，
-林轩回过头，
-就看见了一个迎宾的年轻人，
-从穿着上看，
-应该是凌云门的修士，
-不过表情却很灰败，
-整个人显得有气无力，
-也难怪，
-被逼着解散门派，
-自废修为，
-从高高再上的修真者变为普通人，
-换谁也难以接受，
-但没有办法，
-那是活命的唯一出路。
+Hearing a voice drifting over, Lin Xuan turned his head and saw a young usher. From the clothes he was wearing, one could tell that he was a member of the Soaring Cloud sect. He had a very defeated expression and seemed very feeble. But you can't blame him. The sect was forced to disband, and they had to cripple their own cultivations, becoming mortals when they used to lofty cultivators. Anyone would have a hard time just accepting it. But this was still the only way to survive.
 
-这个年轻的修真者也只能强打精神，
-招呼外客，
-等宝物交易会一完，
-他们就必须废除自己的修为了。
+This young cultivator could only force a smile and greet the guests. After this treasures trade fair, he would have to cripple his own cultivation.
 
-虽然是询问，
-但其实也是废话，
-能够来到这里的当然只有修真者，
-年轻人将一个玉筒简递到林轩的手。
+Although he asked, there really was not point, the only people that could come to this place were cultivators. So the young person handed a jade strip[^1] to Lin Xuan.
 
-林轩有些诧异，
-但看见周围的修士人人都分发到了一个，
-也就一言不发的接过。
+Lin Xuan was somewhat surprised, but seeing that everyone around him also had one, he took it without saying anything.
 
-来到一株大树底下，
-林轩看看四处无人，
-运起法力，
-将神识注入进去，
-顿时一排排字还有图画映入脑海里，
-里面装的当然不是功法，
-而是关于这次宝物交易大会的介绍，
-以及需要注意的一些事项。
+Moving under a big tree, seeing that there was no one around him, Lin Xuan circulated his spiritual power and injected his spiritual sense onto it. Suddenly, rows upon rows of characters and images appeared in his mind. Of course these were not techniques, but instead, was the introductions to this treasures trade fair and some important matters.
 
-林轩看了一下，
-果然有好几本级功法，
-可惜介绍得并不详细，
-但里面包含有灵控术确定无疑，
-林轩心大喜，
-表面上却不动声色，
-将神识退了出去。
+Lin Xuan took a look and sure enough, there were several techniques for sale. Unfortunately, the introductions were not very detailed, but it certain that the Spiritual Control technique was one of them. Lin Xuan was rejoicing in his heart, keeping a calm and collected look on his face, and withdrew his spiritual sense.
 
-将玉筒简收入怀里，
-林轩抬脚向山坳里走去，
-首先他按照玉筒简里面注意事项的要求，
-来到了东边的一片建筑面前。
+Putting the jade strip[^1] into his bosom[^2], Lin Xuan moved into the basin. He first followed the requirements of the jade strip[^1], and went to a stretch of buildings on the east side of the basin.
 
-那是一栋一栋的小阁楼，
-以前是凌云门的驿馆，
-现在则用来接待外来的修真者，
-想要参加宝物交易会，
-必须先在这儿登记。
+There were many stand alone cottages which were the guest houses of the Soaring Cloud sect, which were now used to receive foreign cultivators. If they wanted to participate in the treasures trade fair, they must register here.
 
-“姓名，
-门派？”
+"Name and sect?"
 
-“赵刚，
-散修。”
+"Zhao Gang, rogue cultivator."
 
-林轩是坚决不暴露身份，
-毫不犹豫的报了一个假名，
-复杂登记的老头当然也不会去查证，
-只见他伸出手，
-指间上放出蒙蒙白光，
-在一块腰牌的正面用法力刻出赵刚，
-反面则刻了一个散字。
+Lin Xuan was determined to not have his identity exposed and did not hesitate to give a fake name. Obviously the old man handling the registration would not try verify his identity. He only reached out his hand and released a misty white light from his fingers to carve "Zhao Gang" onto the front of a medallion, with some other words engraved on the back.
 
-“好了，
-这就是你在交易期间的信物，
-拿好了。”
+"Okay, this is your transaction token, hold on to it."
 
-虽然是简单的露了一手，
-但老者的修为却让林轩咋舌，
-居然是筑基初期，
-不过与那个分发玉筒简的弟一样，
-老者也显得两眼无神，
-交易会完了，
-他就必须自废修为，
-成为凡人。
+Although it was only a casual showing of his power, the old man still made Lin Xuan speechless. He was actually in the early stages of Foundation Building. But like the young usher, he also had dull eyes, because after the trade fair, he also had to cripple his own cultivation and become a mortal.
 
-一个筑基期修士就这么厉害，
-凌云门可是有十几个，
-还被逼着解散，
-凝丹期修真者究竟有多强大，
-林轩心充满了好奇，
-虽然飘云谷的掌门就是凝丹期，
-但做为低阶弟，
-他也就在入谷的时候从远处见过一面，
-平时云鹤真人都在闭关，
-何况就算出来了，
-林轩也没有资格再见。
+One Foundation Building cultivator was already this powerful, and the Soaring Cloud sect still had at least a dozen more, and they were still forced to disband. Lin Xuan was very curious as to just how powerful Core Formation cultivators were. Although the patriarch of the Floating Cloud Valley was a Core Formation cultivator, but as a low level disciple, he only saw him from afar when entering the sect. Usually the patriarch, Immortal Yun He, was in seclusion, and even when he came out, Lin Xuan would not be qualified to see him again.
 
-心带着些许感慨，
-脸上却是一副无所谓的表情，
-林轩接过腰牌，
-先去看了一下自己的房间，
-说不上豪华，
-但也还宽敞舒适，
-尤其妙的是，
-房间周围有一层只有用身份腰牌才能破除的禁制，
-让修真者们不仅可以睡觉休息，
-还可以放心大胆的在里面练功修行。
+He was somewhat moved in his heart but only showed a indifferent look. Lin Xuan took the medallion and went to look at his room. Although it cannot be said to be luxurious, it was still spacious and comfortable. It was especially wonderful because there was a layer of restriction around the house that would only allow the holder of the medallion through. This would not only let the cultivator sleep and rest, but also allow them to safely cultivate in peace.
 
-将房间打量了一圈，
-林轩拖过一个蒲团，
-盘膝坐在地上，
-不是练功，
-而是为了恢复体力，
-虽然这两天赶路也不急，
-但连续施展御风术，
-还是消耗了不少灵力。
+After looking around the room, Lin Xuan dragged over a prayer mat and sat down cross legged. He was not practising cultivation, instead, he was restoring his spiritual power. Although he did not hurry on his two day journey, but the continuously usage of the Imperial Wind technique still consumed a lot of spiritual power.
 
-打坐了大约一个时辰，
-体内的灵力已经补满，
-然后林轩来到床上睡觉，
-距离宝物交易会还早，
-先将自己的身体恢复到最佳状态，
-反正现在也是傍晚，
-最多算是稍微睡早了一点。
+After meditating for around two hours, he fully recovered his spiritual power. Lin Xuan then went to sleep. Since there was still some time to the treasures trade fair, first he would restore his body to it's best condition. And anyway, it was already evening and could be considered to be going to sleep a little early.
+
+- - -
+- - -
+
+[^1]: The author uses a word that refers to a long and thin piece of wood / bamboo slip that was strung together to form books in ancient China. [Wikipedia](https://en.wikipedia.org/wiki/Bamboo_and_wooden_slips)
+
+[^2]: People wear clothes, whose folds, form pockets in front of their bosom.
+
+
+
