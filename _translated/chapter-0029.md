@@ -8,6 +8,7 @@ characters: 2430
 chinese: "http://baishuku.com/html/30/30364/12441339.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3vc419/cn_tempered_immortal_chapter_29/"
 sponsored: false
+completed: true
 ---
 
 The hardest technique, Ice Needles, has already been grasped, and the last technique, Imperial Wind, was much easier. Of course, this was a comparison, so it took Lin Xuan nearly a week to grasp.

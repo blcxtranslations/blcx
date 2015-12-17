@@ -8,6 +8,7 @@ characters: 2222
 chinese: "http://baishuku.com/html/30/30364/12441345.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3wc1fn/cn_tempered_immortal_chapter_0032/"
 sponsored: false
+completed: true
 ---
 
 "Disband?" Lin Xuan was shocked: "You can avoid the catastrophe this way? Will that Core Formation senior stay his hand?"

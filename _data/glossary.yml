@@ -1,0 +1,88 @@
+- word: "洗髓丹"
+  translation: "Purified Essence pills"
+  category: "Items"
+
+- word: "灵器"
+  translation: "spirit tools"
+  category: "Items"
+
+- word: "功法"
+  translation: "cultivation techniques"
+  category: "Miscellaneous"
+
+- word: "法术"
+  translation: "techniques"
+  category: "Miscellaneous"
+
+- word: "法力"
+  translation: "spiritual power"
+  category: "Miscellaneous"
+
+- word: "神识"
+  translation: "spiritual sense"
+  category: "Miscellaneous"
+
+- word: "驱物术"
+  translation: "telekinesis"
+  category: "Miscellaneous"
+
+- word: "灵控术"
+  translation: "spritual control"
+  category: "Miscellaneous"
+
+- word: "云鹤真人"
+  translation: "Immortal Yun He"
+  category: "People"
+
+- word: "飘云谷"
+  translation: "Floating Cloud Valley"
+  category: "Sects"
+
+- word: "凌云门"
+  translation: "Soaring Cloud sect"
+  category: "Sects"
+
+- word: "火灵门"
+  translation: "Flame Spirit sect"
+  category: "Sects"
+
+- word: "道符山"
+  translation: "Talisman mountain"
+  category: "Sects"
+
+- word: "天星宗"
+  translation: "Starry Sky clan"
+  category: "Sects"
+
+- word: "灵动"
+  translation: "Spirit Gathering"
+  category: "Cultivation Stages"
+
+- word: "筑基"
+  translation: "Foundation Building"
+  category: "Cultivation Stages"
+
+- word: "凝丹"
+  translation: "Core Formation"
+  category: "Cultivation Stages"
+
+- word: "元婴"
+  translation: "Nascent Soul"
+  category: "Cultivation Stages"
+
+- word: "离合"
+  translation: "LiHe"
+  category: "Cultivation Stages"
+
+- word: "洞玄"
+  translation: "DongXuan"
+  category: "Cultivation Stages"
+
+- word: "分神"
+  translation: "Spirit Severing"
+  category: "Cultivation Stages"
+
+- word: "渡劫"
+  translation: "Tribulation Ascension"
+  category: "Cultivation Stages"
+

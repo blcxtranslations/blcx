@@ -8,6 +8,7 @@ characters: 2111
 chinese: "http://baishuku.com/html/30/30364/12441334.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"
 sponsored: false
+completed: true
 ---
 
 Not so long ago, Lin Xuan had already reached the fourth layer of Spirit Gathering and could already use spirit tools. But a long time ago, from when he acquired them from Zhang Yu and Zhou Yan, he was already paying attention to spirit tools. Asking others about them would arouse suspicion, and of course, Lin Xuan would certainly not do something so stupid. So he quietly researched by consulting many books.

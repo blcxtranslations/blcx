@@ -8,6 +8,7 @@ characters: 2018
 chinese: "http://baishuku.com/html/30/30364/12441348.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3wyfy1/cn_tempered_immortal_chapter_0034/"
 sponsored: false
+completed: true
 ---
 
 Lin Xuan looked up at the steep slopes of Sky Pillar peak. According to Li Hai, the gate to the Soaring Cloud sect was at the summit. Of course, mortals would not be able to climb to it, but it would not be able to stop Lin Xuan.

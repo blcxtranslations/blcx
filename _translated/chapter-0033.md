@@ -8,6 +8,7 @@ characters: 2099
 chinese: "http://baishuku.com/html/30/30364/12441346.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3wo5re/cn_tempered_immortal_chapter_0033/"
 sponsored: false
+completed: true
 ---
 
 The treasures trade fair would be held nine days from now and the place is the location of the Soaring Cloud sect, Sky Pillar mountain. After getting this information, Lin Xuan continued to chat some more with these two, then casually left.

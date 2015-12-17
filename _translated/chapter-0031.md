@@ -8,6 +8,7 @@ characters: 2134
 chinese: "http://baishuku.com/html/30/30364/12441343.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3w3dsr/cn_tempered_immortal_chapter_0031/"
 sponsored: false
+completed: true
 ---
 
 "Mid rank techniques for Foundation Building cultivators?"

@@ -8,6 +8,7 @@ characters: 1999
 chinese: "http://baishuku.com/html/30/30364/12441350.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3x9drb/cn_tempered_immortal_chapter_0035/"
 sponsored: false
+completed: true
 ---
 
 The sun rose, casting warms rays of sunshine on his body. With the blink of an eye, the second day was here.

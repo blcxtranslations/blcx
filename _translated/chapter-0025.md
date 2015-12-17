@@ -8,6 +8,7 @@ characters: 2118
 chinese: "http://baishuku.com/html/30/30364/12441332.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3uwevm/cn_tempered_immortal_chapter_0025_0026/"
 sponsored: false
+completed: true
 ---
 
 For the next period of time, Lin Xuan focused on practising purifying the Purified Essence Pills. It was very difficult to start, each initial step is very hard, and the success rate was extremely low.

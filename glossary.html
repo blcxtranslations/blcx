@@ -1,0 +1,49 @@
+---
+layout: default
+title: "Glossary"
+permalink: /glossary.html
+---
+
+
+<link rel="stylesheet" href="{{ site.baseurl }}/css/glossary.css">
+
+
+<h1>
+  Glossary
+</h1>
+<br />
+
+{% assign category = "" %}
+
+{% for term in site.data.glossary | sort: 'category' %}
+
+  {% if term.category != category %}
+    {% assign category = term.category %}
+    {% if term.category != '' %}
+      </table>
+    {% endif %}
+    <table>
+
+    <tr>
+      <th>
+        <strong>
+          {{ category }}
+        </strong>
+      </th>
+    </tr>
+  {% endif %}
+
+  <tr>
+    <td>
+      {{ term.word }}
+    </td>
+    <td class="left">
+      {{ term.translation }}
+    </td>
+  </tr>
+
+{% endfor %}
+
+{% if term.category != '' %}
+  </table>
+{% endif %}

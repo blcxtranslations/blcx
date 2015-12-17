@@ -8,6 +8,7 @@ characters: 2163
 chinese: "http://baishuku.com/html/30/30364/12441336.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3v010y/cn_tempered_immortal_chapter_0027/"
 sponsored: false
+completed: true
 ---
 
 The path of cultivation was vast. Other than powerful magic treasures and spirit tools, there were also a variety of wondrous techniques.

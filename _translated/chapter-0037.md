@@ -8,13 +8,10 @@ characters: 2202
 chinese: "http://baishuku.com/html/30/30364/12441353.html"
 reddit: ""
 sponsored: false
+completed: false
 ---
 
-原本林轩打算回驿馆吃饭，
-然而路上却被一个摊点吸引了视线，
-停了下来，
-其实不止是他，
-这个摊位前围了很多人。
+Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenly attracted to a stall and stopped. In fact, he was not the only one, there was already a crowd around the stall.
 
 究竟是什么宝贝能够吸引如此众多的修真者，
 怀着好奇的心理，

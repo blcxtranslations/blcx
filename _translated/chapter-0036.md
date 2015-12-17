@@ -8,277 +8,70 @@ characters: 2168
 chinese: "http://baishuku.com/html/30/30364/12441351.html"
 reddit: ""
 sponsored: false
+completed: true
 ---
 
-有了各大宗门和修仙家族的参与，
-散修们对于明天能在凌云门淘到宝物抱的希望不大，
-所以反而更看重现在所摆的集市，
-这也是为什么一大早，
-广场就非常热闹。
+With the participation of the large sects and cultivator clans, the rogue cultivators held little hope of acquiring treasures at the treasures trade fair tomorrow. Therefore, they paid more attention to the stalls in the marketplace, and this is also why the plaza was so lively so early in the morning.
 
-林轩的主要目标是包含灵控术的阶功法，
-这种简陋的摊点上不可能有兜售，
-所以他倒是一点也不急，
-抱着了解行情，
-增长见识的心理慢慢逛着。
+Lin Xuan's main objective was to acquire the Spiritual Control technique, which simply impossible to be found in these simple and crude stalls. So he did not worry and instead slowly wandered the market to increase his knowledge of the market place.
 
-还别说，
-虽然散修们功法较低，
-大多也就灵动期二三层，
-像林轩现在的修为，
-已经算不错，
-拿不出什么好东西，
-但毕竟人多啊，
-低阶修真者需要用到的各种事物，
-在这里几乎是应有尽有，
-让林轩大开眼界。
+Rogue cultivators generally had lower level cultivations, most of them being in the second or third Spirit Gathering layer. So Lin Xuan's current cultivation was quite good. But because of that, they generally did not have any precious items. But there were still many cultivators, so all the items needed by low level cultivators for various tasks were still all being sold. This was truly an eye opener for Lin Xuan.
 
-比如说储物装备，
-在某个摊点上，
-林轩就看见了一个十七八岁的年轻女在兜售，
-而且五花八门，
-多种多样，
-什么储物戒指，
-储物手镯，
-储物发钗，
-储物项链，
-几乎囊括了女孩用的各种首饰，
-而且从表面上看，
-做工精美，
-十分的吸引眼球。
+For example, items used for storage. Lin Xuan saw a young woman peddling them. There were many different variations such as storage rings, storage bracelets, storage hairpins, storage necklaces, and virtually any kind of woman's jewellery. They were all exquisitely made and very eye catching.
 
-当然，
-男人用的也有，
-储物腰带，
-储物提包，
-甚至于储物靴，
-琳琅满目，
-林轩也被吸引过去了。
+Of course, there were also items for men such as storage belts, storage bags, and even storage boots. They were all very dazzling and drew Lin Xuan to the stall.
 
-“这位道友，
-你要买吗，
-物美价廉，
-两粒下品洗髓丹一件。”
+"Fellow cultivator, would you like one? They are of good quality and very cheap, only two low grade Purified Essence pills."
 
-这么便宜，
-如果不是林轩心机深沉，
-习惯喜怒不形于色，
-说不定会吓一个跟头，
-虽然他不太了解修真界各种物品的行情，
-但两枚下品洗髓丹，
-即便是飘云谷的低阶弟，
-每个月也可以得到，
-这个开价，
-是不是有点太低。
+It was so cheap. If Lin Xuan was not such a discrete person and had a habit of not wearing his heart on his sleeve, he definitely would have been shocked beyond belief. Although he was not too clear on the value of goods in the cultivation world, but two low grade Purified Essence pills, even low levelled disciples in the Floating Cloud Valley could acquire two a month. This kind of price was simply too low.
 
-其实这里林轩的认识存在一个误区，
-虽然过去他因为没有灵根，
-修行速度慢，
-在门派里饱受冷眼，
-但与散修相比，
-其实已经很幸运，
-除了那次马长老故意刁难，
-以前每个月也都能顺利得到两粒下品洗髓丹。
+In fact this was a misconception on Lin Xuan's part. Although he had no spiritual roots, had a slow cultivation speed, and had to suffer the glares of the other disciples, compared to rogue cultivators, he was still more fortunate. Other than the incident where Elder Ma was trying to cause trouble[^1], he could still get two low grade Purified Essence pills a month without fail.
 
-以后有了提纯的本领，
-更是丹药源源不断，
-所以林轩并没有太将这种最低级的灵药放在眼里，
-可他却忘了，
-每个月两粒丹药，
-是门派弟才能获得的待遇。
+And after gaining the ability to purify, he had a unending supply of pills, so these low grade pulls did not even matter to him. Be he had forgotten that two pills a month was the kind of treatment only disciples of a sect could get.
 
-而这个世界，
-还有太多的散修，
-没有后台，
-没有依靠，
-试想，
-门派有专门的人负责炼丹，
-可一个低阶的散修怎么办，
-根本就不可能有本事炼丹，
-也找不到药材，
-所以虽然每月得到的不多，
-但各派弟多少还是有灵药辅助，
-而散修就只能靠本身努力了。
+But there were too many rogue cultivators, who had no support and no one to rely on, in the cultivation world. But just think, sects had people dedicated alchemy and the concoction of pills, but what can a low levelled rogue cultivator do? They did not have the ability to concoct of perform alchemy, nor could they find any medicinal herbs. Therefore, although they did not acquire many pills a month, sect disciples still had the support of these pills, but rogue cultivators can one rely on their own efforts to cultivate.
 
-这也是为什么在相同的情况下，
-门派弟比散修功力强大，
-散修大多在灵动期徘徊，
-很少有高级修士的原因。
+This was why, under the same circumstances, sect disciples would be more powerful than rogue cultivators. This was also the reason why high level rogue cultivators were so rare since most rogue cultivators were only in the Spirit Gathering stage.
 
-当然长辈的指点可以少走很多弯路，
-以及门派有更好的功法也是影响的因素，
-但没有丹药辅助修炼绝对是最重要的。
+Of course, with the guidance of the elders, they would walk a straighter path, and the fact that sects had better cultivation techniques was also a factor. But the most important was still the fact that they had no pills to help with their cultivation.
 
-毕竟修真一道，
-努力，
-灵根，
-丹药都很重要，
-而灵根和丹药是可以互相弥补的，
-比如说林轩，
-一个普通人，
-可他将灵药当饭吃，
-同样比师兄师弟们修行的速度快，
-反之亦然，
-一个灵根超级优异的天才，
-不用丹药，
-同样可以取得不菲的成就。
+After all, to the path of cultivation, determination, spiritual roots, and pills and medicines were all very important. But spiritual roots and pills could make up for the lack of each other. For example, Lin Xuan, he was an ordinary mortal. But after consuming pills, his cultivation speed became much faster than that of his senior disciples. And conversely, a genius with excellent spiritual roots would not need pills to achieve the same results.
 
-可世界上哪儿有那么多逆天的天才，
-大部分散修的资质也就一般，
-所以终身在灵动期徘徊。
+But how many heaven defying genii were there in the world? Most of the rogue cultivators only had average aptitude and therefore would stay in the Spirit Gathering stage their entire lives.
 
-也正因为这样，
-在散修眼里，
-丹药就是宝贝，
-价值很贵，
-只不过林轩站在他的角度，
-才觉得便宜了，
-其实是合情合理的价格。
+And because of this, pills were truly treasures to rogue cultivators and were worth a lot. But in the eyes of Lin Xuan, it was very cheap, when in fact, is was a very reasonable price.
 
-“这位道友，
-选一件吧，
-这些储物装备，
-绝对做工精美，
-物美价廉。”见林轩表现得很有兴趣的样，
-少女连忙在一旁相劝。
+"Fellow cultivator, pick one, these storage items a definitely exquisitely made, high quality, and cheap." Seeing Lin Xuan's interested expression, she quickly started to persuade him.
 
-“我可以看看吗？”林轩拿起一个口袋样的东西。
+"May I see it?" Lin Xuan asked as he picked up a sack like object.
 
-“可以。”
+"You may"
 
-得到肯定的答复，
-林轩灵力运转，
-将神识注入了进去，
-但很快就退了出来，
-见他露出兴致缺缺的表情，
-少女有点着急：“怎么，
-您不满意？”
+Getting a positive response, Lin Xuan circulated his spiritual power and inserted his spiritual sense into the item but then quickly withdrew it. See his lack of interest, the young lady asked anxiously: "What's wrong, you are not satisfied with it?"
 
-“小了些。”
+"It's a bit small."
 
-林轩实话实说，
-不过已经很委婉客气，
-这个储物袋简直就是垃圾，
-里面的**空间只有一尺见方，
-如此小，
-最多装一些丹药，
-符咒，
-稍微大点的灵器恐怕都放不下。
+Lin Xuan was being honest trying to be as polite as possible. This storage sack was simply rubbish. The space inside was small, only one square foot. It could at most only accommodate some pills or seals, slightly large items like spirit tools would probably not fit.
 
-与自己从周燕，
-张羽身上得到的两件装备根本没法比，
-那个手镯的储物空间大约有五平方米，
-腰带是筑基期高手用过的，
-里面的空间面积相当于一间卧室。
+It could never compare to the storage items he had acquired from Zhou Yan and Zhang Yu. The bracelet had a space of five square metres. and the belt was a Foundation Building experts item, it had as much room as a regular bedroom.
 
-听林轩嫌小，
-少女脸上一红，
-她现在仅灵动期第二层的修为，
-所学的功法倒适合制器，
-所以自己炼了一些东西来买，
-但由于法力低微，
-当然炼不出什么好成品，
-这些储物装备，
-从表面上看，
-倒还精美，
-但其实用途却相当于鸡肋，
-他摆摊摆了一天，
-却什么也没有买出去。
+The young lady blushed hearing what Lin Xuan said. She was at the second layer of the Spirit Gathering stage and had learned a technique suitable for crafting, so she made some of these items to sell. But since she had low cultivation, she could obviously not create high level items. These storage items, looked exquisite on the outside, but were actually pretty useless. So even though she had peddled here items the whole day, she did not manage to sell any of them.
 
-“道友，
-买一个吧，
-要不我便宜点，
-一粒丹药一件。”
+"Fellow cultivator, please purchase one, how about I give you a discount, only one pill each."
 
-林轩摇摇头，
-毫不犹豫走了，
-虽然他的洗髓丹很多，
-但还不至于拿出来浪费，
-就算自己不心疼，
-也容易引起别人的注意，
-林轩可不是什么大善人，
-没有好处的事情他是不会做的。
+Lin Xuan shook his head and, without hesitating, walked away. Although he had quite a few Purified Essence pills, but they were not to be randomly wasted. Even if he did not regret spending them, it would still be easy to attract the attention of others. Lin Xuan was not some good Samaritan, he would not do things that had no benefits for himself.
 
-离开少女的摊点以后，
-林轩继续闲逛，
-也经常停下来看看，
-或者是询问一下价格，
-然而什么都没有买，
-一来，
-摊点上的物品虽然比较多，
-但要么是品次太低，
-要么是对自己没有用处，
-二来，
-林轩也不愿随意出手，
-既然装成散修，
-就要表现出散修贫穷的模样，
-财大气粗是往自己身上惹祸。
+After leaving the young lady's stall, Lin Xuan continued to stroll about. He often stopped to browse or ask for the prices of things, however, he did not purchase anything. Firstly, even though there were many items at the stalls, they were all either low grade items or they were useless to him. Secondly, Lin Xuan did not want to randomly expose himself. Since he was pretending to be a rogue cultivator, the he needed to look like one by appearing poor. Looking rich and powerful would bring him trouble.
 
-时光如水，
-两个时辰不知不觉就过去了，
-太阳已经移到了头顶，
-晌午吃饭的时间到了。
+Time flowed like water, four hours had unknowingly passed by. The sun was already straight overhead, it was time for the midday meal.
 
-高阶修真者可以辟谷，
-吸收灵气就能满足身体的需求，
-低阶修士却做不到，
-林轩准备回驿馆，
-补充体力了，
-虽然什么也没有买，
-但这一路走来，
-收获还是不小，
-至少对于行情已经做到了心有数。
+High level cultivators can fast, absorbing spiritual power was enough to fulfill their bodies needs. But low level cultivators could not do this, so Lin Xuan prepared to go back to his cottage and restore his strength. Although he did not purchase anything, but strolling around the whole way, he had not shortage of benefits. He now had a pretty good idea of the market price of all the items.
 
-丹药比想象的价值高，
-哪怕是洗髓丹，
-也同样值钱，
-尤其是品的，
-虽然不至于引起轰动，
-但绝对令人侧目。
+Pills and medicines were worth more than he had originally thought. Even Purified Essence pills were valuable. Especially the mid grade pills, although it would not raise a sensation, but it would definitely be shocking.
 
-发现这一点后，
-林轩在心坐做下一个决定，
-买级功法的玉筒简自己身上的丹药肯定够了，
-但不到万不得已，
-绝不把品丹拿出来。
+After discovering this, Lin Xuan mind came to a decision. He had enough pills to purchase the mid grade technique he wanted, but he would not pull out his mid grade pills except as a last resort.
 
-***很重要的话，
-请大家一定看，
-谢谢***
+---
+---
 
-第一是好事，
-《百炼成仙》获得了三江的推荐，
-这与大家一直以来的支持是分不开的，
-谢谢，
-同时请大家帮忙，
-去三江频道（就在起点网站的右上角，
-漫画•三江那儿，
-点击三江进入），
-为“我最喜欢的本期三江作品”投上《百炼成仙》一票，
-谢谢大家了。
-
-第二则是更新时间的问题，
-今天的第三更我准备放在晚上十二点钟，
-原因无他，
-今天是周末，
-要冲榜啊，
-如果那时候兄弟们还没睡，
-请一定来捧场，
-点击，
-投票，
-如果睡了，
-没关系，
-第二天请记得顶我哦！
-
-这一周在大家的支持下《百炼成仙》取得了不错的成绩，
-小弟万分感激，
-下周上三江成绩当然应该更好，
-小弟会努力的，
-争取再上一层楼，
-也请大家多支持，
-拜谢了。
-
-尤其是推荐票，
-对于新书榜来说是最重要的因数，
-所以请大家千万多投点票，
-再次感谢。
+[^1]: Chapter 0005: Purified Essence Pill. Elder Ma wanted to kick him out of the sect by giving Lin Xuan waste pills.

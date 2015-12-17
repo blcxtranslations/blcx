@@ -8,6 +8,7 @@ characters: 2179
 chinese: "http://baishuku.com/html/30/30364/12441338.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3v8tpm/cn_tempered_immortal_chapter_0028/"
 sponsored: false
+completed: true
 ---
 
 Lin Xuan then began learning the second technique, the Ice Needles spell!

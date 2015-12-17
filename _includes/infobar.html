@@ -14,7 +14,42 @@
   <h1>
     Schedule
   </h1>
+    Estimated Release Pace:
+    <br />
+    &nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp
     1 Chapter / 2 Days
+    <br />
+    Estimated Release Time:
+    <br />
+    &nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp
+    20:00 EST
+    <br />
+    Current Stock:
+    <br />
+    &nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp
+
+    {% assign ntime = site.time | date: '%s' | plus: 0 %}
+    {% assign zero = 0 | plus: 0 %}
+    {% assign count = 0 | plus: 0 %}
+    {% for chapter in site.translated %}
+      {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
+      {% if dtime < zero %}
+        {% continue %}
+      {% endif %}
+
+      {% if chapter.completed %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    <strong>{{ count }} </strong>
+    {% if count != 1 %}
+      Chapters
+    {% else %}
+      Chapter
+    {% endif %}
   </div>
   <!-- Donations -->
   <div class="infobar-box">
