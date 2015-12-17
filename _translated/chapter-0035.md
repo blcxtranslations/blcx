@@ -2,220 +2,61 @@
 layout: page
 number: "0035"
 name: "Thirty Five"
-title: "Three Forces"
+title: "The Three Forces"
 date: "Dec 17, 2015"
 characters: 1999
 chinese: "http://baishuku.com/html/30/30364/12441350.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3x9drb/cn_tempered_immortal_chapter_0035/"
 sponsored: false
 ---
 
-云开日出，
-阳光温暖的照在身上，
-转眼到了第二天。
+The sun rose, casting warms rays of sunshine on his body. With the blink of an eye, the second day was here.
 
-早上起来，
-林轩漱洗完毕，
-用腰牌破除禁制，
-走下了阁楼，
-时间还早，
-不过到处都已经可以看见三三两两的修真者，
-看来提前赶到这里，
-准备参加宝物交易会的可不止自己一个。
+Rising in the morning, Lin Xuan washed up. Using his medallion, he passed through the restrictions and left his cottage. It was still early, but there were already many small scattered groups of cultivators about. Looks like he was not the only one with the idea of arriving at the treasures trade fair early.
 
-按照玉筒简里面的介绍，
-在山坳的南面会有一个广场，
-提供给修真者们摆摊。
+According to the description on the jade slip, there was a plaza on the south side of the basin which could be used to set up their shops.
 
-这附近方圆几千里，
-修真者并不多，
-也没有什么正规的坊市，
-所以这一次凌云门解散，
-也算是提供了一个机会，
-让大家不仅可以淘选凌云门的宝物，
-还能互通有无，
-交换各自所需的东西了。
+In the thousands of kilometres of the surrounding area, there were not many cultivators, so there were no trade cities. Therefore, with the disbanding of the Soaring Cloud sect came the opportunity for everyone to not only browse the treasures of the Soaring Cloud sect, but to also acquiring needed items via trading.
 
-宝物交易会明天才开锣，
-现在在广场上摆摊的都是外来的修真者。
+The treasures trade fair would begin tomorrow, so all the stalls in the plaza were all set up by outsiders.
 
-将这些玉筒简里提到的情况在脑海想了一遍之后，
-林轩认准道路，
-像南边的广场走去了，
-他这么做有几个目的：
+Lin Xuan went through the information from the jade slip again, then picking a path, he set off for the plaza. He had a few objectives in mind:
 
-一来自然还是熟悉环境，
-比如说将道路认清楚，
-那样的话，
-就算是途万一发生了什么意外，
-也比较容易逃走。
+Firstly, he would become familiar with the environment, for example, he would be able to recognize the path. This way, even if something unexpected happened, it would still be easier to escape.
 
-二来则是了解行情，
-林轩虽然修仙的时间也不短，
-可过去一直待在门派里面，
-这次出来参加修真者的聚会还是第一次，
-对于各种物品究竟值什么价心还没有底，
-先多逛一逛，
-将各种物品的价格弄清楚，
-那样宝物交易会开始以后，
-买阶功法，
-才不会被骗。
+Secondly, he would understand the market. Although Lin Xuan had not been cultivation for too long, but he has stayed in the sect the whole time. This was his first time at a gathering of cultivators, so to the prices of various items, he had not concept of their worth. First he needed to browse around and get to know the prices of these treasures. Then once the treasures trade fair begins, he would not be swindled in his purchases.
 
-否则只值一百粒丹药的东西，
-别人要价二百粒，
-自己因为不清楚价格，
-傻乎乎的给了，
-岂不是冤大头？
+Otherwise, if a vendor asked for two hundred pills, and he stupidly paid it not knowing the price of the item was only one hundred pills, wouldn't that be a big loss?
 
-第三，
-则是增长见识，
-反正待在房间里也无聊，
-难得有修真者的集市，
-当然要开阔开阔眼界，
-凑凑热闹了。
+And thirdly, he wanted to gain more worldly experience. Staying in his room was boring anyway, and it a rare to have a gathering of cultivators, so why not broaden his horizons and join in on the fun.
 
-怀着这三个目的，
-林轩走进了集市，
-到了广场以后，
-才发现摆摊的修真者远比想象的多，
-东一个摊点，
-西一个商铺，
-叫卖之声不绝于耳，
-如果不知道，
-还以为是来到凡间的菜市场了。
+Keeping these objectives in mind, Lin Xuan arrived at the plaza and walked into the market. He discovered that there were a lot more cultivators setting up here than he imagined. Stalls to the east, shops in the west, cries of peddlers without end. If he didn't know better, he would have thought he was in a vegetable market.
 
-“这么多修真者！”林轩粗略估计了一下，
-在广场摆摊和闲逛的修士，
-起码有两千人，
-看来这次凌云门解散，
-还真的是影响深远，
-这架势，
-只怕不止兖州地界的修真者，
-其他地方的修士也慕名赶来了。
+"So many cultivators!" Lin Xuan made a rough estimate. There were at least two thousand people peddling their wares and among the stalls. It seems the news of the disbanding of the Soaring Cloud sect was really far reaching. These cultivators are probably not just from the Yan prefecture, even cultivators from beyond the prefecture rushed here to participate.
 
-其又以散修居多，
-各修真门派也或多或少派了一些人过来，
-比如说飘云谷，
-就有两位筑基期的长老带队，
-虽然就整个修真界而言，
-飘云谷的实力也就等偏下，
-但在兖州地界，
-绝对是有影响力的大派，
-两位筑基期修士，
-已经令人侧目，
-可以震慑住宵小之辈。
+Although the rogue cultivators made up the majority, the various sects all more or less sent some members. For example, Floating Cloud Valley sent some disciples led by two Foundation Building elders. Although in the whole world of cultivation, the Floating Cloud Valley's strength tended towards the lower end, but in the borders of the Yan prefecture, it was definitely a large and influential sect. Two cultivators in the Foundation Building stage was very shocking and frightening to the younger cultivators.
 
-除了飘云谷，
-崇州的其他门派，
-比如说火灵门，
-道符山，
-天星宗，
-等七八个大小宗门，
-也都派得有长老过来。
+Other than the Floating Cloud Valley, The sects of Chong prefecture also sent elders over. These seven or eight sects of various sizes included the Flame Spirit sect, the Talisman mountain, the Starry Sky clan, etc.
 
-这些修真门派，
-也是参加宝物交易会各方，
-势力最大的，
-他们的目标，
-多半是一些珍贵的制器材料，
-灵器，
-这些宝贝，
-可以大大加强本门的实力，
-当然不能轻易落入他人之手，
-可以预见，
-未来会有一番很激烈的争夺。
+These sects were also the most powerful force participating in the treasures trade fair. Their objectives were the precious crafting materials and spirit tools. These treasures can greatly increase the strength of their sects. They would not let them lightly fall into the other sects' hands. There will definitely be fierce competition for them.
 
-不过这与自己无关，
-自己已经有了三件灵器，
-其还有一件极品，
-可以说是绰绰有余，
-林轩从来没有想过要去收购什么灵器，
-所以他与几大派的需要并不矛盾，
-只要小心不被本门人认出来就可以了。
+But this had nothing to do with him. He already had three spirit tools, one of which was even top grade, which was more than enough for him. So Lin Xuan never even had the intention to buy any spirit tools. Therefore, he did not have any opposing requirements to the various big sects and just needed to be careful and not get recognized by his fellow disciples.
 
-但这其实也不用担心，
-两位长老自己从来没有见过，
-其他跟来的也是远比自己入门早的精英弟，
-就算是站在他们面前，
-双方也素不相识。
+But he did not really need to worry, because he had never met the two elders before, and all the disciples they brought were elite disciples who had entered the sect before him. Even if he stood in front of them, the would still be complete strangers to each other.
 
-除了各大派，
-实力稍次的就是各修真家族，
-这种以血缘关系为纽带的修真小团体，
-严格说来，
-算是一个个迷你型的小门派，
-实力人数各不相同，
-多的上百人，
-少的三五个，
-掌门也就是族长。
+In addition to these big sects, the next most powerful force were the various cultivation clans. These little groups, whose members were blood related, could be considered, in a strict sense, to be a miniature sect. Their numbers were also all different. Some had hundreds of members, so only had three or five. But for each clan, the head of the family was also the patriarch.
 
-虽然远远比不上各大宗门，
-但这些修真家族还是有一定实力，
-他们的目标是一些各大派看不上眼的最差的低阶灵器，
-比较厉害的符箓，
-还有就是功法了。
+Although they could not compare to the various large sects, these cultivator clans still had a certain level of power. Their objectives were the low grade spirit tools that the larger sects ignored, the more powerful seals, and the techniques.
 
-这与自己的需要重合，
-或许到时候会成为竞争对手，
-林轩皱了皱眉，
-在心思量着应对之策。
+This coincides with his objective, so they might become a competitor in the trade fair. Lin Xuan frowned and started formulating countermeasures.
 
-还有就是散修，
-这是数量最庞大，
-但也修为最低，
-最没有势力的一个群体，
-来这里，
-除了少数像林轩这样的，
-大部分人都没有具体的目的，
-最多也就见见市面，
-或者在宝物交易会上碰碰运气，
-淘到前两股势力看不上，
-自己恰好又需要的东西。
+There were still rogue cultivators, who made the largest group, but had the lowest cultivation and were the least powerful force. Of these cultivators, few had objectives like Lin Xuan, most did not have a goal in mind. Most of them just wanted to check out the market and try their luck during the treasures trade fair. They could still find items they needed among the items that were not worth being looked at by the other two forces.
 
-所以这次凌云门解散，
-变卖家产，
-表面上说得好听，
-是各同道凭财力各取所需，
-其实并非如此，
-修真界可是以力服人，
-蛮不讲理，
-你如果碰巧收购了各大派看重的东西，
-对不起了，
-小心点，
-弄不好会招来血光之灾。
+To put it nicely, everyone can purchase what they need, but this was definitely not the case. The world of cultivation is an unreasonable world where might is right. If you happened to acquire something that one of the major sects wanted, then you had better be careful or you might be annihilated.
 
-其实说白了，
-是各大派先挑选，
-吃肉，
-然后是各修真家族，
-喝汤，
-至于散修，
-没有势力做为后盾，
-也就看着眼馋，
-捡捡垃圾，
-捡捡漏。
+In fact, to put it plainly, it would be the major sects that would pick what they wanted first which would be followed by the cultivator clans. The rogue cultivators, without powerful backing to rely on, could only look on enviously and pick over what was left.
 
-当然，
-也不能说散修一无所获，
-白辛苦，
-至少，
-这是修真界难得一见的盛世，
-多少也算长了见识，
-此其一，
-其二，
-在宝物交易会前，
-大家还可以摆摊，
-这些东西，
-门派和各家族就看不上了，
-但散修却可以通过交换了方式，
-找到自己急需的东西。
+Of course, it can not be said that the rogue cultivators would be wasting their efforts and leave empty handed. At least, this was an rarely seen event in the world of cultivation and can be considered to be gaining worldly experience. Also, anyone can set up a stall at the fair. The large sects and cultivator clans would not even look at these stalls, but the rogue cultivators and exchange items here and acquire what they needed.
 
-看着眼前密密麻麻的修真者，
-林轩在心分析了一下这次宝物交易会的形势，
-这是他来之前，
-就已经收集到的情报，
-并总结出来的，
-只是唯一没有想到的是，
-这次交易会比想象的还要盛大，
-明天才开幕，
-就已经引来了这么多的修真者。
+Looking that the dense crowd of cultivators in front of him, Lin Xuan analyzed the situation of the treasures trade fair. This was what he concluded with the information available to him before coming here. But the did not realize that this trades fair would be so grand that even though it would only start tomorrow, it had already attracted to many cultivators.
+
