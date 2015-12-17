@@ -16,4 +16,4 @@ markdown: kramdown
 collections:
   translated:
     output: true
-    permalink: /:path:output_ext
+    permalink: /:path/
