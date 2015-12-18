@@ -69,3 +69,5 @@ Gradually, the number of people that came here grew increasingly scarce.
 
 However, this day, a youth that was not even twenty showed up below Sky Pillar peak. He looked very ordinary and wore a set of coarse clothes. This was done by Lin Xuan intentionally. This time, he came out quietly to purchase techniques, so of course he did not want to draw attention to himself. Wearing the uniform of the Floating Cloud Valley would not only be an eyesore, but it would also expose his identity. So he purposely changed into clothes that a rogue cultivator would wear, and with his ordinary appearance, as long as he stood in a crowd, not one would recognize him.
 
+- - -
+- - -

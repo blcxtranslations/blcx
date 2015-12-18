@@ -13,70 +13,23 @@ completed: false
 
 Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenly attracted to a stall and stopped. In fact, he was not the only one, there was already a crowd around the stall.
 
-究竟是什么宝贝能够吸引如此众多的修真者，
-怀着好奇的心理，
-林轩走了过去。
+Lin Xuan walked over, curious as to just what kind of treasure could draw such a large crowd of cultivators.
 
-摊主是一个憨头憨脑的青年，
-大约二十三四岁年纪，
-被那么多人围着，
-明显有些紧张，
-脸憋得通红，
-摊位上摆着各种各样的符箓。
+The owner of the stall was a muddleheaded youth who looked to be in his early twenties. With so many people surrounding him, he was very nervous and his face was flushed. There were a wide variety of seals[^1] placed in his stall.
 
-符箓，
-是指修真者将法术封印在特定的符纸里面，
-这样对敌的时候，
-既不用消耗灵力，
-而且还可以瞬发，
-好处显而易见。
+Items created when cultivators sealed their techniques into special seal paper were called seals. Using seals, when facing enemies, one did not need to use spiritual power and use was instantaneous. So the benefits to using them were clear.
 
-对于高阶修真者来说，
-符箓不算什么，
-但对低阶修士而言，
-却是很宝贵且适用的东西，
-尤其是对敌，
-多一张符箓，
-有的时候就可以让胜利的天平倾斜。
+To high level cultivators, seals useless, but to low level cultivators, they were very useful and precious. In particular, when dealing with enemies, having one extra seal could be the difference between victory and defeat.
 
-但相应的，
-符箓的制作十分繁杂，
-不仅要特定的符纸，
-而且还要消耗大量灵力，
-且成功率不高，
-越是高级的法术，
-制作越难，
-所以符箓在修真界也算是稀罕的珍贵之物。
+But correspondingly, the production of seals were very complicated. Not only did it require the correct kind of sealing paper, it also required a large amount of spiritual power, and has had a low success rate. The high levelled the technique, the harder it was to make. Therefore, seals were precious and rare items in the world of cultivation.
 
-林轩在集市里逛了两个时辰，
-也没有看见有符箓出售，
-没想到此摊位却有这么多，
-粗略数了数，
-居然有近百张。
+Lin Xuan strolled around the market for four hours and had not seen any stalls selling seals. And yet here was a stall with so many of them. Taking a rough estimate, there were almost a hundred of them.
 
-难怪它会吸引如此多的修真者。
+No wonder it attracted so many cultivators.
 
-林轩挤到前面，
-然而在看清楚摆出来的符箓以后，
-却大失所望，
-封印有高阶法术的符箓本来就没有想过能在这里买到，
-暂且不说，
-阶法术的符箓居然也一张也没有。
+Lin Xuan pushed to the front and after taking a look at the seals placed in the stall, was greatly disappointed. He never thought there would be high level seals for sale here, but there was not even a single mid grade seal.
 
-所出售的符箓全是封印的低阶法术，
-而且即便在低阶法术之，
-也是最低级，
-最入门的那种，
-比如说冰弹诀，
-火焰术，
-流沙术，
-滚石落，
-荆棘术等等，
-种类倒是丰富，
-但这些法术，
-便是灵动期第一层的低阶修士，
-也能轻易施展出来，
-买来有什么用？
+The seals that were for sale were all low grade, and they were the most basic and lowest of the low grade techniques. For example, the Hail technique, the blaze technique, the Quicksand technique, the Rock Fall technique, the Briers technique, etc. There was plenty of variety, but these kinds of techniques, even Spirit Gathering first layer cultivators could easily use, what was the point of purchasing them?
 
 所以别看围了那么多人，
 却没有一个修士愿意购买，
@@ -98,7 +51,7 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 纷纷散去，
 青年的脸更红，
 叹了口气，
-开始收拾摊，
+开始收拾摊子，
 他在这里已经摆了两天，
 可还是一张符都没有买出去。
 
@@ -130,7 +83,7 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 因而陷入了两头不讨好的尴尬境地。
 
 这个憨厚青年，
-其实是道符山的低阶弟，
+其实是道符山的低阶弟子，
 从宗派的名字，
 就可以听出这派的修士善于制符。
 
@@ -160,12 +113,12 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 可却一张也没有卖掉。
 
 心灰意冷，
-加上又到了午吃饭的时间，
+加上又到了中午吃饭的时间，
 收摊。
 
 整个过程，
 林轩一声也没有出，
-然而心却另有了打算，
+然而心中却另有了打算，
 这些符箓他想买，
 原因无他，
 低阶法术虽然垃圾，
@@ -195,7 +148,7 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 
 要买也要隐秘一点。
 
-心有了这样的打算，
+心中有了这样的打算，
 林轩虽然随着其他修士一起散去，
 却并没有走远，
 而是在附近漫不经心的闲逛，
@@ -210,14 +163,14 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 周围的修真者顿时少了起来，
 林轩瞅瞅四周没有人注意，
 悄悄隐身到一株大树的后面，
-然后在怀一模，
-就从怀的储物手镯取出一物。
+然后在怀中一模，
+就从怀中的储物手镯中取出一物。
 
 这是一张薄膜样的东西，
 上面画着人的五官，
 栩栩如生，
 这不是修真界的宝物，
-而是世俗武林人常用的一种东西——易容面具。
+而是世俗武林中人常用的一种东西——易容面具。
 
 顾名思义，
 带上它以后，
@@ -230,10 +183,15 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 根本就还没有办法学，
 所以他只好退而求其次。
 
-这个面具是林轩来凌云门的途在世俗购买的，
+这个面具是林轩来凌云门的途中在世俗购买的，
 此次是自己第一次出远门，
 参加修真者集会，
 准备当然要充分，
 而事实也证明，
 林轩的心思也果然没有白花，
 这个易容面具马上就要派上用场了。
+
+- - -
+- - -
+
+[^1]: [Fulu](https://en.wikipedia.org/wiki/Fulu) are basically paper seals / talisman that could summon, control, exorcise spirits and deities.

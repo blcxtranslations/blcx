@@ -76,3 +76,6 @@ After doing all this, Lin Xuan started to evaluate his Ice Needles spell. To be 
 Although fascinating, Lin Xuan was not that kind of unrealistic person. With the cultivation of Spirit Gathering, it is impossible to achieve perfection in the Ice Needles spell. But with the one hundred ice needles he could control, its power was still comparable to some high rank techniques.
 
 One must have the drive to improve, but they can not be too ambitious. The current level had already reached his goal.
+
+- - -
+- - -

@@ -67,3 +67,5 @@ Li Hai looked at Lin Xuan curiously. Although the junior brother Zhao's cultivat
 
 This remark was very reasonable, and combined with Lin Xuan's perfect lying face, caused Li Hai and Chen Feng to have zero doubts. And once again, they gave the answers to Lin Xuan's questions.
 
+- - -
+- - -

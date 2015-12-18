@@ -24,11 +24,11 @@
 
 - word: "驱物术"
   translation: "telekinesis"
-  category: "Miscellaneous"
+  category: "Techniques"
 
 - word: "灵控术"
-  translation: "spritual control"
-  category: "Miscellaneous"
+  translation: "spiritual control"
+  category: "Techniques"
 
 - word: "云鹤真人"
   translation: "Immortal Yun He"
@@ -86,3 +86,40 @@
   translation: "Tribulation Ascension"
   category: "Cultivation Stages"
 
+- word: "冰弹诀"
+  translation: "Techniques"
+  category: "Hail technique"
+
+- word: "火焰术"
+  translation: "Blaze technique"
+  category: "Techniques"
+
+- word: "流沙术"
+  translation: "Quicksand technique"
+  category: "Techniques"
+
+- word: "滚石落"
+  translation: "Rock Fall technique"
+  category: "Techniques"
+
+- word: "荆棘术"
+  translation: "Briers technique"
+  category: "Techniques"
+
+- word: "冰针诀"
+  translation: "Ice Needles technique"
+  category: "Techniques"
+
+- word: "灵力护盾"
+  translation: "Spirit Shield"
+  category: "Techniques"
+
+
+- word: "御风术"
+  translation: "Imperial Wind technique"
+  category: "Techniques"
+
+
+- word: ""
+  translation: ""
+  category: ""

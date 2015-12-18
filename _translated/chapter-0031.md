@@ -72,4 +72,5 @@ So to the Soaring Cloud sect, this was a catastrophe.
 
 For this kind of tiny sect, it was impossible for them to find a strong helping hand. After a series of efforts, and many considerations, the Soaring Cloud sect finally made a painful and helpless choice to disband, because this was the only way to survive total extermination.
 
-
+- - -
+- - -

@@ -79,3 +79,6 @@ Even though it was not likely to encounter danger in the sect, but it is always 
 
 Looks like it was time to learn some
 spells.
+
+- - -
+- - -

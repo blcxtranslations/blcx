@@ -83,3 +83,5 @@ A cultivator up ahead nodded, and regretfully said: "Although the Soaring Cloud 
 
 "Yes, I heard there are also a lot of Foundation Building mid rank techniques for sale."
 
+- - -
+- - -

@@ -75,6 +75,3 @@ After meditating for around two hours, he fully recovered his spiritual power. L
 [^1]: The author uses a word that refers to a long and thin piece of wood / bamboo slip that was strung together to form books in ancient China. [Wikipedia](https://en.wikipedia.org/wiki/Bamboo_and_wooden_slips)
 
 [^2]: People wear clothes, whose folds, form pockets in front of their bosom.
-
-
-

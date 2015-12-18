@@ -72,3 +72,6 @@ The principle is not difficult, it could even be said to be very simple. It was 
 It was very stable and nothing could get in. Of course, there was a limit, which would differ based on the spiritual power of each person.
 
 To put it bluntly, although Spirit Shield is just a spell, but was long as there is enough spiritual power to support it, practising this spell would be very easy. Even Lin Xuan, with no spiritual roots, because his spiritual power was strong, he only split three short days to become proficient in this spell!
+
+- - -
+- - -

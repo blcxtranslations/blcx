@@ -70,3 +70,6 @@ And in Floating Cloud Valley, even most of the martial uncles only had high grad
 Apart from the Jade Snow Bracelet, Zhou Yan's spirit tools were also extraordinary, the golden rope could bound enemies, this was a tool whose use was between attacking and defending, it is a medium grade spirit tool.
 
 And the flying sword was high grade spirit tool!
+
+- - -
+- - -

@@ -61,3 +61,5 @@ Of course, it can not be said that the rogue cultivators would be wasting their 
 
 Looking that the dense crowd of cultivators in front of him, Lin Xuan analyzed the situation of the treasures trade fair. This was what he concluded with the information available to him before coming here. But the did not realize that this trades fair would be so grand that even though it would only start tomorrow, it had already attracted to many cultivators.
 
+- - -
+- - -
