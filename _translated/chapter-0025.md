@@ -51,7 +51,7 @@ These so called spirit tools, are just simplified versions of magical treasures.
 
 With the fourth level of Spirit Gathering stage, one can start manipulating spirit tools, but this was only in theory. The only reason is, even though spirit tools could not compare to magic treasures, they were still very precious. Generally speaking, only Foundation Building cultivators would have them. For someone in the Spirit Gathering stage, apart from those few who inherited some from their ancestors, or those who with natural talent who were granted them by their sect elders, it was impossible to have spirit tools.
 
-But Lin Xuan was different, having acquired Zhang Yi and Zhou Yan's treasures, he was very rich. Other than spirit stones and talismans, there were also spirit tools, and there were even three of them.
+But Lin Xuan was different, having acquired Zhang Yi and Zhou Yan's treasures, he was very rich. Other than spirit stones and seals, there were also spirit tools, and there were even three of them.
 
 The first one was the golden rope that Zhou Yan used to kill her master, after shrinking, it was only a foot long, but after putting spiritual power in it, it can lengthen, and can be used to bound the enemy.
 

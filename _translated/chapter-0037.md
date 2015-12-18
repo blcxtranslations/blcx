@@ -8,7 +8,7 @@ characters: 2202
 chinese: "http://baishuku.com/html/30/30364/12441353.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
 Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenly attracted to a stall and stopped. In fact, he was not the only one, there was already a crowd around the stall.
@@ -31,167 +31,59 @@ Lin Xuan pushed to the front and after taking a look at the seals placed in the 
 
 The seals that were for sale were all low grade, and they were the most basic and lowest of the low grade techniques. For example, the Hail technique, the blaze technique, the Quicksand technique, the Rock Fall technique, the Briers technique, etc. There was plenty of variety, but these kinds of techniques, even Spirit Gathering first layer cultivators could easily use, what was the point of purchasing them?
 
-所以别看围了那么多人，
-却没有一个修士愿意购买，
-过了良久，
-才终于有一个声音用调侃的语气道：“摊主，
-你的这些符怎么卖？”
+Therefore, even though there were many cultivators around the stall, not a single one was will to purchase anything. Finally, after a long time, a voice, with a ridiculing tone asked: "Stall owner, what are the prices for your seals?"
 
-青年的脸更红了，
-头也低了下去，
-他的那副表情看得旁人都着急：“一粒下品洗髓丹两张。”
+The youth flushed even more and lowered his head. Adopting an expression that worried the surrounding cultivators, he said: "One low grade Purified Essence pill for two seals."
 
-“哼，
-这种低阶的法术，
-轻易就能施展出来，
-还卖那么贵，
-想丹药想疯了。”
+"Hmph! This kind of low grade technique can easily be executed, and you still want that much for it. Your want for pills have driven you insane."
 
-众人也一阵嘲讽，
-纷纷散去，
-青年的脸更红，
-叹了口气，
-开始收拾摊子，
-他在这里已经摆了两天，
-可还是一张符都没有买出去。
+The crowd also ridiculed him for a while, then slowly dispersed. The youth flushed some more, then sighing, he began to pack up his stall. He had already been here for two days, but he had not sold a single seal.
 
-这倒不是低阶的符箓真的没用，
-其实对于法力不高的修真者还是不错的防身选择，
-之所以难卖，
-有两个原因。
+It was not because low levelled seals were useless, for cultivators with low spirit power, they were a good choice for self defense. There were two reasons that caused them to be difficult to sell.
 
-首先，
-筑基期的修士肯定不会买，
-因为这种低阶法术他们根本就看不上眼，
-自然不愿意白白花费晶石或者丹药交换，
-其二，
-如果是灵动期低阶的修真者，
-虽然符箓里的法术他们也可以施展，
-但毕竟要消耗灵力，
-且速度较慢，
-有好用的符箓当然想要了，
-可问题是，
-他们穷啊，
-心有余而力不足，
-只能吃不到葡萄说葡萄酸了。
+Firstly, Foundation Building cultivators would definitely not purchase these, because this kinds of low levelled techniques were not worth their time, so they would naturally not waste spirit stones or pills on this kind of exchange. Secondly, for Spirit Gathering cultivators, although they can execute these techniques, it would consume spiritual power and was slower to execute. So of course they would want seals. But the problem was, they were poor, so it was beyond their grasp, and they could only insult what they could not have[^2].
 
-也就是说，
-这种低阶的符箓，
-筑基期的高阶修士不想要，
-灵动期的又买不起，
-或者是觉得不划算，
-因而陷入了两头不讨好的尴尬境地。
+That was to say, these kinds of low levelled seals, Foundation Building cultivators don't want them, and Spirit Gathering cultivators either can't afford them or did not think it was a good deal. And thus he was stuck in embarrassing situation where he could not please either side.
 
-这个憨厚青年，
-其实是道符山的低阶弟子，
-从宗派的名字，
-就可以听出这派的修士善于制符。
+This simple and honest youth was from the Seal Mountain. One can tell from the sect's name that the cultivators there would be adept at creating seals.
 
-这些符箓都是他自己做的，
-只不过限于修为浅，
-只能封印一些最低级的法术。
+These seals were all crafted by him, but because his cultivation level was low, he could only make some of the lowest levelled seals.
 
-青年其实也想将符卖便宜一些，
-好快点出手，
-可问题是，
-制符不是一件容易的工作，
-且不说本身就需要消耗特定的符纸，
-以及妖兽血等珍贵的材料，
-而且成功率又不高。
+The youth actually wanted to sell the seals for a cheaper price so he would be able to sell them fast. But the problem was that crafting seals was not an easy task. Not to mention the fact that seals needed specialty seal paper, they still needed precious materials such as beast or fiend blood, and the success rates were not high.
 
-这近百张符，
-已经花费了他的全部身家，
-两张符箓一粒丹药真的不贵，
-成本价。
+These almost one hundred seals had already consumed all of his wealth. One pill per two seals was really not expensive, he would just be breaking even.
 
-可问题是这种低阶符箓属于鸡肋，
-不好卖。
+But these kinds of low levelled seals were of little value and were hard to sell.
 
-青年来得比林轩还早，
-摆摊三天，
-围观的修真者倒是多不胜数，
-可却一张也没有卖掉。
+The youth arrived before Lin Xuan and had been here for three days. There were numerous cultivators checking out his stall, but not a single seal had been sold.
 
-心灰意冷，
-加上又到了中午吃饭的时间，
-收摊。
+Be disheartened and with the fact that it was time for the midday meal, he decided to pack up his wares.
 
-整个过程，
-林轩一声也没有出，
-然而心中却另有了打算，
-这些符箓他想买，
-原因无他，
-低阶法术虽然垃圾，
-可只要数量够多，
-铺天盖地的砸下去，
-一样具有莫大的威力。
+This whole time, Lin Xuan did not make a single sound, but he had other ideas in mind. He wanted to purchase these seals. This only reason being, although there low levelled techniques were garbage, but as long as there was enough of them, he could still blot out the sky and cover the ground, smashing them down on the enemy, they would still have overwhelming power.
 
-比如说这近百张低阶符，
-如果同时使用，
-就算是筑基初期的高手，
-也会手忙脚乱，
-就算伤害不了敌人，
-也能为自己争取到足够的逃跑时间。
+For example, these one hundred seals. If they were all used at the same time, even a Foundation Building expert need to frantically defend. And even if they could not wound the enemy, they would definitely at least give the user enough time to escape.
 
-当然修真界，
-除了林轩，
-不会谁有这么奢侈，
-有了提纯的本事，
-林轩缺什么，
-也不会缺丹药，
-一粒两张，
-对自己来说是很简单的事。
+Of course, in the world of cultivation, other than Lin Xuan, would else would be so wasteful? With the ability to purify, what does Lin Xuan lack? He didn't lack pills, so one pill per two seals was a very simple transaction.
 
-不过林轩并没有立刻购买，
-因为一次拿出五十枚洗髓丹太引人注意了，
-林轩才不会干这种可能引来灾祸的傻事。
+But Lin Xuan did not try to purchase them immediately, because pulling out fifty Purified Essence pills would attract too much attention. Lin Xuan would not do this kind of stupid thing that would only lead to disaster.
 
-要买也要隐秘一点。
+He would need to find a more secluded place to buy them.
 
-心中有了这样的打算，
-林轩虽然随着其他修士一起散去，
-却并没有走远，
-而是在附近漫不经心的闲逛，
-当然他的心神已经全部放在了那制符的摊位上。
+Coming up with this plan, Lin Xuan followed the other cultivators and walked off, but he did move far away and only casually strolled about neared the stall. Of course, all of his attention was focused on that stall selling seals.
 
-没过多久，
-憨厚青年就心灰意冷的收拾行装，
-准备离开广场，
-林轩不动声色的跟在后面。
+Not long after, the simple and honest youth dishearteningly packed up his items, getting ready to leave the plaza. Lin Xuan quietly followed him.
 
-出了集市以后，
-周围的修真者顿时少了起来，
-林轩瞅瞅四周没有人注意，
-悄悄隐身到一株大树的后面，
-然后在怀中一模，
-就从怀中的储物手镯中取出一物。
+After leaving the marketplace, the number of cultivators suddenly dropped. Checking to see that no one had noticed him, he quietly stepped behind a large tree and removed a item from his storage bracelet that was concealed in his bosom.
 
-这是一张薄膜样的东西，
-上面画着人的五官，
-栩栩如生，
-这不是修真界的宝物，
-而是世俗武林中人常用的一种东西——易容面具。
+It was a membrane like item that had a very lifelike face painted upon it. This was not a treasure of the cultivation world, but was instead from the secular world. Martial artists often used these disguising masks.
 
-顾名思义，
-带上它以后，
-就可以改变人的样貌，
-从而达到保密的目的，
-虽然在修真界，
-有着更高级的手段，
-某些功法就具有易容换形的效果，
-可无奈以林轩现在的修为，
-根本就还没有办法学，
-所以他只好退而求其次。
+As the name suggests, after putting it on, it would change a person's appearance, so I can conceals their identity. Although in the cultivation world there are more advanced ways to do this, such as some advanced techniques to change facial features. But Lin Xuan's level was too low and he simply had no way to learn these techniques, so he could only go with his second best option.
 
-这个面具是林轩来凌云门的途中在世俗购买的，
-此次是自己第一次出远门，
-参加修真者集会，
-准备当然要充分，
-而事实也证明，
-林轩的心思也果然没有白花，
-这个易容面具马上就要派上用场了。
+He had purchased this mask in the secular world on his way to the Soaring Cloud sect. This was his first journey, so he needed to be fully prepared to participate in the gathering of cultivators. But this also proved that Lin Xuan really did not waste his time thinking and preparing because he already had a use for this mask.
 
 - - -
 - - -
 
 [^1]: [Fulu](https://en.wikipedia.org/wiki/Fulu) are basically paper seals / talisman that could summon, control, exorcise spirits and deities.
+
+[^2]: The literal translation here is "If they could not eat the grapes, they could only call it sour." So basically, the can only insult what they could not have.

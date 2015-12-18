@@ -37,7 +37,7 @@ Keeping these objectives in mind, Lin Xuan arrived at the plaza and walked into 
 
 Although the rogue cultivators made up the majority, the various sects all more or less sent some members. For example, Floating Cloud Valley sent some disciples led by two Foundation Building elders. Although in the whole world of cultivation, the Floating Cloud Valley's strength tended towards the lower end, but in the borders of the Yan prefecture, it was definitely a large and influential sect. Two cultivators in the Foundation Building stage was very shocking and frightening to the younger cultivators.
 
-Other than the Floating Cloud Valley, The sects of Chong prefecture also sent elders over. These seven or eight sects of various sizes included the Flame Spirit sect, the Talisman mountain, the Starry Sky clan, etc.
+Other than the Floating Cloud Valley, The sects of Chong prefecture also sent elders over. These seven or eight sects of various sizes included the Flame Spirit sect, the Seal Mountain, the Starry Sky clan, etc.
 
 These sects were also the most powerful force participating in the treasures trade fair. Their objectives were the precious crafting materials and spirit tools. These treasures can greatly increase the strength of their sects. They would not let them lightly fall into the other sects' hands. There will definitely be fierce competition for them.
 
