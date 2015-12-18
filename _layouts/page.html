@@ -59,7 +59,7 @@ layout: default
   </tr>
   <!-- Sponsors Go Here -->
   <script type="text/javascript">
-    var cost = {{ page.characters}} * temperedimmortal.dpc;
+    var cost = {{ page.characters }} * temperedimmortal.dpc;
     var beforecost = 0;
   </script>
   {% for chapter in site.translated %}
@@ -70,7 +70,7 @@ layout: default
 
     {% if chapter.sponsored %}
       <script type="text/javascript">
-        beforecost += {{ chapter.characters}} * temperedimmortal.dpc;
+        beforecost += {{ chapter.characters }} * temperedimmortal.dpc;
       </script>
     {% endif %}
   {% endfor %}
@@ -116,8 +116,7 @@ layout: default
 
       {% unless forloop.first %}
         <br />
-        <a href="{{site.baseurl}}{{prev.url}}">Previous Chapter: {{prev.name}}</a>
-        <!-- {{ prev.url }} -->
+        <a href="{{ site.baseurl }}{{ prev.url }}">Previous Chapter: {{ prev.name }}</a>
       {% endunless %}
 
       {% unless forloop.last %}
@@ -127,7 +126,7 @@ layout: default
 
         {% if dtime < zero %}
           <br />
-          <a href="{{site.baseurl}}{{next.url}}">Next Chapter: {{next.name}}</a>
+          <a href="{{ site.baseurl }}{{ next.url }}">Next Chapter: {{ next.name }}</a>
         {% endif %}
 
       {% endunless %}

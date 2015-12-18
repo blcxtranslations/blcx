@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+
+
+<div class="page">
+  <h1 class="page-title">{{ page.short }}</h1>
+
+  <h2 class="page-date">
+    <time datetime="{{ page.date }}" itemprop="datePublished">
+    {% assign d = page.date | date: "%-d" %}
+    {{ page.date | date: "%A" }},
+    {{ page.date | date: "%b" }}
+    {% case d %}
+      {% when "1" or "21" or "31" %}
+        {{ d }}st,
+      {% when "2" or "22" %}
+        {{ d }}nd,
+      {% when "3" or "23" %}
+        {{ d }}rd,
+      {% else %}
+        {{ d }}th,
+    {% endcase %}
+    {{ page.date | date: "%Y" }}
+    </time>
+  </h2>
+  Back to <a href="{{ site.baseurl }}announcements">Announcements</a>
+
+  <br />
+  <br />
+
+  {{ content }}
+
+  {% for announcement in site.announcements %}
+    {% if announcement.short == page.short %}
+
+      {% unless forloop.first %}
+        <br />
+        Previous Announcement:
+        <br />
+        &nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp
+        <a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.short }}</a>
+      {% endunless %}
+
+      {% unless forloop.last %}
+        {% assign next = site.announcements[forloop.index] %}
+
+        <br />
+        Next Announcement:
+        <br />
+        &nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp
+        <a href="{{ site.baseurl }}{{ next.url }}">{{ next.short }}</a>
+
+      {% endunless %}
+
+    {% endif %}
+
+    {% assign prev = announcement %}
+
+  {% endfor %}
+
+</div>
+
+
+{% include disqus.html %}

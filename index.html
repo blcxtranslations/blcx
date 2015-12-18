@@ -4,9 +4,9 @@ layout: default
 
 <div class="home">
 
-  <h1><a href="{{site.baseurl}}/announcements.html" class="page-heading">Announcements</a></h1>
+  <h1><a href="{{ site.baseurl }}/announcements.html" class="page-heading">Announcements</a></h1>
 
-  {% assign announcements = site.data.announcements | reverse %}
+  {% assign announcements = site.announcements | reverse %}
   {% assign count = 0 | plus: 0 %}
   {% assign zero = 0 | plus: 0 %}
   <ul>
@@ -19,7 +19,9 @@ layout: default
       </strong>
       <br />
       &nbsp&nbsp&nbsp
-      {{ announcement.short }}
+      <a href="{{ site.baseurl }}{{ announcement.url }}">
+        {{ announcement.short }}
+      </a>
     </li>
     {% if count >= 3 %}
       {% break %}
@@ -75,7 +77,7 @@ layout: default
         &nbsp&nbsp&nbsp
         {{ chapter.number }}
         &nbsp&nbsp&nbsp
-        <a href="{{site.baseurl}}{{chapter.url}}">
+        <a href="{{ site.baseurl }}{{ chapter.url }}">
           {{ chapter.title }}
         </a>
       </li>
@@ -142,7 +144,7 @@ layout: default
         &nbsp&nbsp&nbsp
         {{ chapter.number }}
         &nbsp&nbsp&nbsp
-        <a href="{{site.baseurl}}{{chapter.url}}">
+        <a href="{{ site.baseurl }}{{ chapter.url }}">
           {{ chapter.title }}
         </a>
       </li>

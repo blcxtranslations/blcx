@@ -7,10 +7,10 @@ permalink: /announcements.html
 <h1>
   Announcements
 </h1>
-
+<br />
 
 <ul>
-  {% for announcement in site.data.announcements reversed %}
+  {% for announcement in site.announcements reversed %}
 
   <li>
     <strong>
@@ -19,7 +19,7 @@ permalink: /announcements.html
     <br />
     &nbsp&nbsp&nbsp
     &nbsp&nbsp&nbsp
-    {{ announcement.content }}
+    <a href="{{ site.baseurl }}{{ announcement.url }}">{{ announcement.short }}</a>
   </li>
   <br />
 
