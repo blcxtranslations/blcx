@@ -8,249 +8,86 @@ characters: 2185
 chinese: "http://baishuku.com/html/30/30364/12441354.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
-虽然是世俗的东西，
-但只要用好了，
-一样可以起到良好效果，
-林轩做事情向来滴水不漏，
-虽然他已经决定要在无人的地点像憨厚青年提出购买符箓，
-对方看起来也是老实人，
-可为了以防万一，
-林轩还是不打算用真面目与他交易。
+Although it was an item from the secular world, but as long as it was applied properly, it can still be used to great effect. Lin Xuan always did things in a leakproof manner. Although he had already decided to purchase the seals from the simple youth in a deserted place, and even though the youth looked honest, but just to be safe, Lin Xuan still decided not to deal with him with his true appearance.
 
-这易容面具可以改变人的样貌，
-当然，
-这种小把戏瞒不过筑基期修士的神识，
-但那青年一看就是与自己的一样的灵动期弟子，
-只要他不刻意用法术查看，
-是不可能发现自己真面目的。
+This mask can be used to change one's appearance, but of course, it could not trick the spiritual sense of a Foundation Building cultivator. But that youth definitely looked to be in the same stage, the Spirit Gathering stage, as Lin Xuan, so as long as he does not use some technique to check, he would not be able to Lin Xuan's true appearance.
 
-而刻意用“显形术”观察对方，
-按照修真者的规矩，
-是一种很失礼甚至可以说有敌意的行为，
-自己乃上门的大主顾，
-相信那青年就算再呆头呆脑，
-也不会干这么莽撞的蠢事。
+Being a big customer, Lin Xuan believed that even if the youth was dull in the head, he would not do something so reckless. Because to intentionally use the Reveal technique on another, according to the rules of the cultivation world, was very rude and even hostile behaviour
 
-心中将可能发生的情景预想了一遍之后，
-林轩觉得不可能出意外，
-也没有破绽，
-于是他将易容面具带上，
-顿时林轩的样貌完全变了，
-变成了一个黑紫脸膛，
-相貌粗鲁的大汉。
+After envisioning all the possible scenarios, Lin Xuan felt that there was no chance of any accidents and that there were no flaws. So he put on the mask, and suddenly, his appearance completely changed, turning him into a ruddy faced unrefined looking fellow.
 
-然后，
-林轩又将一个圆圆的东西放在舌头下面，
-这也是他在世俗武林购买的，
-可以改变声音的小物件。
+Then, Lin Xuan placed a small round object underneath his tongue. This was also an item purchased in the the secular martial arts world and can change one's voice.
 
-做好这一切后，
-林轩从大树背后出来，
-继续不紧不慢的跟在青年后面，
-走了大约一刻钟时间，
-来到了一处比较荒僻的地点。
+After completing all this, Lin Xuan walked out from behind the tree and continued to follow the youth at a constant pace. After walking for about a quarter of an hour, they arrived at an deserted place.
 
-是时候该行动了！
+It was time to act!
 
-林轩打量了一下四周，
-无人，
-于是他加快了脚步：“道友，
-请留步！”
+Lin Xuan took a look around and did not see anyone else. He quickened his pace: "Fellow cultivator, please wait!"
 
-“你是……”憨厚青年回过头来，
-有些疑惑的看了林轩一眼，
-眼中闪过一丝警惕，
-迟疑着道：“道友叫住在下，
-有何事？”
+"You are..." The simple youth turned around and looked at Lin Xuan with doubt. With a flash of vigilance in his eye he hesitantly said: "Fellow cultivator asked me to wait, what did you need?"
 
-他脸上戒备的表情，
-林轩看得一清二楚，
-心中也微微有些感慨，
-别看这青年一副呆头呆脑，
-心思却也细腻，
-知道遇见陌生人要警觉，
-不过还是太嫩了，
-脸上的表情太明显。
+Lin Xuan had some mixed feelings. He could clearly see that the youth had an alert expression on his face. Even though he looked dull in the head, he had a fine mind. He know that he needed to be guarded around strangers, but he was still to inexperienced, because the expressions on his face were too obvious.
 
-林轩微笑着走上前，
-故意将对方戒备的表情视而不见：“在下赵刚，
-想要买下道友的符箓。”
+Lin Xuan smiled and stepped forward, deliberately pretending he had not seen his expression. "I am Zhao Gang and I would like to buy fellow cultivators seals."
 
-“你要买符？”
+"You want to buy seals?"
 
-青年大喜，
-顿时将警惕性抛到九霄云外：“道友真要买符，
-太好了，
-你要多少。”
+The youth was overjoyed and threw his caution to the winds. "Fellow cultivator wants to buy seals, that's great! How many do you want?"
 
-也难怪他这么高兴，
-摆摊三天，
-却一张符也没有卖掉，
-好不容易有了第一笔生意，
-心情当然激动，
-毕竟年轻人大多性格浮躁，
-像林轩这样稳重成熟的少之又少。
+It was no wonder that he was so happy, he had peddled for three days but had not sold a single one. Now that he finally had a customer. he was very excited. After all, most youths were impetuous, it was hard to find many that were as mature as Lin Xuan.
 
-“你有多少？”
+"How many do you have?"
 
-听见这句反问，
-青年先是一愣，
-接着便笑得合不拢嘴：“呵呵，
-道友难道需要很多吗，
-我数数。”
+Hearing this question, the youth was dazed for a moment, then he smiled from ear to ear. "Haha, can it be that fellow cultivator needs a lot of them? Let me count them."
 
-说着便从怀里拿出一大叠符箓，
-埋头数了起来，
-林轩不动声色，
-既不高兴，
-也不着急，
-悠闲的在旁边等了起来。
+He reached into his bosom and pulled out a large stack of seals as he was speaking and focused on counting them. Lin Xuan's expression did not change, he did not show happiness nor did he anxious. He just casually waited beside him.
 
-他之所以挑这个地点叫住青年，
-是经过仔细思考的，
-这条路人很少，
-平均小半个时辰才会有人经过，
-所以不用着急，
-有足够的时间。
+The reason he picked this spot to stop the youth was because of careful consideration. This road was not often used and on average, it would be only used once every hour. So he was not worried, there was ample time.
 
-“一共有一百临八张符。”青年很快数完了：“道友要多少？”
+"There is a total of one hundred and eight seals." The youth had finished counting. "How many would fellow cultivator like?"
 
-“嗯，
-全要。”
+"Okay, I'll take all of them."
 
-“全要。”青年张大了嘴，
-喜上眉梢，
-比自己预想的还好，
-喜道：“既然如此，
-那我也爽快，
-原本是两张符一粒下品洗髓丹，
-既然道友买那么多，
-那我就便宜点，
-你给个整数，
-五十粒丹药就够了。”
+"All of them." The youth's mouth hung open. He was very happy, this was much better than what he had imagined, so he happily said: "If it's like that, than I will also be straightforward. Originally, it was two seals for one low grade Purified Essence pill, since fellow cultivator wants so many, then I will lower the price too. I'll give you a round number[^1], fifty pills are enough."
 
-五十，
-林轩在心中默算了一下，
-根据今天了解到的行情，
-这个价格不算贵，
-基本上也就制作符箓的成本了，
-对自己来说更不算什么。
+Fifty. Lin Xuan made a quick calculation. According to the knowledge he gained in the market today, this was not a high price. It was basically the cost of crafting that many seals. That amount was nothing to him.
 
-虽然心中同意，
-但表面上，
-林轩并没有立刻将丹药拿出来，
-反而装出一副肉痛的表情，
-沉吟良久，
-在青年等得忐忑不安，
-几乎快沉不住气的时候，
-才叹了口气，
-像是下了莫大决心的道：“唉，
-谁让我迫切需要这些符，
-罢了，
-成交。”
+Although he agreed with the price, but he did not immediately take out the pills. Instead, he put on a pained expression and pondered for a while. This made the youth fidget, and just before when the youth could not hold it anymore, Lin Xuan sighed. Pretending to finally making a choice with great determination, he said: "Alas, I urgently need these seals, fine, deal."
 
-听了这句话，
-青年总算松了口气，
-咧着嘴呵呵呵的傻笑。
+Hearing this, the youth finally let go of the breath he was holding, and started giggling.
 
-“唉，
-这些丹药可是辛苦积攒了数年，
-我的全部身家了。”林轩一边嘟囔着，
-一边从怀里掏出了五个玉瓶。
+"Alas, I spent lots effort and many years accumulating these pills, and they are all I have." Lin Xuan muttered this while pulling five jade bottles from his bosom.
 
-这也是林轩聪明的地方，
-做事情不遗漏小细节，
-比如说，
-一个瓶子虽然可以装一百粒丹药，
-但那样太显眼，
-所以林轩故意分开了来装，
-每个瓶子装十粒，
-这样就给人一种是辛苦积攒下来的假象，
-不引人注意了。
+This was also Lin Xuan being clever and not missing small details when doing things. For example, although each bottle could hold one hundred pills, it would be too eye catching. Therefore, Lin Xuan deliberately packed the pills separately, ten pills per bottle. This way, he gave the impression that these pills were collected with great effort, and would not attract unwanted attention.
 
-一手交钱一手交货，
-青年喜滋滋的接过丹药，
-林轩也开始清点符箓，
-没有错，
-林轩不想再耽搁：“赵某告辞了。”
+Exchanging the pills for seals, the you happily received the pills, and Lin Xuan started counting the seals. They were all there. Lin Xuan did not want to stay for long: "Zhao says goodbye.[^2]"
 
-“道友走好。”青年也抱拳道，
-这一次交易，
-皆大欢喜。
+The youth saluted: "Fellow cultivator, have a nice day." This transaction was the satisfaction of everyone involved.
 
-回到驿馆，
-吃了午饭，
-林轩用身份腰牌破除禁制，
-回到自己的房间，
-今天上午的收获很丰富，
-这一百零八章符箓，
-虽然是鸡肋，
-但贵在数量众多，
-有了它们，
-自己的实力又增强了那么一分了。
+Lin Xuan went back to the cottage, and after having his lunch, he used his medallion to break through the restrictions and went into his room. It was a very rich harvest this morning. These hundred seals, although they were useless, but there were a lot of them. With these, he had also increased his strength by a level.
 
-行情也了解清楚，
-各种修真物品的价格基本上做到了心中有数，
-对于明天收购中级功法，
-又多了几分把握。
+He had a clearly understanding of the whole situation and had a pretty good idea of the market prices of all the various items. For tomorrow's purchase of the mid grade technique, he was more confident than before.
 
-不，
-自己是志在必得！
+No, he would definitely succeed.
 
-林轩躺在床上，
-休息了一会儿，
-算算时间，
-修真者们应该都已经吃完，
-下午的集市开锣了，
-再去逛一逛，
-反正待在屋子里也是无聊，
-看是否还能淘到什么有用的宝。
+Lin Xuan laid on the best and rested for a while. Considering the time, the cultivators should have finished dining, and the marketplace should have opened again. Since it was boring to stay in his room, Lin Xuan decided to go stroll around again and see if there were anything useful treasures.
 
-怀着这种想法，
-林轩又来到了广场，
-此时显得更热闹，
-人数进一步增加，
-看来随着宝物交易会的临近，
-已经有越来越多的修真者赶到。
+With this in mind, Lin Xuan once again came to the plaza. It seemed even more lively this time, the number of people also increased. It seems that the number of cultivators arriving increased as it got closer to the time of the treasures trade fair.
 
-叫卖虽然热闹，
-但对于林轩来说，
-有用的东西并不多，
-他虽然仅仅是灵动中期的修真者，
-可论身家，
-比大部分筑基期的修士还要丰厚，
-等闲的东西，
-当然不入他的眼了。
+The hawking of wares was very lively, but to Lin Xuan, there was not that many useful things. Although he was only a mid stage Spirit Gathering cultivator, but based on his net worth, he was much richer than most Foundation Building cultivators. Therefore, most trivial things could not catch his eyes.
 
-当然，
-也不是全无收获，
-逛了整整一个下午，
-林轩还是买了一点东西，
-晶石。
+Of course, that was not to say that Lin Xuan had no harvests. Wandering around for the entire afternoon, Lin Xuan still bought some things, namely, spirit stones.
 
-当在摊点上看见时，
-林轩真的有些意外，
-毕竟这种蕴含有丰富天地灵气的石头，
-作用极大，
-练功、制器、斗法都用莫大用途，
-一般很少出现在低阶修士的手里。
+When he saw them at a stall, Lin Xuan was actually surprised. After all, these stones that contained the spiritual power of the heavens and the earth had many great uses, such as cultivating, crafting, battling; and would rarely appear in the hands of low levelled cultivators.
 
-所以当看见那两块水属性的晶石时，
-林轩毫不犹豫，
-立刻买下收入了囊中。
-
-幻雨：看见有读者说不知道怎样到“三江频道”支持本书，
-是这样的，
-在起点网站的右上角，
-有“漫画•三江”几个字，
-点击“三江”就可以进入三江频道了，
-然后往下拉，
-勾选《百炼成仙》，
-再投票就可以了，
-谢谢大家的支持。
+So of course, when he saw two pieces of spirit stones, Lin Xuan did not hesitate and immediately purchased them and put them away.
 
 - - -
 - - -
+
+[^1]: 整数, or round / whole number are not actually meant to be integral numbers. They are integral but it is one step further. For example 50 is a round number, but 51 - 59 are not. So they are just nice looking numbers.
+
+[^2]: I is common to refer to oneself in the third person with just one's last name.

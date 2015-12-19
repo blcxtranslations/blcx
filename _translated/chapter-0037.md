@@ -15,7 +15,7 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 
 Lin Xuan walked over, curious as to just what kind of treasure could draw such a large crowd of cultivators.
 
-The owner of the stall was a muddleheaded youth who looked to be in his early twenties. With so many people surrounding him, he was very nervous and his face was flushed. There were a wide variety of seals[^1] placed in his stall.
+The owner of the stall was a muddle headed youth who looked to be in his early twenties. With so many people surrounding him, he was very nervous and his face was flushed. There were a wide variety of seals[^1] placed in his stall.
 
 Items created when cultivators sealed their techniques into special seal paper were called seals. Using seals, when facing enemies, one did not need to use spiritual power and use was instantaneous. So the benefits to using them were clear.
 
@@ -73,7 +73,7 @@ Coming up with this plan, Lin Xuan followed the other cultivators and walked off
 
 Not long after, the simple and honest youth dishearteningly packed up his items, getting ready to leave the plaza. Lin Xuan quietly followed him.
 
-After leaving the marketplace, the number of cultivators suddenly dropped. Checking to see that no one had noticed him, he quietly stepped behind a large tree and removed a item from his storage bracelet that was concealed in his bosom.
+After leaving the marketplace, the number of cultivators suddenly dropped. Checking to see that no one had noticed him, he quietly stepped behind a large tree and removed an item from his storage bracelet that was concealed in his bosom.
 
 It was a membrane like item that had a very lifelike face painted upon it. This was not a treasure of the cultivation world, but was instead from the secular world. Martial artists often used these disguising masks.
 
