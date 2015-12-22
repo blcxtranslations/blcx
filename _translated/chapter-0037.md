@@ -6,7 +6,7 @@ title: "Seals"
 date: "Dec 21, 2015"
 characters: 2202
 chinese: "http://baishuku.com/html/30/30364/12441353.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3xrygc/cn_tempered_immortal_chapter_0037/"
 sponsored: false
 completed: true
 ---
@@ -87,3 +87,4 @@ He had purchased this mask in the secular world on his way to the Soaring Cloud 
 [^1]: [Fulu](https://en.wikipedia.org/wiki/Fulu) are basically paper seals / talisman that could summon, control, exorcise spirits and deities.
 
 [^2]: The literal translation here is "If they could not eat the grapes, they could only call it sour." So basically, the can only insult what they could not have.
+
