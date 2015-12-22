@@ -6,7 +6,7 @@ title: "The Value of Pills"
 date: "Dec 19, 2015"
 characters: 2168
 chinese: "http://baishuku.com/html/30/30364/12441351.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3xrvy3/cn_tempered_immortal_chapter_0036/"
 sponsored: false
 completed: true
 ---
@@ -75,3 +75,4 @@ After discovering this, Lin Xuan mind came to a decision. He had enough pills to
 ---
 
 [^1]: Chapter 0005: Purified Essence Pill. Elder Ma wanted to kick him out of the sect by giving Lin Xuan waste pills.
+
