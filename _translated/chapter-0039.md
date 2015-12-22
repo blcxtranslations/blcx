@@ -11,218 +11,75 @@ sponsored: false
 completed: false
 ---
 
-第二天一早，
-整个峰顶人头攒动，
-对于凌云门来说，
-今天是解散，
-变卖家当的倒霉日子，
 但对于其他事不关己高高挂起的修真者而言，
 这一天却已期盼了好久。
+The next morning, the entire Sky Pillar peak was crowded. To the Soaring Cloud sect, today was unlucky day that they had to disband and sell their possessions on, but to
 
-各大宗门，
-修仙家族暂且不说，
-便是散修，
-也期待着捡漏能淘到不错的宝物，
-林轩起得很早，
-可来到广场的时候，
-发现里面已经挤满了修真者。
+Leaving out the large sects and cultivator clans, even the rogue cultivators were looking forward to being able to acquire good treasures. Lin Xuan got up very early, but when he arrived at the plaza, he saw that it was already packed with cultivators.
 
-在入口处，
-每人又分得了一个玉筒简，
-将神识注入，
-就可以看到今天活动的详细安排。
+The jade slip that everyone received when first arriving had detailed arrangements for today's event.
 
-整个宝物交易会分为两部分，
-拍卖与自由挑选，
-先讲拍卖，
-既然是让参与的修真者竞价，
-所买的东西自然也就比较高级，
-其中包含了灵器，
-制器材料，
-还有兽卵。
+The treasures trade fair divided into two parts: the auction and free selection. Since the auction allowed the participants to bid, naturally the items for sale would be of high quality. It included spirit tools, crafting materials, and monstrous beast eggs.
 
-灵器与制器材料大家都清楚，
-这兽卵就是妖兽产下的尚未孵化的后代。
+Everyone was familiar with spirit tools and crafting materials. These beast eggs were the unhatched offspring of monstrous beasts.
 
-众所周知，
-妖兽与修真者一样可以吸纳天地灵气，
-具有莫大神通，
-不过妖兽虽然凶猛，
-却可以驯服，
-而且一旦认主，
-永不背叛，
-很多修真门派，
-都习惯驯养妖兽，
-做为看门护山之用。
+As everyone knows, monstrous beasts and cultivators alike could absorb the spiritual power of the heavens and earth, 具有莫大神通. However, despite the fact that monstrous beasts are ferocious, they can still be tamed, and once they follow a master, they will never betray them. Many sects had a habit of taming monstrous beasts to guard the sect.
 
-这些兽卵就是凌云门驯养的灵兽所产，
-由于尚未孵化，
-还没有认主，
-所以买回去非常划算。
+These monstrous beast eggs were the eggs of the tamed monstrous beasts of the Soaring Cloud sect. Since they were unhatched, they have yet to accept a master, so they were an exceptionally good deal.
 
-由此可见，
-拍卖的东西才是凌云门真正的宝贝，
-不过这些普通散修就不用想了，
-肯定是被飘云谷，
-火灵门，
-道符山，
-天星宗等几个门派瓜分，
-就算是各修真家族，
-也最多捡漏喝一点汤，
-买下几件各派看不上的下品灵器，
-或者垃圾兽卵。
+Thus it can be seen that the items being auctioned off were truly treasures of the Soaring Cloud sect. But the ordinary rogue cultivators did not even need to think about them, because the Floating Cloud Valley, the Flame Spirit sect, the Seal Mountain, Starry Sky clan, etc would definitely divide the treasure among themselves. Even the cultivator clans might only be able to receive a fraction of the left overs and be able to buy some low grade spirit tools or garbage monstrous beast eggs.
 
-交易会的第二个部分，
-就是自由挑选，
-所谓自由挑选，
-有点类似于前几天散修的摆摊，
-只不过是凌云门将他们要出售变卖的东西分门别类，
-然后让大家筛选。
+The second part of the trade fair was free selection. It was called free selection because it was like the stalls of the rogue cultivators of the past few days. Only this time, it would be the Soaring Cloud sect setting them up, sorted into different categories, and allowing everyone to pick what they wanted.
 
-虽然最好的宝物，
-已经拿去拍卖了，
-但凌云门千年的积累，
-身家还是非同小可，
-各种低阶甚至是筑基期修士可能用到的东西，
-都有可能出现。
+Although the best treasures were auctioned off, but after the accumulation of a thousand years, the wealth of the Soaring Cloud sect was definitely not small. Various useful items for low levelled cultivators, even Foundation Building cultivators, were likely to appear.
 
-这些各门派又不感兴趣了，
-主要的买主是修真家族和一些散修中的富有者。
+The various sects would not be interested in these, so the main customers are the cultivator clans and the rich among the rogue cultivators.
 
-玉筒简里介绍得很清楚，
-甚至连要卖的物品也详细的罗列了出来，
-这让林轩心中一喜，
-省了自己很多事。
+The details in the jade slip were very clear, even the items for sale were listed in detail. This made Lin Xuan very happy for it saved him a lo of effort.
 
-其他的先略过不提，
-林轩直接找到了功法类，
-低阶功法倒是应有尽有，
-居然有十几种之多，
-林轩心思又活泛起来了，
-虽然飘云谷里传授了低阶功法，
-但对于自己这样的不受重视的弟子，
-都是随便给了一种最普通的了事。
+Skipping other things, Lin Xuan looked for the cultivation techniques first. For low level cultivation techniques, they had over a dozen of different kinds of techniques. This caused 林轩心思又活泛起来了. Although the Floating Cloud Valley taught low level cultivation techniques, but they only gave out some very common techniques to unimportant disciples.
 
-真正好的低阶功法，
-只有少数优秀的精英弟子才获准传授。
+The really good low level cultivation techniques were only taught to the few outstanding elite disciples.
 
-这也是为什么自己有大量灵药辅助，
-又修炼刻苦还还迟迟突不破第五层的原因。
+This was the reason why even though he used a large amount of pills and put in lots of effort in cultivating and had still yet to break into the fifth layer.
 
-虽然凌云门比不上飘云谷，
-但那是指高级修士的数量，
-以及中级功法的质量，
-光就低阶功法来说，
-双方其实不相伯仲。
+Although the Soaring Cloud sect could not compare to the Floating Cloud Valley, that that was based on the number of high levelled cultivators each sect had and the quality of their mid level cultivation techniques. Just comparing low level cultivation techniques, 双方其实不相伯仲。
 
-那么自己何不买下一本精妙的低阶功法，
-那样自己修行也就可以更顺畅，
-速度也更快了。
+Then why shouldn't he purchase a exquisite low level cultivation technique. This way, his cultivation progress would be more smooth and much faster.
 
-尤其让林轩心动的是，
-由于广场面积不足，
-参加的修士又太多，
-让摊位变得有些捉襟见肘了起来，
-为了将东西卖出更好的价钱，
-凌云门决定，
-自由挑选将举行两场，
-上午先买比较便宜的，
-下午再买贵一些的。
+Because the plaza did not have enough space and the number of attending cultivators was too high, the Soaring Cloud sect decided to have two rounds of free selection. This would reduce congestion around the stalls and thus allow for high sale prices. It was decide that one session wold be in the morning selling cheaper items and one in the afternoon selling more expensive items. This cause Lin Xuan to be moved even more.
 
-而低阶功法属于上午交易的物品，
-中阶功法交易的时间则定在下午，
-这样自己就不用担心顾此失彼，
-可以慢慢挑选。
+Because low level cultivation techniques belonged to the morning session, mid level cultivation techniques were scheduled to be in the afternoon. This means that he would not need to be worried about missing one or the other and could slowing browse through them.
 
-将玉筒简里描述的情况弄清楚以后，
-林轩就直接向着买低阶功法的地方去了，
-既然要买就要动作迅速一点，
-林轩可不想被别人捷足先登，
-他想收购凌云门最好的低阶功法，
-其他普通的可没有兴趣。
+After understanding the things described in the jade slip, Lin Xuan headed directly for the area where the low level cultivation techniques were sold. If he was going to buy them, he should act quickly. He did not want to let other beat him to it. He was not interested in other techniques because he was going to purchase the best low level cultivation technique that the Soaring Cloud sect had.
 
-很快就找到了，
-这是一个比较偏僻的角落，
-原因无他，
-低阶功法，
-仅适合灵动期弟子，
-各门派先不说，
-便是修真家族也多半看不起，
-散修虽然有兴趣，
-可穷啊，
-就算手中勉强有足够的丹药，
-也舍不得。
+He found the stall were quickly, it was in a relatively remote corner. The only reason for this was because low level cultivation techniques were only suitable for Spirit Gathering disciples. Not to mention the various sects, even the cultivator clans would not be interested. And even though rogue cultivators would want them, they were poor, even if they had enough pills, they could still not bear to part with them for this.
 
-所以，
-这属于不好买的一种东西，
-负责摆摊的也是一名普通的低阶弟子。
+Therefore, these cultivation techniques were things that were hard to sell, and the one responsible for this stall was also a common low levelled disciple of the Soaring Cloud sect.
 
-问津的人寥寥无几，
-林轩看了看，
-摊位上共摆着十几个玉筒简，
-一个二十多岁的青年坐在后面。
+There were very few people that were interested. Lin Xuan took a look and saw a dozen jade slips and a some twenty years old young man sitting behind the stand.
 
-《浑天术》，
-《紫阳劲》，
-《柔木功》……
+The《浑天术》technique, the Purple Sun Spirit technique, the Soft Wood technique......
 
-每个玉筒简的前面，
-都有一个标签，
-写清楚了功法的名称，
-林轩挨着一个个的往下看，
-终于《凌云诀》三个字映入了眼帘。
+In front of every jade slip was a label clearly stating the name of the technique. Lin Xuan read each one until he finally saw the Soaring Cloud technique.
 
-说来也是凑巧，
-以前在稚鹰阁听教席讲课的时候，
-曾有一位学识渊博的筑基期高手点评各门派基础功法，
-提到兖州地界的七八个宗派之中，
-实力当然以本门最强，
-筑基期修士最多，
-还有掌门云鹤真人这样的凝丹期高手。
+This was also a coincidence because before, at the Young Eagles pavilion, there was a very knowledgeable Foundation Building expert reviewing the base cultivation technique of the various sects. Among the few sects of the Yan prefecture, the most powerful one was of course the Floating Cloud Valley because they had the greatest number of Foundation Building cultivators and a Core Formation expert, Immortal Yun He, was the patriarch.
 
-但就低阶弟子而言，
-靠后的凌云门其实并不比本派逊色，
-尤其是他们最好的基础功法《凌云诀》，
-和本门低阶功法中排第一的《飞云劲》各有所长，
-难分伯仲，
-都是上好的打根基的功法。
+But in terms of low levelled disciples, the lower ranked Soaring Cloud sect was not at all inferior to the Floating Cloud Valley. Especially their best cultivation technique, the Soaring Cloud technique, compared to the Flying Cloud Spirit technique of the Floating Cloud sect, they were equally matched. They each had their own strengths and were both good cultivation techniques for the basis of Foundation Building.
 
-这番话当时林轩没在意，
-不过一直记得，
-那位筑基期修士的言语对《凌云诀》颇多推崇，
-所以他自然想要收购这本功法了。
+Lin Xuan did not care about the above remark at the time, but he always remembered it because that Foundation Building cultivator praised the Soaring Cloud technique a lot. So naturally, he wanted to purchase this cultivation technique.
 
-拿起标有凌云诀三个字的玉筒简，
-将神识注入进去，
-初略的浏览了一下，
-林轩抬起头，
-随意的道：“多少钱？”
+Picking up the jade slip marked Soaring Cloud technique, he inserted his spiritual sense into it and did a little inspecting. Then he raised his had and casually asked: "How much?"
 
-“三十粒下品洗髓丹。”那弟子头也没有抬。
+The disciple did not even raise his head and said: "Thirty low grade Purified Essence Pills."
 
-“嗯。”林轩没有说话，
-直接从怀里摸出三个玉瓶放在摊位上，
-等对方清点了丹药的数量后，
-转身就走。
+"Okay." Lin Xuan did not speak[^1], directly pulling out three jade bottles from his bosom and placing it on the stand. After waiting for the other party to finish counting the pills, he turned around and left.
 
-整个过程花了不到五分钟，
-然后他若无其事的继续在集市里闲逛，
-与散修摆的摊相比，
-这儿的生意显得非常火爆，
-一来是有价值的宝物更多，
-二来修真家族也比散修有钱，
-为了这次交易会，
-他们提前准备了足够多的丹药，
-开始抢购。
+The whole process took no more than five minutes, after which he continued to wander around the market as if nothing had happened. Compared to the market of the rogue cultivators, the business here was booming. One reason was that there were more valuable treasures here. The second reason was that the cultivator clans had more money that rogue cultivators, for this trade fair, they prepared more than enough pills in advance.
 
-林轩没有再出手，
-闲逛了一会儿之后，
-就回到了驿馆，
-收购凌云诀也是临时起意，
-此行的主要目的还是包含有灵控术的中阶功法，
-养精蓄锐，
-只要下午不出意外，
-此行也就圆满。
+Lin Xuan did not make any more purchases, after wandering around for a while, he went back to the cottage to rest and recuperate. Buying the Soaring Cloud technique was a spur of the moment decision, the main objective for this trip was still to acquire the mid grade technique, Spiritual Control. As long as there was nothing unexpected this afternoon, the this trip would be successful.
 
 - - -
 - - -
+
+[^1]: [嗯](https://en.wiktionary.org/wiki/%E5%97%AF#Interjection_3) is the sound of agreement.

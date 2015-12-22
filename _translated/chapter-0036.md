@@ -13,7 +13,7 @@ completed: true
 
 With the participation of the large sects and cultivator clans, the rogue cultivators held little hope of acquiring treasures at the treasures trade fair tomorrow. Therefore, they paid more attention to the stalls in the marketplace, and this is also why the plaza was so lively so early in the morning.
 
-Lin Xuan's main objective was to acquire the Spiritual Control technique, which simply impossible to be found in these simple and crude stalls. So he did not worry and instead slowly wandered the market to increase his knowledge of the market place.
+Lin Xuan's main objective was to acquire the Spiritual Control technique, which is simply impossible to be found in these simple and crude stalls. So he did not worry and instead slowly wandered the market to increase his knowledge of the market place.
 
 Rogue cultivators generally had lower level cultivations, most of them being in the second or third Spirit Gathering layer. So Lin Xuan's current cultivation was quite good. But because of that, they generally did not have any precious items. But there were still many cultivators, so all the items needed by low level cultivators for various tasks were still all being sold. This was truly an eye opener for Lin Xuan.
 
@@ -27,7 +27,7 @@ It was so cheap. If Lin Xuan was not such a discrete person and had a habit of n
 
 In fact this was a misconception on Lin Xuan's part. Although he had no spiritual roots, had a slow cultivation speed, and had to suffer the glares of the other disciples, compared to rogue cultivators, he was still more fortunate. Other than the incident where Elder Ma was trying to cause trouble[^1], he could still get two low grade Purified Essence pills a month without fail.
 
-And after gaining the ability to purify, he had a unending supply of pills, so these low grade pulls did not even matter to him. Be he had forgotten that two pills a month was the kind of treatment only disciples of a sect could get.
+And after gaining the ability to purify, he had a unending supply of pills, so these low grade pills did not even matter to him. Be he had forgotten that two pills a month was the kind of treatment only disciples of a sect could get.
 
 But there were too many rogue cultivators, who had no support and no one to rely on, in the cultivation world. But just think, sects had people dedicated alchemy and the concoction of pills, but what can a low levelled rogue cultivator do? They did not have the ability to concoct of perform alchemy, nor could they find any medicinal herbs. Therefore, although they did not acquire many pills a month, sect disciples still had the support of these pills, but rogue cultivators can one rely on their own efforts to cultivate.
 

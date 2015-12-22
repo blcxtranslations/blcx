@@ -45,7 +45,7 @@ But this had nothing to do with him. He already had three spirit tools, one of w
 
 But he did not really need to worry, because he had never met the two elders before, and all the disciples they brought were elite disciples who had entered the sect before him. Even if he stood in front of them, the would still be complete strangers to each other.
 
-In addition to these big sects, the next most powerful force were the various cultivation clans. These little groups, whose members were blood related, could be considered, in a strict sense, to be a miniature sect. Their numbers were also all different. Some had hundreds of members, so only had three or five. But for each clan, the head of the family was also the patriarch.
+In addition to these big sects, the next most powerful force were the various cultivation clans. These little groups, whose members were blood related, could be considered, in a strict sense, to be a miniature sect. Their numbers were also all different. Some had hundreds of members, some only had three or five. But for each clan, the head of the family was also the patriarch.
 
 Although they could not compare to the various large sects, these cultivator clans still had a certain level of power. Their objectives were the low grade spirit tools that the larger sects ignored, the more powerful seals, and the techniques.
 
@@ -59,7 +59,7 @@ In fact, to put it plainly, it would be the major sects that would pick what the
 
 Of course, it can not be said that the rogue cultivators would be wasting their efforts and leave empty handed. At least, this was an rarely seen event in the world of cultivation and can be considered to be gaining worldly experience. Also, anyone can set up a stall at the fair. The large sects and cultivator clans would not even look at these stalls, but the rogue cultivators and exchange items here and acquire what they needed.
 
-Looking that the dense crowd of cultivators in front of him, Lin Xuan analyzed the situation of the treasures trade fair. This was what he concluded with the information available to him before coming here. But the did not realize that this trades fair would be so grand that even though it would only start tomorrow, it had already attracted to many cultivators.
+Looking that the dense crowd of cultivators in front of him, Lin Xuan analyzed the situation of the treasures trade fair. This was what he concluded with the information available to him before coming here. But he did not realize that this trades fair would be so grand that even though it would only start tomorrow, it had already attracted to many cultivators.
 
 - - -
 - - -
