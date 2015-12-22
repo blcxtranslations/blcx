@@ -77,7 +77,7 @@ After leaving the marketplace, the number of cultivators suddenly dropped. Check
 
 It was a membrane like item that had a very lifelike face painted upon it. This was not a treasure of the cultivation world, but was instead from the secular world. Martial artists often used these disguising masks.
 
-As the name suggests, after putting it on, it would change a person's appearance, so I can conceals their identity. Although in the cultivation world there are more advanced ways to do this, such as some advanced techniques to change facial features. But Lin Xuan's level was too low and he simply had no way to learn these techniques, so he could only go with his second best option.
+As the name suggests, after putting it on, it would change a person's appearance and conceal their identity. Although in the cultivation world there are more advanced ways to do this, such as some advanced techniques to change facial features. But Lin Xuan's level was too low and he simply had no way to learn these techniques, so he could only go with his second best option.
 
 He had purchased this mask in the secular world on his way to the Soaring Cloud sect. This was his first journey, so he needed to be fully prepared to participate in the gathering of cultivators. But this also proved that Lin Xuan really did not waste his time thinking and preparing because he already had a use for this mask.
 
