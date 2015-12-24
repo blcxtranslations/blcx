@@ -2,10 +2,10 @@
 layout: page
 number: "0040"
 name: "Fourty"
-title: "Soaring Cloud Technique"
+title: "修士情报"
 date: "Dec 27, 2015"
 characters: 2119
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441358.html"
 reddit: ""
 sponsored: false
 completed: false
@@ -17,26 +17,13 @@ completed: false
 低阶修真者不能辟谷，
 食物由驿馆免费提供，
 味道也不错。
+At noon, there was a
 
-林轩提前吃完了，
-左右无事，
-他也没有回到房间，
-而是坐在饭堂的大厅里喝茶。
+Lin Xuan had finished eating earlier and had nothing to do. So instead of going back to his cottage, he sat in the cafeteria drinking tea.
 
-一来可以消磨时间，
-等待下午交易会开始，
-二来，
-人们茶余饭后，
-也会讲述各自的见闻经历，
-只要有心，
-在饭馆里很容易听到有用的情报。
+For one, he could wait until the afternoon session started, and also, as people were having tea, they would talk about their knowledge and experiences. So as long as one paid attention, they would easily learn useful information.
 
-这里是二楼，
-林轩坐在靠窗的地方，
-表情随意的品着茶，
-头朝像窗外，
-似乎在欣赏风景，
-其实却留神倾听。
+Lin Xuan was on the second floor at a seat by the window. He had a casual expression while sipping his tea. It seemed like he was looking out the window enjoying the scenery. But, in fact, he was listening to the conversations around him and paying careful attention.
 
 虽然声音嘈杂，
 但对于拥有强大神识的修真者来说，
@@ -44,8 +31,7 @@ completed: false
 对方只要不是用法力传音，
 每一句话都可以听得清清楚楚。
 
-“嘿，
-今天上午的拍卖会你们去了没有？”
+"Hey, did you go to the auction this morning?"
 
 一个破锣般的声音，
 成功引起了众人的注意，
