@@ -6,7 +6,7 @@ title: "Purchase"
 date: "Dec 23, 2015"
 characters: 2185
 chinese: "http://baishuku.com/html/30/30364/12441354.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3y1iil/cn_tempered_immortal_chapter_0038/"
 sponsored: false
 completed: true
 ---
@@ -91,3 +91,4 @@ So of course, when he saw two pieces of spirit stones, Lin Xuan did not hesitate
 [^1]: 整数, or round / whole number are not actually meant to be integral numbers. They are integral but it is one step further. For example 50 is a round number, but 51 - 59 are not. So they are just nice looking numbers.
 
 [^2]: I is common to refer to oneself in the third person with just one's last name.
+
