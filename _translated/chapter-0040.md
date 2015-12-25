@@ -2,22 +2,16 @@
 layout: page
 number: "0040"
 name: "Fourty"
-title: "修士情报"
+title: "The Situation of Cultivators"
 date: "Dec 27, 2015"
 characters: 2119
 chinese: "http://baishuku.com/html/30/30364/12441358.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
-晌午时分，
-陆陆续续有修真者从外面回来，
-到了用饭的时间，
-低阶修真者不能辟谷，
-食物由驿馆免费提供，
-味道也不错。
-At noon, there was a
+At noon, there was a continuous stream of cultivators making their way back. It was lunch time, and low level cultivators could not simply fast. Food was provided by the cottages for free and tasted very good.
 
 Lin Xuan had finished eating earlier and had nothing to do. So instead of going back to his cottage, he sat in the cafeteria drinking tea.
 
@@ -29,22 +23,15 @@ Though there was a lot of background noise, but to a cultivator with strong spir
 
 "Hey, did you go to the auction this morning?"
 
-一个破锣般的声音
 The sound of a broken gong attracted everyone's attention. Lin Xuan also glanced back. It was a burly man dressed in the coarse clothing style of rogue cultivators.
 
-“怎么，
-你老哥也参与了竞拍？”旁边的一个胖胖的少年接口道，
-满脸敬仰。
+"What, are you also participating in the auction?" said a chubby youth with a face full of respect.
 
 The man blushed. "We rogue cultivators, do not have the strength to participate and can only go watch."
 
-"Oh."
-“哦。”众人露出原来如此的神色，
-suddenly losing interest and went back to eating and drinking tea.
+"Oh." The crowd showed an expression of understanding and suddenly lost interest, and went back to eating and drinking tea.
 
-"Hey, listen to me."
-大汉显然很有表现欲，
-seeing that they were not paying attention to him, he became agitated. "Do you know, the items in the auction are real treasures. Just this morning, there were three low grade spirit tools, two mid grade spirit tools, and one high grade spirit tool."
+"Hey, listen to me." The man like to grandstand, seeing that they were not paying attention to him, he became agitated. "Do you know, the items in the auction are real treasures. Just this morning, there were three low grade spirit tools, two mid grade spirit tools, and one high grade spirit tool."
 
 Speaking of spirit tools, all the cultivators started to become interested. Although spirit tools were simplified magical treasures, but their magical power was great. Many Foundation Building cultivators did not even have them, so these Spirit Gathering rogue cultivators could only wishfully think of them.
 
@@ -56,18 +43,11 @@ A cultivator with the appearance of an old in the corner coldly stated: "Hmph, d
 
 Upon hearing this, the rogue cultivators were stunned. To watch from the side would require one medicinal pill. Suddenly, everyone turned, with astonished looks in their eyes, to the man before. Some showed worship, others showed contempt. To waste precious pills for an eye opener was definitely an act of a wastrel.
 
-但不管怀着怎样的心理，
-众人对灵器越发的感兴趣，
-争先打听，
-大汉则口沫横飞的讲解。
+But no matter what they felt about it, they were still all very interested in spirit tools. They all wanted more information, so the man, with spittle flying, started excitedly explaining.
 
 "You did not see the power of the spirit tool. With just a single strike, it reduced a 500 kilogram boulder to dust, and it was only a mid grade spirit tool......"
 
-还别说，
-这大汉的性格虽然有点哗众取宠，
-但口才还是很好的，
-一番描述，
-将众人听得悠然神往。
+Although the man liked to grandstand, but he was also eloquent, with a little explanation, he had already charmed the crowd.
 
 "Then who took this lot of spirit tools?"
 
@@ -91,43 +71,21 @@ The old man drank a gulp of wine and did not keep them in suspense. "The Soaring
 
 Everyone nodded, this was also mentioned in the description of the treasures trade fair on the jade slip.
 
-“可你们知不知道，
-这拿出来的四本中阶功法，
-其中有三本已被修真家族预定了。”
+"Did you guys know, of the four mid rank techniques, three of them have already been reserved for the cultivator clans?"
 
-“提前预定，
-这不是违反规矩吗？”
+"Reserving ahead of time, is that not against the rules?"
 
-“哼，
-规矩？”老者嘲讽的笑了一下：“各位来参加大会，
-想必也不是刚踏入修真界的新人，
-什么时候听说过修真界还要按规矩办事，
-你要讲理，
-那些宗派家族会与你讲吗，
-还不是凭借势力，
-横行霸道。”
+"Hmph, rules?" The old man mockingly laughed. "You all came to participate in the trade fair, so presumably, you all are not new to the world of cultivation. When have you heard of following rules when doing things. If you want to reason with them, would those sects and clans reason with you? Only strength counts in this world."
 
-众人默默无语，
-在座的都是散修，
-平时没少受门派家族的欺负，
-但又能怎么样呢，
-这本来就是以力服人的世界。
+The crowd was speechless. Everyone here were all rogue cultivators, and were frequently bullied by the sects and clans. But what could they do about it, this was a world ruled by force.
 
-就算对幕后操作不满，
-自己还不是没奈何。
+Even if they were dissatisfied with them operating behind the scenes, they still could do nothing about it.
 
-“提前预定就提前预定吧，
-反正那些中级功法，
-我们这些灵动期的修士也用不上！”
+"Then let them reserve those mid rank techniques ahead of time. It's not like we Spirit Gathering cultivators can use them anyway!"
 
-“道友说得不错，
-散修有几个人能够筑基成功的，
-中级功法拿给我们，
-也不过是废物。”
+"Well said fellow cultivator. Few rogue cultivators can achieve Foundation Building. Even if they gave us those mid rank techniques, it would still be useless for us."
 
-“对啊，
-管他那么多，
-喝酒喝酒。”
+"That's right, who cares, let's drink, let's drink."
 
 - -
 -- - -
