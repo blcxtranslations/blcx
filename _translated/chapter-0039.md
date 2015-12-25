@@ -6,14 +6,12 @@ title: "Soaring Cloud Technique"
 date: "Dec 25, 2015"
 characters: 2197
 chinese: "http://baishuku.com/html/30/30364/12441356.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3y86zg/cn_tempered_immortal_chapter_0039/"
 sponsored: false
 completed: false
 ---
 
-但对于其他事不关己高高挂起的修真者而言，
-这一天却已期盼了好久。
-The next morning, the entire Sky Pillar peak was crowded. To the Soaring Cloud sect, today was unlucky day that they had to disband and sell their possessions on, but to
+The next morning, the entire Sky Pillar peak was crowded. To the Soaring Cloud sect, today was unlucky day that they had to disband and sell their possessions on, but to those cultivators that did not care about others whatsoever, today was a day they had been waiting for a long time.
 
 Leaving out the large sects and cultivator clans, even the rogue cultivators were looking forward to being able to acquire good treasures. Lin Xuan got up very early, but when he arrived at the plaza, he saw that it was already packed with cultivators.
 
@@ -23,7 +21,7 @@ The treasures trade fair divided into two parts: the auction and free selection.
 
 Everyone was familiar with spirit tools and crafting materials. These beast eggs were the unhatched offspring of monstrous beasts.
 
-As everyone knows, monstrous beasts and cultivators alike could absorb the spiritual power of the heavens and earth, 具有莫大神通. However, despite the fact that monstrous beasts are ferocious, they can still be tamed, and once they follow a master, they will never betray them. Many sects had a habit of taming monstrous beasts to guard the sect.
+As everyone knows, monstrous beasts and cultivators alike could absorb the spiritual power of the heavens and earth. However, despite the fact that monstrous beasts are ferocious, they can still be tamed, and once they follow a master, they will never betray them. Many sects had a habit of taming monstrous beasts to guard the sect.
 
 These monstrous beast eggs were the eggs of the tamed monstrous beasts of the Soaring Cloud sect. Since they were unhatched, they have yet to accept a master, so they were an exceptionally good deal.
 
@@ -37,13 +35,13 @@ The various sects would not be interested in these, so the main customers are th
 
 The details in the jade slip were very clear, even the items for sale were listed in detail. This made Lin Xuan very happy for it saved him a lo of effort.
 
-Skipping other things, Lin Xuan looked for the cultivation techniques first. For low level cultivation techniques, they had over a dozen of different kinds of techniques. This caused 林轩心思又活泛起来了. Although the Floating Cloud Valley taught low level cultivation techniques, but they only gave out some very common techniques to unimportant disciples.
+Skipping other things, Lin Xuan looked for the cultivation techniques first. For low level cultivation techniques, they had over a dozen of different kinds of techniques. This caused Lin Xuan to start planning again. Although the Floating Cloud Valley taught low level cultivation techniques, but they only gave out some very common techniques to unimportant disciples.
 
 The really good low level cultivation techniques were only taught to the few outstanding elite disciples.
 
 This was the reason why even though he used a large amount of pills and put in lots of effort in cultivating and had still yet to break into the fifth layer.
 
-Although the Soaring Cloud sect could not compare to the Floating Cloud Valley, that that was based on the number of high levelled cultivators each sect had and the quality of their mid level cultivation techniques. Just comparing low level cultivation techniques, 双方其实不相伯仲。
+Although the Soaring Cloud sect could not compare to the Floating Cloud Valley, that that was based on the number of high levelled cultivators each sect had and the quality of their mid level cultivation techniques. Though just comparing low level cultivation techniques, they were both on par.
 
 Then why shouldn't he purchase a exquisite low level cultivation technique. This way, his cultivation progress would be more smooth and much faster.
 
@@ -83,3 +81,4 @@ Lin Xuan did not make any more purchases, after wandering around for a while, he
 - - -
 
 [^1]: [嗯](https://en.wiktionary.org/wiki/%E5%97%AF#Interjection_3) is the sound of agreement.
+
