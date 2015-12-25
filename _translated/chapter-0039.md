@@ -57,7 +57,7 @@ Therefore, these cultivation techniques were things that were hard to sell, and 
 
 There were very few people that were interested. Lin Xuan took a look and saw a dozen jade slips and a some twenty years old young man sitting behind the stand.
 
-The《浑天术》technique, the Purple Sun Spirit technique, the Soft Wood technique......
+The Stirring Sky technique, the Purple Sun Spirit technique, the Soft Wood technique......
 
 In front of every jade slip was a label clearly stating the name of the technique. Lin Xuan read each one until he finally saw the Soaring Cloud technique.
 

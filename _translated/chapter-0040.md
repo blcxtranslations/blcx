@@ -25,87 +25,43 @@ For one, he could wait until the afternoon session started, and also, as people 
 
 Lin Xuan was on the second floor at a seat by the window. He had a casual expression while sipping his tea. It seemed like he was looking out the window enjoying the scenery. But, in fact, he was listening to the conversations around him and paying careful attention.
 
-虽然声音嘈杂，
-但对于拥有强大神识的修真者来说，
-不算什么，
-对方只要不是用法力传音，
-每一句话都可以听得清清楚楚。
+Though there was a lot of background noise, but to a cultivator with strong spiritual sense, it was nothing. As long as they did not use spiritual power to transmit sound, the every word could be heard clearly.
 
 "Hey, did you go to the auction this morning?"
 
-一个破锣般的声音，
-成功引起了众人的注意，
-林轩也回头瞟了一眼，
-是一个五大三粗的汉子，
-穿着粗布的衣服，
-散修打扮。
+一个破锣般的声音
+The sound of a broken gong attracted everyone's attention. Lin Xuan also glanced back. It was a burly man dressed in the coarse clothing style of rogue cultivators.
 
 “怎么，
 你老哥也参与了竞拍？”旁边的一个胖胖的少年接口道，
 满脸敬仰。
 
-大汉脸一红：“我们这些散修，
-哪有实力参与，
-我不过去看看热闹。”
+The man blushed. "We rogue cultivators, do not have the strength to participate and can only go watch."
 
+"Oh."
 “哦。”众人露出原来如此的神色，
-顿时失去兴趣了，
-喝茶的喝茶，
-吃饭的吃饭。
+suddenly losing interest and went back to eating and drinking tea.
 
-“喂，
-你们听我说啊。”大汉显然很有表现欲，
-见众人不注意自己，
-急了：“你们知不知道，
-参与拍卖的物品，
-才是真的宝贝，
-光是今天上午，
-就出现了三件下品灵器，
-两件中品灵器，
-还有一件上品灵器。”
+"Hey, listen to me."
+大汉显然很有表现欲，
+seeing that they were not paying attention to him, he became agitated. "Do you know, the items in the auction are real treasures. Just this morning, there were three low grade spirit tools, two mid grade spirit tools, and one high grade spirit tool."
 
-提到灵器，
-周围修士的心神又被吸引了过来，
-灵器虽然是简易版法宝，
-但也神通广大，
-不少筑基期修士也没有，
-他们这些灵动期的散修就更加不用痴心妄想了。
+Speaking of spirit tools, all the cultivators started to become interested. Although spirit tools were simplified magical treasures, but their magical power was great. Many Foundation Building cultivators did not even have them, so these Spirit Gathering rogue cultivators could only wishfully think of them.
 
-在场的大部分人虽然没有亲眼见过，
-但也听长辈描述过灵器威力无穷。
+Although most of these people have not personally seen them, but they have heard their elders describe spirit tools as having infinite power.
 
-“嗨，
-没想到真有灵器出手，
-早知道我就不去摊点闲逛了，
-也去拍卖会旁观，
-虽然买不起，
-但至少看看也算开了眼界。”
+"Sigh, I did not think that spirit tools would appear. If I had known earlier, I would not have gone to wander about the stalls, but instead would have gone to see the auction. Although I cannot afford it, but at least it can be seen as increasing my worldly experience."
 
-“哼，
-你以为旁观就那么轻松，
-拍卖会想要进场，
-就要先缴纳一粒洗髓丹的门票。”角落里，
-一个老头模样的修真者冷冷的道。
+A cultivator with the appearance of an old in the corner coldly stated: "Hmph, do you think it's easy to watch the auction from the sidelines? If you want to get into the auction, you first have to pay one Purified Essence pill as the ticket price."
 
-听到这话，
-散修们目瞪口呆，
-旁观也要一颗灵药，
-顿时众人看向大汉的眼神非常精彩，
-有的崇拜，
-有的鄙视，
-为开眼界浪费宝贵的丹药，
-标准的冤大头，
-败家子。
+Upon hearing this, the rogue cultivators were stunned. To watch from the side would require one medicinal pill. Suddenly, everyone turned, with astonished looks in their eyes, to the man before. Some showed worship, others showed contempt. To waste precious pills for an eye opener was definitely an act of a wastrel.
 
 但不管怀着怎样的心理，
 众人对灵器越发的感兴趣，
 争先打听，
 大汉则口沫横飞的讲解。
 
-“你们是没有看见灵器的威力，
-仅仅一击，
-就将一块万斤重的巨石打成了粉末，
-这还仅仅是中品灵器……”
+"You did not see the power of the spirit tool. With just a single strike, it reduced a 500 kilogram boulder to dust, and it was only a mid grade spirit tool......"
 
 还别说，
 这大汉的性格虽然有点哗众取宠，
@@ -113,69 +69,27 @@ Lin Xuan was on the second floor at a seat by the window. He had a casual expres
 一番描述，
 将众人听得悠然神往。
 
-“那么这些灵器被谁拍到了？”
+"Then who took this lot of spirit tools?"
 
-“还能有谁，
-当然是那些实力强大的宗派，
-中品上品灵器一件也没有外落，
-下品灵器则归了财力雄厚的修真家族，
-难道我们散修还会有机会吗？”
+"Who else could it be, of course, the mid and high grade spirit tools were taken by those powerful sects and the low grade ones were taken by those wealthy cultivator clans. Did you think that us rogue cultivators would even have a chance?"
 
-“说得也是，
-别说我们没有那么多丹药参与竞拍，
-就算真买了下来也是烫手山芋，
-弄不好还会招来杀身之祸。”
+"You're right, not only do we not have enough medicinal pills to participate in the auction, but even if we acquired it, it would be a hot potato and only invite annihilation."
 
-这话说得直白了点，
-不过道理大家都清楚，
-唏嘘不已，
-兴致也低了下去，
-以至于后面大汉所说的，
-下午的拍卖会宝物更珍贵，
-有凌云门掌门真人所用的极品灵器和几枚珍贵兽卵的消息，
-也没多少人听进去。
+This was put very bluntly, but everyone understood the point. Endlessly sighing, they also lost a lot of interest in what the man was saying. So not a lot of people heard what he said after. The afternoon auction would have even more precious treasures than the morning and included the top grade spirit tool of the patriarch of the Soaring Cloud sect and many monstrous beast eggs.
 
-林轩端起杯子，
-借喝茶掩盖住嘴角边的笑意，
-哼，
-自己的运气还真是不错，
-对于别的灵动期修士来说，
-下品灵器也是可遇而不可求，
-自己却有三件之多，
-其中最差的都是中品，
-甚至还有极品。
+Lin Xuan lifted his cup and used the motion of drinking his tea to conceal his slight smile. Hmmm, his luck was not bad. To other Spirit Gathering stage cultivators, low grade spirit tools were only things that they might acquire buy luck. But he had three of them, the worst being mid grade, and one of them was even top grade.
 
-只是想要完全发挥它们的威力，
-需要灵控术，
-想到这里，
-林轩收购中级功法的决心更志在必得。
+Only, it he wanted to fully utilize their power, he would need the Spiritual Control technique. Think of this, Lin Xuan was even more determine to acquire this mid rank technique.
 
-大厅中的气氛明显有些低落，
-就在这时，
-一句冷冷的话语传入耳朵：“哼，
-在那些门派与修真家族看来，
-我们这些散修算什么，
-别说拍卖没有份，
-就算是拿出来交易的物品也有幕后操作，
-被提前预定的。”
+The mood in the hall was a bit low. At his moment, he heard a voice coldly say: "Hmph, what are we, the rogue cultivators, in the eyes of those sects and cultivator clans. Ignoring the fact that we can't even participate in the auction, the items brought out in the auction already have their winners decided behind the scenes."
 
-“幕后操作，
-被提前预定？”在场的修士大吃一惊，
-林轩也留上了心，
-顺着声音望过去，
-正是那独自一人在角落里喝酒的老者。
+"Deciding who would win them behind the scenes?" The cultivators were all shocked. Lin Xuan also paid attention, looking for the sound of the voice, he found it was the old man drinking in the corner by himself.
 
-“道友，
-你刚才那话是什么意思？”不用林轩开口，
-自然就会有好奇心旺盛的修真者代劳了。
+"Fellow cultivator, what did you mean by that?" Lin Xuan did not need to ask because naturally, some curious cultivators would ask for him.
 
-老者喝了一口酒，
-也不卖关子：“凌云门有五本中阶功法，
-除了最珍贵的《玉云功》被用来拍卖，
-其他四本都是拿来交易会出售。”
+The old man drank a gulp of wine and did not keep them in suspense. "The Soaring Cloud sect has five mid grade techniques. Other than the precious Jade Cloud technique being sold at the auction, the other four have all been send to the market to be sold.
 
-众人点点头，
-玉筒简里面关于宝物交易会的介绍里面有提到。
+Everyone nodded, this was also mentioned in the description of the treasures trade fair on the jade slip.
 
 “可你们知不知道，
 这拿出来的四本中阶功法，
@@ -215,5 +129,5 @@ Lin Xuan was on the second floor at a seat by the window. He had a casual expres
 管他那么多，
 喝酒喝酒。”
 
-- - -
-- - -
+- -
+-- - -
