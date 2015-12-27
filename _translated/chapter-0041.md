@@ -55,7 +55,7 @@ Lin Xuan also did not delay and headed towards the south side of the plaza as de
 
 Of course Lin Xuan would not stupidly reveal his usage of it, so he slightly raised his chin in a proud manner and asked: "I asked you how much is it?"
 
-His indifferent and haughty looked awed the other person. Although he was dressed like a rogue cultivator, but he had extraordinary bearing, it could be possible that his had powerful teachers backing him.
+His indifferent and haughty looked awed the other person. Although he was dressed like a rogue cultivator, but he had extraordinary bearing, it could be possible that he had powerful teachers backing him.
 
 Thinking again of the fact that he wanted to purchase a cultivation technique that only Foundation Building cultivators could use, the owner of the stall immediately adopted a better attitude and smilingly said: "One hundred and fifty low grade Purified Essence pills."
 
