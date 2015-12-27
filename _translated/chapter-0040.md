@@ -6,7 +6,7 @@ title: "The Situation of Cultivators"
 date: "Dec 27, 2015"
 characters: 2119
 chinese: "http://baishuku.com/html/30/30364/12441358.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3yg0gf/cn_tempered_immortal_chapter_0040/"
 sponsored: false
 completed: true
 ---
@@ -89,3 +89,4 @@ Even if they were dissatisfied with them operating behind the scenes, they still
 
 - -
 -- - -
+
