@@ -2,219 +2,88 @@
 layout: page
 number: "0041"
 name: "Fourty One"
-title: "Soaring Cloud Technique"
+title: "Cultivator Clans"
 date: "Dec 29, 2015"
 characters: 2102
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441360.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
-用腰牌破开禁制，
-回到自己的房间，
-林轩的表情顿时阴沉了下来，
-站在床边，
-默默不语，
-原本仅仅是想在饭馆里消磨时间，
-顺便看能否听到有用的消息，
-没想到却惊闻了这样的大事。
+Using the medallion to open the restrictions, Lin Xuan returned to his room. As soon as he entered, he stood silently stood beside the bed and became gloomy. The reason was because originally, he wanted to simply waste some time in the cafeteria and wanted to see if he could hear any useful information. Who knew he would learn of such shocking news.
 
-起初在玉筒简里了解到下午的交易会有四本中级功法出售时，
-林轩心情很不错，
-因为他的目标仅仅是功法里面包含的灵控术，
-对于功法本身的好坏，
-倒没什么要求，
-反正筑基期才会用到，
-距离那个时间还早。
+When he initially learned that there would be four mid rank techniques for sale in the afternoon session of the trades fair, he was in a great mood. Because his goal was simply to acquire the Spiritual Control technique that was included in these cultivation techniques. He did not have any requirements as to whether if it was a good or bad technique since it was only usable by Foundation Building cultivators and he was still far from that stage.
 
-自己现在先学灵控术，
-至于筑基后会用到的中级功法，
-到时候再考虑，
-现在想，
-还太早了一些。
+He only needed to learn the Spiritual Control technique, as to the mid rank cultivation techniques of Foundation Building, he only needed to think about that when the time came. It was still too early right now.
 
-抱着这样的心理，
-四本功法，
-自己收购其中之一也应该没有问题。
+With this idea in mind, of the four techniques, he should not have a problem acquiring one of them.
 
-可现在……
+But not......
 
-据那个老者所说，
-原本出售的四本中级功法，
-已经有三本被修真家族提前预定了，
-自己只剩下唯一的选择。
+According the that old man, of the four mid rank techniques, three of them have already been reserved by the cultivator clans. That only leaves one choice for him.
 
-与灵动期修士用的低级功法不同，
-中级功法现世的机会并不多，
-也算是抢手货，
-此次来参加大会的修真家族可不止三个，
-其他的家族，
-甚至散修都有可能瞄准唯一一本中级功法，
-自己收购的难度大大增加。
+They were not like the low rank techniques of the Spirit Gathering stage. It was not often that a mid rank technique showed up and so they were in high demand. But the number of cultivator clans participating in this gathering were not limited to just three. The other clans and rogue cultivators are probably also aiming for that last mid rank technique and the difficulty of acquiring it for himself has also gone up greatly.
 
-虽然从丹药的数量来说，
-林轩有信心不输于任何人，
-可那样做的话……
+Although speaking in terms of spiritual medicine, Lin Xuan was confident he would not lose to anyone, but if he was to do that......
 
-默然半响，
-林轩咬了咬牙，
-决定了，
-无论如何，
-也不放弃，
-自己一定要得到中级功法。
+After being silent for a while, Lin Xuan clenched his teeth and decided that no matter what, he would not give up, he must get that mid rank technique.
 
-虽然平日里林轩小心谨慎，
-做事情喜欢谋定而后动，
-但这并不意味着，
-林轩是一个胆小怕事的人，
-他之所以这样，
-是不想招惹不必要的麻烦。
+Although Lin Xuan was generally cautious and like to plan before taking action, but this does not mean that Lin Xuan was a cowardly person. He was only like this because he did not want to provoke unnecessary trouble.
 
-可假如事情真的来临了，
-必须做出选择的时候，
-林轩也不会畏首畏尾，
-男子汉大丈夫，
-拿得起，
-放得下，
-前怕狼，
-后怕虎做不了大事。
+But if these things really happened and he had to make a choice, Lin Xuan would not be timid. Being a man, at the critical moment, you must know when to brave charge forward or to wisely retreat. If you were cowardly or afraid, you would not be able to do great things.
 
-既然对中级功法志在必得，
-那么就不要顾忌那么多。
+Since he was determined to win that mid rank technique, then there was no need to think too much about it.
 
-念及至此，
-林轩盘膝坐下，
-先将体力与法力恢复到最佳，
-这样就算是因为收购功法与别人发生冲突，
-自己获胜的希望也更大。
+Thinking of this point, Lin Xuan sat down cross legged to recover his spiritual power to the best condition. This way, if conflicts with others who wanted this cultivation technique occurred, his chances of winning would greater.
 
-小半个时辰后，
-林轩睁开眼睛，
-出了房间，
-来到广场，
-放眼看了一下，
-提早赶来，
-等待交易会开始的修士有近百之多，
-这些都是选好了宝物，
-害怕被别人捷足先登的修真者。
+After almost an hour, Lin Xuan opened his eyes and left the house. Arriving at the plaza, he took a look around. There were nearly a hundred cultivators and arrived early to wait for the start of the trades fair. These were all people who had a treasure that they wanted and were afraid of other cultivators beating them to it.
 
-其中大部分都是修真家族的人，
-散修只有寥寥几个。
+Of these people, the majority of them were from the cultivator clans, only a few were rogue cultivators.
 
-林轩抢了一个靠前的位置，
-默默的关注着周围的修士，
-可惜这时候大家都没有聊天的兴致，
-所以也听不到什么情报。
+Lin Xuan rushed for a position towards the front and silently observed the surrounding cultivators. Unfortunately, no one was in the mood t chat, so he did not hear any gossip or news.
 
-过了一会儿，
-一个身穿凌云门服饰的修真者走了出来，
-冲众人抱了抱拳：“欢迎各位同道，
-下午的交易会现在开始……”
+After a while, a cultivator wearing the clothing of the Soaring Cloud sect walked over and saluted the crowd. "Welcome fellow cultivators, the afternoon session of the trades fair will now begin......"
 
-一心想要收购宝物的修真者哪有心情听他啰嗦，
-见广场入口的禁制破开了，
-顿时蜂拥而入。
+Those cultivators who absolutely wanted to acquire a treasure were not in the mood to listen to him drone, after seeing the restrictions being lifted on the plaza, they rushed in like bees.
 
-林轩也不含糊，
-进入广场后就直接按照玉筒简里的介绍像南边走去，
-出售中级功法的摊位就在那里。
+Lin Xuan also did not delay and headed towards the south side of the plaza as described on the jade slip. Walking over, he saw that the stall selling the mid rank technique was exactly there.
 
-“这《冰心诀》多少钱？”见摊位上还好好的摆着一个玉筒简，
-林轩心中松了口气，
-总算没有来晚，
-表面上却不动声色。
+"How much for this Frozen Heart technique?" See that the jade slip was still at the stall, Lin Xuan released a relived sigh because he did not come too late. But he did not show it on his face.
 
-“你？”负责摊位的是一位灵动后期的修士，
-看了一眼林轩，
-有些好奇，
-原因无他，
-筑基期的修士才用得上中级功法。
+"You are?" The one responsible for the stall was a latter stage Spirit Gathering cultivator. Taking a look at Lin Xuan, he was curious, because this was a technique that could only be used if one was at the Foundation Building stage.
 
-林轩当然不会傻傻的说明自己的用途，
-微微仰了仰下颌：“我问你怎么买？”
+Of course Lin Xuan would not stupidly reveal his usage of it, so he slightly raised his chin in a proud manner and asked: "I asked you how much is it?"
 
-他这副满不在乎，
-还略显高傲的神情顿时将对方镇住了，
-虽然林轩仅仅是散修打扮，
-可却气宇不凡，
-说不定有厉害的师长在后面。
+His indifferent and haughty looked awed the other person. Although he was dressed like a rogue cultivator, but he had extraordinary bearing, it could be possible that his had powerful teachers backing him.
 
-再联想他要买筑基期才用的中级功法，
-摊主的态度顿时好了起来，
-陪笑道：“一百五十粒下品洗髓丹。”
+Thinking again of the fact that he wanted to purchase a cultivation technique that only Foundation Building cultivators could use, the owner of the stall immediately adopted a better attitude and smilingly said: "One hundred and fifty low grade Purified Essence pills."
 
-见对方态度转变，
-林轩心中暗暗好笑，
-这也是他故意的，
-既然唯一一本中级功法很有可能许多人抢，
-那自己低调就没有意义了，
-不如表现得高傲一点，
-这样别人反而吃不准，
-以为自己有厉害的后台，
-想搞鬼蜮伎俩也就多一层顾忌了。
+Seeing that the stall owner changed his attitude, Lin Xuan secretly smiled, because that was his intention. Since this was the only mid rank cultivation technique left and a lot of other people wanted it, then being low key made no sense. It was better to be a little arrogant, this way, people would be unsure and might think he had powerful backing. This way he could add an extra layer of doubt.
 
-不过事情比想象的顺利，
-至少还没有出现其他的买主，
-看来自己来早一点的选择对了。
+But it went much better than expected, at least there were no other buyers. It seems that arriving early was the correct decision.
 
-林轩将手探入怀中，
-正准备取丹药，
-然而就在这时，
-一个轻佻的声音自后面传入耳朵：“一百五十粒下品洗髓丹，
-这《冰心诀》我要了。”
+Lin Xuan reached into his bosom and was preparing to retrieve the pills. But at that moment, a frivolous voice sounded behind him. "One hundred and fifty Purified Essence pills, I'll take this Frozen Heart technique."
 
-林轩的心咯噔一下，
-没想到最后关头还是出现了波折，
-他面无表情的回过头，
-只见是一个世家打扮的公子，
-锦衣华服，
-大约二十七八岁左右，
-灵动期修真者。
+Lin Xuan's heart dropped. Who knew that in the end, there would still be an unexpected turn of events. Turning around with an expressionless face, he saw that it was a Spirit Gathering cultivator of about twenty seven or eight years old who was dressed like the son of a noble family.
 
-这穿着，
-这装束，
-再配上他那副惹人生厌的表情，
-不用说，
-也知道是修真家族的人了。
+His clothes along with his tiresome expression all pointed to the fact that he was a member of a cultivator clan.
 
-嘭嘭，
-两个玉瓶被扔在了摊位上，
-然后那华服青年就去拿玉筒简了。
+Bang, Bang. Two jade bottles were thrown onto the stand. Then that young man reached out for the jade slip.
 
-“且慢。”林轩闪身挡在了他的面前。
+"Hold on." Linx Xuan shifted his body to block the youth.
 
-“怎么？”看清楚林轩的散修打扮，
-华服青年一脸的傲然。
+"What?" Seeing that Lin Xuan was dressed like a rogue cultivator, the youth had a proud look on his face.
 
-“先来后到的规矩你懂不懂？”林轩懒得跟这种人啰嗦，
-而且看架势，
-双方也多半会撕破脸，
-那就不用假客气了。
+"Do you not understand first come first served?" Lin Xuan was too lazy to be long winded about this. Looking at their postures, neither sides were going to polite so they shed all pretenses of cordiality.
 
-“呵呵，
-先来后到，
-你一个散修买得起中级功法？”青年满脸嘲讽：“何况就算有丹药，
-你敢与我们燕家抢吗？”
+"Haha, first come first served. Can you, a rogue cultivator, even afford a mid rank technique?" The youth ridiculed. "Morevoer, even if you have the pills, do you dare to fight for it with my Yan family?"
 
-燕家，
-一个中等规模的修仙家族，
-人并不多，
-修士大约也就十几个，
-然而家主却是灵动期大圆满的高手，
-距离筑基只有一步之遥了。
+Yan family was a medium sized cultivator clan. They did not have many people, only about a dozen cultivators. However, their patriarch was at the great perfection of the Spirit Gathering stage and was only a step away from the Foundation Building stage.
 
-燕家的资料在林轩脑海中闪过，
-他没有多说，
-从怀里取出丹药：“一百六十粒洗髓丹，
-我买了。”
+This knowledge of the Yan family flashed in his mind. Lin Xuan did not say anything else and retrieved the pills from his bosom. "One hundred sixty Purified Essence pills, I will take it."
 
-林轩之所以愿意多出十粒，
-是因为在相同价钱下，
-摊主肯定会将功法卖给修真家族，
-而忽视散修，
-除非自己愿意表露飘云谷弟子的身份，
-但这显然不可能。
+Lin Xuan was willing to give ten extra pills because at the same price, the owner of the stall was definitely going to sell the cultivation technique to the cultivator clan and ignore the rogue cultivator. Unless he was will to reveal the fact that he was a disciple of the Floating Cloud valley but that was not possible.
 
 - - -
 - - -
