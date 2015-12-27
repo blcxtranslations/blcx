@@ -6,7 +6,7 @@ title: "Cultivator Clans"
 date: "Dec 27, 2015"
 characters: 2102
 chinese: "http://baishuku.com/html/30/30364/12441360.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3yg48b/cn_tempered_immortal_chapter_0041/"
 sponsored: false
 completed: true
 ---
@@ -87,3 +87,4 @@ Lin Xuan was willing to give ten extra pills because at the same price, the owne
 
 - - -
 - - -
+
