@@ -3,7 +3,7 @@ layout: page
 number: "0041"
 name: "Fourty One"
 title: "Cultivator Clans"
-date: "Dec 29, 2015"
+date: "Dec 27, 2015"
 characters: 2102
 chinese: "http://baishuku.com/html/30/30364/12441360.html"
 reddit: ""

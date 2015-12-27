@@ -3,7 +3,7 @@ layout: page
 number: "0044"
 name: "Fourty Four"
 title: "Soaring Cloud Technique"
-date: "Jan 04, 2016"
+date: "Jan 02, 2016"
 characters: 2038
 chinese: "http://baishuku.com/html/30/30364/12441356.html"
 reddit: ""
