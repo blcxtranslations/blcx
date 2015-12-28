@@ -11,7 +11,7 @@ sponsored: false
 completed: true
 ---
 
-At noon, there was a continuous stream of cultivators making their way back. It was lunch time, and low level cultivators could not simply fast. Food was provided by the cottages for free and tasted very good.
+At noon, there was a continuous stream of cultivators making their way back. It was lunch time, and low-level cultivators could not simply fast. The food was provided by the cottages for free and tasted very good.
 
 Lin Xuan had finished eating earlier and had nothing to do. So instead of going back to his cottage, he sat in the cafeteria drinking tea.
 
@@ -31,13 +31,13 @@ The man blushed. "We rogue cultivators, do not have the strength to participate 
 
 "Oh." The crowd showed an expression of understanding and suddenly lost interest, and went back to eating and drinking tea.
 
-"Hey, listen to me." The man like to grandstand, seeing that they were not paying attention to him, he became agitated. "Do you know, the items in the auction are real treasures. Just this morning, there were three low grade spirit tools, two mid grade spirit tools, and one high grade spirit tool."
+"Hey, listen to me." The man like to grandstand, seeing that they were not paying attention to him, he became agitated. "Do you know, the items in the auction are real treasures. Just this morning, there were three low-grade spirit tools, two mid-grade spirit tools, and one high-grade spirit tool."
 
 Speaking of spirit tools, all the cultivators started to become interested. Although spirit tools were simplified magical treasures, but their magical power was great. Many Foundation Building cultivators did not even have them, so these Spirit Gathering rogue cultivators could only wishfully think of them.
 
 Although most of these people have not personally seen them, but they have heard their elders describe spirit tools as having infinite power.
 
-"Sigh, I did not think that spirit tools would appear. If I had known earlier, I would not have gone to wander about the stalls, but instead would have gone to see the auction. Although I cannot afford it, but at least it can be seen as increasing my worldly experience."
+"Sigh, I did not think that spirit tools would appear. If I had known earlier, I would not have gone to wander about the stalls, but instead, would have gone to see the auction. Although I cannot afford it, but at least it can be seen as increasing my worldly experience."
 
 A cultivator with the appearance of an old in the corner coldly stated: "Hmph, do you think it's easy to watch the auction from the sidelines? If you want to get into the auction, you first have to pay one Purified Essence pill as the ticket price."
 
@@ -45,21 +45,21 @@ Upon hearing this, the rogue cultivators were stunned. To watch from the side wo
 
 But no matter what they felt about it, they were still all very interested in spirit tools. They all wanted more information, so the man, with spittle flying, started excitedly explaining.
 
-"You did not see the power of the spirit tool. With just a single strike, it reduced a 500 kilogram boulder to dust, and it was only a mid grade spirit tool......"
+"You did not see the power of the spirit tool. With just a single strike, it reduced a 500-kilogram boulder to dust, and it was only a mid grade spirit tool......"
 
 Although the man liked to grandstand, but he was also eloquent, with a little explanation, he had already charmed the crowd.
 
 "Then who took this lot of spirit tools?"
 
-"Who else could it be, of course, the mid and high grade spirit tools were taken by those powerful sects and the low grade ones were taken by those wealthy cultivator clans. Did you think that us rogue cultivators would even have a chance?"
+"Who else could it be, of course, the mid and high-grade spirit tools were taken by those powerful sects and the low-grade ones were taken by those wealthy cultivator clans. Did you think that us rogue cultivators would even have a chance?"
 
-"You're right, not only do we not have enough medicinal pills to participate in the auction, but even if we acquired it, it would be a hot potato and only invite annihilation."
+"You're right, not only do we not have enough medicinal pills to participate in the auction but even if we acquired it, it would be a hot potato and only invite annihilation."
 
 This was put very bluntly, but everyone understood the point. Endlessly sighing, they also lost a lot of interest in what the man was saying. So not a lot of people heard what he said after. The afternoon auction would have even more precious treasures than the morning and included the top grade spirit tool of the patriarch of the Soaring Cloud sect and many monstrous beast eggs.
 
-Lin Xuan lifted his cup and used the motion of drinking his tea to conceal his slight smile. Hmmm, his luck was not bad. To other Spirit Gathering stage cultivators, low grade spirit tools were only things that they might acquire buy luck. But he had three of them, the worst being mid grade, and one of them was even top grade.
+Lin Xuan lifted his cup and used the motion of drinking his tea to conceal his slight smile. Hmmm, his luck was not bad. To other Spirit Gathering stage cultivators, low-grade spirit tools were only things that they might acquire by luck. But he had three of them, the worst being mid-grade, and one of them was even top grade.
 
-Only, it he wanted to fully utilize their power, he would need the Spiritual Control technique. Think of this, Lin Xuan was even more determine to acquire this mid rank technique.
+Only, if he wanted to fully utilize their power, he would need the Spiritual Control technique. Thinking of this, Lin Xuan was even more determine to acquire this mid-rank technique.
 
 The mood in the hall was a bit low. At his moment, he heard a voice coldly say: "Hmph, what are we, the rogue cultivators, in the eyes of those sects and cultivator clans. Ignoring the fact that we can't even participate in the auction, the items brought out in the auction already have their winners decided behind the scenes."
 
@@ -67,26 +67,25 @@ The mood in the hall was a bit low. At his moment, he heard a voice coldly say: 
 
 "Fellow cultivator, what did you mean by that?" Lin Xuan did not need to ask because naturally, some curious cultivators would ask for him.
 
-The old man drank a gulp of wine and did not keep them in suspense. "The Soaring Cloud sect has five mid grade techniques. Other than the precious Jade Cloud technique being sold at the auction, the other four have all been send to the market to be sold.
+The old man drank a gulp of wine and did not keep them in suspense. "The Soaring Cloud sect has five mid-grade techniques. Other than the precious Jade Cloud technique being sold at the auction, the other four have all been sent to the market to be sold.
 
 Everyone nodded, this was also mentioned in the description of the treasures trade fair on the jade slip.
 
-"Did you guys know, of the four mid rank techniques, three of them have already been reserved for the cultivator clans?"
+"Did you guys know, of the four mid-rank techniques, three of them have already been reserved for the cultivator clans?"
 
 "Reserving ahead of time, is that not against the rules?"
 
 "Hmph, rules?" The old man mockingly laughed. "You all came to participate in the trade fair, so presumably, you all are not new to the world of cultivation. When have you heard of following rules when doing things. If you want to reason with them, would those sects and clans reason with you? Only strength counts in this world."
 
-The crowd was speechless. Everyone here were all rogue cultivators, and were frequently bullied by the sects and clans. But what could they do about it, this was a world ruled by force.
+The crowd was speechless. They were all rogue cultivators and were frequently bullied by the sects and clans. But what could they do about it, this was a world ruled by force.
 
 Even if they were dissatisfied with them operating behind the scenes, they still could do nothing about it.
 
-"Then let them reserve those mid rank techniques ahead of time. It's not like we Spirit Gathering cultivators can use them anyway!"
+"Then let them reserve those mid-rank techniques ahead of time. It's not like we Spirit Gathering cultivators can use them anyway!"
 
-"Well said fellow cultivator. Few rogue cultivators can achieve Foundation Building. Even if they gave us those mid rank techniques, it would still be useless for us."
+"Well said, fellow cultivator. Few rogue cultivators can achieve Foundation Building. Even if they gave us those mid-rank techniques, it would still be useless for us."
 
 "That's right, who cares, let's drink, let's drink."
 
 - - -
 - - -
-

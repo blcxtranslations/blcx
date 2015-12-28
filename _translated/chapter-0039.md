@@ -25,7 +25,7 @@ As everyone knows, monstrous beasts and cultivators alike could absorb the spiri
 
 These monstrous beast eggs were the eggs of the tamed monstrous beasts of the Soaring Cloud sect. Since they were unhatched, they have yet to accept a master, so they were an exceptionally good deal.
 
-Thus it can be seen that the items being auctioned off were truly treasures of the Soaring Cloud sect. But the ordinary rogue cultivators did not even need to think about them, because the Floating Cloud Valley, the Flame Spirit sect, the Seal Mountain, Starry Sky clan, etc would definitely divide the treasure among themselves. Even the cultivator clans might only be able to receive a fraction of the left overs and be able to buy some low grade spirit tools or garbage monstrous beast eggs.
+Thus, it can be seen that the items being auctioned off were truly treasures of the Soaring Cloud sect. But the ordinary rogue cultivators did not even need to think about them, because the Floating Cloud Valley, the Flame Spirit sect, the Seal Mountain, Starry Sky clan, etc would definitely divide the treasure among themselves. Even the cultivator clans might only be able to receive a fraction of the leftovers and be able to buy some low-grade spirit tools or garbage monstrous beast eggs.
 
 The second part of the trade fair was free selection. It was called free selection because it was like the stalls of the rogue cultivators of the past few days. Only this time, it would be the Soaring Cloud sect setting them up, sorted into different categories, and allowing everyone to pick what they wanted.
 
@@ -35,11 +35,11 @@ The various sects would not be interested in these, so the main customers are th
 
 The details in the jade slip were very clear, even the items for sale were listed in detail. This made Lin Xuan very happy for it saved him a lo of effort.
 
-Skipping other things, Lin Xuan looked for the cultivation techniques first. For low level cultivation techniques, they had over a dozen of different kinds of techniques. This caused Lin Xuan to start planning again. Although the Floating Cloud Valley taught low level cultivation techniques, but they only gave out some very common techniques to unimportant disciples.
+Skipping other things, Lin Xuan looked for the cultivation techniques first. For low-level cultivation techniques, they had over a dozen of different kinds of techniques. This caused Lin Xuan to start planning again. Although the Floating Cloud Valley taught low-level cultivation techniques, but they only gave out some very common techniques to unimportant disciples.
 
-The really good low level cultivation techniques were only taught to the few outstanding elite disciples.
+The really good low-level cultivation techniques were only taught to the few outstanding elite disciples.
 
-This was the reason why even though he used a large amount of pills and put in lots of effort in cultivating and had still yet to break into the fifth layer.
+This was the reason why even though he used plenty of pills and put in lots of effort in cultivating and had still yet to break into the fifth layer.
 
 Although the Soaring Cloud sect could not compare to the Floating Cloud Valley, that that was based on the number of high levelled cultivators each sect had and the quality of their mid level cultivation techniques. Though just comparing low level cultivation techniques, they were both on par.
 
@@ -81,4 +81,3 @@ Lin Xuan did not make any more purchases, after wandering around for a while, he
 - - -
 
 [^1]: [嗯](https://en.wiktionary.org/wiki/%E5%97%AF#Interjection_3) is the sound of agreement.
-

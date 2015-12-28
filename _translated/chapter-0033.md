@@ -17,15 +17,15 @@ The whole time, he had a very casual expression on his face. No matter how you l
 
 He finally found the whereabouts of the Spirit Control technique!
 
-There were two ways to enter the second level of the library. Either he didn't satisfy it, or he would arouse suspicion, so both were not desirable. But the treasures trade fair, there would definitely be mid rank techniques for sale. As an outsider, he only needed to brush the dust off his clothes and leave and worry about other troubles.
+There were two ways to enter the second level of the library. Either he didn't satisfy it, or he would arouse suspicion, so both were not desirable. But the treasures trade fair, there would definitely be mid-rank techniques for sale. As an outsider, he only needed to brush the dust off his clothes and leave and worry about other troubles.
 
 The sound of footsteps came from behind and Lin Xuan's smile disappeared. Revealing a very normal expression, closely passing the approaching person, he no longer delayed and directly went back to the courtyard of the Waste Pills storage.
 
 Since he made the decision to participate and acquire the Spirit Control technique in the trade fair, the following that, Lin Xuan started to prepare for the trip. He had already as and figured out clearly, Sky Pillar mountain was around four hundred kilometres away. To mortals, it can be said to be a little far, but Lin Xuan was a cultivator, and even though he could not fly on his spirit tools, he still knew the Imperial Wind technique and could cover the distance quickly. Four hundred kilometres would take one day while hurrying and two if he took it slow. He could reach it either way, so that gave him seven days time to prepare.
 
-This kind of sect disbanding trade fair was different from the regular trade fairs of the cultivator cities. These did not use spirit stones, but pills, as money. To Lin Xuan, the was great news, even though he acquired Zhou Yan and Zhang Yu's wealth, he only had dozens of low grade spirit stones. But other than using spirit stones as a currency, it can also be used to cultivate or even to craft items. Lin Xuan would not bear to easily part with them.
+This kind of sect disbanding trade fair was different from the regular trade fairs of the cultivator cities. These did not use spirit stones, but pills, as money. To Lin Xuan, the was great news, even though he acquired Zhou Yan and Zhang Yu's wealth, he only had dozens of low-grade spirit stones. But other than using spirit stones as a currency, it can also be used to cultivate or even to craft items. Lin Xuan would not bear to easily part with them.
 
-Moveover, Lin Xuan had special circumstances, the only thing he had no shortage of was pills. So to him, using pills as currency was the the best. Of course, the concept of "when you go out to buy, don't show your silver" was very clear to Lin Xuan, he was only a low level Spirit Gathering cultivator, it he seemed like he had deep pockets, it was easy to bring disaster on himself. He could not be like the people of the Soaring Cloud sect, who had the protection of the commandment.
+Moreover, Lin Xuan had special circumstances, the only thing he had no shortage of was pills. So to him, using pills as currency was for the best. Of course, the concept of "when you go out to buy, don't show your silver" was very clear to Lin Xuan, he was only a low-level Spirit Gathering cultivator, if he seemed like he had deep pockets, it was easy to bring disaster on himself. He could not be like the people of the Soaring Cloud sect, who had the protection of the commandment.
 
 So for this trip, to be fully prepared, he needed to bring enough pills, and he also needed to be cautious. If it wasn't a good opportunity, he would not easily act. All in all, he needed to be careful and not attract attention.
 
@@ -37,13 +37,13 @@ After these last few months, as to the usage of the star ocean to purify Purifie
 
 When the immortal coming back and shutting himself indoors, the children led by Zhao Ming were not suspicious at all. They simply that the steward was busy being lazy and sleeping again.
 
-Five days passed like this. Lin Xuan got up off the ground, and stretched his stiff body. These few days and nights of purifying was really tiring, but the haul was considerable. In total, he had three bottles, which was equal to three hundred low grade pills, and nine mid grade pills.
+Five days passed like this. Lin Xuan got up off the ground and stretched his stiff body. These few days and nights of purifying was really tiring, but the haul was considerable. In total, he had three bottles, which was equal to three hundred low-grade pills, and nine mid grade pills.
 
 In terms of volume, this was already frightening. Lin Xuan's reason for purifying so many was to be prepared against mishaps. After all, in the pills and medicines of the cultivation world, this kind of Purified Essence pill for the Spirit Gathering stage was the lowest grade of pills and the trashiest kind. As to the value of these pills as currency, Lin Xuan had no concept of how much they were actually worth. So just in case, he brought this many with him as insurance.
 
 He did not want a situation where he did not have enough pills to purchase the skill he wanted!
 
-After he finished purifying the pills, Lin Xuan prepared to leave. He first organized his wealth and items. He had in total: twenty eight spirit stones, three spirit tools, and in addition, he also had dozens of seals of the five elements.
+After he finished purifying the pills, Lin Xuan prepared to leave. He first organized his wealth and items. He had in total: twenty-eight spirit stones, three spirit tools, and in addition, he also had dozens of seals of the five elements.
 
 These items and the purified pills must be kept on his person. Firstly it would stop him from worrying about them, and secondly, on this trip, only god knows if he would meet danger. With these items, his power would also be greater.
 
@@ -51,7 +51,7 @@ Although he had a lot of items, but Lin Xuan had, from Zhou Yan and Zhang Yu, on
 
 In addition, Lin Xuan also put on a vest that he acquired from Zhang Yu. Although he did not know what it was woven from, but it was very durable. It was easy to tell that it is a defensive treasure. This kind of thing should not be just wasted by not using it.
 
-After doing all of this, Lin Xuan left. Of course, he first needed to notify the sect management first, and get permission to leave.
+After doing all of this, Lin Xuan left. Of course, he first needed to notify the sect management first and get permission to leave.
 
 Foundation Building cultivators would be recorded, but for disciples of the Spirit Gathering stage, the sect did not really pay much attention. Any random reason could be used to fool their way out.
 
@@ -61,7 +61,7 @@ In fact, it was still early, the fair would only open in four days time. But the
 
 Two days later.
 
-Sky Pillar mountain was located in then east of the Yan prefecture of Zhao country. It stretched dozens of kilometres. It was very lush, with a wild profusion of vegetation. The main peak, Sky Pillar peak, was even more famous for its magnificence. It was more than five kilometres tall, with many jagged rocks everywhere, and very difficult to traverse.
+Sky Pillar mountain was located in the east of the Yan prefecture of Zhao country. It stretched dozens of kilometres. It was very lush, with a wild profusion of vegetation. The main peak, Sky Pillar peak, was even more famous for its magnificence. It was more than five kilometres tall, with many jagged rocks everywhere, and very difficult to traverse.
 
 Throughout the ages, there were many people that came to go sightseeing. There were cliffs everywhere, and after searching the whole mountain, they could not find a single way in, and could only helplessly sigh.
 

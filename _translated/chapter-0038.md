@@ -17,11 +17,11 @@ This mask can be used to change one's appearance, but of course, it could not tr
 
 Being a big customer, Lin Xuan believed that even if the youth was dull in the head, he would not do something so reckless. Because to intentionally use the Reveal technique on another, according to the rules of the cultivation world, was very rude and even hostile behaviour
 
-After envisioning all the possible scenarios, Lin Xuan felt that there was no chance of any accidents and that there were no flaws. So he put on the mask, and suddenly, his appearance completely changed, turning him into a ruddy faced unrefined looking fellow.
+After envisioning all the possible scenarios, Lin Xuan felt that there was no chance of any accidents and that there were no flaws. So he put on the mask, and suddenly, his appearance completely changed, turning him into a ruddy-faced unrefined looking fellow.
 
-Then, Lin Xuan placed a small round object underneath his tongue. This was also an item purchased in the the secular martial arts world and can change one's voice.
+Then, Lin Xuan placed a small round object underneath his tongue. This was also an item purchased in the-the secular martial arts world and can change one's voice.
 
-After completing all this, Lin Xuan walked out from behind the tree and continued to follow the youth at a constant pace. After walking for about a quarter of an hour, they arrived at an deserted place.
+After completing all this, Lin Xuan walked out from behind the tree and continued to follow the youth at a constant pace. After walking for about a quarter of an hour, they arrived at a deserted place.
 
 It was time to act!
 
@@ -29,7 +29,7 @@ Lin Xuan took a look around and did not see anyone else. He quickened his pace: 
 
 "You are..." The simple youth turned around and looked at Lin Xuan with doubt. With a flash of vigilance in his eye he hesitantly said: "Fellow cultivator asked me to wait, what did you need?"
 
-Lin Xuan had some mixed feelings. He could clearly see that the youth had an alert expression on his face. Even though he looked dull in the head, he had a fine mind. He know that he needed to be guarded around strangers, but he was still to inexperienced, because the expressions on his face were too obvious.
+Lin Xuan had some mixed feelings. He could clearly see that the youth had an alert expression on his face. Even though he looked dull in the head, he had a fine mind. He knows that he needed to be guarded around strangers, but he was still too inexperienced because the expressions on his face were too obvious.
 
 Lin Xuan smiled and stepped forward, deliberately pretending he had not seen his expression. "I am Zhao Gang and I would like to buy fellow cultivators seals."
 
@@ -51,11 +51,11 @@ The reason he picked this spot to stop the youth was because of careful consider
 
 "Okay, I'll take all of them."
 
-"All of them." The youth's mouth hung open. He was very happy, this was much better than what he had imagined, so he happily said: "If it's like that, than I will also be straightforward. Originally, it was two seals for one low grade Purified Essence pill, since fellow cultivator wants so many, then I will lower the price too. I'll give you a round number[^1], fifty pills are enough."
+"All of them." The youth's mouth hung open. He was very happy, this was much better than what he had imagined, so he happily said: "If it's like that, then I will also be straightforward. Originally, it was two seals for one low-grade Purified Essence pill, since fellow cultivator wants so many, then I will lower the price too. I'll give you a round number[^1], fifty pills are enough."
 
 Fifty. Lin Xuan made a quick calculation. According to the knowledge he gained in the market today, this was not a high price. It was basically the cost of crafting that many seals. That amount was nothing to him.
 
-Although he agreed with the price, but he did not immediately take out the pills. Instead, he put on a pained expression and pondered for a while. This made the youth fidget, and just before when the youth could not hold it anymore, Lin Xuan sighed. Pretending to finally making a choice with great determination, he said: "Alas, I urgently need these seals, fine, deal."
+Although he agreed with the price, but he did not immediately take out the pills. Instead, he put on a pained expression and pondered for a while. This made the youth fidget, and just before when the youth could not hold it anymore, Lin Xuan sighed. Pretending to finally make a choice with great determination, he said: "Alas, I urgently need these seals, fine, deal."
 
 Hearing this, the youth finally let go of the breath he was holding, and started giggling.
 
@@ -63,7 +63,7 @@ Hearing this, the youth finally let go of the breath he was holding, and started
 
 This was also Lin Xuan being clever and not missing small details when doing things. For example, although each bottle could hold one hundred pills, it would be too eye catching. Therefore, Lin Xuan deliberately packed the pills separately, ten pills per bottle. This way, he gave the impression that these pills were collected with great effort, and would not attract unwanted attention.
 
-Exchanging the pills for seals, the you happily received the pills, and Lin Xuan started counting the seals. They were all there. Lin Xuan did not want to stay for long: "Zhao says goodbye.[^2]"
+Exchanging the pills for seals, the youth happily received the pills, and Lin Xuan started counting the seals. They were all there. Lin Xuan did not want to stay for long: "Zhao says goodbye.[^2]"
 
 The youth saluted: "Fellow cultivator, have a nice day." This transaction was the satisfaction of everyone involved.
 
@@ -77,7 +77,7 @@ Lin Xuan laid on the best and rested for a while. Considering the time, the cult
 
 With this in mind, Lin Xuan once again came to the plaza. It seemed even more lively this time, the number of people also increased. It seems that the number of cultivators arriving increased as it got closer to the time of the treasures trade fair.
 
-The hawking of wares was very lively, but to Lin Xuan, there was not that many useful things. Although he was only a mid stage Spirit Gathering cultivator, but based on his net worth, he was much richer than most Foundation Building cultivators. Therefore, most trivial things could not catch his eyes.
+The hawking of wares was very lively, but to Lin Xuan, there were not that many useful things. Although he was only a mid-stage Spirit Gathering cultivator, but based on his net worth, he was much richer than most Foundation Building cultivators. Therefore, most trivial things could not catch his eyes.
 
 Of course, that was not to say that Lin Xuan had no harvests. Wandering around for the entire afternoon, Lin Xuan still bought some things, namely, spirit stones.
 
@@ -88,7 +88,6 @@ So of course, when he saw two pieces of spirit stones, Lin Xuan did not hesitate
 - - -
 - - -
 
-[^1]: 整数, or round / whole number are not actually meant to be integral numbers. They are integral but it is one step further. For example 50 is a round number, but 51 - 59 are not. So they are just nice looking numbers.
+[^1]: 整数, or round / whole number are not actually meant to be integral numbers. They are integral, but it is one step further. For example 50 is a round number, but 51 - 59 are not. So they are just nice looking numbers.
 
-[^2]: I is common to refer to oneself in the third person with just one's last name.
-
+[^2]: It is common to refer to oneself in the third person with just one's last name.

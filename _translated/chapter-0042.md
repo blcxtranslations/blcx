@@ -2,244 +2,102 @@
 layout: page
 number: "0042"
 name: "Fourty Two"
-title: "Soaring Cloud Technique"
+title: "Invisibility Seal"
 date: "Dec 29, 2015"
 characters: 2179
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441361.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
-华服青年眼睛瞪得大大的，
-吃惊的看了林轩一眼，
-也难怪，
-在他们这些世家弟子的眼里，
-散修都很贫穷，
-眼前这小子，
-居然不动声色就拿出一百六十粒洗髓丹，
-实在是让他刮目相看。
+The finely dressed youth widened his eyes and looked at Lin Xuan with shock. But who could blame him? In the eyes of clan disciples, rogue cultivators are really poor. But this guy in front of him actually took out one hundred and sixty Purified Essence pills without any changes in expression, definitely changed the way he looked at him.
 
-难道这小子不是散修，
-而是其他家族甚至宗派的弟子？
+Could this guy be pretending to be a rogue cultivator, but instead a disciple from another cultivator clan or even a sect?
 
-燕鸣脑海中转过这个念头，
-上上下下仔细打量了林轩一圈，
-不会，
-宗派弟子都有特定的服饰，
-便是各家族的子侄也不会穿得这么寒酸，
-这小子就是一副标准的散修打扮。
+This idea swam around in Yan Ming's mind. He carefully looked Lin Xuan up and down. No, sect disciples all had specific uniforms, and clan disciples would not wear such shabby clothes. This guy was wearing the standard clothing of a rogue cultivator.
 
-或许是走了狗屎运的家伙，
-意外发了一笔小财。
+Maybe this guy just found this small fortune by plain dumb luck.
 
-心中如是想，
-燕鸣的神色又变得倨傲起来：“本少爷出一百七十粒洗髓丹。”
+Thinking that this was the case, Yan Ming became haughty once more: "This young master will offer one hundred and seventy Purified Essence pills."
 
-“一百八！”
+"One hundred and eighty!"
 
-“一百九。”
+"One hundred and ninety!"
 
-“两百！”林轩咬了咬牙，
-灵控术他志在必得，
-准备了这么久，
-怎么能空手而归？
+"Two hundred!" Lin Xuan clenched his teeth. He was determined to win the Spiritual Control technique and had prepared for such a long time. How could he go back empty handed?
 
-……
+......
 
-燕鸣的额头也冒起了冷汗，
-他做梦也没想到眼前这貌不惊人的小子丹药居然如此充足，
-燕家虽然是中等规模的修仙家族，
-传承了数百年，
-但身家并不丰厚，
-两百枚洗髓丹，
-已经能让整个家族捉襟见肘，
-甚至还要卖掉不少宝贝了。
+Yan Ming's forehead broke out in a cold sweat. He had never even dreamed that this unassuming guy in front of him could have such an abundant supply of medicinal pills. Although the Yan family was a mid-level cultivator clan with hundreds of years of history, but they did not have much wealth. Taking out two hundred Purified Essence pills already had their clan struggling to make ends meet, they even had to sell off many of their treasures.
 
-可临行前，
-父亲大人有令，
-无论如何也要收购一本中级功法，
-原因无他，
-做为族长的父亲已经要突破瓶颈，
-进入筑基期了，
-可却没有合适的功法。
+But before leaving, his Lord Father had decreed that no matter what, he must purchase a mid-level cultivation technique. There was only one reason. His Lord Father, the patriarch, was about to break through the bottleneck and enter the Foundation Building stage but did not have any suitable cultivation techniques.
 
-两人竞价的声音，
-将周围的修真者也吸引了过来，
-议论声纷纷不断。
+The sound of bidding attracted all the surrounding cultivators and the sound of discussion continued nonstop.
 
-“天哪，
-两百粒洗髓丹。”
+"Oh my god! Two hundred Purified Essence pills."
 
-“这小子是哪儿来的散修，
-这么富有，
-居然敢跟修真家族较劲？”
+"Where is this rogue cultivator guy from to be so rich that he would dare to compete with a cultivator clan?"
 
-“什么富有，
-傻胆大，
-等着瞧，
-他就算拿到那本功法，
-也会招来血光之灾。”
+"What riches, he's just stupidly bold. Just wait and see, even if he gets that cultivation technique, he will still be annihilated."
 
-“哼，
-这可不一定，
-他既然不怕燕家，
-背后说不定也有本领高强的师长。”
+"Hmmm, it might not be like that. Since he's not afraid of the Yan family, he might have a very powerful teacher behind him."
 
-……
+......
 
-此话也说出了燕鸣心中所想，
-毕竟对方的表现放在一个散修身上太奇怪，
-见围观的人越来越多，
-林轩的脸上闪过一丝不易察觉的阴霾，
-这样下去，
-事情会越来越糟，
-动作必须快一点。
+What was just spoken was also what Yan Ming was thinking. After all, the others actions were too strange to be how a rogue cultivator. Seeing more and more people joining the crowd, an ominous look flashed quickly on Lin Xuan's face. If this continues, things will get much worse, he must act a little faster.
 
-快刀斩乱麻！
+He must take swift and decisive action!
 
-他从怀里掏出一个玉瓶，
-珍而重之的放在摊位上：“这东西加两百粒下品洗髓丹，
-你卖不卖？”
+He pull out another jade bottle from his bosom and placed it on the stand. "This thing here and those two hundred low-grade Purified Essence pills, are you willing to sell it for this?"
 
-这是什么？
+What is that?
 
-所有的修真者脑海中都冒出一个疑问，
-负责摆摊的凌云门修士也刚从震惊中回过神来，
-他可没想到一本普通的中级功法会卖出这样的好价钱。
+All the rogue cultivators all had this same question in their minds. The Soaring Cloud sect disciple responsible for the stall had barely recovered from the shock. He would never have thought that an ordinary mid-level cultivation technique would fetch such a good price.
 
-不过从林轩郑重的表情，
-也知道不是凡品。
+But seeing Lin Xuan's solemn expression, he also knew it was not an ordinary item.
 
-那摊主吞了一口口水，
-将瓶子打开，
-顿时一股令人神清气爽的香味儿飘了出来，
-只见一粒小小的，
-表面呈淡蓝色的丹药躺在里面。
+The stall owner swallowed a mouthful of saliva and opened the bottle. Suddenly, a refreshing scent drifted out of the bottle. there was only a single small pale blue pill lying inside.
 
-中品洗髓丹！
+Mid-grade Purified Essence pill!
 
-虽然从来没有见过，
-但大部分修真者都从书上见过此丹药的描述，
-色泽，
-香味儿都没有错。
+Although they had never seen it before, most of the rogue cultivators have seen it's description is medicine books. It's colour and refreshing scent all matched.
 
-顿时有人惊呼了出来！
+Suddenly, someone exclaimed!
 
-其他人也震惊得说不出话来，
-甚至包括那一脸倨傲的燕鸣，
-此刻也张大了嘴，
-一副痴呆的表情。
+Others were also shocked speechless. Even the haughty looking Yan Ming had his mouth hanging open with a foolish look on his face.
 
-做梦也没有想到一个散修居然拿得出中品丹。
+They would never have dreamed that some rogue cultivator would be able to take out a mid grade pill.
 
-要知道，
-在修真界，
-炼丹是一项技巧性极高的工作，
-就算是下品丹，
-成功率也仅有百分之五六十，
-中品丹更是不足五分之一，
-而且还必须拥有经验丰富的炼丹师，
-便是飘云谷这样的门派，
-也没有实力炼制中品丹，
-只有少数真正传承了数万年的名门大派，
-才有少量中品丹，
-给精英弟子做突破时服用。
+It must be known that in the world of cultivation, pill concoction is a job that required a very high skill level. Even a low-grade pill, the success rate was only fifty or sixty percent. Mid-grade pills would not even reach a rate of one in five. It also required an experienced teacher. Even a sect like the Floating Cloud Valley did not have the strength to be able to produce a mid grade pill. Only a few sects with tens of thousands of years of ancestry would have a few mid-grade pills to give to their elite disciples when it was time for their breakthroughs.
 
-虽然理论上，
-同种丹药，
-一枚中品的只能换十枚下品的，
-但其实远远不止，
-正确的说，
-没有人会做这样的傻事，
-毕竟中品丹的药力和下品丹不是一个等级，
-尤其是冲关的时候，
-作用更大。
+Although theoretically, for the same kind of medicinal pill, one mid grade pill was only worth ten low-grade pills, but the reality was far from it. Realistically, no one would do something so stupid. After all, the effectiveness of the two grades were not at the same level, especially when trying to break through, its effectiveness would be much greater.
 
-望着那枚中品丹，
-众人的眼中充满了贪婪，
-看向林轩的表情，
-也越发的迷惑，
-毕竟散修哪有可能拿出中品丹，
-难道这个林轩是在扮猪吃老虎？
+Seeing that mid-grade pill, everyone's eyes filled with greed and looking at Lin Xuan, they also got more and more confused. After all, how could a rogue cultivator be able to take out a mid grade pull, could he be pretending to be weak to lure in prey?
 
-“怎么样，
-你卖不卖？”
+"How about it, are you willing to sell?"
 
-“卖！”
+"Sell!"
 
-那凌云门摆摊的修士将中品丹紧紧的抱在怀里，
-生怕林轩反悔一样，
-燕鸣欲言又止，
-嘴唇动了几动，
-最终还是选择了沉默，
-以家族的财力，
-拿出两百粒下品丹也很勉强，
-中品丹，
-更是想也不敢想，
-何况他心中充满了疑惑，
-再也不敢将林轩当作普通的散修看待了。
+That Soaring Cloud disciple tightly clutched the mid grade pill to his bosom, fearing that Lin Xuan would go back on his word. Yan Ming began to speak but then hesitated, his mouth moved several times, but eventually, he chose to be silent. With the wealth of his clan, they could barely spare two hundred low-grade pills, he did not even dare to think of mid-grade pills. Besides, he was filled with doubt and was afraid to think of Lin Xuan as a rogue cultivator anymore.
 
-成交以后，
-林轩将玉筒简收入怀中，
-丝毫也不敢耽搁，
-扒开人群，
-直接离开广场了。
+After making this transaction, Lin Xuan put the jade slip away in his bosom. Not daring to delay, he pushed through the crowd and left the plaza straightaway.
 
-林轩连阁楼也没有回，
-反正他所有的宝贝都装在储物戒指里，
-直接用传送阵传出凌云门，
-然后施展御风术，
-下了天柱峰。
+Lin Xuan did not even go back to the cottage. His treasures were all stored away in his storage ring anyway, so he directly used to teleportation array to leave the Soaring Cloud sect. Then using the Imperial Wind technique, he went down from Sky Pillar peak.
 
-一路上，
-林轩小心放出神识，
-果然察觉到有几拨人先后在跟踪自己，
-不过林轩既不意外，
-也不着急，
-这是意料中的事，
-收购中级功法的时候动静闹得那么大，
-没有人起歹意才是怪事。
+Along the road, Lin Xuan carefully extended his spiritual sense and sure enough, found that there were a few waves of people continuously following him. But Lin Xuan was not surprised and did not worry. This was exactly what he expected. His purchase of the mid-rank cultivation technique made so much noise, it would be strange if no one had malicious intent.
 
-想要杀人夺宝吗？
+Want to kill and pillage his treasures?
 
-林轩的嘴角边流露出一丝讥嘲的笑意，
-他在附近兜了几个圈子，
-来到了离天柱峰不远的一座小山谷里，
-附近怪石嶙峋，
-道路崎岖，
-就像一天然的迷宫。
+Lin Xuan showed a slight and mocking smile. He circled the area a few times and then came to a small valley near Sky Pillar peak. The road here was rugged, and there were many jagged rocks strewn about, like a naturally formed maze.
 
-停下脚步，
-林轩从储物手镯中取出一张红色的符箓，
-拿在手里，
-林轩眼中闪过不舍的神色，
-但犹豫了一下，
-他还是将符贴在了身上，
-盘膝坐下，
-同时口中念念有词。
+He stopped and retrieved a red seal from his storage bracelet. Holding it in his had, a wistful looked flashed in his eyes. But after hesitating, he still put it on his body, sat down cross-legged, and started chanting incantations.
 
-在灵力的作用下，
-那符毫光大放，
-化为一团白色的雾气包裹住林轩的身体，
-片刻后，
-雾气消散，
-而林轩也从原地消失了。
+Under the effect of his spiritual power, the seal released a bright light and broke down into a white mist that wrapped around Lin Xuan's body. After a short while, the mist dissipated, but Lin Xuan had also vanished from that spot.
 
-这是一张隐身符，
-顾名思义，
-具有隐身的效果，
-是难得的高级符箓，
-这也是为什么刚才林轩有些舍不得。
+This was an invisibility seal. As the name suggests, it had the effect of invisibility. This was a rare high-level seal and was exactly why Lin Xuan was so wistful just now.
 
-贴上这隐身符后，
-三个时辰内，
-可以让身形完全消失，
-同时隐藏灵力波动，
-便是筑基期的高手也无法发现，
-当然缺点也有，
-就是这段时间内不能动，
-否则隐身符就会失去效果。
+After sticking this seal on the body, for the next six hours, it would allow for one to vanish completely and at the same time, hide spiritual power fluctuations. Even a Foundation Building expect would not be able to detect it. But of course, it had some shortcomings. One could not move during those six hours or the invisibility effect would be lost.
 
 - - -
 - - -

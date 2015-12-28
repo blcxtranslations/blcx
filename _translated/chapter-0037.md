@@ -15,11 +15,11 @@ Originally, Lin Xuan wanted to go back to his cottage to eat, but he was suddenl
 
 Lin Xuan walked over, curious as to just what kind of treasure could draw such a large crowd of cultivators.
 
-The owner of the stall was a muddle headed youth who looked to be in his early twenties. With so many people surrounding him, he was very nervous and his face was flushed. There were a wide variety of seals[^1] placed in his stall.
+The owner of the stall was a muddle-headed youth who looked to be in his early twenties. With so many people surrounding him, he was very nervous and his face was flushed. There were a wide variety of seal[^1]s placed in his stall.
 
 Items created when cultivators sealed their techniques into special seal paper were called seals. Using seals, when facing enemies, one did not need to use spiritual power and use was instantaneous. So the benefits to using them were clear.
 
-To high level cultivators, seals useless, but to low level cultivators, they were very useful and precious. In particular, when dealing with enemies, having one extra seal could be the difference between victory and defeat.
+To high-level cultivators, seals useless, but to low-level cultivators, they were very useful and precious. In particular, when dealing with enemies, having one extra seal could be the difference between victory and defeat.
 
 But correspondingly, the production of seals were very complicated. Not only did it require the correct kind of sealing paper, it also required a large amount of spiritual power, and has had a low success rate. The high levelled the technique, the harder it was to make. Therefore, seals were precious and rare items in the world of cultivation.
 
@@ -27,23 +27,23 @@ Lin Xuan strolled around the market for four hours and had not seen any stalls s
 
 No wonder it attracted so many cultivators.
 
-Lin Xuan pushed to the front and after taking a look at the seals placed in the stall, was greatly disappointed. He never thought there would be high level seals for sale here, but there was not even a single mid grade seal.
+Lin Xuan pushed to the front and after taking a look at the seals placed in the stall, was greatly disappointed. He never thought there would be high-level seals for sale here, but there was not even a single mid grade seal.
 
-The seals that were for sale were all low grade, and they were the most basic and lowest of the low grade techniques. For example, the Hail technique, the blaze technique, the Quicksand technique, the Rock Fall technique, the Briers technique, etc. There was plenty of variety, but these kinds of techniques, even Spirit Gathering first layer cultivators could easily use, what was the point of purchasing them?
+The seals that were for sale were all low grade, and they were the most basic and lowest of the low-grade techniques. For example, the Hail technique, the blaze technique, the Quicksand technique, the Rock Fall technique, the Briers technique, etc. There was plenty of variety, but these kinds of techniques, even Spirit Gathering first layer cultivators could easily use, what was the point of purchasing them?
 
 Therefore, even though there were many cultivators around the stall, not a single one was will to purchase anything. Finally, after a long time, a voice, with a ridiculing tone asked: "Stall owner, what are the prices for your seals?"
 
-The youth flushed even more and lowered his head. Adopting an expression that worried the surrounding cultivators, he said: "One low grade Purified Essence pill for two seals."
+The youth flushed even more and lowered his head. Adopting an expression that worried the surrounding cultivators, he said: "One low-grade Purified Essence pill for two seals."
 
-"Hmph! This kind of low grade technique can easily be executed, and you still want that much for it. Your want for pills have driven you insane."
+"Hmph! This kind of low-grade technique can easily be executed, and you still want that much for it. Your want for pills has driven you insane."
 
 The crowd also ridiculed him for a while, then slowly dispersed. The youth flushed some more, then sighing, he began to pack up his stall. He had already been here for two days, but he had not sold a single seal.
 
-It was not because low levelled seals were useless, for cultivators with low spirit power, they were a good choice for self defense. There were two reasons that caused them to be difficult to sell.
+It was not because low levelled seals were useless, for cultivators with low spirit power, they were a good choice for self-defense. There were two reasons that caused them to be difficult to sell.
 
-Firstly, Foundation Building cultivators would definitely not purchase these, because this kinds of low levelled techniques were not worth their time, so they would naturally not waste spirit stones or pills on this kind of exchange. Secondly, for Spirit Gathering cultivators, although they can execute these techniques, it would consume spiritual power and was slower to execute. So of course they would want seals. But the problem was, they were poor, so it was beyond their grasp, and they could only insult what they could not have[^2].
+Firstly, Foundation Building cultivators would definitely not purchase these, because these kinds of low levelled techniques were not worth their time, so they would naturally not waste spirit stones or pills on this kind of exchange. Secondly, for Spirit Gathering cultivators, although they can execute these techniques, it would consume spiritual power and was slower to execute. So of course, they would want seals. But the problem was, they were poor, so it was beyond their grasp, and they could only insult what they could not have[^2].
 
-That was to say, these kinds of low levelled seals, Foundation Building cultivators don't want them, and Spirit Gathering cultivators either can't afford them or did not think it was a good deal. And thus he was stuck in embarrassing situation where he could not please either side.
+That was to say, these kinds of low levelled seals, Foundation Building cultivators don't want them, and Spirit Gathering cultivators either can't afford them or did not think it was a good deal. And thus, he was stuck in an embarrassing situation where he could not please either side.
 
 This simple and honest youth was from the Seal Mountain. One can tell from the sect's name that the cultivators there would be adept at creating seals.
 
@@ -65,7 +65,7 @@ For example, these one hundred seals. If they were all used at the same time, ev
 
 Of course, in the world of cultivation, other than Lin Xuan, would else would be so wasteful? With the ability to purify, what does Lin Xuan lack? He didn't lack pills, so one pill per two seals was a very simple transaction.
 
-But Lin Xuan did not try to purchase them immediately, because pulling out fifty Purified Essence pills would attract too much attention. Lin Xuan would not do this kind of stupid thing that would only lead to disaster.
+But Lin Xuan did not try to purchase them immediately because pulling out fifty Purified Essence pills would attract too much attention. Lin Xuan would not do this kind of stupid thing that would only lead to disaster.
 
 He would need to find a more secluded place to buy them.
 
@@ -75,7 +75,7 @@ Not long after, the simple and honest youth dishearteningly packed up his items,
 
 After leaving the marketplace, the number of cultivators suddenly dropped. Checking to see that no one had noticed him, he quietly stepped behind a large tree and removed an item from his storage bracelet that was concealed in his bosom.
 
-It was a membrane like item that had a very lifelike face painted upon it. This was not a treasure of the cultivation world, but was instead from the secular world. Martial artists often used these disguising masks.
+It was a membrane like item that had a very lifelike face painted upon it. This was not a treasure of the cultivation world but was instead from the secular world. Martial artists often used these disguising masks.
 
 As the name suggests, after putting it on, it would change a person's appearance and conceal their identity. Although in the cultivation world there are more advanced ways to do this, such as some advanced techniques to change facial features. But Lin Xuan's level was too low and he simply had no way to learn these techniques, so he could only go with his second best option.
 
@@ -87,4 +87,3 @@ He had purchased this mask in the secular world on his way to the Soaring Cloud 
 [^1]: [Fulu](https://en.wikipedia.org/wiki/Fulu) are basically paper seals / talisman that could summon, control, exorcise spirits and deities.
 
 [^2]: The literal translation here is "If they could not eat the grapes, they could only call it sour." So basically, the can only insult what they could not have.
-

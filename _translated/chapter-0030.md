@@ -21,19 +21,19 @@ Four months after becoming the steward of the Waste Pills storage, Lin Xuan fina
 
 In order to make it more convenient to cultivate, Lin Xuan erected a loves to sleep, lazy, eccentric, and reclusive image for them.
 
-Originally, the intention was to allow him self to cultivate in peace and not arouse suspicions. It was not his original intention to gain the support of these children, and yet this fake image received just that, these children support.
+Originally, the intention was to allow himself to cultivate in peace and not arouse suspicions. It was not his original intention to gain the support of these children, and yet this fake image received just that, these children support.
 
 The only reason was because to those lofty high levelled cultivators, mortals are like ants. Therefore, in Floating Cloud Valley, theses children held very low status, to put it nicely, they are outer sect disciples, to put it harshly, they are just slaves and menial labourers who serve the cultivators. If they make the smallest mistake, they might get scolded or beat, or they might lose their lives. This is very common and no one would concern themselves or interfere.
 
-These children lives, are like walking on thin ice and they trembled in fear every day. If they were fortunate, they might have a kind cultivator as their immediate higher-up. If they had a moodier guy for a boss, it was simply......
+These children lives are like walking on thin ice and they trembled in fear every day. If they were fortunate, they might have a kind cultivator as their immediate higher-up. If they had a moodier guy for a boss, it was simply......
 
-When talking about all the random jobs around Danxia mountain, the last choice of the cultivators would be the Waste Pill Storage, because there was nothing in it for them, such as bribes or being able to skim from their duties. But in contrast, the children desired to be there the most, because for a long time now, there has not be a cultivator acting as a steward. The temporary steward was also an outer sect disciple like the rest of them. So they lived a very safe and leisurely life.
+When talking about all the random jobs around Danxia mountain, the last choice of the cultivators would be the Waste Pill Storage, because there was nothing in it for them, such as bribes or being able to skim from their duties. But in contrast, the children desired to be there the most, because for a long time now, there has not been a cultivator acting as a steward. The temporary steward was also an outer sect disciple like the rest of them. So they lived a very safe and leisurely life.
 
-When Lin Xuan first arrived, Zhao Ming and the rest did not say anything, and did not dare to show anything on their faces. But in their hearts, they were reluctant in every possible way, because they though their happy days were coming to an end.
+When Lin Xuan first arrived, Zhao Ming and the rest did not say anything and did not dare to show anything on their faces. But in their hearts, they were reluctant in every possible way, because they though their happy days were coming to an end.
 
 But the situation was different from what they imagined. Even though Lin Xuan came, but it hard to even catch sight of him. This immortal's character was very eccentric and he loved shutting himself in his house.
 
-In other words, Lin Xuan's arrival, did not cause the slightest change in their lives. Many months have passed, not a single person has been punished. Of course, this was provided that they did not violate the immortal's rule, which was to stay away from his house.
+In other words, Lin Xuan's arrival did not cause the slightest change in their lives. Many months have passed, not a single person has been punished. Of course, this was provided that they did not violate the immortal's rule, which was to stay away from his house.
 
 Such a good steward, an easy to serve immortal, was very hard to come by even in a thousand years. Zhao Ming and the rest supported him from the bottom of their hearts and hoped that he would stay the steward of the Waste Pills storage forever. Because as long as he was here, the sect would not send another cultivator as a steward.
 
@@ -49,9 +49,9 @@ These days, Lin Xuan was thinking a lot. He considered a variety of different me
 
 Fantasizing will not solve the problem, and stuffily sitting there would cause a headache. It's better to go for a walk and play it by ear, maybe there would be a turnaround in the situation.
 
-After leaving DanXia mountain, his temperament changed yet again. He now seed normal and ordinary. He first took a walk around the sect, and having no spoils, he headed to the library.
+After leaving DanXia mountain, his temperament changed yet again. He now seemed normal and ordinary. He first took a walk around the sect, and having no spoils, he headed to the library.
 
-As a low levelled Spirit Gathering disciple, he could only freely use the first floor. Despite knowing that there were no techniques and there there was only knowledge that would be valuable to ordinary people, which cultivators held no interest in, Lin Xuan still held some minuscule hope, and carefully looked through the first floor again.
+As a low levelled Spirit Gathering disciple, he could only freely use the first floor. Despite knowing that there were no techniques and that there were only knowledge that would be valuable to ordinary people, which cultivators held no interest in, Lin Xuan still held some minuscule hope, and carefully looked through the first floor again.
 
 Nothing!
 
@@ -65,7 +65,7 @@ This is a restriction. To reach the teleportation array, one must first break th
 
 Looking at the yellow light before him, Lin Xuan came to a stop and silently observed. Although according to common sense, this restriction could only be broken by those with the minimum cultivation of Foundation Building, but he still had a good chance of breaking through.
 
-Firstly, he grasped the Ice Needles spell, which was comparable to high rank techniques in power. Secondly, he also had extraordinarily powerful spirit tools. As long as he puts all of his power into it, excluding everything else, in attack power at least, Lin Xuan was confident that he would be no less powerful than a cultivator with no spirit tools who just stepped into the Foundation Building stage.
+Firstly, he grasped the Ice Needles spell, which was comparable to high-rank techniques in power. Secondly, he also had extraordinarily powerful spirit tools. As long as he puts all of his power into it, excluding everything else, in attack power, at least, Lin Xuan was confident that he would be no less powerful than a cultivator with no spirit tools who just stepped into the Foundation Building stage.
 
 But Lin Xuan did not act, and instead, he hesitated, then pretended that nothing happened and walked away. Whether it was Ice Needles or spirit tools, they would both shock others, and Lin Xuan did not want that kind of attention.
 
@@ -81,7 +81,7 @@ Looks like he has to think of something else. After making this decision, Lin Xu
 
 A cultivator up ahead nodded, and regretfully said: "Although the Soaring Cloud sect cannot compare to our Floating Cloud Valley, but they are still a sect with almost a thousand years of heritage, they must have a lot of techniques, spirit tools, and seals."
 
-"Yes, I heard there are also a lot of Foundation Building mid rank techniques for sale."
+"Yes, I heard there are also a lot of Foundation Building mid-rank techniques for sale."
 
 - - -
 - - -

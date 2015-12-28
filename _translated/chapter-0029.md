@@ -31,13 +31,13 @@ Forward!
 
 With a point of his finger, the golden rope accurately wrapped around the big tree in front of him. This was the mystic canyon, there was not enough space in his room to practice, so Lin Xuan quietly came to this deserted place.
 
-After much hard work, he finally grasped this mid grade spirit tool, however, looking at the golden rope that was wrapped around the tree, Lin Xuan was silent.
+After much hard work, he finally grasped this mid-grade spirit tool, however, looking at the golden rope that was wrapped around the tree, Lin Xuan was silent.
 
 Standing still, he was silent for a while. Lin Xuan then waved his hand and recovered the golden rope. He had a pensive look on his face.
 
 "Looks like my telekinesis is still not good enough."
 
-On the surface, Lin Xuan looked very skillful controlling the golden rope. But according to the records in the books and the teachings of the elders of the sect, mid grade spirit tools were much more powerful than this. His ability only allowed him to display at most ten or twenty percent of its power.
+On the surface, Lin Xuan looked very skillful controlling the golden rope. But according to the records in the books and the teachings of the elders of the sect, mid-grade spirit tools were much more powerful than this. His ability only allowed him to display at most ten or twenty percent of its power.
 
 The reason for this situation was not because Lin Xuan lacked the spiritual power, but because there was a problem with the way he performed telekinesis.
 
@@ -45,9 +45,9 @@ Even though telekinesis allowed one to control spirit tools, it is still the mos
 
 But this difficult problem was placed in front of Lin Xuan. There was no way to learn such an advanced technique at the Young Hawks Pavilion!
 
-The more advanced version of telekinesis is the Spiritual Control technique, which is a mid rank technique. It should be stored on the second floor of the library and the only way to read it would be to meet one of the following two conditions.
+The more advanced version of telekinesis is the Spiritual Control technique, which is a mid-rank technique. It should be stored on the second floor of the library and the only way to read it would be to meet one of the following two conditions.
 
-Either reach the Foundation Building stage, and become a high level cultivator of the sect which naturally grants the qualifications to enter. But Lin Xuan directly rejected this idea. How can the path of cultivation be that easy? Even now, with the support of pills, to want to establish the foundation, would still require a long time.
+Either reach the Foundation Building stage and become a high-level cultivator of the sect which naturally grants the qualifications to enter. But Lin Xuan directly rejected this idea. How can the path of cultivation be that easy? Even now, with the support of pills, to want to establish the foundation, would still require a long time.
 
 And the second way, as a Spirit Gathering disciple, if one showed outstanding talent, and possessed a spirit tool, one can also petition the patriarch for admission onto the second floor of the library to consult the Spiritual Control technique.
 
@@ -55,7 +55,7 @@ On the surface, this seemed like a practical choice which could solve Lin Xuan's
 
 Don't forget, Lin Xuan was not some genius, but the complete opposite. He couldn't be more ordinary and didn't even have spiritual roots.
 
-A disciple without spiritual roots, could actually outshine the majority of the other disciples. If this kind of situation came to light, it would be strange for those old foxes to not be suspicious.
+A disciple without spiritual roots could actually outshine the majority of the other disciples. If this kind of situation came to light, it would be strange for those old foxes to not be suspicious.
 
 If they discovered the star ocean in his dantian......
 
@@ -73,7 +73,7 @@ Of course, it was not one hundred percent safe, the only possible flaw was the f
 
 That that cannot be helped, techniques must be learned. But Lin Xuan was very careful, each time he went, he picked the most remote corners.
 
-To ascertain the cultivation of others, one must use their spiritual sense to check there other person. According to the established practices of the cultivation world, this was an act of hostility, and few would do it.
+To ascertain the cultivation of others, one must use their spiritual sense to check the other person. According to the established practices of the cultivation world, this was an act of hostility, and few would do it.
 
 So even though a few months have passed, Lin Xuan's cultivation also jumped from the first layer to the fourth layer, but currently, no one had discovered that fact.
 
@@ -85,7 +85,7 @@ And even without considering spirit tools, he could surely require more advanced
 
 Although Lin Xuan does not have spiritual roots, he does have a great mind, or else he would be able to calculate every step before making decisions. But how, he really did face a conundrum.
 
-Of course, Lin Xuan was not worried like others, one cannot solve problems while depressed, rather, it will make the situation worse. Everyday, he still cultivated when it was time to cultivate, and purified pills when it was time to purify pills, conforming to his cultivation routine.
+Of course, Lin Xuan was not worried like others, one cannot solve problems while depressed, rather, it will make the situation worse. Every day, he still cultivated when it was time to cultivate, and purified pills when it was time to purify pills, conforming to his cultivation routine.
 
 Only in his spare time, did he contemplate how to solve this problem in front of him.
 

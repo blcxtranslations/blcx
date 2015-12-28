@@ -11,11 +11,11 @@ sponsored: false
 completed: true
 ---
 
-"Mid rank techniques for Foundation Building cultivators?"
+"Mid-rank techniques for Foundation Building cultivators?"
 
-Hearing these words, Lin Xuan was suddenly stunned. He looked at the two that were talking. They were both strangers to him. Even though Floating Cloud Valley was only a small, third rate sect, but they still had over a thousand disciples. Lin Xuan, other than being slightly familiar with the others who entered the sect at the same time, did not know most of the other disciples. But from their clothing, it could be seen that they are also two low levelled Spirit Gathering disciples.
+Hearing these words, Lin Xuan was suddenly stunned. He looked at the two that were talking. They were both strangers to him. Even though Floating Cloud Valley was only a small, third-rate sect, but they still had over a thousand disciples. Lin Xuan, other than being slightly familiar with the others who entered the sect at the same time, did not know most of the other disciples. But from their clothing, it could be seen that they are also two low levelled Spirit Gathering disciples.
 
-They just mentioned some Soaring Cloud sect getting disbanded, and mid rank techniques. Lin Xuan caught up, greeting aloud: "Fellow disciples."
+They just mentioned some Soaring Cloud sect getting disbanded, and mid-rank techniques. Lin Xuan caught up, greeting aloud: "Fellow disciples."
 
 "You are......" The two stopped walking and looked at the young man blocking the road with uncertainty.
 
@@ -39,9 +39,9 @@ Looking calm, Lin Xuan smiled and asked: "The two brothers are too polite, what 
 
 This junior fellow apprentice, who was called Zhao Gang, who didn't look to be over twenty, was already at the peak of the fourth layer, only one step away from the latter Spirit Gathering stages. He must be a genius disciple with excellent spiritual roots. This is what these two thought.
 
-Geniuses like this, were not only the focuses of the sect elders, but also had a great chance of successfully building their Foundation, becoming an even higher levelled cultivator.
+Geniuses like this, were not only the focuses of the sect elders but also had a great chance of successfully building their Foundation, becoming an even higher levelled cultivator.
 
-That is to say, in the eyes of these two, Lin Xuan had an immeasurable future. These kind of people could not be given the cold shoulder.
+That is to say, in the eyes of these two, Lin Xuan had an immeasurable future. These kinds of people could not be given the cold shoulder.
 
 It's hard to see into the hearts of people, but because Lin Xuan was intelligent, he basically understood what they were thinking. Secretly laughing, he also deeply felt the changes brought about by the star ocean. If not for the fact that he was able to purify waste pills and had the support of all those pills, how could he be mistaken for a genius?
 
@@ -54,9 +54,9 @@ The three of them sat down in a secluded corner and exchanged some pleasantries.
 
 Generally, when powerful cultivators faced cultivators with lower cultivation, they would all be very arrogant. Li Hai was very impressed by Lin Xuan's kind and approachable attitude. Therefore, currently, he was telling Lin Xuan a very detailed account of everything he knew about the incident.
 
-There are tens of thousands of sects in the world of cultivation, and Floating Cloud Valley can be considered on the lower end of that scale. In thousands of cultivators they had, ten percent of them were in the early layers of Spirit Gathering, but they did have almost one hundred Foundation Building cultivators as protector elders. At the same time, the patriarch Immortal Yun He was a early Core Formation stage expert.
+There are tens of thousands of sects in the world of cultivation, and Floating Cloud Valley can be considered on the lower end of that scale. In the thousands of cultivators they had, ten percent of them were in the early layers of Spirit Gathering, but they did have almost one hundred Foundation Building cultivators as protector elders. At the same time, the patriarch Immortal Yun He was an early Core Formation stage expert.
 
-This kind of strength, cannot said to be strong, but also can't be easily looked down upon. After all, the patriarch did have a cultivation in the Core Formation stage and was powerful, and with almost a hundred Foundation Building stage cultivators also caused fear in peoples hearts. In this area, they would not be able to seek hegemony or expand easily, but protecting against being supplanted or being bullied is no problem.
+This kind of strength, cannot be said to be strong, but also can't be easily looked down upon. After all, the patriarch did have a cultivation in the Core Formation stage and was powerful, and with almost a hundred Foundation Building stage cultivators also caused fear in people's hearts. In this area, they would not be able to seek hegemony or expand easily, but protecting against being supplanted or being bullied is no problem.
 
 Of course, in the radius of 500 kilometres, it was not possible that the Floating Cloud Valley was the only sect. Excluding rogue cultivators, there were seven or eight various other sects, one of them being the Soaring Cloud sect.
 
@@ -66,7 +66,7 @@ In a sect, the high levelled cultivators made up the power, even if they had mor
 
 But it was this tiny sect that, a while ago, offended a Core Formation expert. The specifics of the offense, other than the witnesses, were not too clear to others. But one thing was for sure, the expert was very angry, and said that within one month, he would exterminate every living thing in the Soaring Cloud sect.
 
-With every increase in cultivator level, their strength would rapid increase, complete different than the level before and can be said to be a qualitative leap. When facing a Core Formation enemy, even if the sect had the most Spirit Gathering disciples, they would still be all useless, they couldn't even be cannon fodder. And only relying on these Foundation Building cultivators would be like a mantis trying to stop a cart and only result in failure.
+With every increase in cultivator level, their strength would rapid increase, completely different than the level before and can be said to be a qualitative leap. When facing a Core Formation enemy, even if the sect had the most Spirit Gathering disciples, they would still be all useless, they couldn't even be cannon fodder. And only relying on these Foundation Building cultivators would be like a mantis trying to stop a cart and only result in failure.
 
 So to the Soaring Cloud sect, this was a catastrophe.
 

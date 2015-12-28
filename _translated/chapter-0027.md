@@ -11,19 +11,19 @@ sponsored: false
 completed: true
 ---
 
-The path of cultivation was vast. Other than powerful magic treasures and spirit tools, there were also a variety of wondrous techniques.
+The path of cultivation was vast. Other than powerful magic treasures and spirit tools, there was also a variety of wondrous techniques.
 
 With the support of spiritual power, one could shake the heavens and the earth. Although techniques were not as powerful as spirit tools, they do not consume as much spiritual power, they also did not require any mediums, so they were deeply favoured by lower level cultivators.
 
-For example, the Ice Needles spell, Inner Sense, and Spirit Shield, were all commonly used techniques.
+For example, the Ice Needles spell, Inner Sense, and Spirit Shield were all commonly used techniques.
 
-Cultivation levels were split into the Spirit Gathering, Foundation Building, Core Formation, Nascent Soul, LiHe, DongXuan, Spirit Severing, and Tribulation Ascension stages. Spirit beasts had the same corresponding stages. But techniques were different, they only have 3 stages, the low rank techniques, mid rank techniques, and high rank techniques.
+Cultivation levels were split into the Spirit Gathering, Foundation Building, Core Formation, Nascent Soul, LiHe, DongXuan, Spirit Severing, and Tribulation Ascension stages. Spirit beasts had the same corresponding stages. But techniques were different, they only have 3 stages, the low-rank techniques, mid-rank techniques, and high-rank techniques.
 
-There was only one reason, Core Formation cultivators can have magic treasures, with matchless power. They relied on them for both offense and defense without any techniques. In the eyes of these high level cultivators, techniques were too weak, and were just useless things, so of course they would not use them.
+There was only one reason, Core Formation cultivators can have magic treasures, with matchless power. They relied on them for both offense and defense without any techniques. In the eyes of these high-level cultivators, techniques were too weak, and were just useless things, so, of course, they would not use them.
 
-Only Spirit Gathering and Foundation Building cultivators would know techniques, Spirit Gathering cultivators could only practice rank low or mid rank, high rank techniques were for Foundation Building cultivators.
+Only Spirit Gathering and Foundation Building cultivators would know techniques, Spirit Gathering cultivators could only practice rank low or mid rank, high-rank techniques were for Foundation Building cultivators.
 
-In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than techniques. Of course, everything is not absolute, and there are a few high rank techniques that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
+In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than techniques. Of course, everything is not absolute, and there are a few high-rank techniques that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
 
 Thus, it can be seen that Lin Xuan, having three spirit tools, one of which was a top grade tool, was very rich indeed.
 
@@ -31,7 +31,7 @@ Now to support the spirit tool with his spirit power is still very straining and
 
 H took out an ordinary book from his storage ring, it wasn't very eye catching, all of it was handwritten, and did not seem to have much value, but it seemed important to Lin Xuan.
 
-These were his notes, hand written personally by Lin Xuan over these three years.
+These were his notes, handwritten personally by Lin Xuan over these three years.
 
 Because he had no spiritual roots, Lin Xuan's cultivation speed could not keep up with his peers, without enough spiritual power for support, he could only be envious of the various techniques that were taught. If it was someone else, they would have long ago became disheartened, and would stop going to the Young Hawks pavilion to get ridiculed. But Lin Xuan did not do that, not only did he go to every single session on time, but he also carefully took notes, be it rain or shine.
 
@@ -39,19 +39,19 @@ To others, it might seem to be very stupid behaviour, but Lin Xuan had his own i
 
 Back then, Lin Xuan thought, even though temporarily he was unable to practice some things, but when he had the cultivation later, he could slowly start to analyze it. So he wrote it down in his notebook, so not to forget these teachings.
 
-It was fortunate that he did copy them down, otherwise, is he wanted to practice these techniques now that he had the cultivation, he would have no where to start. This is one of Lin Xuan's good characteristics, he liked to take precautions before making any decisions.
+It was fortunate that he did copy them down, otherwise, is he wanted to practice these techniques now that he had the cultivation, he would have nowhere to start. This is one of Lin Xuan's good characteristics, he liked to take precautions before making any decisions.
 
 Over these three years, there have been many techniques taught by many teachers, he could not practice all of them. This was because firstly, there was not that much time, and secondly, it was not all necessary. Being proficient in many techniques was not as good as mastering one, besides, there were some useless and duplicate techniques, it was better to pick a few suitable ones for himself.
 
-After making such a decision, Lin Xuan began to carefully read his notes. First he excluded the low rank techniques, even though they were easier to learn, they were also limited in power, he did not want to waste precious time learning them.
+After making such a decision, Lin Xuan began to carefully read his notes. First he excluded the low-rank techniques, even though they were easier to learn, they were also limited in power, he did not want to waste precious time learning them.
 
 His goal was mid grade techniques, and after careful screening, he picked three techniques: Spirit Shield, Ice Needles, and Imperial Wind.
 
 There was careful though put into making these choices.
 
-Spirit Shield, its name was very clear, it is a defensive spell. To learn how to beat someone, one must first learn how to be beaten. When fighting the enemy, the first thing one must consider, is how to escape with one's life. Therefore, Lin Xuan's first spell to learn is also the defensive spell.
+Spirit Shield, its name was very clear, it is a defensive spell. To learn how to beat someone, one must first learn how to be beaten. When fighting the enemy, the first thing one must consider is how to escape with one's life. Therefore, Lin Xuan's first spell to learn is also the defensive spell.
 
-Ice Needles, was a five elements spell of the water attribute. It is characterized by its strong attacking power, it was hard to detect. Although relatively, it was harder to practice, but that was not an issue, Lin Xuan has never been afraid of hardship, as long as it had enough power it was fine.
+Ice Needles was a five elements spell of the water attribute. It is characterized by its strong attacking power, it was hard to detect. Although relatively, it was harder to practice, but that was not an issue, Lin Xuan has never been afraid of hardship, as long as it had enough power it was fine.
 
 The last spell, the Imperial Wind spell, was a support type spell. Compared to the Light-Wind spell he learned before, it much more powerful and advanced.
 
@@ -61,13 +61,13 @@ Defense, attack, and escape and dodge techniques, Lin Xuan selected one each. He
 
 For the next while, Lin Xuan became very busy. Purifying pills, sitting cultivation, and additionally, he also had to make time to practice techniques. There was really no time to rest. Fortunately, as his cultivation kept rising, he required less and less time to sleep each day.
 
-One must work harder than anyone else to be better than everyone else. If it was a different person, perhaps they would not be able to endure this difficult like of cultivation. But Lin Xuan was different, he had no spiritual roots and failed over and over again, and had to enduring the taunts and jeers of his peers every day. Even the illusions of the Heart Refinement Road could not stop Lin Xuan's progress, now that he had the ability to purify and the hope of success, what would the previous bitter days count for?
+One must work harder than anyone else to be better than everyone else. If it was a different person, perhaps they would not be able to endure this difficult like of cultivation. But Lin Xuan was different, he had no spiritual roots and failed over and over again, and had to endure the taunts and jeers of his peers every day. Even the illusions of the Heart Refinement Road could not stop Lin Xuan's progress, now that he had the ability to purify and the hope of success, what would the previous bitter days count for?
 
 Focus on cultivating!
 
 Day by day, Lin Xuan's studies progressed smoothly. His first spell, the Spirit Shield, was a defensive spell, it was also the Spirit Gathering, and even Foundation Building cultivators favourite and most used basic defensive spell.
 
-The principle is not difficult, it could even be said to be very simple. It was to to use spiritual power to cover the body, which could block the enemy's attack.
+The principle is not difficult, it could even be said to be very simple. It was to use spiritual power to cover the body, which could block the enemy's attack.
 
 It was very stable and nothing could get in. Of course, there was a limit, which would differ based on the spiritual power of each person.
 
