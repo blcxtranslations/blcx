@@ -73,7 +73,7 @@ He had a clearly understanding of the whole situation and had a pretty good idea
 
 No, he would definitely succeed.
 
-Lin Xuan laid on the best and rested for a while. Considering the time, the cultivators should have finished dining, and the marketplace should have opened again. Since it was boring to stay in his room, Lin Xuan decided to go stroll around again and see if there were anything useful treasures.
+Lin Xuan laid on the bed and rested for a while. Considering the time, the cultivators should have finished dining, and the marketplace should have opened again. Since it was boring to stay in his room, Lin Xuan decided to go stroll around again and see if there were anything useful treasures.
 
 With this in mind, Lin Xuan once again came to the plaza. It seemed even more lively this time, the number of people also increased. It seems that the number of cultivators arriving increased as it got closer to the time of the treasures trade fair.
 
