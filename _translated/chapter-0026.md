@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0026"
-name: "Twenty Six"
+name: "Twenty-Six"
 title: "Learning Spirit Tools"
 date: "Nov 29, 2015"
 characters: 2111

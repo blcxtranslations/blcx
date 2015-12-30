@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0061"
-name: "Sixty One"
+name: "Sixty-One"
 title: "Soaring Cloud Technique"
 date: "Feb 07, 2016"
 characters: 2197

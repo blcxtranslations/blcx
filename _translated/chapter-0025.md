@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0025"
-name: "Twenty Five"
+name: "Twenty-Five"
 title: "Cultivation Basics"
 date: "Nov 27, 2015"
 characters: 2118

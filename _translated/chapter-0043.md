@@ -1,236 +1,89 @@
 ---
 layout: page
 number: "0043"
-name: "Fourty Three"
-title: "Soaring Cloud Technique"
+name: "Forty-Three"
+title: "Meeting Enemies in a Small World"
 date: "Dec 31, 2015"
 characters: 2082
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441363.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
-做好这一切后，
-林轩就陷入了入定之中，
-恢复灵力，
-对于修真者来说，
-打坐三个时辰是很平常的事。
+After doing all of this Lin Xuan sang into meditation to restore his spiritual power. To cultivators, sitting meditation of over six hours was very common.
 
-其间先后来了几拨修士，
-这些都不是什么好东西，
-对林轩身上的宝物心怀觊觎。
+During this time, a few waves of cultivators came. These people were all up to no good and coveted Lin Xuan's treasures.
 
-然而隐身符里封印的是高级法术，
-便是筑基期修士，
-也很难发觉，
-他们自然就更加不用想了。
+However, the technique sealed into the invisibility seal was a high-level technique that even Foundation Building experts had trouble sensing. It was not possible for them to detect it.
 
-一个个面带疑惑，
-明明发现那个少年进来山谷，
-怎么却突然消失了，
-在附近搜索了半天，
-甚至有不死心的施展追踪类法术，
-结果还是一无所获。
+They all had puzzled looks on their faces. They clearly saw the youth enter the valley, so how did he suddenly disappear? The had already searched the vicinity for a long time, some unwilling ones even used tracking type techniques, but in the end, they still found nothing.
 
-无奈之下，
-只好不甘心的离去了。
+Since it had come to this, they could only unwillingly leave.
 
-三个时辰后，
-原本空旷的山谷中，
-突然冒起一团诡异的白色烟雾，
-那烟雾开始很分散，
-然后慢慢的聚拢开来，
-最后又逐渐飘散，
-一个人影显露了出来。
+Six hours later, a white smoke suddenly drifted out. The smoke began to drift apart, then slowly gathered together again, and then once again dissipated. Finally, a figure was revealed.
 
-林轩表情漠然，
-看不出喜怒，
-站起身，
-打量了四周一眼，
-已经没有修真者在附近了，
-虽然成功摆脱了那些不怀好意的家伙，
-但自己也用掉了一张高级的隐身符。
+Lin Xuan had a look of indifferent, showing neither joy and anger. Standing up and looking around, he saw that there were no cultivators in the area. Although he had successfully avoided those malicious people, but he also used a high-grade invisibility seal.
 
-不过总体来说，
-这次凌云门之行收获还是很丰富，
-不仅成功购得了灵控术，
-《凌云诀》也到手了。
+But overall, this trying to the Soaring Cloud sect has been very fruitful. Not only did he acquire the Spiritual Control technique, he had also gotten the Soaring Cloud technique.
 
-要知道，
-即使同为灵动期使用的低级功法，
-也有垃圾与精品之分，
-自己在飘云谷学的仅仅是普通货色，
-这也是为什么自己有大量灵药辅助，
-又修炼刻苦还还迟迟突不破第五层的原因。
+It must be known that even though there are many cultivation techniques for the Spirit Gathering stage, there were still trashy ones and precious ones. He was only an ordinary disciples of the Floating Cloud valley. That that was why even though he had many pills and worked so hard, he was still not able to break through to the fifth layer.
 
-而凌云诀却是难得一见的精品，
-习练以后，
-自己修行的速度肯定可以提高很多。
+But the Soaring Cloud technique was a rare treasure. After practising it, his cultivation speed would certainly improve a lot.
 
-除此以外，
-自己还购得了两块水属性晶石，
-以及符箓一百零八张，
-虽然都是低级的那种，
-但贵在数量众多，
-铺天盖地的砸过去，
-便是筑基期修士，
-也会手忙脚乱，
-难以抵挡。
+In addition, he had also bought two pieces of spirit stones and one hundred and eight seals. Although these were all low-level seals, but there was a large number of them. As long as he covered the heavens and earth with them, even Foundation Building experts would be hard pressed to defend against it.
 
-虽然付出的丹药也不少，
-但对于林轩来说，
-却不算什么，
-有了提纯的本领，
-最多辛苦几天，
-自己就可以将废丹再重新提纯出来。
+While he did spend a lot of medicinal pills, but to Lin Xuan, it was nothing. After gaining the ability to purify, as long as he spent a few days working hard, he could recover the amount he had spent.
 
-总之损失与收获相比，
-微不足道，
-在稍稍整理了一下储物手镯里面的物品后，
-林轩吃了一点干粮，
-继续赶路。
+In short, his losses compared to his gains were negligible. After tidying the items inside his storage bracelet, Lin Xuan ate some rations and continued on his way.
 
-这一次没有人跟踪，
-林轩也不耽搁，
-直接回飘云谷。
+This time, there wasn't anyone following him. Lin Xuan also didn't delay and went directly back to the Floating Cloud Valley.
 
-大约傍晚时分，
-他在一片小树林停了下来，
-这方圆几十里内都了无人烟，
-看来今晚，
-不得不露宿荒郊野外。
+Some time in the evening, Lin Xuan stopped in a small forest. There were not dwellings within this area of a few tens of kilometres. It looks like he would have to sleep out in the wilderness tonight.
 
-打了一只野兔，
-刚刚烤了个半熟，
-林轩突然神色一动，
-挥了挥袖袍，
-寒风吹过，
-将火熄灭了，
-然后用泥土枯枝掩盖住烧烤的痕迹，
-伪装成没有人来过的样子。
+After catching a wild rabbit, just as it was about half roasted, Lin Xuan's expression changed. With a wave of his sleeve, he generated a breath of cold air that extinguished the flames. Then he used dirt to cover the traces of his fire and roasting, making sure to make it look like no one had been here.
 
-然后林轩脚尖在地上一点，
-御风术施展开，
-轻松拔高了十几米，
-来到头顶的一棵参天大树上，
-借着树叶的遮挡，
-同时身形一动不动，
-收敛灵气，
-甚至连心跳，
-脉搏都变得缓慢无比，
-整个人仿佛变成了一截枯枝。
+After that, Lin Xuan stepped on the ground and using the Imperial Wind technique, effortlessly floated more than a dozen metres up and came to the top of a great towering tree and was naturally concealed by the leaves. Then he stayed motionless and retracted his spiritual power. He even slowed down his pulse and heartbeat. It was as if he had become a part of the branch.
 
-木属性法诀中的藏匿术。
+This was the wood style Concealment technique.
 
-刚刚做好这一切，
-一团黄光从远处降落到了树林中，
-光芒散去，
-两个人从里面走了出来。
+Just as he finished doing all this, a mass of yellow lights descended into the forest. As the rays of light dispersed, two people walked out.
 
-林轩不动声色，
-心中却暗暗惊讶，
-他在飘云谷待了四年，
-虽然是低阶弟子，
-但耳濡目染，
-眼光还是不错。
+Lin Xuan's expression did not change but he was secretly shocked. He had spent four years in the Floating Cloud Valley, and although he was a low-level disciple, but he always kept his eyes and ears open.
 
-这黄光不是用灵器腾云驾雾，
-而是罕见的飞行符，
-那可是与隐身符一样的高阶符箓，
-拥有这种宝贝的绝不会是普通的修真者。
+This yellow light was not from using spirit tools to tread on the clouds but was from a rarely seen flying seal. This was the same kind of high-grade seal as the invisibility seal. The person that possessed this seal was definitely not an ordinary cultivator.
 
-“爹，
-今天就在这里歇息了。”
+"Father, let's rest here for the night."
 
-“嗯。”
+"Okay."
 
-林轩一怔，
-这个声音好耳熟，
-稍一思索，
-便想了起来，
-那个曾与自己抢着购买中级功法的世家子弟，
-好像来自于什么姓燕的修真家族。
+Lin Xuan was surprised. This voice sounded very familiar. After some thought, he naturally remembered. It was the voice of that clan disciple that wanted to fight with him over the mid-rank cultivation technique. It seemed that he came from a cultivator clan with the last name of Yan or something.
 
-“难道他们来追杀自己？”林轩心中一惊，
-但随即冷静下来，
-开始分析，
-不会，
-自己用隐身符，
-明明已经甩掉了所有的跟踪者，
-何况他们要动手，
-也不用等到现在。
+"Could they be coming to kill me?" Lin Xuan was shocked but then immediately calmed down and started analysing the situation. No, he used the invisibility seal. He had clearly gotten rid of his pursuers. Moreover, if they wanted to kill him, there was no need to wait till now to act.
 
-他们不知道自己要回飘云谷，
-不可能恰好也追这条路，
-最大的可能性是巧合，
-双方正好碰在一起了。
+They also did not know he was heading back to the Floating Cloud Valley so it was impossible that they chose this exact road to chase him. The most likely scenario was that this was just a coincidence and that both sides just happened to meet here.
 
-想清楚事情的原委以后，
-林轩一边在心中大骂老天，
-给自己这样倒霉的运气，
-一边小心的收敛气息，
-一动不动，
-生怕被对方发觉。
+After figuring out the situation, Lin Xuan simultaneously cursed the heavens for giving him such bad luck and carefully restricted his breathing. He stayed motionless for fear of being discovered.
 
-“快走吧！”林轩祈求满天神魔保佑，
-最好两人有急事，
-是暂时歇脚，
-吃点东西就走。
+"Hurry up and leave!" Lin Xuan prayed for the blessings of all the deities. It would be best if those two had some urgent matters to take care of and was only stopping to rest and eat before hurrying on.
 
-然而事与愿违，
-两人也打算在这儿露宿一宿，
-生火，
-取出干粮在上面烤熟。
+But the opposite happened. The two wanted to spend the night here. They started a fire and started to cook their provisions.
 
-“爹，
-你说我们这次伏击汪家弟子，
-会不会被发觉？”
+"Father, do you think we will be found out if we ambush the disciples of the Fang family?"
 
-燕鸣的声音有些忐忑，
-坐在他旁边的是一个五十岁左右的老者，
-闻言，
-脸色阴沉了下来，
-过了半响才道：“哼，
-还不是你这畜生没用，
-让你收购一本中级功法都办不好，
-否则老夫又何必出此下策，
-去冒那天大的风险了。”
+Yan Ming sounded somewhat perturbed. Beside him sat an old man of about fifty years, whose face, after hearing this, clouded. "Hmph. If not for you being such a useless animal, and failing to acquire a mid-rank cultivation technique, would an old fellow like me have to resort to such a bad plan and take such a big risk?"
 
-“爹，
-这不能怨孩儿。”燕鸣有些不服：“谁知道一个散修居然有数百粒丹药，
-甚至连珍稀的中品丹都有。”
+"Father, you can't blame me for that." Yan Ming did not fully agree. "Who would have known that a rogue cultivator would have hundreds of medicinal pills? He even had a rare mid-grade pill."
 
-“你所说可是实情？”
+"Are you telling the truth?"
 
-“爹，
-我怎么敢对您撒谎，
-而且当时的情景很多修真者都看到。”
+"Father, how would I dare to lie to you? There were many rogue cultivators who saw what happened at the time."
 
-老者陷入了沉默，
-此事确实蹊跷，
-两百粒下品丹也就罢了，
-居然连中品丹也能拿出来，
-便是飘云谷，
-道符山，
-火灵门这些宗派也没有那么大手笔啊，
-一个散修……
+The old man fell into silence. This was really strange.
 
-做为燕家的族长，
-燕天衡也算见多识广，
-可对于此事，
-却百思不得其解。
+As the patriarch of the Yan family, Yan Tian Heng can be considered knowledgeable. But with respect to this incident, he was completely baffled.
 
-“算了，
-此事不用多想，
-反正杀了汪家的那几个小辈，
-中级功法也到手了，
-还有其他的宝贝。”燕天衡的脸上露出一丝得色：“谁让汪家的几个老家伙正处于闭关的紧要关头，
-分身乏术，
-只好派几个小辈来参加这样的盛事，
-至于被发现的问题，
-鸣儿你不用担心，
-为父已经毁尸灭迹。”
+"Forget it. There is no need to think too much about this. As long as we kill those juniors of the Fang family, we'll be able to acquire a mid-rank cultivation technique along with all their treasures." Yan Tian Heng's face showed some colour. "It's their fault that those old things are at a critical point of their seclusion. Since they can't be in two places at once, they could old send a few juniors to attend this kind of event. As to being found out, you don't have to worry, father has already destroyed all evidence of their corpses."
 
 - - -
 - - -

@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0029"
-name: "Twenty Nine"
+name: "Twenty-Nine"
 title: "Problem"
 date: "Dec 05, 2015"
 characters: 2430

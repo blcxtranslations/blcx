@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0041"
-name: "Fourty One"
+name: "Forty-One"
 title: "Cultivator Clans"
 date: "Dec 27, 2015"
 characters: 2102

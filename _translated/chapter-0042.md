@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0042"
-name: "Forty Two"
+name: "Forty-Two"
 title: "Invisibility Seal"
 date: "Dec 29, 2015"
 characters: 2179

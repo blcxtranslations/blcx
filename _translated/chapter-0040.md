@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0040"
-name: "Fourty"
+name: "Forty"
 title: "The Situation of Cultivators"
 date: "Dec 27, 2015"
 characters: 2119

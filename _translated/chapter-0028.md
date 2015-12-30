@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0028"
-name: "Twenty Eight"
+name: "Twenty-Eight"
 title: "Ice Needles Spell"
 date: "Dec 03, 2015"
 characters: 2179

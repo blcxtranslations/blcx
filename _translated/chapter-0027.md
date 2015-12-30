@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0027"
-name: "Twenty Seven"
+name: "Twenty-Seven"
 title: "The Doctrine of Techniques"
 date: "Dec 01, 2015"
 characters: 2163
