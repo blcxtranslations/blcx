@@ -1,12 +1,12 @@
 ---
 layout: page
 number: "0042"
-name: "Fourty Two"
+name: "Forty Two"
 title: "Invisibility Seal"
 date: "Dec 29, 2015"
 characters: 2179
 chinese: "http://baishuku.com/html/30/30364/12441361.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3yqezo/cn_tempered_immortal_chapter_0042/"
 sponsored: false
 completed: true
 ---
@@ -101,3 +101,4 @@ After sticking this seal on the body, for the next six hours, it would allow for
 
 - - -
 - - -
+
