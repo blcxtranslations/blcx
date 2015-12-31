@@ -3,10 +3,10 @@ layout: page
 number: "0043"
 name: "Forty-Three"
 title: "Meeting Enemies in a Small World"
-date: "2015-12-31 13:12:18.216932"
+date: "2015-12-31 13:13:59.133931"
 characters: 2082
 chinese: "http://baishuku.com/html/30/30364/12441363.html"
-reddit: "https://www.reddit.com/r/Zaiphyr/comments/3yxowp/cn_tempered_immortal_chapter_0043/"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3yxp56/cn_tempered_immortal_chapter_0043/"
 sponsored: false
 completed: true
 ---
