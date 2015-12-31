@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0035"
-name: "Thirty Five"
+name: "Thirty-Five"
 title: "The Three Forces"
 date: "Dec 17, 2015"
 characters: 1999

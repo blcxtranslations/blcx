@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0034"
-name: "Thirty Four"
+name: "Thirty-Four"
 title: "Arriving at the Soaring Cloud Sect"
 date: "Dec 15, 2015"
 characters: 2018

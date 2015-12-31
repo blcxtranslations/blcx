@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0036"
-name: "Thirty Six"
+name: "Thirty-Six"
 title: "The Value of Pills"
 date: "Dec 19, 2015"
 characters: 2168

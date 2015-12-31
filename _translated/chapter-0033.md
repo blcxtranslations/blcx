@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0033"
-name: "Thirty Three"
+name: "Thirty-Three"
 title: "Sky Pillar Mountain"
 date: "Dec 13, 2015"
 characters: 2099

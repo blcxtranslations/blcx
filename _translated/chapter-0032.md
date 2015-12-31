@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0032"
-name: "Thirty Two"
+name: "Thirty-Two"
 title: "The Commandment of the Cultivation World"
 date: "Dec 11, 2015"
 characters: 2222

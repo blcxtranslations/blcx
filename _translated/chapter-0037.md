@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0037"
-name: "Thirty Seven"
+name: "Thirty-Seven"
 title: "Seals"
 date: "Dec 21, 2015"
 characters: 2202

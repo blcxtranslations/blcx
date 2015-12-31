@@ -1,7 +1,7 @@
 ---
 layout: page
 number: "0031"
-name: "Thirty One"
+name: "Thirty-One"
 title: "Soaring Cloud Sect"
 date: "Dec 09, 2015"
 characters: 2134
