@@ -69,7 +69,7 @@ After figuring out the situation, Lin Xuan simultaneously cursed the heavens for
 
 But the opposite happened. The two wanted to spend the night here. They started a fire and started to cook their provisions.
 
-"Father, do you think we will be found out if we ambush the disciples of the Fang family?"
+"Father, do you think we will be found out if we ambush the disciples of the Wang family?"
 
 Yan Ming sounded somewhat perturbed. Beside him sat an old man of about fifty years, whose face, after hearing this, clouded. "Hmph. If not for you being such a useless animal, and failing to acquire a mid-rank cultivation technique, would an old fellow like me have to resort to such a bad plan and take such a big risk?"
 
@@ -83,7 +83,7 @@ The old man fell into silence. This was really strange.
 
 As the patriarch of the Yan family, Yan Tian Heng can be considered knowledgeable. But with respect to this incident, he was completely baffled.
 
-"Forget it. There is no need to think too much about this. As long as we kill those juniors of the Fang family, we'll be able to acquire a mid-rank cultivation technique along with all their treasures." Yan Tian Heng's face showed some colour. "It's their fault that those old things are at a critical point of their seclusion. Since they can't be in two places at once, they could old send a few juniors to attend this kind of event. As to being found out, you don't have to worry, father has already destroyed all evidence of their corpses."
+"Forget it. There is no need to think too much about this. As long as we kill those juniors of the Wang family, we'll be able to acquire a mid-rank cultivation technique along with all their treasures." Yan Tian Heng's face showed some colour. "It's their fault that those old things are at a critical point of their seclusion. Since they can't be in two places at once, they could only send a few juniors to attend this kind of event. As to being found out, you don't have to worry, father has already destroyed all evidence of their corpses."
 
 - - -
 - - -
