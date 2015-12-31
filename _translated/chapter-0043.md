@@ -11,7 +11,7 @@ sponsored: false
 completed: true
 ---
 
-After doing all of this Lin Xuan sang into meditation to restore his spiritual power. To cultivators, sitting meditation of over six hours was very common.
+After doing all of this Lin Xuan sank into meditation to restore his spiritual power. To cultivators, sitting meditation of over six hours was very common.
 
 During this time, a few waves of cultivators came. These people were all up to no good and coveted Lin Xuan's treasures.
 
@@ -23,9 +23,9 @@ Since it had come to this, they could only unwillingly leave.
 
 Six hours later, a white smoke suddenly drifted out. The smoke began to drift apart, then slowly gathered together again, and then once again dissipated. Finally, a figure was revealed.
 
-Lin Xuan had a look of indifferent, showing neither joy and anger. Standing up and looking around, he saw that there were no cultivators in the area. Although he had successfully avoided those malicious people, but he also used a high-grade invisibility seal.
+Lin Xuan had a look of indifferent, showing neither joy and anger. Standing up and looking around, he saw that there were no cultivators in the area. Although he had successfully avoided those malicious people, he still had to use a high-grade invisibility seal.
 
-But overall, this trying to the Soaring Cloud sect has been very fruitful. Not only did he acquire the Spiritual Control technique, he had also gotten the Soaring Cloud technique.
+But overall, this trip to the Soaring Cloud sect has been very fruitful. Not only did he acquire the Spiritual Control technique, he had also gotten the Soaring Cloud technique.
 
 It must be known that even though there are many cultivation techniques for the Spirit Gathering stage, there were still trashy ones and precious ones. He was only an ordinary disciples of the Floating Cloud valley. That that was why even though he had many pills and worked so hard, he was still not able to break through to the fifth layer.
 
@@ -69,7 +69,7 @@ After figuring out the situation, Lin Xuan simultaneously cursed the heavens for
 
 But the opposite happened. The two wanted to spend the night here. They started a fire and started to cook their provisions.
 
-"Father, do you think we will be found out if we ambush the disciples of the Wang family?"
+"Father, do you think we will be found out for our ambush of the disciples of the Wang family?"
 
 Yan Ming sounded somewhat perturbed. Beside him sat an old man of about fifty years, whose face, after hearing this, clouded. "Hmph. If not for you being such a useless animal, and failing to acquire a mid-rank cultivation technique, would an old fellow like me have to resort to such a bad plan and take such a big risk?"
 
@@ -83,7 +83,7 @@ The old man fell into silence. This was really strange.
 
 As the patriarch of the Yan family, Yan Tian Heng can be considered knowledgeable. But with respect to this incident, he was completely baffled.
 
-"Forget it. There is no need to think too much about this. As long as we kill those juniors of the Wang family, we'll be able to acquire a mid-rank cultivation technique along with all their treasures." Yan Tian Heng's face showed some colour. "It's their fault that those old things are at a critical point of their seclusion. Since they can't be in two places at once, they could only send a few juniors to attend this kind of event. As to being found out, you don't have to worry, father has already destroyed all evidence of their corpses."
+"Forget it. There is no need to think too much about this since we already killed those juniors of the Wang family and acquired a mid-rank cultivation technique along with all their treasures." Yan Tian Heng's face showed some colour. "It's their fault that those old things are at a critical point of their seclusion. Since they can't be in two places at once, they could only send a few juniors to attend this kind of event. As to being found out, you don't have to worry, father has already destroyed all evidence of their corpses."
 
 - - -
 - - -
