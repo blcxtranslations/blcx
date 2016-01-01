@@ -2,10 +2,10 @@
 layout: page
 number: "0045"
 name: "Forty-Five"
-title: "Soaring Cloud Technique"
+title: "Fierce Battle"
 date: "Jan 04, 2016"
 characters: 2106
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441367.html"
 reddit: ""
 sponsored: false
 completed: false

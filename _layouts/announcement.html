@@ -27,7 +27,7 @@ layout: default
     </time>
   </h2>
 
-  {% include adsense.html %}
+  {% include adsense_top.html %}
 
   Back to <a href="{{ site.baseurl }}announcements">Announcements</a>
 
@@ -65,6 +65,8 @@ layout: default
     {% assign prev = announcement %}
 
   {% endfor %}
+
+  {% include adsense_bottom.html %}
 
 </div>
 

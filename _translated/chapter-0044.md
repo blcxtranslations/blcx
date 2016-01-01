@@ -2,7 +2,7 @@
 layout: page
 number: "0044"
 name: "Forty-Four"
-title: "行藏暴露"
+title: "Exposed"
 date: "Jan 02, 2016"
 characters: 2038
 chinese: "http://baishuku.com/html/30/30364/12441356.html"
