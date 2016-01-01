@@ -19,8 +19,10 @@ completed: false
 淡黄色的灵力，
 从他的身体表面逸散出来，
 形成了一个护盾的模样。
+But not matter what, he was still his son. So Yan Tian Heng used one hand to pull his son behind him and raised the other in front of him. A light yellow coloured spirit power flowed from his body and changed into a spiritual shield.
 
 噗！
+Pop!
 
 火球与灵力护盾相撞，
 嗤嗤作响，
@@ -230,6 +232,7 @@ completed: false
 轰，
 轰，
 轰……
+Boom, boom, boom......
 
 爆炸之声不绝于耳，
 修真者间的战斗，

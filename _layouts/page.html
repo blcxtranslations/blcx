@@ -15,11 +15,8 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
 
 
-
   <!-- Display if post date greater the current date -->
   {% if ptime < zero %}
-
-
 
   <h2 class="page-date">
     <time datetime="{{ page.date }}" itemprop="datePublished">
@@ -39,6 +36,10 @@ layout: default
     {{ page.date | date: "%Y" }}
     </time>
   </h2>
+
+  {% endif %}
+  {% include adsense.html %}
+  {% if ptime < zero %}
 
   <div class="spacer">
     <hr>
