@@ -155,7 +155,10 @@ td:last-child {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
-
+.list_indent {
+  padding-left: 4em;
+  text-indent: -4em;
+}
 
 input {
   margin-bottom: 1rem;

@@ -44,7 +44,9 @@
         {% assign count = count | plus: 1 %}
       {% endif %}
     {% endfor %}
-    <strong>{{ count }} </strong>
+    <strong>
+      {{ count }}
+    </strong>
     {% if count != 1 %}
       Chapters
     {% else %}
@@ -127,10 +129,12 @@
           {{ chapter.number }}
         </strong>
         <br />
-        &nbsp&nbsp&nbsp
+        <!-- &nbsp&nbsp&nbsp -->
+        <div class="infobar_list_indent">
         <a href="{{ site.baseurl }}{{ chapter.url }}">
           {{ chapter.title }}
         </a>
+        </div>
       </li>
       {% if count >= 3 %}
         {% break %}

@@ -2,10 +2,10 @@
 layout: page
 number: "0046"
 name: "Forty-Six"
-title: "Soaring Cloud Technique"
+title: "符箓火拼法术"
 date: "Jan 06, 2016"
 characters: 2097
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441369.html"
 reddit: ""
 sponsored: false
 completed: false
