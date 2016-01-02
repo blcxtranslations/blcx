@@ -29,13 +29,13 @@ Of course, it worst comes to worst, he would not go without a fight. If a fight 
 
 Lastly, he still had spirit tools. Even without the other two, he still was quite familiar with the golden rope. And although he could only use a portion of its power with the telekinesis technique, he could still use it as an ultimate technique.
 
-Of course, although he had confidence in himself, he would not take the initiate and attack those two. After all, one of them was at the great perfection of the Spirit Gathering stage and the less trouble he had the better. See that these two were prepared to spend the night here, Lin Xuan could only lament his bad luck. He would have to sleep in the tree tonight.
+Of course, although he had confidence in himself, he would not take the initiative and attack those two. After all, one of them was at the great perfection of the Spirit Gathering stage and the less trouble he had the better. See that these two were prepared to spend the night here, Lin Xuan could only lament his bad luck. He would have to sleep in the tree tonight.
 
 The honks of geese ran out and Yan Tian Heng stood up. Dry provisions did not taste that great and since there was prey delivering themselves then why not hunt one to fill his stomach.
 
 Seeing Yan Tian Heng raising his head, Lin Xuan secretly cursed. He did not have time to think and so with a flash of his body, he floated down from the top of the tree. This was not Lin Xuan being rash but because of the Yan Tian Heng raising his head. With his cultivation, he would definitely see through Lin Xuan's concealment technique. So rather than staying in a disadvantaged position why not preemptively strike out.
 
-Since he heard of their dirty deeds, those two would definitely not let him go in peace. Therefore, if they are going to drop all pretenses of cordiality, then Lin Xuan was going to attach first.
+Since he heard of their dirty deeds, those two would definitely not let him go in peace. Therefore, if they are going to drop all pretenses of cordiality, then Lin Xuan was going to attack first.
 
 The two were shocked to see that there was someone in the tree tops. After seeing Lin Xuan's face, Yan Ming was even more shocked and exclaimed: "Father, he...... He the one that snatched away the cultivation technique with the mid-grade pill......"
 
@@ -43,7 +43,7 @@ He hadn't even finished talking when a red light flashed before his eyes. There 
 
 Lin Xuan threw out a blaze seal with one hand and prepared the Ice Needles technique with the other. Amidst the ringing sound, he had already cast his technique. But the strange thing was, Lin Xuan also had a seal on his mouth. Driven by spiritual power, it changed into smoke and covered the ground.
 
-Yan Ming was shocked. Although the blaze and ice needles technique were low-rank techniques, but it he was hit by then, it would still take his life. In his panic, he should the flaw of his lack of experience. Because of this clumsiness, he didn't even have time to start the spiritual shield technique and only thought of dodging. Because of his stupidity, he had already fallen into Lin Xuan's fatal trap of the quicksand technique.
+Yan Ming was shocked. Although the blaze and ice needles technique were low-rank techniques, but it he was hit by then, it would still take his life. In his panic, he showed the flaw of his lack of experience. Because of this clumsiness, he didn't even have time to start the spiritual shield technique and only thought of dodging. Because of his stupidity, he had already fallen into Lin Xuan's fatal trap of the quicksand technique.
 
 The quicksand had already caught his foot and the fireballs and ice needles were almost upon him. Yan Ming's face became very pale. Although he was also at the fourth layer of the Spirit Gathering stage, he had lived his like like a pampered prince from when he was young. He rarely had to do anything by himself since he had his father protecting him. Therefore, he had never been in this kind of danger before.
 
