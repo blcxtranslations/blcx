@@ -9,6 +9,8 @@ permalink: /announcements.html
 </h1>
 <br />
 
+{% include adsense_top.html %}
+
 <ul>
   {% for announcement in site.announcements reversed %}
 
@@ -25,3 +27,5 @@ permalink: /announcements.html
 
   {% endfor %}
 </ul>
+
+{% include adsense_bottom.html %}
