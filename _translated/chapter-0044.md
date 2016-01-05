@@ -8,7 +8,7 @@ characters: 2038
 chinese: "http://baishuku.com/html/30/30364/12441356.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/3z7d8x/cn_tempered_immortal_chapter_0044/"
 sponsored: false
-completed: false
+completed: true
 ---
 
 Lin Xuan did not even dare to breathe too loudly after hearing such a big secret. Although it was only a few words, but just from the discussion from this father and son, he was already able to infer roughly what happened.

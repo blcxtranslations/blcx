@@ -18,24 +18,30 @@ completed: false
 间或还使用灵力弄个冰弹诀什么的偷袭一下，
 虽然伤不了燕天衡，
 却也将他气得七窍生烟。
+Compared to the other's anxious look, Lin Xuan looked, at least on the surface, to have planned for this well in advance. On one hand, he used the power of seals to deal with the other's techniques, and on the other, he would occasionally cast the hail technique as a sneak attack. Although it could not hurt Yan Tian Heng, it still caused him to seethe in anger.
 
 尤其是林轩的表情，
 一脸鄙视，
 不时还调侃几句，
 燕天衡的脸色越来越发黑了。
 
+
 也难怪，
 好歹他也是一家之主，
 第七层功法的大高手，
 却拿一个四层功法的小子没奈何，
 心中当然充满挫败感了。
+It was not surprising. He was the patriarch of a family and a seventh layer expert. Yet he could not do anything to this fourth layer brat. It really caused him to be frustrated.
 
 尤其是那副欠扁的模样，
 真是活活能将人气死。
+Especially that infuriating appearance, it could really cause one to die of excess anger.
 
 林轩真的如此轻佻吗？
+Was Lin Xuan really this frivolous?
 
 当然不是！
+Of course not!
 
 他这么做是故意的，
 众所周知，

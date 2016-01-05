@@ -34,3 +34,13 @@
     left:   1rem;
   }
 }
+
+
+.mobile-unhide {
+  display: inline;
+}
+@media (min-width: 48em) {
+  .mobile-unhide {
+    display: none;
+  }
+}
