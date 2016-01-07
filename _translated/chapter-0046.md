@@ -2,236 +2,82 @@
 layout: page
 number: "0046"
 name: "Forty-Six"
-title: "符箓火拼法术"
-date: "Jan 06, 2016"
+title: "Seals Against Techniques"
+date: "2016-01-06 20:10:53.504524"
 characters: 2097
 chinese: "http://baishuku.com/html/30/30364/12441369.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/3zszgr/cn_tempered_immortal_chapter_0046/"
 sponsored: false
-completed: false
+completed: true
+
 ---
 
-与对方的着急相比，
-林轩显得胸有成竹，
-至少表面上是这样，
-一边用符火拼对方的法术，
-间或还使用灵力弄个冰弹诀什么的偷袭一下，
-虽然伤不了燕天衡，
-却也将他气得七窍生烟。
-Compared to the other's anxious look, Lin Xuan looked, at least on the surface, to have planned for this well in advance. On one hand, he used the power of seals to deal with the other's techniques, and on the other, he would occasionally cast the hail technique as a sneak attack. Although it could not hurt Yan Tian Heng, it still caused him to seethe in anger.
+Compared to the other's anxious look, Lin Xuan looked, at least on the surface, to have planned for this well in advance. On one hand, he used the power of seals to deal with the other's techniques, and on the other, he would occasionally cast a technique like the hail technique as a sneak attack. Although it could not hurt Yan Tian Heng, it still caused him to seethe in anger.
 
-尤其是林轩的表情，
-一脸鄙视，
-不时还调侃几句，
-燕天衡的脸色越来越发黑了。
+Especially Lin Xuan's expression. It was full of disdain. He would even occasionally ridicule him, causing Yan Tian Heng's expression to get more and more gloomy.
 
-
-也难怪，
-好歹他也是一家之主，
-第七层功法的大高手，
-却拿一个四层功法的小子没奈何，
-心中当然充满挫败感了。
 It was not surprising. He was the patriarch of a family and a seventh layer expert. Yet he could not do anything to this fourth layer brat. It really caused him to be frustrated.
 
-尤其是那副欠扁的模样，
-真是活活能将人气死。
 Especially that infuriating appearance, it could really cause one to die of excess anger.
 
-林轩真的如此轻佻吗？
 Was Lin Xuan really this frivolous?
 
-当然不是！
 Of course not!
 
-他这么做是故意的，
-众所周知，
-战斗的时候心浮气躁实力肯定会大打折扣，
-面对一个比自己强的高手，
-要想取胜，
-其实非常困难，
-不仅要正确的战略战术，
-不能出错，
-而且攻心术也非常重要。
+He was doing this one purpose. As everyone knows, if one does not focus on the battle at hand with one hundred percent of their concentration, the would definitely suffer some losses. When facing someone more powerful than oneself, to seek victory was very difficult. Not only did one need the correct tactics and techniques and not make mistakes, but know what the enemy was thinking of was also very important.
 
-所以林轩故意装出一副欠扁的模样，
-再用言语挑逗，
-燕天衡果然沉不住气了。
+Therefore, Lin Xuan put on an infuriating appearance and used words to ridicule him. And sure enough, Yan Tian Heng was unable to remain calm.
 
-这也说明林轩看人很准，
-这位燕家家主虽然心狠手辣，
-是老狐狸，
-但却是一副火爆脾气，
-像要气他，
-并不算很难的事。
+This was clearly demonstrating Lin Xuan's ability to read people. Although this Yan family was a very vicious and crafty person, but he had a fiery temper. To anger him was not difficult.
 
-林轩做这一切，
-都是为了胜利，
-其实他的心里，
-同样懊恼不已，
-原因无他，
-用符箓硬拼对方的法术，
-自己怎么可能不心疼，
-这些可都是自己好不容易得到的，
-用一张少一张。
+Everything Lin Xuan did was for him to achieve victory. But really, he was also very annoyed. The reason was because he was using seals to fight against the other's techniques. How can he not be wistful? They were all acquired with a lot of hard work, once he used one it was gone.
 
-更让林轩郁闷的是，
-像现在这样五张五张的使用低阶符，
-其实是一种很浪费的行为。
+What caused Lin Xuan to be even more depressed as the way he was using them. This way of using five low-grade seals at a time was a very wasteful method.
 
-五张低阶符，
-刚好可以拼掉对方的一个中阶法术，
-现在自己已经用了三十张了，
-假如这三十张符不是分开，
-而是同时发动，
-早就可以将对方炸得尸骨无存了。
+Five low-grade seals would able to fight against the other's one mid-rank technique. He had already used thirty seals in this manner. If there thirty seals were not used separately but were used all together, then the explosions would have already destroyed his foes without leaving a trace of their corpses.
 
-然而，
-这只是想想，
-原因无他，
-启动低阶符，
-同样需要灵力啊，
-以林轩现在的修为，
-一次最多用五张，
-然后必须间隔休息一下，
-也就是缓缓气，
-虽然很短，
-也就两三秒钟，
-但别小看了这点时间，
-间隔了再使用下一组五张符效果就已经是大大不同。
+Yet this was only a thought because to activate low-level seals still required spiritual power. With Lin Xuan's spiritual power, the most he could activate at once was five and then he had to rest to recover to catch his breathe. It was a very short amount of time, about two or three seconds, but using another five seals after that amount of time would already have a greatly diminished effect.
 
-因为对方也可以使用下一个中阶法术，
-于是就变成消耗战了，
-看是燕天衡的灵力先枯竭，
-还是林轩的符先用光。
+Because by then, the other side would have already used another mid-rank technique. As a result, this has been turned into a war of attrition to see if Yan Tian Heng would run dry of spiritual power first or if Lin Xuan would run out of seals first.
 
-其实要想同时使用超过五张以上的符也并非没有办法，
-以前林轩在一本书上看过介绍，
-那需要将符重新凝炼一遍，
-用一种叫做引灵草的珍贵宝物将牠们串联起来。
+But in fact, it was not impossible to use more than five seals at a time. Lin Xuan have read an introduction in a book before. It described a way to re-craft the seal using a precious material called the Spirit Attracting Grass to link seals together.
 
-举个例子吧，
-就好像鞭炮一样，
-可以一个一个的单独放，
-但也可以用引线串成一起，
-只需要点一次，
-就全部放完，
-而这引灵草就相当于引线，
-只要用牠将符串联起来，
-就可以几十张，
-甚至上百张的同时使用。
+As an example, it would be like firecrackers. They can be set off one by one, but they could also be strung together with a fuse, which once lit, could set off all the firecrackers. And this Spirit Attracting Grass was exactly like that fuse, as long as the seals are linked together with it, one cause use tens of seals, or even over a hundred seals together at once.
 
-林轩收购那么多低阶符，
-就是打算回去再想办法寻引灵草，
-可哪知道，
-这么快遇上了敌人，
-这些符根本就没有重新练过，
-只好五张五张的用了。
+Lin Xuan purchase so many low-grade seals with the intention of finding Spirit Attracting Grass so he could link them together once he got back. But who would have known that he would meet foes this fast. These seals haven't been re-crafted, so he could only use them five at a time.
 
-所以林轩的心情很沮丧，
-肉疼，
-只不过表面上，
-却是一副满不在乎，
-胸有成竹，
-这是战斗中很有用的攻心之术。
+Therefore, Lin Xuan was very dismayed and wistful. But he did not show this on his face and instead had a very unconcerned and well-prepared look. This was also a very effective tactic in shaking his opponent's mind.
 
-同时林轩还在思考，
-这样下去不行，
-对方的灵力虽然衰弱了不少，
-可距离枯竭，
-还有很长一段时间，
-难道自己真与他硬耗？
+At the same time, Lin Xuan was also thinking that he could not continue like this. Although the opponent's spiritual power has weakened by quite a bit, but to have it dry up would still take quite a while yet. Would he really have to continue wasting like this?
 
-再说另一人，
-燕天衡同样惊疑不定，
-原本他心中所想，
-一个第四层功法的小子，
-还不是手到擒来的事，
-可现在，
-心中却没底了，
-这小子究竟有多少符，
-这样下去，
-自己的法力会先支持不住。
+And now on to the other person. Yan Tian Heng was stuck between shock and suspicion. He originally thought that dealing with a fourth layer brat was going to be a piece of cake. But now he was completely uncertain of just how many seals this brat had. If this continued, his magical power would the first to give out.
 
-但换一个角度，
-这小子简直太富有了，
-身家比筑基期的高手还要丰厚，
-联想到他曾经用中品丹换取功法，
-既然有一颗，
-那么还有第二颗似乎也是有可能的。
+Switching to another perspective, this brat was simply too rich. His wealth was ampler than that of a Foundation Building expert. And thinking of how he used a mid-grade pill to exchange for a cultivation technique, it was not far-fetched to assume that he might even have a second one.
 
-如果能得到中品丹，
-那么自己步入筑基期的希望也就更大，
-想到这里，
-燕天衡眼中闪过浓重的贪婪之色，
-舌头舔了舔嘴唇，
-看来，
-自己不得不动用那件宝贝了。
+If he could acquire a mid-grade pill, then his chance at entering into the Foundation Building stage would be even greater. Thinking of this, Yan Tian Heng licked his lips as a strong look of greed flashed in his eyes. It looks like he would have to take out that precious treasure.
 
-他又放出一个中级功法，
-同时体表外的灵力护盾毫光大放，
-显得更加的坚固，
-将手伸入怀中。
+He released another mid-grade technique and at the same time, the spiritual shield around him released a great light. It looked as it the spiritual shield was more solid now. He then reached into his bosom.
 
-林轩皱了皱眉，
-脸上浮现出一缕阴霾，
-看了对方的举动，
-哪还不知道他即将使用厉害的招数。
+Lin Xuan frowned and his expression turned gloomy. Seeing his opponent's actions, how could he not know that they were about to use some powerful item.
 
-林轩当然不会让他从容得手，
-现在也顾不得心疼了，
-直接甩出了两张从张羽那儿得到的中阶符，
-一张拼掉火鸟术，
-另外一张则幻化出了一把巨大的弯刀，
-当头就像燕天衡劈了下来。
+Lin Xuan of course would not let them succeed so easily. He did not have time to feel wistful. So he immediately pulled out two mid-grade seals. One canceled out the firebird technique, the other changed into a large scimitar and sliced towards Yan Tian Heng.
 
-因为接下来的杀手锏需要集中全部的精神，
-所以看见金属性的弯刀术斩向自己，
-燕天衡也无计可施。
+Since preparing his killing technique would require all of his concentration, he could do nothing seeing the gold type scimitar technique chopping towards him.
 
-轰！
+Boom!
 
-中阶法术的威力非同小可，
-远远不是刚才的火焰术可以比拟的，
-光是与灵力护盾相撞的声势就非常惊人。
+The power of a mid-rank technique was no small matter and could not even be compared to the blaze seals used before. Even the sound of the collision with the spiritual shield was very shocking.
 
-尘土飞扬，
-地面被犁出一道深深的沟壑，
-挨了一击，
-燕天衡的脸色苍白如纸，
-嘴角边溢出了血丝，
-然而林轩心中却暗叫可惜，
-如果威力再大一点就好了，
-这弯刀术虽然重创了对方，
-可最终还是没有破开灵力护盾的防御。
+Dirt flew everywhere and a deep ditch formed. After taking that strike, Yan Tian Heng's face was pale like paper and a trail of blood leaked out of the corner of his lips. But Lin Xuan was only feeling unfortunate. If the power of the scimitar technique was greater it would have been better. Although it did manage to inflict heavy damages against his opponent, in the end, it still failed to break open the defenses of the spiritual shield.
 
-“小子，
-能将老夫逼到如此境地，
-你很不错，
-不过现在可以去死了！”
+"Brat, to force an old fellow like me to this kind of state, you are pretty good. But you can die now!"
 
-扬起的烟尘尚未散去，
-就从里面传来了燕天衡怨毒的声音，
-带着令人心悸的狠厉，
-林轩心中一凛，
-将灵力运到指尖上，
-另一只手则抓起了符。
+The smoke and dust had yet to settle yet Yan Tian Heng's hateful and angry voice had already transmitted out. Lin Xuan shivered with fear for a moment and circulated spiritual power to his fingertips while pulling out more seals with the other hand.
 
-不过他并没有冒然进攻，
-在形势不明朗的情况下，
-轻举妄动是很愚蠢的，
-先看看对方准备了什么招数，
-然后再谋定而后动。
+But he didn't mindlessly attack. To act without know what is going on is very stupid. One should first see what the enemy has prepared before making a plan and then taking action.
 
-虽然警惕，
-但林轩心里，
-并没有一丝一毫的畏惧，
-对方有杀手锏，
-但自己同样有压箱底的绝技，
-冰针诀和浑金索都还没有用，
-大圆满境界的高手又如何，
-修真者间的胜负，
-除了法力，
-灵器符箓同样是决定因数。
+Although he was alert, but he was not at all scared. Even though his foe had a killing technique, he himself also had a trump card too. He had not used the Ice Needles technique nor the golden rope yet. So what if he was at the great perfection level. In determining victory or defeat between cultivators, other than spiritual power, spirit tools and seals were also a factor.
 
 - - -
 - - -
+
