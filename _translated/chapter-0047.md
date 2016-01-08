@@ -2,240 +2,102 @@
 layout: page
 number: "0047"
 name: "Forty-Seven"
-title: "Soaring Cloud Technique"
+title: "Bestial Soul Seal"
 date: "Jan 08, 2016"
 characters: 2097
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441371.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
-狂风吹过，
-烟尘散开，
-燕天衡的手里，
-拿着一张符箓，
-全身的灵力如决堤之水一样疯狂的涌入，
-见了这架势，
-林轩的表情越发凝重了，
-这肯定不是普通的符。
+A wild wind blew past, clearing the smoke and dust in the air. It revealed Yan Tian Heng holding a seal. He was channelling all of his spiritual power into it like a dam bursting. Seeing this kind of action, Lin Xuan's expression turned more and more serious. This is definitely not some simple seal.
 
-林轩自然不会傻等着对方施法完成，
-正准备出招，
-然而就在这时，
-燕天衡的嘴角边却浮现出一丝狰狞的笑容，
-他甩手将那符箓抛向了空中，
-同时大喝一声：“魂魄，
-解封！”
+Lin Xuan was definitely not dumb enough to let his opponent complete their technique and thus prepared to though out an attack. But at that moment, Yan Tian Heng showed a sinister smile on his lips. He threw the seal into the air and yelled out: "Soul, release!"
 
-吼！
+Roar!
 
-一声咆哮，
-群山回响，
-震得周围的树叶都噗噗噗的往下掉，
-那符光芒大放，
-红光之中，
-一头浑身包裹着火焰的猛虎出现了。
+A roar sounded out, reverberating around the surrounding hills and causing many trees to break and fall. The seal released many rays of brilliance and amidst a red light, a flaming fierce tiger appeared.
 
-烈炎虎，
-不，
-不对，
-它的浑身还包裹着骨质的尖甲，
-应该是铁甲爆炎虎，
-一级极品妖兽。
+A fierce flame tiger, no, that wasn't right. Its body was covered by a sharp carapace of bone. This should be an armoured fierce flame tiger, a first class top grade monstrous beast.
 
-与修真者从灵动到渡劫分为八个阶段相对应，
-妖兽也是一到八级，
-每一级又分为下品、中品、上品以及极品四个等级。
+For cultivators, their levels from Spirit Gathering to Tribulation Ascension were split into eight stages. Similarly, monstrous beasts also had eight levels with every level being further split into low-grade, mid-grade, high-grade, and top-grade.
 
-灵动期对应一级妖兽，
-筑基期对应二级妖兽，
-以此类推……
+Spirit Gathering corresponds to first class monstrous beasts, Foundation Building corresponds to second-class, and so on......
 
-也就是说这头妖兽，
-实力不逊色于一位灵动期大圆满的高手。
+In other words, this monstrous beast was not inferior to an expert at the great perfection of the Spirit Gathering stage.
 
-林轩表情有些发苦，
-这并不是什么迷惑类的幻术，
-而是货真价实的妖虎，
-正确的说应该是妖虎的魂魄。
+Lin Xuan had a bitter expression on his face. This was not an illusory technique but was a genuine demon tiger. Or more correctly, the soul of a demon tiger.
 
-没想到对方居然拥有罕见的兽符。
+He did not expect that they would have a one of these rarely seen beast seals.
 
-所谓兽符，
-与阵符一样，
-属于特殊类的符箓，
-普通的符纸里面，
-封印的都是防御攻击或者辅助性质类的法术。
+These so-called beast seals were like the array seals and belonged to a special category of seals. Regular seals contained attacking, defending, or supporting type techniques.
 
-而阵符里面封印的是简单的阵法。
+And array seals contained basic arrays.
 
-兽符又有不同，
-里面封印的是妖兽魂魄，
-比阵符更加稀有，
-因为这不是普通修真者炼制的，
-而是修炼鬼道的修士才能制作的特殊符箓。
+But beast seals also had other differences. One was that they sealed beast souls in them. They were even rarer than array seals because they could not be made by regular cultivators and could only be crafted by cultivators following the demonic path.
 
-简单的说，
-就是杀了妖兽以后，
-抽取它的魂魄，
-然后用一些特殊的凝炼之法，
-将妖兽魂魄封印进符纸中。
+Simply put, after killing a monstrous beast, they soul must be extracted and using some special methods sealed into the seal papers.
 
-而且与一般的符都是一次性的不同，
-兽符可以反复使用，
-当然也不是没有限制，
-每次使用，
-都会消耗妖兽魂魄里的能量，
-当魂魄中的能量用完了，
-兽符也就报废掉。
+Another difference was that they were not one time use like other seals but could instead be used over and over again. Of course, there were limits. Each time it was used it would consume some of the energy of the beast soul. After all, of the energy was used up, the seal would also no longer function.
 
-林轩曾经在一本古籍上看过关于兽符的介绍，
-只是怎么也没有想到自己会遇到。
+Lin Xuan had also read about beast seals in some ancient texts before, but he never imagined that he would have to face one.
 
-吼！
+Roar!
 
-可怕的咆哮，
-虽然是魂魄，
-但经过鬼道修士用特殊方法凝炼之后，
-威力丝毫不比真正的妖虎逊色。
+Although it was only the soul, it still had such a fearsome roar. Of course, after using those special methods to craft the beast seal, the strength of the soul was not inferior to the real beast in the slightest.
 
-“去！”
+"Go!"
 
-燕天衡手握法诀，
-轻轻一点，
-铁甲爆炎虎化为了一团红光，
-张牙舞爪的像林轩冲了过来。
+Yan Tian Heng made some incantation gestures and lightly tapped the beast causing it to bare its fangs and brandish its claws. It then changed into a ball of red light and charged towards Lin Xuan.
 
-形势危险，
-不过林轩并没有慌，
-将手中的符发动，
-向着空中一抛……
+It was a dangerous situation but Lin Xuan did not panic. He activated the seal in his hands and threw it in the air......
 
-流沙术，
-滚石落，
-荆棘术，
-等一共五个低阶法术同时启用，
-然而仅仅是让妖虎的身形缓了一缓，
-然后就又接着扑了过来。
+Quicksand technique, Rockfall technique, Briers technique, etc. A total of five low-grade techniques activated and yet it only managed to stall the demon tiger slightly. It then continued pouncing towards him.
 
-林轩的脸色越发凝重，
-看来是时候得动用灵器了！
+Lin Xuan's expression turned even more serious. Looks like it's time to use the spirit tool!
 
-他在怀中一摸，
-手拿出来时掌中已多了一条尺许长的绳索，
-林轩口中念念有词，
-在神念的驱使下，
-那绳子突然“活”了过来，
-迎风就涨，
-转瞬已有数丈之长，
-如毒蛇般，
-昂首而立。
+He reached into his bosom and took out a perhaps one-foot long rope. Lin Xuan mumbled some words and under the spur of those magical incantations, it suddenly became alive, lengthened many meters and reared up, much like a poisonous snake.
 
-“缚！”
+"Bind!"
 
-随着咒语，
-那绳索飞了起来，
-发出蒙蒙白光，
-如一条有灵性的巨蟒，
-转瞬已经迎上了铁甲爆炎虎，
-将它紧紧缠住。
+Following the incantation, the rope flew out while emitting a misty white light. I looked like an enormous python flying to meet the armoured fierce flame tiger and tightly wrapped around it.
 
-虽然是没有实体的魂魄，
-但灵器更加神奇，
-同样可以将它缚住。
+Although it was a soul and did not have a corporeal body, but the spirit tool was even more magical and nonetheless still bound it.
 
-“灵器！”
+"Spirit tool!"
 
-燕天衡忍不住惊呼了起来，
-满脸意外，
-也难怪，
-灵器可是非常稀有的宝贝，
-虽然理论上第四层功法的低阶修真者就可以使用，
-但其实就算是某些筑基期高手，
-也不一定有。
+Yan Tian Heng could not hold it in and yelled out with a face full of surprise. But who could blame him? Spirit tools were very rare precious treasures. Although theoretically, a low-levelled fourth layer cultivator could utilize them, but in reality, even some Foundation Building experts did not have them.
 
-原本林轩有那么多符箓，
-就已经让他感觉不可思议了，
-没想到居然连灵器也有，
-这个发现让燕天衡心中忐忑。
+Originally, it was already hard for him to imagine that Lin Xuan had so many seals, but he would never have thought that Lin Xuan would even have a spirit tool. The discovery caused him to feel apprehensive in his heart.
 
-中品丹，
-数之不尽的符箓，
-灵器这三者结合在一起，
-别说散修，
-就是门派的精英弟子，
-不……应该是筑基期高手也不一定有。
+Mid-grade pill, countless seals, and spirit tools together, not to mention rogue cultivators, even elite disciples of sects, no...... even Foundation Building expects might not have these.
 
-这小子究竟是什么身份？
+Just what is this brats identity?
 
-如此丰厚的身家，
-他背后的师长，
-肯定是了不起的大人物，
-该不会是凝丹期的高手吧！
+With this kind of wealth, his master must be a big-shot. It couldn't be a Core Formation expert right!?
 
-燕天衡越想心中越是害怕。
+The more he thought about it, the more fearful Yan Tian Heng became.
 
-但他好歹也是一家之主，
-并没有因此就乱了方寸，
-想要除掉林轩的决心反而更强了，
-这小子如果逃回去，
-他背后的师长找来，
-自己肯定死无葬身之地之地，
-无论如何，
-要将他击杀在这里。
+But he was still the patriarch of a family so he did not let this mess up his strategies and instead his conviction of killing Lin Xuan became even stronger. If this brat got away and his master came out, he would definitely die a very horrible death. He must kill him here and now no matter what.
 
-不能说燕天衡多疑，
-实在是林轩拿出来的宝贝太震撼了一些，
-让人容易胡思乱想，
-自己吓自己。
+It can't be said that Yan Tian Heng was too suspicious. If fact, the treasures that Lin Xuan took out were too shocking. It was easy for someone to let their imaginations run wild with speculations and end up scaring themselves.
 
-虽然心中想要杀了林轩，
-但这其实非常的为难，
-对方功力与自己相比，
-差了三层，
-可灵器却难缠无比。
+Although he wanted to kill Lin Xuan but it was very difficult to actually kill him. His cultivation was a while three layers lower but spirit tools were simply too hard to deal with.
 
-林轩心中也十分懊恼，
-自己的法力还是太弱，
-仅仅能操纵中品灵器，
-否则别说从张羽那儿得到的极品灵器碧雪环，
-便是用周燕的那柄上品灵器飞剑，
-击杀对方也不是什么难事。
+Lin Xuan was very upset, his cultivation was still too low and could only control a mid-grade spirit tool. Otherwise, not to mention the Jade Snow ring that he acquired from Zhang Yu, even the high-grade flying sword of Zhou Yan could be used to easily kill his opponent.
 
-两人都欲置对方于死地，
-一个拼命的催动妖虎想要挣脱束缚，
-另一个则努力操控着灵器将妖兽的魂魄缠住，
-又变成了僵持的结局。
+They both wanted to kill the other. One did his utmost to urge his demon tiger to throw off its bindings; the other strived to control his spirit tool to continue to wrap around that beast soul. Once again, they came to a deadlock.
 
-随着时间的流逝，
-林轩似乎开始着急，
-抓耳挠腮，
-如热锅上的蚂蚁，
-燕天衡暗暗冷笑，
-对方果然年轻，
-沉不住气，
-看来这一次决斗，
-自己会是最后的胜利者。
+As time passed, Lin Xuan seemed like he was getting more anxious. He was tweaking his ears and scratching his cheek, like a cat on a hot tin roof. Yan Tian Heng coldly smiled. His opponent was young and sure enough, was unable to remain calm. Looks like he would be the winner of this duel.
 
-又过了两分钟，
-林轩又将手深入了怀里，
-燕天衡脸色一变，
-对方还有符，
-在催动妖虎魂魄的时候，
-再同时使用中阶法术，
-不是办不到，
-但那样法力的消耗就太快了，
-如果对方的符箓还很多……
+Another two minutes passed and Lin Xuan once again reached into his bosom causing Yan Tian Heng's expression to change. His opponent still had seals. It was not impossible to use mid-rank techniques while controlling the demon tiger soul, but that kind of usage would consume his spiritual power too fast. If he still had many seals......
 
-然而下一刻，
-他的脸上却露出了狰狞的笑容，
-因为林轩手从怀里拿出来时，
-空空的，
-并且显得有些惊慌失措。
+But in the next moment, his face changed once again into a sinister smile because when Lin Xuan withdrew his hand, it was empty now he looked as if he was losing his head out of fear.
 
-天助我也，
-这小子的符用完了！
+Even heaven is helping me. this brat has run out of seals!
 
 - - -
 - - -
+
+
