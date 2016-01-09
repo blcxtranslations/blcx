@@ -3,10 +3,10 @@ layout: page
 number: "0047"
 name: "Forty-Seven"
 title: "Bestial Soul Seal"
-date: "Jan 08, 2016"
+date: "2016-01-08 23:09:57.088228"
 characters: 2097
 chinese: "http://baishuku.com/html/30/30364/12441371.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/404scj/cn_tempered_immortal_chapter_0047/"
 sponsored: false
 completed: true
 ---
@@ -99,5 +99,6 @@ Even heaven is helping me. this brat has run out of seals!
 
 - - -
 - - -
+
 
 
