@@ -2,10 +2,10 @@
 layout: page
 number: "0049"
 name: "Forty-Nine"
-title: "Soaring Cloud Technique"
+title: "Safe Return"
 date: "Jan 12, 2016"
 characters: 2048
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441374.html"
 reddit: ""
 sponsored: false
 completed: false

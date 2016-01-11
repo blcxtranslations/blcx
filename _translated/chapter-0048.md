@@ -8,7 +8,7 @@ characters: 2122
 chinese: "http://baishuku.com/html/30/30364/12441372.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/40e6dc/cn_tempered_immortal_chapter_0048/"
 sponsored: false
-completed: false
+completed: true
 ---
 
 This brat was so troublesome to deal with not because of him having high cultivation but was because he had too many treasures, especially seals. Although most of them were low-grade seals, they were still causing him a great headache.
@@ -73,7 +73,7 @@ Over the added defense of Yan Tian Heng's spiritual shield, it let out a bright 
 
 Lin Xuan did not say anything and expressionlessly threw out a hail technique, sending this good for nothing son to the netherworld.
 
-It wasn't that Lin Xuan was cruel and merciless, but if you pull weeds up by the roots and were benevolent to your enemies, once the spring wind comes and the weed sprouts again, then it was simply being ruthless to yourself. What's more, he had also seen Lin Xuan's real appearance. How could he continue to let this kind of person live on this earth?
+It wasn't that Lin Xuan was cruel and merciless, but if you don't pull weeds up by the roots and were benevolent to your enemies, once the spring wind comes and the weed sprouts again, then it was simply being ruthless to yourself. What's more, he had also seen Lin Xuan's real appearance. How could he continue to let this kind of person live on this earth?
 
 To be honest, Lin Xuan was not one to kill wantonly. But when it came time to take action, he was not the type to be soft-hearted.
 
@@ -87,7 +87,7 @@ Compared to other ordinary seals, the beast seals were slightly larger and emitt
 
 This was the kind of seal only a demonic path cultivator could craft. Lin Xuan held it in his hand, and after carefully examined it for quite a while, finally stored it away in his storage bracelet in his bosom.
 
-Back then, when he reached into his bosom for more seals yet pulled out nothing was also to deceive Yan Tian Heng and to let Yan Tian Heng underestimate him. In reality, he never used up all of his seals. But this battle had, in fact, used up almost a hundred of them. The seals he had acquired this time were all used up. But this beast seal could be said to be able to compensate for the loss of this battle.
+Back then, when he reached into his bosom for more seals yet pulled out nothing was also to deceive Yan Tian Heng and to let Yan Tian Heng underestimate him. In reality, he never used up all of his seals. But this battle had, in fact, used up almost a hundred of them. The seals he had acquired this time were all used up. But this beast seal could be said to be able to compensate for the losses from this battle.
 
 - - -
 - - -
