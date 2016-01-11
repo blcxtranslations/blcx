@@ -2,245 +2,93 @@
 layout: page
 number: "0048"
 name: "Forty-Eight"
-title: "Soaring Cloud Technique"
-date: "Jan 10, 2016"
+title: "Outwitting a Strong Enemy"
+date: "2016-01-10 19:35:46.841142"
 characters: 2122
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
-reddit: ""
+chinese: "http://baishuku.com/html/30/30364/12441372.html"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/40e6dc/cn_tempered_immortal_chapter_0048/"
 sponsored: false
 completed: false
 ---
 
-这小子之所以难缠，
-不是因为他功力深厚，
-而是宝贝太多，
-尤其是符箓，
-虽然大多是低阶的，
-但也着实让自己头疼。
+This brat was so troublesome to deal with not because of him having high cultivation but was because he had too many treasures, especially seals. Although most of them were low-grade seals, they were still causing him a great headache.
 
-灵器与兽符拼了个半斤八两，
-对方既然已经没有符，
-那么自己取胜就有十拿九稳的把握。
+The spirit tool and the beast soul were evenly matched, but his opponent has run out of seals. His victory is in the bag.
 
-想象着杀了这小子，
-不仅有可能得到中品丹，
-他的那件灵器也归自己，
-燕天衡忍不住想要狂笑，
-神色十分猖狂。
+Thinking of killing this brat, not only would he acquire the mid-grade pill, that spirit tool would also be his. Yan Tian Heng could almost not restrain himself from laughing wildly. He expression truly looked quite savage.
 
-林轩的表情却很难看，
-默然半响，
-突然伸出手来，
-灵力运转，
-几个冰弹向着对方呼啸而来。
+Lin Xuan had a very unsightly expression and was silent for a quite a while. Suddenly, he extended his hand, circulated his spiritual power, and shot out a few pieces of hail towards his opponent.
 
-“这种垃圾法术，
-也好意思献丑。”
+"This kind of garbage technique, are you embarrassed using it?"
 
-燕天衡冷笑一声，
-根本没有任何动作，
-冰弹不过是初阶法术，
-别说第四层功法的弟子，
-就算是筑基期的修士，
-用这种基础法术，
-也攻不破他的防御。
+Yan Tian Heng coldly laughed and did not make any moves. The hail technique was only an entry level technique. Not to mention a fourth layer cultivator, even if a Foundation Building cultivator used this kind of basic technique, it would still not be able to break through his spiritual shield.
 
-当然燕天衡也不是那种挨打不还手的人物，
-手一伸，
-热浪扑面，
-火鸟出现在了身前。
+Of course, Yan Tian Heng was also not the kind of person who would idly take a beating. He extended his hand and once again a firebird appeared causing a heatwave to bellow out.
 
-两人的法术交错而过，
-冰弹术打在灵力护盾上，
-如泥牛入海，
-一点反应都没有。
+The two techniques crisscrossed. The hail technique landed on the spiritual shield, and like a clay ox entering the sea disappeared without a trace without causing any damages.
 
-而中阶法术火鸟就不同了，
-如果是林轩本身的护盾肯定被撕破，
-但他决斗前，
-还用符箓布下了另外两层禁制，
-最外层的水灵护罩一阵摇晃，
-光芒变淡了很多，
-但并没有破。
+But the mid-rank firebird technique was different. If it was Lin Xuan's personal spiritual shield, then it would definitely be broken. But before the duel began, he had used seals to lay down two additional layers of defenses. The outermost layer, the Water Spirit shield rocked, its light dimmed greatly, but it was not broken through.
 
-同为中阶法术，
-防御性的要比攻击性的强那么一点。
+They were both mid-rank techniques, but defensive techniques were generally slightly stronger than attacking techniques.
 
-林轩脸上的表情更惊惶了，
-似乎已经方寸大乱，
-又驱动灵力，
-弄出了一个冰弹术，
-像对方进攻。
+Lin Xuan looked even more panic-stricken as if his strategies were all in disarray. He circulated his spiritual power and once more threw out the hail technique.
 
-“垂死挣扎！”
+"Death throes!"
 
-燕天衡得意的大笑，
-让自己忌惮的是符箓，
-拼法力吗，
-这小子是在找死啊，
-就如他所愿，
-燕天衡也继续用中级法术，
-攻击林轩的防御禁制。
+Yan Tian Heng laughed proudly. His fear were seals, but to compete in spiritual power, this brat was simply looking to die. Then to satisfy his wish, he will keep using mid-rank techniques and attacked Lin Xuan's shield again.
 
-就这样，
-三个回合以后，
-水灵护罩破了，
-金刚术也摇摇欲坠，
-灵器虽然和妖虎之魂斗了个旗鼓相当，
-但两人本身的实力，
-林轩却被压制得喘不过气，
-或者说已经濒临绝境。
+Just like this, after three exchanges, the Water Spirit shield broke and the Adamantine technique was on the verge of collapse. Even those the spirit tool and the demon tiger soul were evenly matched, but their personal strengths were not. Lin Xuan was already suppressed to a degree where he was panting, it could be said that he was already in dire straits.
 
-下一击，
-就能要了这小子的命！
+The next hit can take this brat's life!
 
-林轩脸上依然满是惊惶，
-然而心中却并不是这样，
-他会的法术确实不多，
-但攻击的绝不仅仅只有冰弹诀一种，
-之所以反复使用这种初级没有什么威力的法术，
-就是为了给对方造成一种错觉，
-让他产生小视之心，
-从而方便自己下面的行动。
+Lin Xuan's face was still panic-stricken but he was not at all like that in his heart. He did not know too many techniques but his attacking techniques were definitely not limited to just the hail technique. The reason he kept using this kind of technique with no power was to create misconception and cause the other to look down on him. This would allow him to take action easier afterwards.
 
-现在时机已经成熟！
+The was the best opportunity!
 
-从对方嚣张的表情，
-他已经认定自己只会这一种法术。
+From this other's arrogant expression, they had already decided that Lin Xuan only knew that one hail technique.
 
-林轩不动声色，
-经过这么久的战斗，
-虽然大部分时间都在用符，
-但法力所剩也已经不多，
-林轩将剩余的全都调集起来了。
+Lin Xuan did not change his expression. The battle had already lasted a long time. Although he had been using seals for most of the battle, but he also did not have much spiritual power left, so he summoned all of it together.
 
-空气中又产生了水属性的寒气，
-燕天衡并没有起疑，
-然而下一刻，
-他却瞪大了眼睛，
-因为林轩的面前，
-出现的并不是冰弹，
-而是密密麻麻的闪烁着寒光的尖锐小针。
+Large amounts of water type cold air were produced in the air but Yan Tian Heng was not suspicious at all. But in the next instant, his eyes became wide, because it was not hail that appeared in front of Lin Xuan but instead they were coldly twinkling and densely packed sharp needles.
 
-冰针术！
+Ice Needles technique!
 
-燕天衡脱口惊呼，
-声音中的恐惧再也掩饰不住，
-原因无他，
-冰针术虽然也是中阶法术，
-但威力却丝毫不比高阶的逊色，
-可惜十分难练，
-就是他，
-灵动期大圆满的高手也没有掌握，
-这个功法仅仅第四层的少年……
+Yan Tian Heng blurted out in surprise, unable to keep down his fear anymore. The only reason was that even though the Ice Needles technique was also a mid-rank technique, but its power was definitely not lower than that of high-rank techniques. The only problem as that it was very hard to cultivate, even he, an expert at the great perfection of the Spirit Gathering stage could not use it. Yet this youth at the low level of the fourth layer......
 
-原本他以为林轩只是符箓多，
-身家丰厚，
-现在的看来，
-似乎估计错了，
-这小子本身的实力，
-也惊人得很，
-刚才是故意示弱，
-降低自己的警惕。
+He originally thought that Lin Xuan was simply wealthy and had many seals. But now it looks like he had made an error in his judgment. This brat's power was very shocking. He was only pretending to be weak and intentionally lowering his foe's vigilance.
 
-考虑到这一点之后，
-燕天衡的脸色苍白如纸，
-如此说来，
-自己陷入了他精心设计的圈套，
-情况危急得不得了。
+After thinking of this, Yan Tian Heng's face became white as paper. It looks like he had fallen for a meticulously planned trap. The current situation had turned critical.
 
-形势逆转，
-现在换成林轩露出胸有成竹的微笑，
-甩手将上百枚冰针发射出去了，
-燕天衡咬了咬牙，
-拼命加强护盾的灵力，
-可惜已经来不及。
+The tables have turned. Now it was Lin Xuan that showed a confident smile and waved his hand, sending out these over a hundred ice needles. Yan Tian Heng clenched his teeth and tried to thicken his spiritual shield with all his might. But sadly, it was already too late.
 
-他的法力已经所剩无几，
-何况以他的实力，
-灵力护盾挡下一两个中阶法术没有问题，
-可冰针术却有着匹敌高阶的实力。
+His barely had any spiritual power left and with his strength, blocking a few mid-rank techniques was not an issue, but the Ice Needles technique was able to match high-rank techniques in power.
 
-如果有防备的话，
-他绝不会硬抗，
-躲闪才是聪明的选择，
-然而现在来不及了。
+If he was alert and guarding against attacks, he would definitely not try to block. The smart decision would be to dodge, but it was already too late.
 
-在燕天衡法力的加持下，
-护盾毫光大放，
-可冰针的威力更强，
-噗噗声响之中，
-勉强挡下了三分之二，
-但剩下的三十几枚冰针却将他扎成了筛子，
-燕天衡的眼睛依然睁着，
-满脸不甘心的表情，
-直挺挺的倒了下去。
+Over the added defense of Yan Tian Heng's spiritual shield, it let out a bright light. But the ice needles were more powerful. Popping sounds rang out. The shield was barely enough to defend against two-thirds of the ice needles, but the rest of these thirty some needles punctured Yan Tian Heng all over his body. Yan Tian Heng's eyes stayed open with a look of willingness on his face. Then he stiffly fell over.
 
-“爹！”一声呼喊传入耳朵，
-又是悲伤又是恐惧，
-林轩回过头，
-是那个叫燕鸣的小子，
-正满脸畏惧的看着自己。
+"Father!" A fearful and sorrowful cry reached his ears. Lin Xuan turned around. It was that Yan Ming fearfully looking towards him.
 
-“不……不要杀我！”
+"Don't...... Don't kill me!"
 
-林轩没有多话，
-面无表情的丢出一个冰弹术，
-将这个纨绔子弟送去了阴曹地府。
+Lin Xuan did not say anything and expressionlessly threw out a hail technique, sending this good for nothing son to the netherworld.
 
-不是林轩心狠手辣，
-而是斩草不除根，
-春风吹又生，
-对敌人仁慈，
-就是对自己残忍，
-何况他已经看见了自己的真面目，
-这样的人，
-怎么能容忍他活在世上。
+It wasn't that Lin Xuan was cruel and merciless, but if you pull weeds up by the roots and were benevolent to your enemies, once the spring wind comes and the weed sprouts again, then it was simply being ruthless to yourself. What's more, he had also seen Lin Xuan's real appearance. How could he continue to let this kind of person live on this earth?
 
-平心而论，
-林轩不是嗜杀之人，
-但该动手时，
-绝不会妇人之仁。
+To be honest, Lin Xuan was not one to kill wantonly. But when it came time to take action, he was not the type to be soft-hearted.
 
-解决掉燕家两父子之后，
-林轩当然要收刮战利品了，
-这没什么好客气的，
-首先他扬了扬手，
-浑金索飞回了掌中。
+After taking care of the Yan father and son, Lin Xuan would, of course, collect his spoils of war. There was no need to be polite or modest here. He first waved his hand retrieving his golden rope.
 
-燕天衡死后，
-妖虎的魂魄失去了支撑，
-重新回到了符纸中，
-这也是唯一一种可以反复使用，
-直至能量耗尽的符箓。
+After Yan Tian Heng's death, the soul of the demon tiger lost its support and returned to the seal. This was also the only kind of seal that could be reused over and over again until all of its energy has run out.
 
-林轩弯下腰，
-将兽符拣了起来。
+Lin Xuan bent down and retrieved the beast seal.
 
-与普通的符相比，
-这兽符要显得稍大一些，
-散发着淡淡的灵力波动，
-上面绘着一只铁甲爆炎虎，
-栩栩如生，
-尤其是那眼睛，
-更显得灵动有神。
+Compared to other ordinary seals, the beast seals were slightly larger and emitted faint spiritual power fluctuations. The Armoured Fierce Flame tiger was painted upon it. It seemed very vivid and lifelike, especially its eyes, where were giving off an impression of liveliness and alertness.
 
-这就是鬼道修士才能炼制的特殊符箓啊，
-林轩拿在手里，
-仔细把玩了半响，
-才将它收入到了怀中的储物手镯。
+This was the kind of seal only a demonic path cultivator could craft. Lin Xuan held it in his hand, and after carefully examined it for quite a while, finally stored it away in his storage bracelet in his bosom.
 
-当时，
-林轩从怀中取符，
-却两手空空的出来，
-也是为了欺骗燕天衡，
-让他轻敌上当，
-自己的符并没有用完，
-但这一战，
-也消耗了近百张，
-此次买的低阶符全部用完，
-不过有了这张兽符，
-基本上可以补回损失了。
+Back then, when he reached into his bosom for more seals yet pulled out nothing was also to deceive Yan Tian Heng and to let Yan Tian Heng underestimate him. In reality, he never used up all of his seals. But this battle had, in fact, used up almost a hundred of them. The seals he had acquired this time were all used up. But this beast seal could be said to be able to compensate for the loss of this battle.
 
 - - -
 - - -
+
