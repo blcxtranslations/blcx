@@ -61,7 +61,7 @@ If they discovered the star ocean in his dantian......
 
 Lin Xuan would not put his head on the block like this.
 
-Back then, when he took great pains to become a steward of DanXia mountain, the main purpose was, of course, for the waste pills. But that was not all, his other goal was to quietly go into hiding, to avoid notice.
+Back then, when he took great pains to become a steward of Danxia mountain, the main purpose was, of course, for the waste pills. But that was not all, his other goal was to quietly go into hiding, to avoid notice.
 
 Because usually, no one came to the waste pills storage room, those who willingly apply to become the steward were usually low levelled cultivators with no hope of making breakthroughs. Hiding among them, not only did he avoid notice, but he could also safely practice his cultivation.
 

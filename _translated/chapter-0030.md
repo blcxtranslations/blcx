@@ -49,7 +49,7 @@ These days, Lin Xuan was thinking a lot. He considered a variety of different me
 
 Fantasizing will not solve the problem, and stuffily sitting there would cause a headache. It's better to go for a walk and play it by ear, maybe there would be a turnaround in the situation.
 
-After leaving DanXia mountain, his temperament changed yet again. He now seemed normal and ordinary. He first took a walk around the sect, and having no spoils, he headed to the library.
+After leaving Danxia mountain, his temperament changed yet again. He now seemed normal and ordinary. He first took a walk around the sect, and having no spoils, he headed to the library.
 
 As a low levelled Spirit Gathering disciple, he could only freely use the first floor. Despite knowing that there were no techniques and that there were only knowledge that would be valuable to ordinary people, which cultivators held no interest in, Lin Xuan still held some minuscule hope, and carefully looked through the first floor again.
 
