@@ -19,21 +19,19 @@ The reason Lin Xuan purified so many pills at once was because he was planning t
 
 Setting his goal, he strived to accomplished it. At present, all the preparations have been completed.
 
-而在林轩提纯丹药的这段时间，赵国兖州的修真界，却有些山雨欲来的感觉，动荡不安，各修真家族摩擦不断，几大门派虽然没有动手，保持着克制，但口水仗也打了不少，散修们人人自危。
-Yet in the short amount of time that Lin Xuan spent purifying pills,
+Yet in the short amount of time that Lin Xuan spent purifying pills, there as a feeling of an impending storm in the cultivation world of the Yan prefecture of Zhao country. There was civil unrest, the cultivator clans were in continuous conflict, and even though the sects had not taken any actions, they were also having lots of verbal arguments. The rogue cultivators were all very fearful for their lives.
 
-导火索是凌云门解散，原本凌云门得罪了凝丹期的大高手，被迫解散，其他门派嘴上不说，心中却幸灾乐祸，原因无他，好处多多啊，首先，可以瓜分掉凌云门的地盘。
-The fuse was the disbanding of the Soaring Cloud sect. The Soaring Cloud sect had offended a Core Formation expert and were forced to disband. The other sects didn't say anything, but they were delighted by seeing o
+The fuse was the disbanding of the Soaring Cloud sect. The Soaring Cloud sect had offended a Core Formation expert and were forced to disband. The other sects didn't say anything, but they took joy in other's misfortunes. There were also many benefits to the Soaring Cloud sect being disbanded. Firstly, the various sects would be able to divide the territory of the Soaring Cloud sect.
 
-其次，从交易会上，得到了不少宝物，凌云门虽小，但千年的积累，身家还是很令人眼馋。
+Secondly, at the trades fair, they were able to acquire quite a lot of treasures. Although the Soaring Cloud sect was small, but it still had over a thousand years of heritage. The wealth they had accumulated was not small.
 
-原本是皆大欢喜之事，可哪里知道，交易会过后，却发生了一连串意外，首先是著名的修真家族汪家，派出去的弟子被袭杀，收购的功法与宝物也随之被抢。
+Originally, this was a joyous occasion, but who would have though that after the trades fair, there would be a string of accidents. First the famous cultivation clan, the Wang family, their disciples that they had sent out were attacked and killed and the treasures and cultivation technique they had purchased had been stolen.
 
-燕天衡自以为是老狐狸，可心思还是不够细腻，粗心大意了些，留下了一点蛛丝马迹，汪家大怒，他们可是方圆几千里首屈一指的修真家族，何时吃过这种亏，三位筑基期的长老找上门，要燕家杀人偿命。
+Yan Tian Heng thought that he was an old fox, but he was still not meticulous enough. He was slightly negligent and left some tiny hints. The Wang family could be considered the number of cultivator clan in the thousands of kilometres of the surrounding area. When have they ever suffered this kind of misfortune? They were very angry and three Foundation Building elders even went to the Yan family demanding that they pay with their lives.
 
-事情到此似乎也没有什么悬念，汪家强，燕家弱，何况燕天衡杀人抢宝，修真界虽然以力服人，但各家族间多少还是要留一些情面，燕天衡此事做得太过，连转圜的余地都没有。
+There wasn't really anything out of the ordinary about this. The Wang family was strong, the Yan family was weak, and besides, Yan Tian Heng killed and plundered their people and treasures. Although the cultivation world was ruled by might, but the various clans would still give each other some face. However, Yan Tian Heng's actions were overly excessive so there was no room for redemption.
 
-汪家的三位长老本意是要燕天衡抵命，哪知道去了以后，才发现燕家家主与他的儿子居然不知所踪，家里只有一些老幼妇孺和低阶修真者。
+The Wang family elders originally wanted Yan Tian Heng to pay with his life, but when they got there, they found that the Yan patriarch and his son had disappeared without a trace. There were only elders, children, women, infants, and some low-level cultivators there.
 
 林轩做事情才是真正的滴水不漏，没有人知道燕家父子已经长眠在那不知名的树林中，汪家长老还以为对方东窗事发，弃家逃跑了。
 

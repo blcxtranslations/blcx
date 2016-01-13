@@ -49,31 +49,31 @@ It was currently noon, and Zhao Ming and the rest of the children were relaxing 
 
 "Please be at ease immortal, everything has been well."
 
-Zhao Ming respectfully answered. As to Lin Xuan disappearing for half a month, he did not ask about at all. Opening your mouth too much will cause worried; sticking your head out will bring calamities. He was not qualified to ask about the lord immortals movements and whereabouts.
+Zhao Ming respectfully answered. As to Lin Xuan disappearing for half a month, he did not ask about at all. Opening your mouth too much will cause worried; sticking your head out will bring calamities. He was not qualified to ask about the lord immortal's movements and whereabouts.
 
 Lin Xuan was very satisfied with the cleverness of the children. Nodding his head, he said: "Okay, you guys carry on." He then immediately headed into his house.
 
-The restrictions outside of his house were intact. It looks like in the time he was away, not one had come close to the house. Thanks to the fact that the waste pill storage was out of the way, generally on one would come disturb it. Lin Xuan was very pleased with himself in regards to choosing to stay here. This was killing two birds with one stone, he had access to ample amounts of medicinal pills and also had a calm and quiet place to cultivate.
+The restrictions outside of his house were intact. It looks like in the time he was away, no one had come close to the house. Thanks to the fact that the waste pill storage was out of the way, generally on one would come disturb it. Lin Xuan was very pleased with himself in regards to choosing to stay here. This was killing two birds with one stone, he had access to ample amounts of medicinal pills and also had a calm and quiet place to cultivate.
 
-Although this trip was somewhat troublesome, you could even say it was very dangerous, but there was also ample rewards. Other than the spirit stones and treasures, he now had three extra cultivation techniques, the Spiritual Control technique problem was solved, and now he even had the Soaring Cloud technique to help with his current cultivation.
+Although this trip was somewhat troublesome, you could even say it was very dangerous, but there were also ample rewards. Other than the spirit stones and treasures, he now had three extra cultivation techniques, the Spiritual Control technique problem was solved, and now he even had the Soaring Cloud technique to help with his current cultivation.
 
-Although it was a low-rank cultivation technique, but even Foundation Building experts held in high esteem. When used to cultivate in the Spirit Gathering stage, not only will it increase cultivation speed, it will also build a firmer foundation.
+Although it was a low-rank cultivation technique, but even Foundation Building experts held it in high esteem. When used to cultivate in the Spirit Gathering stage, not only will it increase cultivation speed, it will also build a firmer foundation.
 
 The path of cultivation was almost endless. Although the Spirit Gathering stage was the lowest stage, but one cannot overlook this stage. This was the stage where the foundation was laid. If the foundation is unstable, then it will hinder future progress. If the foundation is firm, then the benefits will gradually manifest.
 
 Lin Xuan did not immediately start cultivating but instead decided to rest and recover for a day. The battle with the father and son of the Yan family, although he did not suffer any injuries, was still very difficult. Even with the help of the spirit tool, Yan Tian Heng was still an expert of the great perfection of the Spirit Gathering stage.
 
-It wasn't only a contest of strength. It was also a battle of wits, of strategies of attacking the mind, of pretending to be weak, and of laying clever traps. Then with the addition of hurrying along during the night and only resting for two hours, his body had already been exhausted. To cultivate in this condition would definitely not yield good results. Therefore, Lin Xuan decided to recover first. Haste makes waste. Besides, a few days does not make a big difference.
+It wasn't only a contest of strength. It was also a battle of wits, of strategies of attacking the mind, of pretending to be weak, and of laying clever traps. Then with the addition of hurrying along during the night and only resting for two hours, his body had already been exhausted. To cultivate in this condition would definitely not yield good results. Therefore, Lin Xuan decided to recover first. Haste makes waste. Besides, it was only a few days and does not make a big difference.
 
 After taking a bath, Lin Xuan fell into a deep sleep. He slept from noon to the morning of the second day. After rising, he felt invigorated and refreshed, and his spiritual power had fully recovered. It was time to start cultivating.
 
 This trip allowed Lin Xuan to deeply understand the importance of spiritual power. For example, the battle he had, honestly speaking, other than the beast seal, Yan Tian Heng did not take out any other treasures. Yet he still used his cultivation to fight against the over one hundred seals that Lin Xuan had. If Lin Xuan did not lay a trap for him, winning this definitely would have been much more difficult.
 
-And spirit tools indeed had incomparable power. He could barely use his fourth layer cultivation to control the mid-grade golden rope. If he had enough spiritual power and could control that high-grade flying, then he would be able to speedily and easily remove Yan Tian Heng's head.
+And spirit tools indeed had incomparable power. He could barely use his fourth layer cultivation to control the mid-grade golden rope. If he had enough spiritual power and could control that high-grade flying sword, then he would be able to speedily and easily remove Yan Tian Heng's head.
 
-It doesn't matter how many treasures one had, if they did not have enough spiritual power, then they were all useless or, at least, they could not display their full power. So the priority now is to increase his cultivation. As to the Spiritual Control technique, he can take it slow and start learning it once he enters the fifth or sixth layer of Spirit Gathering.
+It doesn't matter how many treasures one had, if one did not have enough spiritual power, then they were all useless or, at least, they could not display their full power. So the priority now is to increase his cultivation. As to the Spiritual Control technique, he can take it slow and start learning it once he enters the fifth or sixth layer of Spirit Gathering.
 
-Summarizing his experiences was Lin Xuan's strong point. He had learned a lot from this trip such as the tyranny of the sect and cultivator clans or how the rogue cultivators and only be angry and didn't dare to speak out. It also helped him understand that there was no reasoning in the cultivation world. In this kind of might makes right world, fists were the reason, the principle, and the justification. If you don't want to be bullied, then you have to strive to increase your strength.
+Summarizing his experiences was Lin Xuan's strong point. He had learned a lot from this trip such as the tyranny of the sect and cultivator clans or how the rogue cultivators can only be angry and didn't dare to speak out. It also helped him understand that there was no reasoning in the cultivation world. In this kind of might makes right world, fists were the reason, the principle, and the justification. If you don't want to be bullied, then you have to strive to increase your strength.
 
 - - -
 - - -
