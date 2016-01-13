@@ -69,7 +69,7 @@ After taking a bath, Lin Xuan fell into a deep sleep. He slept from noon to the 
 
 This trip allowed Lin Xuan to deeply understand the importance of spiritual power. For example, the battle he had, honestly speaking, other than the beast seal, Yan Tian Heng did not take out any other treasures. Yet he still used his cultivation to fight against the over one hundred seals that Lin Xuan had. If Lin Xuan did not lay a trap for him, winning this definitely would have been much more difficult.
 
-And spirit tools indeed and incomparable power. He could barely use his fourth layer cultivation to control the mid-grade golden rope. If he had enough spiritual power and could control that high-grade flying, then he would be able to speedily and easily remove Yan Tian Heng's head.
+And spirit tools indeed had incomparable power. He could barely use his fourth layer cultivation to control the mid-grade golden rope. If he had enough spiritual power and could control that high-grade flying, then he would be able to speedily and easily remove Yan Tian Heng's head.
 
 It doesn't matter how many treasures one had, if they did not have enough spiritual power, then they were all useless or, at least, they could not display their full power. So the priority now is to increase his cultivation. As to the Spiritual Control technique, he can take it slow and start learning it once he enters the fifth or sixth layer of Spirit Gathering.
 
