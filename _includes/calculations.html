@@ -57,7 +57,7 @@
 
 <script type="text/javascript">
   var temperedimmortal = new OtherWebNovel("Tempered Immortal", 9802189, 4220, calcdonations(9802189, 4220, average))
-  var queue = Math.round(currentdonations / temperedimmortal.donations);
+  var queue = Math.floor(currentdonations / temperedimmortal.donations);
   if(queue < 0)
   {
     queue = 0;

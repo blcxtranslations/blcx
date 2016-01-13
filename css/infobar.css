@@ -83,10 +83,10 @@ form {
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
   background: #3498db;
   border: 0;
-  border-bottom: 2px solid #2a8bcc;
+  border-bottom: 2px solid #258cd1;
   cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #2a8bcc;
-  box-shadow: inset 0 -2px #2a8bcc;
+  -webkit-box-shadow: inset 0 -2px #258cd1;
+  box-shadow: inset 0 -2px #258cd1;
 }
 .peter-river-flat-button:active {
   top: 1px;

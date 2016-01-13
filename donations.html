@@ -12,7 +12,13 @@ permalink: /donations.html
 <input value="" class="amethyst-flat-button" id="totaldonations" disabled>
 
 <!-- Current Donations -->
-<input value="" class="alizarin-flat-button" id="currentdonations" disabled>
+<div id="background-container">
+  <div id="donations-text"></div>
+  <div id="donations-background" class="background-1"></div>
+  <div id="donations-progress" class="progress-1"></div>
+</div>
+
+<!-- <input value="" class="alizarin-flat-button" id="currentdonations" disabled> -->
 
 <!-- Donate Button -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -139,35 +145,38 @@ permalink: /donations.html
 <!--  -->
 
 
-<!-- Set Donations -->
-<script type="text/javascript">
-  document.getElementById('totaldonations').value = "Total Donations: " + curfy(totaldonations);
-  document.getElementById('currentdonations').value = "Current Donations: " + curfy(currentdonations) + " ~ " + queue + " Chapters";
-</script>
-<!--  -->
-
-
 <!-- Change the colour of the donations indicator -->
 <script type="text/javascript">
   var percent = currentdonations / temperedimmortal.donations;
   var classname = ""
 
-  if(percent < 0.33)
+  if(percent < 1)
   {
-    classname = "alizarin-flat-button"
-  }
-  else if(percent < 0.66)
-  {
-    classname = "orange-flat-button"
-  }
-  else if(percent < 1.00)
-  {
-    classname = "turquoise-flat-button"
+    classname = "0"
   }
   else
   {
-    classname = "emerald-flat-button"
+    classname = "1"
   }
-  document.getElementById("currentdonations").className = classname;
+
+  document.getElementById("donations-background").className = "background-" + classname;
+
+  var prog = document.getElementById("donations-progress")
+  prog.className = "progress-" + classname;
+  prog.style.width = (percent - Math.floor(percent)) * 100 + "%";
+
+  document.getElementById('totaldonations').value = "Total: " + curfy(totaldonations);
+
+  if(queue == 1)
+  {
+    document.getElementById('donations-text').innerHTML = "Current: " + curfy(currentdonations) + " ~ " + queue + " Chapter";
+  }
+  else
+  {
+    document.getElementById('donations-text').innerHTML = "Current: " + curfy(currentdonations) + " ~ " + queue + " Chapters";
+  }
+
+  document.getElementById('donations-text').style.marginLeft = - document.getElementById("donations-progress").style.width;
+
 </script>
 <!--  -->

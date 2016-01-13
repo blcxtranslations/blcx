@@ -1,81 +1,58 @@
-/* #Orange Flat Button
-==================================================*/
-.orange-flat-button {
+/*one fill: #2ecc71*/
+/*multiple: #69dd9a*/
+
+#background-container {
   position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
   padding: 0;
   font-size: 22px;
   color: white;
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #f39c12;
   border: 0;
-  border-bottom: 2px solid #e8930c;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #2a8bcc;
-  box-shadow: inset 0 -2px #2a8bcc;
+  margin-bottom: 1rem;
+}
+#donations-background {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 60px;
+  margin-top: -60px;
+}
+#donations-progress {
+  position: absolute;
+  z-index: 2;
+  width: 50%;
+  height: 60px;
+  margin-top: -60px;
+}
+#donations-text {
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  height: 60px;
+
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 60px;
 }
 
-/* #Alizarin Flat Button
-==================================================*/
-.alizarin-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #e74c3c;
-  border: 0;
-  border-bottom: 2px solid #db4334;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #db4334;
-  box-shadow: inset 0 -2px #db4334;
+.progress-0, .background-1 {
+  background-color: #69dd9a;
+  border-bottom: 2px solid #54d88c;
+  -webkit-box-shadow: inset 0 -2px #54d88c;
+  box-shadow: inset 0 -2px #54d88c;
 }
-
-/* #Turquoise Flat Button
-==================================================*/
-.turquoise-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #1abc9c;
-  border: 0;
-  border-bottom: 2px solid #12ab8d;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #12ab8d;
-  box-shadow: inset 0 -2px #12ab8d;
+.progress-1 {
+  background-color: #2ecc71;
+  border-bottom: 2px solid #29b765;
+  -webkit-box-shadow: inset 0 -2px #29b765;
+  box-shadow: inset 0 -2px #29b765;
 }
-
-/* #Emerald Flat Button
-==================================================*/
-.emerald-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #2ecc71;
-  border: 0;
-  border-bottom: 2px solid #28be68;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #28be68;
-  box-shadow: inset 0 -2px #28be68;
+.background-0 {
+  background-color: #7b7f7d;
+  border-bottom: 2px solid #6e7270;
+  -webkit-box-shadow: inset 0 -2px #6e7270;
+  box-shadow: inset 0 -2px #6e7270;
 }
 
 /* #Peter River Flat Button
@@ -92,10 +69,10 @@
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
   background: #3498db;
   border: 0;
-  border-bottom: 2px solid #2a8bcc;
+  border-bottom: 2px solid #258cd1;
   cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #2a8bcc;
-  box-shadow: inset 0 -2px #2a8bcc;
+  -webkit-box-shadow: inset 0 -2px #258cd1;
+  box-shadow: inset 0 -2px #258cd1;
 }
 .peter-river-flat-button:active {
   top: 1px;
@@ -118,8 +95,7 @@
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
   background: #9b59b6;
   border: 0;
-  border-bottom: 2px solid #8d4ca7;
-  /*cursor: pointer;*/
-  -webkit-box-shadow: inset 0 -2px #8d4ca7;
-  box-shadow: inset 0 -2px #8d4ca7;
+  border-bottom: 2px solid #8f4bab;
+  -webkit-box-shadow: inset 0 -2px #8f4bab;
+  box-shadow: inset 0 -2px #8f4bab;
 }
