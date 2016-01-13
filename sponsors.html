@@ -4,6 +4,7 @@ title: "Sponsors"
 permalink: /sponsors.html
 ---
 
+{% include adsense_top.html %}
 
 {% if site.data.sponsors | size > 0 %}
 
@@ -42,6 +43,13 @@ permalink: /sponsors.html
   </tr>
 {% endfor %}
 </table>
+<!--  -->
+
+{% endif %}
+
+{% include adsense_bottom.html %}
+
+{% if site.data.sponsors | size > 0 %}
 
 <!-- List of all Sponsors -->
 {% assign sponsors = site.data.sponsors | sort: 'amount' %}
