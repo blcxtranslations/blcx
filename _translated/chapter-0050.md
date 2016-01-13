@@ -33,11 +33,11 @@ There wasn't really anything out of the ordinary about this. The Wang family was
 
 The Wang family elders originally wanted Yan Tian Heng to pay with his life, but when they got there, they found that the Yan patriarch and his son had disappeared without a trace. There were only elders, children, women, infants, and some low-level cultivators there.
 
-林轩做事情才是真正的滴水不漏，没有人知道燕家父子已经长眠在那不知名的树林中，汪家长老还以为对方东窗事发，弃家逃跑了。
+Lin Xuan's actions were truly airtight. No one knew that the father and son of the Yan family were already sleeping in that nameless forest. The Wang family elders had thought that once the father and son knew that they were exposed, they had forsaken their family and had fled.
 
-愤怒得不得了，其中一火爆脾气的长老当场就要灭燕家满门，却被另外两人劝住，当然，他们也不是好心，或者下不了手，而是不愿在事情没有明了前，惹起更大的风波。
+One of the elders had a fiery temper and could not control his anger after that. He wanted to kill every single person of the Yan family right there, but in the end the other two elders were able to talk him down. Of course, they were not doing this to because they were kind hearted nor did they refrain from killing because they could not bear to take action. They stopped him because they did not want to cause such a disturbance before clearly understanding the situation.
 
-燕家虽然仅仅是中等规模的修真家族，但却与火灵门渊源深厚，其实不止是燕家，他们汪家同样与飘云谷交好。
+Although the Yan family was only a mid-level cultivator clan, they had a deep relationship with the Flame Spirit sect, just like how their Wang family had a good relationship with the Floating Cloud Valley.
 
 要知道在修真界，门派才是最大的势力，各修真家族，除非真有不得了的高手，要不然都会选择依附一个门派。
 
