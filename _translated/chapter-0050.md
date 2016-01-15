@@ -3,10 +3,10 @@ layout: page
 number: "0050"
 name: "Fifty"
 title: "The Approaching Storm"
-date: "Jan 14, 2016"
+date: "2016-01-14 19:47:33.556094"
 characters: 2079
 chinese: "http://baishuku.com/html/30/30364/12441376.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/410m4v/cn_tempered_immortal_chapter_0050/"
 sponsored: false
 completed: true
 ---
@@ -73,3 +73,4 @@ In short, the noisier it was, the bigger the situation became.
 
 - - -
 - - -
+
