@@ -13,13 +13,13 @@ completed: true
 
 Thus, in the next period of time, Lin Xuan concentrated on purifying pills and purified over one hundred low-grade and two mid-grade pills.
 
-In particular, the purification of the low-grade pills were very successful, but the speed of the mid-grade pills were slower. He had also reached a bottleneck in the circulation of the star ocean. If he wanted to break through, he would need to raise his cultivation but one layer because the capabilities of the star ocean was directly related to the level of cultivation.
+In particular, the purification of the low-grade pills was very successful, but the speed of the mid-grade pills was slower. He had also reached a bottleneck in the circulation of the star ocean. If he wanted to break through, he would need to raise his cultivation but one layer because the capabilities of the star ocean were directly related to the level of cultivation.
 
 The reason Lin Xuan purified so many pills at once was because he was planning to do some closed door cultivation for a little while. This time, he would stop at nothing to enter into the latter layers of the Spirit Gathering stage, and achieve the fifth layer.
 
 Setting his goal, he strived to accomplish it. At present, all the preparations have been completed.
 
-Yet in the short amount of time that Lin Xuan spent purifying pills, there as a feeling of an impending storm in the cultivation world of the Yan prefecture of Zhao country. There was civil unrest, the cultivator clans were in continuous conflict, and even though the sects had not taken any actions, they were also having lots of verbal arguments. The rogue cultivators were all very fearful for their lives.
+Yet in the short amount of time that Lin Xuan spent purifying pills, there was a feeling of an impending storm in the cultivation world of the Yan prefecture of Zhao country. There was civil unrest, the cultivator clans were in continuous conflict, and even though the sects had not taken any actions, they were also having lots of verbal arguments. The rogue cultivators were all very fearful for their lives.
 
 The fuse was the disbanding of the Soaring Cloud sect. The Soaring Cloud sect had offended a Core Formation expert and were forced to disband. The other sects didn't say anything, but they took joy in other's misfortunes. There were also many benefits to the Soaring Cloud sect being disbanded. Firstly, the various sects would be able to divide the territory of the Soaring Cloud sect.
 
@@ -27,7 +27,7 @@ Secondly, at the trades fair, they were able to acquire quite a lot of treasures
 
 Originally, this was a joyous occasion, but who would have thought that after the trades fair, there would be a string of accidents. First the famous cultivation clan, the Wang family, their disciples that they had sent out were attacked and killed and the treasures and cultivation technique they had purchased had been stolen.
 
-Yan Tian Heng thought that he was an old fox, but he was still not meticulous enough. He was slightly negligent and left some tiny hints. The Wang family could be considered the number of cultivator clan in the thousands of kilometres of the surrounding area. When have they ever suffered this kind of misfortune? They were very angry and three Foundation Building elders even went to the Yan family demanding that they pay with their lives.
+Yan Tian Heng thought that he was an old fox, but he was still not meticulous enough. He was slightly negligent and left some tiny hints. The Wang family could be considered the number one cultivator clan in the thousands of kilometres of the surrounding area. When have they ever suffered this kind of misfortune? They were very angry and three Foundation Building elders even went to the Yan family demanding that they pay with their lives.
 
 There wasn't really anything out of the ordinary about this. The Wang family was strong, the Yan family was weak, and besides, Yan Tian Heng killed and plundered their people and treasures. Although the cultivation world was ruled by might, but the various clans would still give each other some face. However, Yan Tian Heng's actions were overly excessive so there was no room for redemption.
 
