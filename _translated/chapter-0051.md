@@ -3,10 +3,10 @@ layout: page
 number: "0051"
 name: "Fifty-One"
 title: "Latter Stage of Spirit Gathering"
-date: "Jan 16, 2016"
+date: "2016-01-17 20:14:24.331851"
 characters: 2082
 chinese: "http://baishuku.com/html/30/30364/12441377.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/41gj50/cn_tempered_immortal_chapter_0051/"
 sponsored: false
 completed: true
 ---
@@ -89,3 +89,4 @@ Another two hours passed. Lin Xuan suddenly swayed and fell back onto the hardwo
 
 - - -
 - - -
+
