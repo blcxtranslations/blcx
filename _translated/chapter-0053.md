@@ -3,93 +3,93 @@ layout: page
 number: "0053"
 name: "Fifty-Three"
 title: "Purifying Herbs"
-date: "Jan 22, 2016"
+date: "Jan 20, 2016"
 characters: 2157
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
+chinese: "http://baishuku.com/html/30/30364/12441381.html"
 reddit: ""
 sponsored: false
-completed: false
+completed: true
 ---
 
-将红绫草握在手中，林轩放出神识，因为是第一次提纯药材，所以他显得小心翼翼。
+Lin Xuan held the Red Silk grass in his hands and focused his spiritual sense on it. this was his first time attempting to purify medicinal herbs, so he was extra careful.
 
-这是一种新的尝试！
+This was a new kind of experiment!
 
-进入灵动后期以后，林轩的神识又进一步增强，对于蓝色光点的运用，更是非常纯熟，到目前为止，他已经提纯过几千枚丹药了。
+After entering the latter layers of the Spirit Gathering stage, Lin Xuan's spiritual sense had strengthened further. His use of the blue stars had also become more skillful. Up to now, he had already purified thousands of pills.
 
-但成品丹药肯定与新鲜的药材不同，林轩只能重新慢慢摸索。
+But completed pills and fresh herbs were definitely different and Lin Xuan could only slowly feel it out.
 
-将蓝色光点聚集起来，顺着经脉缓缓流转，从右手的手掌溢出体表，进入到空气中。
+He gathered the blue stars and slowly circulated them along his meridians until they finally emerged from his palm.
 
-以前，林轩刚开始提纯丹药的时候，当蓝光出了体表，就无法控制，只能顺其自然，有的随风飘散，只有一小部分进入丹药里面，进行提纯，显然这是一种很大的浪费。
+Before, when Lin Xuan had just started purifying pills when the blue stars exited his body, he could not control them at all and could only allow them to drift about. Some would disperse into the air and only a small portion would enter into the pill. Therefore, a large portion of it was completely wasted.
 
-但没办法，那时候林轩的实力弱啊，想要隔空操纵无质无形的光点，太勉为其难，然而现在，他已进入了灵动后期，神识大为增强，虽然还没有学习灵控术，但驱物术已经修炼到了顶点。
+But he couldn't do anything about it. Back then, Lin Xuan did not have enough power. It was too difficult for him to control the shapeless stars through the air. But now, he had entered into the latter layers of the Spirit Gathering stage and his spiritual sense has increased greatly. Although he had not yet learned the Spiritual Control technique, but his telekinesis was already top-notch.
 
-借用操纵灵器的方法，将神识附着在蓝光上面，这样一来，光点虽然暴露在空气之中，依然聚而不散，随着林轩的心意变幻。
+Using the telekinesis technique, Lin Xuan attached his spiritual sense to the blue stars. Just like this, even though the stars were floating in the air, they would not disperse and would do what Lin Xuan willed.
 
-将光点缓缓的送入药材，同时林轩将神识分出一些，仔细观察红绫草内部的变化，在仙法的作用下，红绫草内部的景象被不断放大。
+He slowly carried the stars into the herb. At the same time, he split off some of his spiritual sense and carefully observed the changes that were happening on the inside of the Red Silk grass. Under the observation of the spiritual sense, the scene on the inside of the Red Silk grass continuously magnified.
 
-只见里面有青色与红色两种物体，相互交织在一起，缠绕得非常紧密，其中有一种应该就是杂质。
+He saw that there was a red and a cyan substance on the inside. There were intertwined in an inseparably close manner. One of these should be the impurity.
 
-然而接下来，林轩又遇到了新的问题，青色与红色，究竟哪一种是精华，哪一种是无用的杂质，以前在提纯丹药的时候，光点可以自己分辨，碰见精华就穿过去，碰见杂质就向前推一点，然而现在，药材似乎与成品丹药情况不同，不论是青色还是红色的东东，光点都会将他们推动。
+However, immediately after, Lin Xuan ran into another question. Of the red substance and the cyan substance, which was the essence, which was the impurity? Before when he was purifying pills, the stars would be able to automatically differentiate between them. If he met the essence, it would move through it, if it met the impurity, it would push it out. However, at the current moment, it could be seen that pills and herbs were very different. No matter if it was the red substance or the cyan substance, the stars would push them either way.
 
-看来哪一种是杂质只能自己分辨了！
+It looks like he would have to figure out when one of the two was the impurity himself!
 
-林轩犹豫了一下，就指挥光点绕过青色物体，将红色的往外推去。
+Lin Xuan hesitated for a bit, then directed the stars to avoid the cyan substance and started to push out the red substance.
 
-同时根据情况，小心的控制着蓝光的流动速度。
+Then, judging by the situation, Lin Xuan carefully controlled the stars to speed up the process.
 
-……
+......
 
-转眼，一个时辰过去了。
+In the blink of an eye, two hours had passed.
 
-林轩看着手中草药，与一滩红色的粉末，默默无语。
+Lin Xuan looked at the herb in his hand. It had produced a red power. He was silent for a while.
 
-自己的判断没有错，这红色的粉末散发着恶臭，肯定是杂质无疑，可将其提纯出来以后，草药依然没有任何变化，林轩根据书上所教的辨识方法，仔细观察它的色泽，香味，甚至还采摘下一片叶子，尝了尝药性，可品次依然没有提高，这依然是一株下品红绫草。
+He had made the correct decision. This red power was emitting a stinky odour and was definitely the impurity. But it did not look like this sprig of Red Silk grass had changed at all after he had purified it. Lin Xuan followed the method described in the book to evaluate the herb and carefully observed the colour, lustre, and fragrance. He even plucked off a leaf and tasted it for its medicinal properties. But the grade did not increase at all, it was still a sprig of low-grade Red Silk grass.
 
-怎么会这样，难道蓝色光点只能提纯丹药，对新鲜的草药没有效？
+How can this be? Could it be that the blue stars could only purify pills and had no effect on fresh medicinal herbs?
 
-林轩默然了半响，并不死心，又从篮子里面拿出一株红绫草，这一次他反其道而行之，不排除杂质，而将那青色的，代表精华的物质从草药中提纯出来，操纵光点，将青色的往外推。
+Lin Xuan was silent for a while but was not disheartened. He once again reached into the wicker basket for another sprig. This time, he did the opposite and did not eliminate the impurities. Instead, he pushed out the cyan substance, the substance the was the essence of the herb.
 
-一个时辰后。
+Two hours later.
 
-手中的红绫草已经枯萎，而林轩的手心中，出现了一滩淡青色的液体，散发着沁人心脾的香气。
+The Red Silk grass in his hand had withered. A green liquid had appeared in his had. It was emitting a very refreshing fragrance.
 
-林轩丢掉报废的红绫草，从怀中取出一个空玉瓶，将绿色液体装了进去。
+Lin Xuan discarded the withered herb. He then reached into his bosom and retrieved an empty jade bottle and stored the liquid into it.
 
-这液体就是红绫草的精华了，只不过由下品的草药提纯出来，不知道有没有上品红绫草的药效？
+The liquid was the essence of the Red Silk grass. Only, he did not know if it had the medicinal properties of the high-grade Red Silk grass since it was purified from a low-grade sprig.
 
-毕竟是第一次做草药提纯的尝试，很多东西都是未知，需要自己摸着石头过河，林轩犹豫了一下，将瓶中的绿液喝了一小口。
+After all, this was his first attempt at purifying medicinal herbs and there was still a lot of things he did not know. He would need to feel his way around and advance step by step. Lin Xuan hesitated a little and then took a small sip of that green liquid.
 
-林轩这么做并非鲁莽的行为，在藏书阁的时候他就仔细翻阅了红绫草的资料，查得很清楚，做为炼丹的重要材料，这算是一种对修炼有益的滋补药材，绿液是它的精华，喝下就算起不到自己想要的效果，对身体至少是无害的。
+This was not a reckless action by Lin Xuan. When he was at the library, he had already carefully read through the materials on the Red Silk grass. It was very clear. Because it was an important component of medicinal pills, it had a nourishing effect on cultivation. The green liquid was the essence of that ingredient. Even if it did not have the effect that Lin Xuan was looking for, it would at least not have any harmful effects.
 
-当然，为了稳妥起见，林轩只喝了一点点。
+Of course, to be safe, on only took a small sip.
 
-然后，他盘膝坐下，施展内视之法，查看身体里面的情况，顷刻间，药力就发作了开来。
+Afterwards, he sat down cross-legged and used the inner view technique to check the internal condition of his body. In an instant, the essence started taking effect.
 
-那绿液喝下以后，就化为了一种气体，进入了丹田里面，林轩心中有些紧张，丹田是存储灵力的所在，修真的根本，出不得半点差错。
+After that green liquid was ingested, it turned into a gas and entered his dantian. Lin Xuan was somewhat nervous. The dantian was the place that stored the spiritual power. It was the root of one's cultivation. There can be no mishaps.
 
-调动灵力，严阵以待，准备稍有不妥，就将那绿液化为的气体驱逐出去。
+He circulated his spiritual power, getting ready to meet it. If anything was wrong with it, he would immediately expel it from his body.
 
-好在意外并没有出现，绿液化为的气体进入丹田以后，并没有异常，仅仅是自己膨胀，形成了一个透明的圆球，然后就悬浮在半空中，一动不动。
+Fortunately, nothing unexpected happened. After the gas entered his dantian, it expanded into a transparent globe and just stayed suspended there.
 
-情况有些出乎意料，林轩将神识集中在丹田，静静的观察了一会儿，然后将灵力聚集了一点，轻轻的碰触了一下那个圆球，哪知道灵力却一下子钻进去了，被圆球裹住。
+This was an unexpected situation. Lin Xuan concentrated his spiritual sense on his dantian and quietly observed it for a while. Then he gathered is spiritual power and lightly touched the globe. Who would have guessed that the globe would suddenly suck in and wrap around his spiritual power?
 
-林轩没有慌，遇见新问题，想要处理好，就更需要冷静的思考。
+Lin Xuan did not panic. Seeing a new problem, if one wanted beneficial results, one much calmly reflect on it.
 
-他发现，灵力虽然进入了圆球里面，但与自己神识的联系，并没有因此衰减，自己可以轻松的自由控制。
+He discovered that although his spiritual power had entered into the globe, it was still connected to his spiritual sense, there was no obstruction at all. He could still easily control it.
 
-有了这个发现以后，林轩顿时安下心来，开始继续尝试。
+After discovering this, Lin Xuan immediately relaxed and continued to experiment.
 
-……
+......
 
-夜幕降临，转眼已是傍晚，林轩从地上站起来，脸上满是喜色，成功了，虽然不知道上品红绫草是如何隐藏修为，书上没有确切描述，仅仅一笔带过，但林轩敢肯定，这绿液隐藏修为的效果更好。
+In the blink of an eye, night fell. Lin Xuan got up off the ground. He had a face full of happiness. Success! Although he did not know how high-grade Red Silk grass hid one's cultivation, since the books did not describe it and only glossed over it, but Lin Xuan was sure that this green liquid was even more effective that it.
 
-过程很简单，将其喝下以后，绿液化为气体在丹田中形成一个圆球，然后自己可以将灵力注入到圆球里面。
+It was a very simple process. After drinking the liquid, it would change into a gas and enter the dantian. Then he could pour his spiritual power into that globe that was formed by the gas.
 
-圆球不会切断本人神识对灵力的控制，也就是说，灵力进出随意，丝毫不会影响自己施展法术，斗法对敌，但圆球包裹住灵力以后，却可以切断别人的探测，也就是说，这部分灵力，对方就发现不了了。
+The globe would not sever the control that the spiritual sense had on the spiritual power. In other words, his spiritual power could freely enter or exit the globe, it would not affect his ability to use techniques at all. But after wrapping around his spiritual power, it would cut off other cultivators probings. That is to say, this share of spiritual power was not discoverable by other people.
 
-众所周知，对修真者实力的判断，就是灵力的大小，既然将灵力隐藏起来，让对方无法判断，自然也就达到了隐藏实力的目标。
+As everyone knows, the power of a cultivator was based on their spiritual power. Since he was able to hide his spiritual power and cut off other's probings, he had achieved the goal of hiding his true power.
 
 - - -
 - - -
