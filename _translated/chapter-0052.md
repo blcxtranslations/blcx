@@ -3,10 +3,10 @@ layout: page
 number: "0052"
 name: "Fifty-Two"
 title: "Red Silk Grass"
-date: "Jan 18, 2016"
+date: "2016-01-18 23:09:11.404680"
 characters: 2112
 chinese: "http://baishuku.com/html/30/30364/12441379.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/41muv4/cn_tempered_immortal_chapter_0052/"
 sponsored: false
 completed: true
 ---
@@ -81,3 +81,4 @@ Only high-grade Red Silk grass can hide his cultivation. Lin Xuan decided to tes
 
 - - -
 - - -
+
