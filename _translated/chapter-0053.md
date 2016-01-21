@@ -2,16 +2,16 @@
 layout: page
 number: "0053"
 name: "Fifty-Three"
-title: "Purifying Herbs"
-date: "Jan 20, 2016"
+title: "Refining Herbs"
+date: "2016-01-20 19:54:32.743298"
 characters: 2157
 chinese: "http://baishuku.com/html/30/30364/12441381.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/41xe8w/cn_tempered_immortal_chapter_0053/"
 sponsored: false
 completed: true
 ---
 
-Lin Xuan held the Red Silk grass in his hands and focused his spiritual sense on it. this was his first time attempting to purify medicinal herbs, so he was extra careful.
+Lin Xuan held the Red Silk grass in his hands and focused his spiritual sense on it. this was his first time attempting to refine medicinal herbs, so he was extra careful.
 
 This was a new kind of experiment!
 
@@ -57,9 +57,9 @@ The Red Silk grass in his hand had withered. A green liquid had appeared in his 
 
 Lin Xuan discarded the withered herb. He then reached into his bosom and retrieved an empty jade bottle and stored the liquid into it.
 
-The liquid was the essence of the Red Silk grass. Only, he did not know if it had the medicinal properties of the high-grade Red Silk grass since it was purified from a low-grade sprig.
+The liquid was the essence of the Red Silk grass. Only, he did not know if it had the medicinal properties of the high-grade Red Silk grass since it was refined from a low-grade sprig.
 
-After all, this was his first attempt at purifying medicinal herbs and there was still a lot of things he did not know. He would need to feel his way around and advance step by step. Lin Xuan hesitated a little and then took a small sip of that green liquid.
+After all, this was his first attempt at refining medicinal herbs and there was still a lot of things he did not know. He would need to feel his way around and advance step by step. Lin Xuan hesitated a little and then took a small sip of that green liquid.
 
 This was not a reckless action by Lin Xuan. When he was at the library, he had already carefully read through the materials on the Red Silk grass. It was very clear. Because it was an important component of medicinal pills, it had a nourishing effect on cultivation. The green liquid was the essence of that ingredient. Even if it did not have the effect that Lin Xuan was looking for, it would at least not have any harmful effects.
 
@@ -93,3 +93,4 @@ As everyone knows, the power of a cultivator was based on their spiritual power.
 
 - - -
 - - -
+
