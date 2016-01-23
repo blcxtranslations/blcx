@@ -3,12 +3,12 @@ layout: page
 number: "0054"
 name: "Fifty-Four"
 title: "The Sixth Layer of Spirit Gathering"
-date: "Jan 22, 2016"
+date: "2016-01-22 22:31:43.680521"
 characters: 2197
-chinese: "http://baishuku.com/html/30/30364/12441356.html"
-reddit: ""
+chinese: "http://baishuku.com/html/30/30364/12441383.html"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/42966q/cn_tempered_immortal_chapter_0054/"
 sponsored: false
-completed: false
+completed: true
 ---
 
 Even better, because spiritual power needed to be poured into the globe, he could control how much he poured into it and as a result how much cultivation he wanted to hide. If he poured more into it, then there would be less spiritual power left in his meridians and dantian and this his cultivation would appear lower.
@@ -17,7 +17,7 @@ Lin Xuan tested it out and discovered that the most he could hide was ninety per
 
 But no matter how hard Lin Xuan tried, he could not hide all the spiritual power is his body. One cannot be too greedy, Lin Xuan was already satisfied with this kind of result.
 
-Laying on the bed, Lin Xuan started to think about the benefits that the green liquid purified from the Red Silk grass gave him. Firstly, it gave him the ability to hide his cultivation from his peers and had solved all of his worries. He no longer needed to think about the consequences of having his cultivation exposed.
+Laying on the bed, Lin Xuan started to think about the benefits that the green liquid refined from the Red Silk grass gave him. Firstly, it gave him the ability to hide his cultivation from his peers and had solved all of his worries. He no longer needed to think about the consequences of having his cultivation exposed.
 
 Secondly, it could also give him the advantage in battle. The only reason was this: it would let the opponent underestimate him. The globe would hide his cultivation but does not obstruct his ability to use techniques. The opponent would think that he is a cultivator in the first layer and might not even use a spirit shield when fighting against him. Then he would be able to take advantage of their unpreparedness and suddenly launch a sneak attack by using a powerful technique
 
@@ -27,9 +27,9 @@ Actually, it wasn't just about the Red Silk grass. This experiment had a greater
 
 It had so many benefits. It gave Lin Xuan even more confidence in his journey of cultivation!
 
-Lin Xuan rested for a while to allow the star ocean to recover, then he started to purify again. Once he had grasped the skill, purifying Red Silk grass was much easier than purifying pills.
+Lin Xuan rested for a while to allow the star ocean to recover, then he started to purify again. Once he had grasped the skill, refining Red Silk grass was much easier than purifying pills.
 
-After spending the whole night, Lin Xuan was able to purify that entire basket of Red Silk grass and filled three jade bottles with essences. Because he only needed a sip of it to form the cultivation hiding globe, these three bottles would therefore last for a long time.
+After spending the whole night, Lin Xuan was able to refine that entire basket of Red Silk grass and filled three jade bottles with essences. Because he only needed a sip of it to form the cultivation hiding globe, these three bottles would therefore last for a long time.
 
 With nothing else to worry about, Lin Xuan focused on his cultivation. He was not at all satisfied with reaching the latter layers of the Spirit Gathering stage. He was only entered into the fifth layer, now it was time to head for an even higher layer.
 
@@ -69,7 +69,7 @@ However, this breakthrough was not like last time. Last time when he had just br
 
 Of course, this was not because Lin Xuan was too tired from cultivating. Although these few months have been very trying, but he had already had a good night's sleep before coming out and his body and spiritual power had already recovered to their optimal conditions.
 
-He purposely acted listless and had also consumed some of the green liquid that was purified from the Red Silk grass. Not to mention some ordinary elders, even if he was standing in front of the patriarch, immortal Yun He, a Core Formation expert, Lin Xuan believed that he would also not be able to see through his fake cultivation of the first layer.
+He purposely acted listless and had also consumed some of the green liquid that was refined from the Red Silk grass. Not to mention some ordinary elders, even if he was standing in front of the patriarch, immortal Yun He, a Core Formation expert, Lin Xuan believed that he would also not be able to see through his fake cultivation of the first layer.
 
 "Immortal!" See Lin Xuan finally coming out of the house, Zhao Ming and the children hurriedly saluted him.
 
@@ -79,3 +79,4 @@ Lin Xuan headed out and left the courtyard. Although he had already reached the 
 
 - - -
 - - -
+
