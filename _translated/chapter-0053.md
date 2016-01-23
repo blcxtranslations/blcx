@@ -75,7 +75,7 @@ Fortunately, nothing unexpected happened. After the gas entered his dantian, it 
 
 This was an unexpected situation. Lin Xuan concentrated his spiritual sense on his dantian and quietly observed it for a while. Then he gathered is spiritual power and lightly touched the globe. Who would have guessed that the globe would suddenly suck in and wrap around his spiritual power?
 
-Lin Xuan did not panic. Seeing a new problem, if one wanted beneficial results, one much calmly reflect on it.
+Lin Xuan did not panic. Seeing a new problem, if one wanted beneficial results, one must calmly reflect on it.
 
 He discovered that although his spiritual power had entered into the globe, it was still connected to his spiritual sense, there was no obstruction at all. He could still easily control it.
 
@@ -83,7 +83,7 @@ After discovering this, Lin Xuan immediately relaxed and continued to experiment
 
 ......
 
-In the blink of an eye, night fell. Lin Xuan got up off the ground. He had a face full of happiness. Success! Although he did not know how high-grade Red Silk grass hid one's cultivation, since the books did not describe it and only glossed over it, but Lin Xuan was sure that this green liquid was even more effective that it.
+In the blink of an eye, night fell. Lin Xuan got up off the ground. He had a face full of happiness. Success! Although he did not know how high-grade Red Silk grass hid one's cultivation, since the books did not describe it and only glossed over it, but Lin Xuan was sure that this green liquid was even more effective than it.
 
 It was a very simple process. After drinking the liquid, it would change into a gas and enter the dantian. Then he could pour his spiritual power into that globe that was formed by the gas.
 

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Wuxia Novels (English)V5</dc:title>
+    <dc:creator file-as="" opf:role="aut"></dc:creator>
+    <dc:language>en</dc:language>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:aac85189-a6e5-4500-9ee7-acf422fc7a9d</dc:identifier>
+    <dc:publisher>My Notes Keeper</dc:publisher>
+    <meta content="cover-image" name="cover" />
+    <meta content="0.4.0" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/img2.jpg" id="img2.jpg" media-type="image/jpeg" />
+    <item href="Text/mnk_8_1.xhtml" id="mnk_8_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_2.xhtml" id="mnk_8_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_3.xhtml" id="mnk_8_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_4.xhtml" id="mnk_8_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_5.xhtml" id="mnk_8_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_6.xhtml" id="mnk_8_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_7.xhtml" id="mnk_8_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_8.xhtml" id="mnk_8_8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_9.xhtml" id="mnk_8_9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_10.xhtml" id="mnk_8_10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_11.xhtml" id="mnk_8_11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_12.xhtml" id="mnk_8_12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_13.xhtml" id="mnk_8_13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_14.xhtml" id="mnk_8_14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_15.xhtml" id="mnk_8_15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_16.xhtml" id="mnk_8_16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_17.xhtml" id="mnk_8_17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_18.xhtml" id="mnk_8_18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_19.xhtml" id="mnk_8_19.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_20.xhtml" id="mnk_8_20.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_21.xhtml" id="mnk_8_21.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_22.xhtml" id="mnk_8_22.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_23.xhtml" id="mnk_8_23.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_24.xhtml" id="mnk_8_24.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_26.xhtml" id="mnk_8_26.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_27.xhtml" id="mnk_8_27.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_29.xhtml" id="mnk_8_29.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_28.xhtml" id="mnk_8_28.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_31.xhtml" id="mnk_8_31.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_32.xhtml" id="mnk_8_32.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_33.xhtml" id="mnk_8_33.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_34.xhtml" id="mnk_8_34.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_35.xhtml" id="mnk_8_35.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_36.xhtml" id="mnk_8_36.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_37.xhtml" id="mnk_8_37.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_38.xhtml" id="mnk_8_38.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_39.xhtml" id="mnk_8_39.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_40.xhtml" id="mnk_8_40.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_41.xhtml" id="mnk_8_41.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_42.xhtml" id="mnk_8_42.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_43.xhtml" id="mnk_8_43.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_44.xhtml" id="mnk_8_44.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_45.xhtml" id="mnk_8_45.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_46.xhtml" id="mnk_8_46.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_47.xhtml" id="mnk_8_47.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_48.xhtml" id="mnk_8_48.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_49.xhtml" id="mnk_8_49.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_50.xhtml" id="mnk_8_50.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_51.xhtml" id="mnk_8_51.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_52.xhtml" id="mnk_8_52.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_53.xhtml" id="mnk_8_53.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_54.xhtml" id="mnk_8_54.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mnk_8_55.xhtml" id="mnk_8_55.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="mnk_8_1.xhtml" />
+    <itemref idref="mnk_8_2.xhtml" />
+    <itemref idref="mnk_8_3.xhtml" />
+    <itemref idref="mnk_8_4.xhtml" />
+    <itemref idref="mnk_8_5.xhtml" />
+    <itemref idref="mnk_8_6.xhtml" />
+    <itemref idref="mnk_8_7.xhtml" />
+    <itemref idref="mnk_8_8.xhtml" />
+    <itemref idref="mnk_8_9.xhtml" />
+    <itemref idref="mnk_8_10.xhtml" />
+    <itemref idref="mnk_8_11.xhtml" />
+    <itemref idref="mnk_8_12.xhtml" />
+    <itemref idref="mnk_8_13.xhtml" />
+    <itemref idref="mnk_8_14.xhtml" />
+    <itemref idref="mnk_8_15.xhtml" />
+    <itemref idref="mnk_8_16.xhtml" />
+    <itemref idref="mnk_8_17.xhtml" />
+    <itemref idref="mnk_8_18.xhtml" />
+    <itemref idref="mnk_8_19.xhtml" />
+    <itemref idref="mnk_8_20.xhtml" />
+    <itemref idref="mnk_8_21.xhtml" />
+    <itemref idref="mnk_8_22.xhtml" />
+    <itemref idref="mnk_8_23.xhtml" />
+    <itemref idref="mnk_8_24.xhtml" />
+    <itemref idref="mnk_8_26.xhtml" />
+    <itemref idref="mnk_8_27.xhtml" />
+    <itemref idref="mnk_8_29.xhtml" />
+    <itemref idref="mnk_8_28.xhtml" />
+    <itemref idref="mnk_8_31.xhtml" />
+    <itemref idref="mnk_8_32.xhtml" />
+    <itemref idref="mnk_8_33.xhtml" />
+    <itemref idref="mnk_8_34.xhtml" />
+    <itemref idref="mnk_8_35.xhtml" />
+    <itemref idref="mnk_8_36.xhtml" />
+    <itemref idref="mnk_8_37.xhtml" />
+    <itemref idref="mnk_8_38.xhtml" />
+    <itemref idref="mnk_8_39.xhtml" />
+    <itemref idref="mnk_8_40.xhtml" />
+    <itemref idref="mnk_8_41.xhtml" />
+    <itemref idref="mnk_8_42.xhtml" />
+    <itemref idref="mnk_8_43.xhtml" />
+    <itemref idref="mnk_8_44.xhtml" />
+    <itemref idref="mnk_8_45.xhtml" />
+    <itemref idref="mnk_8_46.xhtml" />
+    <itemref idref="mnk_8_47.xhtml" />
+    <itemref idref="mnk_8_48.xhtml" />
+    <itemref idref="mnk_8_49.xhtml" />
+    <itemref idref="mnk_8_50.xhtml" />
+    <itemref idref="mnk_8_51.xhtml" />
+    <itemref idref="mnk_8_52.xhtml" />
+    <itemref idref="mnk_8_53.xhtml" />
+    <itemref idref="mnk_8_54.xhtml" />
+    <itemref idref="mnk_8_55.xhtml" />
+  </spine>
+</package>

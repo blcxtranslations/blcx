@@ -37,7 +37,7 @@ It really was not because Lin Xuan was impatient, but this trip taught him that 
 
 Not to mention other things, the goal of this entire trip to the Soaring Cloud sect was to acquire the Spiritual Control technique. But only after he had gotten the mid-grade cultivation technique did he find that it was different from what he had imagined.
 
-If he wanted to learn the Spiritual Control technique, he would at least need the strength of the eighth layer!
+If he wanted to learn the Spiritual Control technique, he would at least need the strength of the sixth layer!
 
 This was because using the Spiritual Control technique would use up spiritual power really fast. If one's cultivation was weak, one would not be able to support that kind of usage of spiritual power. Therefore, the minimum of the sixth layer was required.
 

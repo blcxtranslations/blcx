@@ -29,7 +29,7 @@ Low-grade Purified Essence pills were the most common kind of medicinal pills, b
 
 Not to mention that it increased his strength. If the success rate rose, then he could consume more mid-grade pills every day.
 
-The maximum number of Purified Essence pills that can be consumed a day is nine. Before, because he did not have enough mid-grade pills, he could only consume on mid-grade pill out of the nine daily limit. Now he could increase it to two or even three pellets.
+The maximum number of Purified Essence pills that can be consumed a day is nine. Before, because he did not have enough mid-grade pills, he could only consume one mid-grade pill out of the nine daily limit. Now he could increase it to two or even three pellets.
 
 With the help of the medicinal power, Lin Xuan made rapid progress. After a dozen days, he came out of seclusion and walked out of his house. The current Lin Xuan, although he still have a long way to go before reaching the sixth layer, but he had already solidified his power of the fifth layer. Even his temperament had slightly changed.
 
