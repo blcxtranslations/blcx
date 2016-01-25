@@ -80,7 +80,7 @@ He had not even been laying on the grass for an hour yet when suddenly, his face
 
 The previous Lin Xuan could really not be compared to the current one. With his powerful spiritual sense, he was able to see everything that happened in the hundreds of metres around him. It was Ye Tian followed by a few disciples who had lower cultivation.
 
-He did not expect to meet him here at all. Lin Xuan did not believe that Ye Tian was here to make barbecue, it must be for some evil scheme. He did not want to meddle in other's business, but if he was to leave now, Ye Tian would definitely notice. Therefore, he could only his here and wait.
+He did not expect to meet him here at all. Lin Xuan did not believe that Ye Tian was here to make barbecue, it must be for some evil scheme. He did not want to meddle in other's business, but if he was to leave now, Ye Tian would definitely notice. Therefore, he could only sit here and wait.
 
 - - -
 - - -
