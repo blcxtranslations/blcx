@@ -52,13 +52,13 @@ After he finished saying goodbye, he turned around. He had a sinister look on hi
 
 Although he had already walked far away, Lin Xuan still kept an eye out and took in all of this. His expression did not change but he did start pondering about it. Why did Ye Tian deliberately approach disciples with lower cultivation, what exactly did he want?
 
-Although Lin Xuan did not know what his goal was he knew it was definitely malicious. But presently, Lin Xuan decided not to waste time thinking about it anymore. It doesn't matter what kind of scheme they had, it had nothing to do with him. He just needed to be more careful and stay away from they guy from now on.
+Although Lin Xuan did not know what his goal was he knew it was definitely malicious. But presently, Lin Xuan decided not to waste time thinking about it anymore. It doesn't matter what kind of scheme they had, it had nothing to do with him. He just needed to be more careful and stay away from the guy from now on.
 
 As to whether other people will fall of this scheme, Lin Xuan was not a saint, he would try to be these people's saviour. Of course, if they wanted to trick Lin Xuan, then he was also not opposed to teaching them a lesson.
 
 An ancient bell rung. The various groups of disciples quickly stopped their discussions, assembled together, and saluted the yellow robed lecturer. "Master."
 
-"Alright." The Foundation Building cultivator nodded. He glanced around. There was not a the slightest trace of suspicion when his gaze passed over Lin Xuan. He then started lecturing.
+"Alright." The Foundation Building cultivator nodded. He glanced around. There was not the slightest trace of suspicion when his gaze passed over Lin Xuan. He then started lecturing.
 
 ......
 
