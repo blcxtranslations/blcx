@@ -66,9 +66,9 @@ Two hours later, Lin Xuan left the Young Hawks Pavilion. The lecturer did not te
 
 This could be considered very fast. But he was not very clear on the minute details of the cultivation techniques. Currently, there were no visible issues, but as time goes on and as he treads further upon the path of cultivation, there would be a lot of hidden damage.
 
-It was such a coincidence. The insights of this lecturer just happened to each of Lin Xuan's many problems, that had arisen during his cultivation practice, one after another.
+It was such a coincidence. The insights of this lecturer just happened to answer each of Lin Xuan's many problems, that had arisen during his cultivation practice, one after another.
 
-After going back, as long as he corrected all of his mistakes in cultivation according to today's insights, his would be able to increase his power by another portion.
+After going back, as long as he corrected all of his mistakes in cultivation according to today's insights, he would be able to increase his power by another portion.
 
 He would also be able to come to the Young Hawks Pavilion to listen to lectures once again. With the green liquid refined from the Red Silk grass, he would not need to worry about having his cultivation exposed. He did not need to have worry about these things anymore.
 
@@ -80,7 +80,7 @@ He had not even been laying on the grass for an hour yet when suddenly, his face
 
 The previous Lin Xuan could really not be compared to the current one. With his powerful spiritual sense, he was able to see everything that happened in the hundreds of metres around him. It was Ye Tian followed by a few disciples who had lower cultivation.
 
-He did not expect to meet him here at all. Lin Xuan did not believe that Ye Tian was here to make barbecue, it must be for some evil scheme. He did not want to meddle in other's business, but if was to leave now, Ye Tian would definitely notice. Therefore, he could only his here and wait.
+He did not expect to meet him here at all. Lin Xuan did not believe that Ye Tian was here to make barbecue, it must be for some evil scheme. He did not want to meddle in other's business, but if he was to leave now, Ye Tian would definitely notice. Therefore, he could only his here and wait.
 
 - - -
 - - -
