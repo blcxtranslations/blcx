@@ -21,3 +21,5 @@ collections:
   announcements:
     output: true
     permalink: /:path/
+
+exclude: ['_translated/template.md']

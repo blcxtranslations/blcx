@@ -2,97 +2,100 @@
 layout: page
 number: "0057"
 name: "Fifty-Seven"
-title: "Demon Cultivator"
-date: "2016-03-19 15:01:00.116047"
+title: "Demonic Cultivator"
+date: "2016-03-22 00:22:24.538380"
 characters: 2130
 chinese: "http://baishuku.com/html/30/30364/12441388.html"
-reddit: "https://www.reddit.com/r/Zaiphyr/comments/4b4avb/cn_tempered_immortal_chapter_0057/"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/4bfzox/cn_tempered_immortal_chapter_0057/"
 sponsored: false
-completed: false
+completed: true
 ---
 
-Demon tools were still spirit tools[^1], they are simply spirit weapons crafted by demon cultivators. But the so called demon cultivator was just another branch of cultivation.
+Demonic artifacts were still spirit artifacts, they were simply spirit weapons crafted by demonic cultivators. But the so called demonic cultivator was just another branch of cultivation.
 
 Normal cultivators all seek immortal ascension, but the path of cultivation is long and filled with thistles and thorns. One must exert unimaginable effort to have even a measure of success.
 
 That is also why even a talented cultivator, other than having spiritual roots, must also have an eternal perseverance.
 
-灵根乃天生，无可选择，而这毅力，就全靠自己了，虽然每一个人都想在修仙之路上走得更远，可能够辛苦努力，并且持之以恒的毕竟是少数。
+Spiritual roots were innate, either you had it or you didn't. But this perseverance was dependent on oneself. Although everyone would like to progress further on the road of cultivation, but there were truly few that could put forth their greatest effort and draw up such perseverance.
 
-不少修真者一生碌碌无为，并不是资质太差，而是努力不够，有的人就此沉沦，但也有的人想要取巧。
+Quite a lot of cultivators lead a life of mediocrity. This was not because they had bad aptitudes but simply because they did not put forth enough effort. Some of them sank into obscurity but some of them tried to find convenient shortcuts.
 
-众所周知，修真者追求天道，讲究循序渐进，基础扎实，但那些取巧的人，却另辟蹊径，他们创造出来的功法，不需要太多的努力，且修为进展极快，一时间，修真者们趋之若鹜。
+As everyone knows, cultivators were people that were seeking an understanding of the heavenly laws. This was a step by step process to form a firm foundation. But those opportunists took an alternate approach. They created cultivation techniques that did not require a lot of effort and allowed one to progress very quickly. For a time, all the cultivators wanted to acquire these cultivation techniques.
 
-这也就是最初的修魔者！
+These were the first demonic cultivators!
 
-然而并非人人都沉溺进去，不少才智之士发现，修魔者的功法虽然短期内效果明显，但却留下了不少隐患与漏洞。
+But not everyone rushed to cultivate in these techniques. Quite a few wise people saw that although these techniques would allow cultivators to raise their cultivation rapidly, they also had many hidden risks and vulnerabilities.
 
-随着修为的深入，不仅速度会逐渐慢下来，而且还容易道心不稳，走火入魔，这是其一，其二，这些功法大多阴厉狠毒，有伤天和，虽然平心而论，修真者也不是什么好东西，奉行弱肉强食，势凡人如蝼蚁。
+As one cultivates these techniques, the speed of progress would gradually slow down and one's Dao-Heart would be easily swayed and cause one to have heart demons. This was the first point. The second was that these cultivation techniques were particularly vicious and were sinful. Although to be fair, cultivators could not be considered to be kind people at all. They were ruled by the law of the jungle, ordinary mortals were like ants to them.
 
-但喜欢无缘无故杀人的修真者毕竟不多，就算是杀人抢宝，总也有一个理由，乃是受到了利益的驱使，有所图，但修魔者就不一样了，长时间修炼乖戾的功法，性格也会变得阴厉狠毒。
+But those cultivators that truly enjoyed pointless killings were actually very few in number. Even killing and robbing at least had a reason: personal benefit. But demonic cultivators were not the same. After cultivating such perverse techniques for a long time, their characters would also turn vicious.
 
-杀人为乐，用生人魂魄炼制魔宝，他们的行事，才是真的一点顾忌也没有。
+Killing for pleasure and using souls to refine demonic weapons. There action shows that they did not have reservations about this at all.
 
-修魔者声名狼藉，但修真者却也并没有与他们誓不两立，仙界自私自利，除非惹到自己，否则除魔卫道纯粹是骗小孩子的东西。
+Demonic cultivators had a bad reputation, but regular cultivators decided that they could coexist with them. The cultivation world was an every man for themselves kind of place. They would only retaliate if you offended them. Removing demons for the greater good was purely a lie made up to tell little kids.
 
-听到魔器一词，林轩在脑海中回忆了一遍关于修魔者的资料，心中按自惊讶，这叶天与自己同期入谷，本门乃是正宗的修真门派，他怎么会是修魔者？
+Hearing the words demonic artifact, Lin Xuan recalled all the information he had learned about them. He was very surprised. This Ye Tian joined the sect at the same time as Lin Xuan and the Floating Cloud Valley was a genuine cultivator sect, so how could he be a demonic cultivator?
 
-再说叶天用禁法酒制住三人以后，脸上的神色越发狠毒，冷笑道：“三位师弟，要怪只能怪你们运气不好，为兄炼制的这百魂幡，已经炼化了九九八十一个普通凡人的魂魄，可我得到的那本魔书上写得很清楚，此物想要大成，还必须以三个修士的精魂为引。”
+After Ye Tian gave them the Spirit Sealing wine, his face became increasingly vicious. He laughed coldly and said: "Three Junior Apprentice Brothers, if you want to blame someone, you can only blame yourselves for having such back luck. In order to refine this Hundred Souls Streamer, I have already used eighty-one souls of ordinary mortals. But that demonic manual I acquired clearly states that if I wanted to succeed, I must also use three souls of cultivators."
 
-“为什么找上我们？”宋虎浑身颤抖，显然他也听过修魔者的传说，被抽魂炼制魔器，下场悲惨远胜坠入十八层地狱。
+"Why did you pick us?" Song Hui was shaking all over. He had obviously heard rumours of these demonic cultivators. To have his soul ripped out and used to refine demonic artifacts was a fate worse than falling into the eighteenth layer of hell.
 
-“哼，谁让你们的修为较弱呢？”叶天冷笑开口：“若是走失了几个精英弟子，谷内肯定会追查下去，万一怀疑到为兄身上，我可就吃不了兜着走！”
+"Hmph! Why do you have such weak cultivation?" Ye Tian coldly smiled. "If a few elite disciples went missing, the sect would definitely investigate. If by chance they found that I was the culprit, then I would have to face all the consequences!"
 
-修真者和修魔者虽然并非誓不两立，但本门弟子，私下练习魔道功法毕竟犯忌，何况还用生人魂魄炼制魔器，叶天不是白痴，当然要小心形势。
+Although cultivators and demonic cultivators could coexist together, but they were still from the same sect. Secretly using demonic techniques to refine artifacts was against the rules, in addition, he was even ripping souls out of others to do so. Ye Tian was not stupid, of course he would be careful.
 
-而宋氏兄弟，与那高瘦少年，都是不受重视的弟子，即使失踪，门派也不会过多的搜寻。
+Also, the Song brothers and the lanky youth were all unimportant disciples of the sect. Even if they went missing, the sect would not expend too much effort searching for them.
 
-当然这仅仅是原因之一，还有一个叶天没有说出来，他得到那本修魔功法不久，法力不够深厚，虽然书上说得很清楚，做为引子的修真者魂魄越强，这百魂幡的威力也就越大。
+Of course, that was only one of the reasons. There was also another reason: he had only recently acquired that demonic manual and this his cultivation was not deep enough.
 
-可这仅仅是理论上啊，实际操作，法力太强的修士的魂魄他不一定能够炼化，反而容易弄巧成拙，以失败告终。
+Although the manual clearly stated that the stronger the soul of the cultivator that was used to prime and refined the artifact, the more powerful the Hundred Souls Streamer would be, but that was only in theory. In reality, if the cultivation of cultivator whose soul he uses was too profound, he might not be able to successfully refine it. The refinement of the artifact would only end in failure.
 
-为求稳妥，干脆找了三个法力较弱的低阶弟子，既有炼化魂魄的把握，又不用担心门派会发现自己的恶行，一举两得。
+Therefore, why not find three disciples who had somewhat weak cultivations. That way, he would be sure to succeed in refining their souls and his wicked deeds would not be discovered by the sect. It was simply killing two birds with one stone.
 
-林轩隐身灌木丛中，表面不动声色，但心中却杀意盎然，这个叶天，起初是想以自己作为目标啊，只不过自己没有落入圈套。
+Lin Xuan did not show any outward expressions on his face but he was feeling very murderous in his heart. This Ye Tian, he originally set Lin Xuan as a target, but Lin Xuan did not fall for the trap.
 
-其心可诛，当然，林轩不会现在动手，不过以后......
+He was truly devious and vicious and deserves to die. Of course, Lin Xuan would not make his move now, but in the future......
 
-虽然没有对自己造成实质性的伤害，但就凭他这种心态，有机会自己也要好好的报复回来。
+Although he did not cause Lin Xuan any substantial harm, but based on Lin Xuan's attitude, if he had the opportunity, he would definitely pay Ye Tian back for this.
 
-林轩做着日后打算，而叶天已经从怀里掏出了一张黑色的小幡，此地虽然隐秘，但夜长梦多，先将闪三人的魂魄炼制了再说。
+While Lin Xuan was making plans, Ye Tian had pulled out a small streamer from his bosom. Although there were in a secluded area, it would still be best  to refine their souls first lest something unexpected happens.
 
-那百魂幡仅有巴掌大小，然而一掏出来，林轩就感觉到了浓重的阴气，充满了怨恨，令人毛骨悚然。
+The Hundred Souls Streamer was about the size of a palm, but as soon as it was pulled out, Lin Xuan felt a thick Yin energy. It was very horrific and felt full of resentment.
 
-与之相反，叶天却满脸兴奋，这戾气越重，百魂幡的威力就越惊人。
+But to the contrary, Ye Tian had a face full of excitement. The more vicious this Yin energy was, the more powerful the Hundred Souls Streamer would be.
 
-“师兄，饶了我们吧，我们回去保证什么也不说。”
+"Senior Apprentice Brother, please spare us, we swear we will not breathe a word about this."
 
-“对，我们回去帮你将林轩，那个没有灵根的小子抓来，再抓两个低阶弟子，帮你炼制魔幡。”
+"That's right. We'll go catch Lin Xuan, that guy with not spiritual roots, and then snatch two more low-level disciples and help you refine your demonic streamer."
 
 ......
 
-三人苦苦哀求，后面的言语更是极尽卑鄙无耻。
+The three of them piteously begged and said some ever more despicable and shameless words.
 
-林轩的脸上闪过一缕阴霾，心中那一点点不忍也烟消云散，暗暗提醒自己，修真界弱肉强食，修真者也自私自利，喜欢损人利己，以后可千万不能再存丝毫同情之心，否则吃亏的是自己。
+A cold look flashed past on Lin Xuan's face and what little qualms he held also vanished. He inwardly reminded himself: in the cultivation world, the strong eat the weak, cultivators were selfish and held no regards for others,  they also loved to benefit at the misfortune of others. He must be selfish and not have the slightest sympathy for others, or else the one who would suffer would be himself.
 
-嘴角边挂着冷笑，在一旁看戏，事不关己，高高挂起，从此以后，林轩再也不会存什么正义邪恶之念，当然也不会主动做坏事，但至少，再也不会心软了。
+Lin Xuan coldly smiled, he was content to watch from the sidelines and just let it play out. He would never follow any of those ideals of justice and evil. Of course, he would not go out and do evil deeds, but he would also not be softhearted anymore.
 
-否则说不定自己救了人，还会被反咬一口，林轩才不会傻傻的做东郭先生。
+Or else after he saved them, they might instead come back and bite him. Lin Xuan would not want to become Mr. DongGuo[^1].
 
-林轩不会心软，叶天就更不会了，任凭三人磨破了嘴皮，也别想让他动摇一分，放他们回去？
+Lin Xuan would not be softhearted, Ye Tian would be even less so. No matter how those three begged, he would not sway an inch.
 
-开玩笑！
+Let them go? What a joke!
 
-再抓几个弟子？
+Snatch some more disciples? That was completely unnecessary!
 
-更是多此一举！
+They might expose him once they got back to the sect. And even if they kept their words, it would still be more unnecessary work for himself.
 
-谁知道他们回到门派后会不会告发自己，就算愿意遵守承诺，自己也不愿意多费一番手脚了。
-
-就用他们的魂魄，祭炼魔器，叶天将百魂幡高高举起......
+It has to be their souls that are sacrificed to the demonic weapon. Ye Tian lifted the Hundred Souls Streamer high in the air......
 
 - - -
 - - -
 
-[^1]: In the future, I will not be explicitly translating everything as tools. In the chinese text it does say tool, but I will be taking liberties in cases where he is using say the sword shaped spirit tool and changing it to spirit weapon. Calling them all spirit tools is just awkward when read out loud.
+Note: In the future, I will not be explicitly translating everything as tools. In the Chinese text, it does say tool, but I will be taking liberties in cases where he is using say the sword shaped spirit tool and changing it to artifacts (maybe). Calling them all spirit tools is just awkward when read out loud.
+
+- - -
+- - -
+
+[^1]: Mr. DongGuo saved a wolf from hunters. When the hunters left, the wolf turned around and wanted to eat Mr. DongGuo stating that since Mr. DongGuo saved it once, it should save it again by not letting it starve. [Wikipedia](https://en.wikipedia.org/wiki/The_Wolf_of_Zhongshan#Synopsis)
 

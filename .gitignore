@@ -5,7 +5,7 @@ _site
 *.raw
 *.sublime*
 
-_translated/Glossary.txt
+_translated/template.md
 scripts
 
 tags
