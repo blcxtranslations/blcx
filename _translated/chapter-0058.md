@@ -3,10 +3,10 @@ layout: page
 number: "0058"
 name: "Fifty-Eight"
 title: "Refining Souls"
-date: "Mar 31, 2016"
+date: "2016-03-30 00:29:28.257063"
 characters: 2084
 chinese: "http://baishuku.com/html/30/30364/12441390.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/4cja98/cn_tempered_immortal_chapter_0058/"
 sponsored: false
 completed: true
 ---
@@ -93,3 +93,4 @@ Lin Xuan's expression did not change. Although he was currently submerged in qui
 
 - - -
 - - -
+
