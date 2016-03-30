@@ -98,4 +98,3 @@ Note: In the future, I will not be explicitly translating everything as tools. I
 - - -
 
 [^1]: Mr. DongGuo saved a wolf from hunters. When the hunters left, the wolf turned around and wanted to eat Mr. DongGuo stating that since Mr. DongGuo saved it once, it should save it again by not letting it starve. [Wikipedia](https://en.wikipedia.org/wiki/The_Wolf_of_Zhongshan#Synopsis)
-

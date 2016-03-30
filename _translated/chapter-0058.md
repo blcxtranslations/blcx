@@ -1,0 +1,95 @@
+---
+layout: page
+number: "0058"
+name: "Fifty-Eight"
+title: "Refining Souls"
+date: "Mar 31, 2016"
+characters: 2084
+chinese: "http://baishuku.com/html/30/30364/12441390.html"
+reddit: ""
+sponsored: false
+completed: true
+---
+
+Instantly, a foul current arose and the faint sound of wailing could be heard. The Song brothers were pale with fear. They were so scared that their teeth chattering and they couldn't even open their mouth to beg for mercy.
+
+Three dark green flames floated out of the Hundred Souls Streamer and entered into their bodies. With the contrast of those will-o'-the-wisps, Ye Tian's expression became much more sinister. He held the Hundred Souls Streamer in his left hand and continuously poured spiritual power into it.
+
+At first, the three showed expressions of pain on their face. Although they could not move, there were still signs of struggling from then. Then after a moment, their breathing completely stopped.
+
+Ye Tian kept the Hundred Souls Streamer in his left hand and made a hand seal with his right hand causing a beam of white light to shoot into each of their bodies. The white light then pulled out three yellow balls of light from each of their bodies.
+
+Those were the souls of those three. Seeing that they were struggling to escape, Ye Tian snorted and waved the streamer. Suddenly, a black mist arose and wrapped around those wisps.
+
+"Collect!"
+
+The Hundred Souls Streamer suddenly became much larger. A ghostly mist emitted from it and morphed into a sinister skeleton which then swallowed the souls.
+
+Ye Tian did not relax after that but instead became much more imposing. He cast many techniques into the demonic streamer then stretch out hands which emitted a dark green demonic flame.
+
+He was beginning to refine it......
+
+Make a move? Or take this opportunity to leave?
+
+Lin Xuan hesitated then turned around and left. Although his strength was much better than it used to be, Demonic Cultivators were simply too strange. Since he did not have a grasp of the situation, it was unwise to make a move.
+
+In addition, the opponent was a cultivator in the Spirit Gathering stage, so he would not have a lot of wealth. The treasures he could gain after killing him could be counted on one hand. But if he makes a mistake while fighting, it would be too late to regret it. Lin Xuan did not have any duty to see justice being done, if there were no benefits for him, he would not take the risk.
+
+After weighing the pros and cons, Lin Xuan decided to leave. He would pretend that he didn't see anything today. Worst comes to worst, he could just avoid Ye Tian in the future.
+
+Exercising restraint, Lin Xuan headed towards the back of the mountain. In a short while, his silhouette disappeared.
+
+The cross-legged Ye Tian suddenly opened his eyes and looked towards the direction that Lin Xuan had left in. An ominous glint flashed in his eyes.
+
+If it was not for the fact that the Hundred Souls Streamer was extremely sensitive to the aura of living people, he would not have discovered that there was someone hidden there. No matter who that person was, he would not allow them to live in this world much longer.
+
+Ye Tian gnashed his teeth and increased the speed of his hand seals, fully focusing on refining those three souls.
+
+Fortunately, their cultivation was not very high and their souls were not very powerful, Ye Tian was able to speedily refine them into the Hundred Souls Streamer. Holding the demonic artifact in his hand, Ye Tian displayed an expression of ecstasy. But then he raised his head, released murderous aura, and chased after that person from before.
+
+At that moment, Lin Xuan had not returned to the Floating Cloud Valley. The things he had seen today caused him to feel horrified. Committing fratricide and extracting their souls, who would have thought that there would be a Demonic Cultivator hidden in the sect? The things that occurred today gave Lin Xuan a reminder, the road of cultivation was not only difficult, it was also dangerous. One wrong step and he would die and his soul would shatter. If he wanted to tread far on this road, then he must learn, understand, and keep his eye on everything.
+
+Of course, the most important thing was still strength, being powerful was the only way to survive in the Cultivation World.
+
+Suddenly, Lin Xuan stopped. His Spiritual Sense was far more powerful than his peers. He felt someone rushing in his direction carrying along a tyrannical aura.
+
+Ye Tian!
+
+Lin Xuan found out who it was. He did a quick inspect of his person and became shocked. He silently started preparing techniques as a strand of spiritual power flowed out of his body and enveloped him.
+
+Then Lin Xuan retrieved a seal from his bosom and attached it to his clothes. Suddenly the firm earth under his feet suddenly changed into quicksand. After his whole body had been submerged, the quicksand once again changed back into solid earth.
+
+After a moment, Ye Tian arrived at that spot. He had a bewildered look on his face as he looked around the area. Just now, when he was refining the Hundred Souls Streamer, some Yin energy had attached to the person that was hiding. Because it was such a tiny amount, it was hard to detect, but Ye Tian could use the souls of the Hundred Souls Streamer to easily find the exact location of that Yin energy.
+
+But for some reason, that feeling had suddenly disappeared.
+
+Did he discover me earlier?
+
+Could he be a Foundation Building cultivator?
+
+The reason Ye Tian thought like this was because the cultivation technique of Demonic Cultivators was special. A demonic cultivator at the same layer as a regular cultivator would be able to spread his spiritual sense much further.
+
+Also, because he had been using a demonic cultivation technique who's speed was faster, his cultivation was now at the sixth layer of the Spirit Gathering stage.
+
+His spiritual sense had already exceeded that of a Spirit Gathering stage great perfection cultivator, or in other words, unless that person was a Foundation Building expert, he would not have been able to detect Ye Tian so fast.
+
+But if the opponent was a Foundation Building expert, then he surely would have annihilated him back at the mountain peak!
+
+Ye Tian just could not figure it out. Of course, he couldn't have known that under normal conditions, regular cultivators had much weaker spiritual senses than demonic cultivators, but Lin Xuan was not a regular cultivator. Both the purification of pills and the time spent cultivating on the Heart Refinement Road was a form of tempering his spiritual sense.
+
+Comparing only spiritual sense, Lin Xuan was not one bit inferior to an initial stage Foundation Building cultivator!
+
+Even a wise man is not free of errors. In the beginning, Lin Xuan was somewhat careless and did not notice that the Yin energy had stuck onto him. Now that he had discovered it, he used his spiritual power to cover it and thus, Ye Tian could no longer discover his whereabouts.
+
+Because he couldn't find his target, Ye Tian started to get more anxious. Although he could not figure out the opponent's cultivation, but if the sect was to find out that he had used the souls of fellow apprentices to refine a demonic artifact, he would have to face severe consequences.
+
+A fierce look flashed on Ye Tian's face. Clenching his teeth, he took out the Hundred Souls Streamer and inserted his spiritual power into it. Immediately, a black fog appeared and started to spread out.
+
+Of course Lin Xuan would not wait for him to make a move. Although he did not know what technique Ye Tian was preparing, but judging from the look of it, it was not anything good.
+
+Since it was like this, then he would strike first and gain the upper hand.
+
+Lin Xuan's expression did not change. Although he was currently submerged in quicksand, but since he had used the Quicksand seal, he could move about freely. The only downside was that he could not breathe in the sand, but with his current cultivation, holding his breathe from ten, fifteen minutes was not a problem.
+
+- - -
+- - -
