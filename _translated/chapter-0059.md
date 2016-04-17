@@ -1,0 +1,90 @@
+---
+layout: page
+number: "0059"
+name: "Fifty-Nine"
+title: "Demonic Fog"
+date: "2016-04-16 23:56:11.255026"
+characters: 2078
+chinese: "http://baishuku.com/html/30/30364/12441392.html"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/4f55a7/cn_tempered_immortal_chapter_0059/"
+sponsored: false
+completed: true
+---
+
+Countless shining and glossy ice particles appeared in Lin Xuan's palm. They were all needles.
+
+Since this was a sneak attack, then he would, of course, select the most powerful spell he knew. It would be best if he could kill him with one attack.
+
+Previously, Lin Xuan could only control around one hundred ice needles, but now that he had entered into the sixth layer, the number he could control had doubled and the power had also greatly increased.
+
+But he did not immediately use the spell but instead retrieved a bottle from his bosom and took a swig of the liquid extracted from the Red Silk Grass.
+
+Ye Tian was murmuring and the fog of the Hundred Souls Streamer was surging. Looking at this, one could tell that it was some kind of technique used for searching. Seeing that Ye Tian was gradually nearing him, he no longer hesitated. Using his spiritual power, he launched those hundreds of ice needles in his palm.
+
+The needles flashed as they flew, but Ye Tian's reaction speed was extremely fast. His face became pale as he tightened his grip on the Hundred Souls Streamer. The surrounding fog crazily rushed to him and in the fog, a faint shield of bones could be seen.
+
+Clinking sounds continually rang out as the needles hit the shield. After a series of needles impacted against it, with a crack, the shield fractured and broke. But the ice needles had also all been used up.
+
+"Oh!?" Lin Xuan was surprised. Breaking out from below ground, Lin Xuan threw out a mid-grade Firebird seal. Feeling the heat from the technique, Ye Tian clenched his teeth and summoned a blood red skull from the Hundred Souls Streamer which cancelled out both of their techniques.
+
+"It's you?"
+
+After getting a clear look at the attacker, he was both shocked and angry. He had originally thought that it would be some elite disciple, but who would have figured that it would end up being just a person who did not even have spiritual roots.
+
+"Wise people do not show their true colours, I would never have thought that Junior Apprentice Brother Lin had reached the fourth layer!" Ye Tian gnashed his teeth and was still doubtful. How could such an ordinary person raise his cultivation so fast? Could it be that like he, like Ye Tian himself, was also a Demonic Cultivator?
+
+The fourth layer was the average amongst the disciples that joined the sect at the same time as Lin Xuan. No, even if he was a Demonic Cultivator, he would still not be able to reach the fourth layer this fast.
+
+No matter what, if he did not have spiritual roots, there was no possible way to improve this fast.
+
+He was doubtful. Very doubtful!
+
+But Ye Tian could not know that he still misjudged Lin Xuan's cultivation and that he, like Ye Tian, was also at the sixth layer. This was all because Lin Xuan had taken a swig of that Red Silk Grass essence.
+
+This kind of magical spiritual medicine could form a sphere in the Dantian and wrap up spiritual power which would prevent others from discovering one's cultivation base. But it did so in such a way so that it would not impede the usage of that spiritual power. This was truly killing two birds with one stone.
+
+In battle, if one could mislead the opponent about one's cultivation base, they would be able to gain the advantage. It would make the opponent underestimate them and allow the opportunity for surprise attacks.
+
+Of course, it was also not a good idea to appear as weak as possible; one must decide based on the situation at hand. For example, currently, Lin Xuan appeared to have the cultivation of the fourth layer. This was because the fourth layer was the layer at which it was possible to practice the Ice Needles technique. Otherwise, it the opponent saw that he could use such an intrepid technique but only had the cultivation of the first layer, they would definitely get suspicious and be on guard.
+
+The fourth layer was the best to mislead the opponent. This way, they will underestimate him and possibly show so weak points during battle.
+
+A duel was not just a battle of strength, but also of wits. Only when one can grasp both would one achieve victory.
+
+But at the moment, Lin Xuan was not relaxed at all. Originally, he hid in the ground and sneak attacked Ye Tian using a powerful technique that he was sure could kill in one shot. But who would have thought that Ye Tian was such an astute person and even blocked the attack. And that was only one part of it.
+
+That Hundred Souls Streamer's power also caused Lin Xuan to worry.
+
+The difficulty of this battle far exceeded the one where he faced the Yan family patriarch. And although Lin Xuan was very much on guard, he was not overly worried in his heart. This was because he was not the same Lin Xuan from three months ago. He now had the power of the sixth layer of the Spirit Gathering stage.
+
+The two of them were mutually worried about the other and neither were in a nostalgic mood. After his sneak attack failed, Lin Xuan did not attempt to strike again and prepared to counter Ye Tian's attack instead.
+
+But although Ye Tian was also very clever and cunning, when compared to Lin Xuan, he could not stay calm and keep his composure as well. He raised the Hundred Souls Streamer in his right hand and slowly it started to billow.
+
+Suddenly, a black fog dispersed everywhere. Countless malicious ghosts and spirits appeared as terrifying wails sounded out.
+
+Yet Lin Xuan was unmoved, he even displayed a ridiculing smile. This kind of grand display, if it was real, would require one to be at least in the Foundation Building level. But his guy in front of his clearly did not have enough spiritual power to support it. Therefore, this must be an illusion.
+
+But just because it was an illusion does not mean that it was harmless. Even if one knew that it was not real, but when facing such a horrific sight, if it was someone else, the would definitely feel weak in the knees and break out in cold sweat. Under such intense dread, they would be able to at most display twenty to thirty percent of their power.
+
+But Lin Xuan was different. Back when he was stuck in the first layer, he did not hesitate to challenge the Heart Refinement Road. In terms of realism and power, this kind of illusion was like child's play.
+
+If Ye Tian wanted to use it, then he was more than welcome to. This kind of technique, not only did it not have an effect on him, it also used up Ye Tian's spiritual power.
+
+Of course, Lin Xuan would also not stay his hand. He could not defeat an enemy by standing still.
+
+Lin Xuan took out another seal from his bosom, but it was no ordinary seal. Last time when he was fighting Ye TianHeng, he had used most of his seals, there was barely any left. This seal was spoil from that battle. the beast seal.
+
+The reason why Lin Xuan took out this kind of treasure so early in the fight was to finish it in the shortest amount of time possible. Although the place they were at was out of the way, it was still fairly close to the Floating Cloud Valley, who knows when someone would stumble upon them. Ye Tian did not want anyone to discover that he was a Demonic Cultivator, so how could Lin Xuan want his own cultivation level to be found out either?
+
+Since both of them had this same intention in their minds, they tacitly agreed to move their battle to a clearing away from the path. But even then, it was difficult to guarantee that they would not get exposed.
+
+Therefore, as Lin Xuan was taking out the beast seal and lifting the restrictions from it, Ye Tian also started to take action. Since the demonic fog did not affect Lin Xuan at all, he would also not stupid continue to waste his spiritual power.
+
+With a wave of the Hundred Souls Streamer, the demonic fog was collected back up. He then sent a technique into the streamer causing the Yin energy surrounding it to increase. Instantly, many dishevelled looking malicious spirits floated out of the streamer.
+
+- - -
+- - -
+
+[^1]:
+
