@@ -1,0 +1,96 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+“Young fellow, why do you come here?” Seeing that the youth in front of him seems to be ordinary, and only at the second layer of spirit gathering, the old man stares at Lin Xuan coldly.
+
+Lin Xuan clearly saw his expression, and sneered at the old man in his heart, but none of this showed on hi face as he responded.
+
+“Fellow apprentice, this junior brother came here to ask for a relaxed assignment.”
+
+As mentioned previously, cultivation is difficult, and even with spiritual roots, most people have limited success in their lives as cultivators.
+
+Some people end up discouraged, and rather than enduring the hardships, decide to stop cultivating, and take on some light jobs in the sect, to live out the rest of their lives relaxedly
+
+The old man in front of Lin Xuan is one such person.
+
+After hearing Lin Xuan’s words, the old man assumed that Lin Xuan was also such a person, reacting just as Lin Xuan wanted him to.
+
+“Thats not so easy to do.” The old man began to frown, revealing an awkward appearance. “ Although there are a lot of odd jobs that need to be done around Mt.Danxia, at this moment all the positions are filled, we are not short of manpower, fellow disciple i want to help you, but i am unable.”
+
+“This old fox.” Lin Xuan swore in his heart, he always planned out his actions before hand, how could he not know that a little while ago that there was a vacant seat for a steward at Danxia Mountain, this old man was intentionally being difficult.
+
+However, this situation was also expected by Lin Xuan, in fact the cultivating world is very [****] , and as such the old man was trying to get the most out of the situation, demanding a bribe, something Lin Xuan had already planned for.
+
+Sneering in his heart, the old man’s intentions were very clearly to Lin Xuan, but on the surface, Lin Xuan still put out the appearance of a rookie, stammering “This junior ………. please help this junior who has no spiritual roots, cultivation is too difficult for me, and i wish to live carefree as a steward, if senior brother is willing to help, this junior will follow you.”
+
+Having said that, Lin Xuan pulled out a package, covered in layers of cloth, quietly placing it in front of the old man.
+
+“What’s this?” Lin Xuan deliberately acted in a secretive manner, successfully attracting the old man’s attention.
+
+As the layers of cloth were pulled away, it slowly revealed a sparkling object, although it was just a glimpse and did not directly see the whole object, the old man still could not help but lean forward “Spirit Stone?”
+
+Spirit Stones are stones that are rich in spirit power, and whether it is for cultivation or for trading, the role of spirit stones is irreplaceable, as it is treated as the main currency to cultivators.
+
+However, the number of spirit stones mined is low, and those that mine them are the seniors, only allowing experts to posses them, so low-level cultivators might occasionally see one, but never possess any.
+
+This boy at the second layer of spirit gathering, actually has something like his.
+
+However, after all the cloth was removed, the old man’s expression became somewhat disappointed, as the package was filled not with a spirit stone, but spirit stone fragments, about half of a full spirit stone.
+
+When spirit stones get fragmented, they lose a lot of spirit power, and the fragments here was worth less than half, after deducting the missing fragments as well as the lost spirit power, the amount contained in the package was only about one quarter of a full spirit stone.
+
+“This is the spirit stone fragments this junior accidentally obtained, if senior is willing to grant me the post of steward, this junior will give it to you.”
+
+The old man suddenly perked up, although it was only spirit stone fragments, he was only a low-level cultivator, and it can be said that this was a great amount of wealth, even after all his work, he has little to show for it, so this was a great thing for him.
+
+After pretending to think about it for a moment “well, since junior is so sincere, how could i not show my benevolence?”
+
+After pulling out a book: “Trash pill storage department lacks a steward, you can go work there.”
+
+Lin Xuan was overjoyed, everything really went according to plan, although on the surface he only shows an awkward expression: “Trash pill storage, this…”
+
+Seeing the awkward expression on his face, the old man hastily replied: “Junior, you do not know that being steward of the trash pill storage is the easiest job, there is nothing for you to do other than sit back and relax, this senior is really looking out for you giving you this job.”
+
+“Really?” Although Lin Xuan knew it to be a lie, he still played into the old man’s hands, and he certainly won’t argue, as he pretended to believe him: “I see, i always thought trash pills were a waste, well, thank you senior.”
+
+“Oh, don’t mention it, junior.” As the old man gathered up the spirit stone fragments into his arms he called out to the boy: “This junior is now the steward of the trash pill storage, go take him to receive his number and identification plate.”
+
+“Yes!”
+
+As Lin Xuan walked away, the old man had a proud smile on his face: “Working in the trash pill storage is really easy, and has no requirements, such a trash disciple can also obtain spirit stone fragments, without even understanding anything…”
+
+The old man thinking of his earnings, did not realize that the one who benefited the most was actually Lin Xuan, as everything that happened was within his calculations.
+
+Every word, every expression, was planned out beforehand.
+
+Before coming, he had done his research and found out that this Senior named Feng was a greedy old man that would do nothing if it didn’t benefit him.
+
+Originally, he had nothing to give him, other than the spirit stone he from Zhou yan and Zhang Yu, and although Lin Xuan can be considered to be very rich, since he was a spirit gathering disciple, having a spirit stone would be too conspicuous, and if he was not careful it would attract the attention of others, So Lin Xuan deliberately smashed a spirit stone into fragments, then gave the old man half of the fragments, saving the rest for later.
+
+Secondly, by pretending he knew nothing, the steward was able to take his bribe, and by pretending to be honest he managed to give the worst job over to Lin Xuan thinking he was a fool.
+
+After his investigation Lin Xuan knew that because no one needs trash pills, the storage room was almost never used, and no one ever visited it, and so it was considered the worst job available.
+
+Feng being the unscrupulous person he was will certainly lie to Lin Xuan and send him there.
+
+It also works out for Lin Xuan, because he is being “cheated” to go there, rather than asking for the position, so no one would think twice of him working there.
+
+Feng thought he was being very smart, but he never realized that he was being led by the nose by Lin Xuan, who ended up the biggest beneficiary of this situation.
+
+…
+
+- - -
+- - -
+
+[^1]:

@@ -1,0 +1,124 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+Analyzing the situation clearly, Lin Xuan tries to resolve
+
+the problem, beginning by first increasing the speed of
+
+the blue lights, so that there would be a more powerful
+
+force pushing against the the impurities.
+
+But the problem lies in figuring out by how much he
+
+should increase the speed of the flow, if the increase was too
+
+low it wouldn’t change anything, but if he increases it too much
+
+it will be more than what the pill can handle, and it would explode,
+
+resulting in a failure.
+
+Lin Xuan began by increasing the speed by a small bit, slightly
+
+increasing the pressure on the impurities and pushing them out a small bit further, Lin Xuan continued in such a careful manner, and little by little the impurities were finally pushed out after an hour.
+
+“Whew!”
+
+Lin Xuan laid on his bed tiredly, with his clothes drenched in sweat, the purification exhausting him more than a whole day of meditation.
+
+But he also held the hint of a pleased smile on his face, moving his right hand in front of his face, Lin Xuan took a look at the pill in his hand, causing a refreshing fragrance to drift by his nose.
+
+The result, mid-grade Purified Essence Pill.
+
+Although he has never seen one before, Lin Xuan recognized it from the descriptions in the medical books, as it had the same color and appearance as the book, a genuine mid-grade pill.
+
+With a pale blue surface, and exuding a thicker herbal smell than the low-grade pill, the success rate of refining one was less than one fifth, usually when one prepared five furnaces, there will often be four trash pills, but the success rate was still not too low, usually however this was only possible under the hands of an experienced alchemist, as such a behavior was extremely extravagant, and only the few large factions could afford to do so, and as a result a small school such as thundercloud valley, there are no mid-grade pills.
+
+In theory, a mid-grade pill can be exchanged for ten low-grade pills of the same kind, but in fact, there is no real market price, since the few schools and sects that can produce mid-grade pills would never sell them.
+
+Holding the pill in his hand as he looked over, Lin Xuan decided to finally just stop thinking about it and see just how much better a mid-grade pill is.
+
+Getting up from his bed, and sitting cross-legged on the ground, Lin Xuan throws the small blue pill into his mouth (So he chose the blue pill)
+
+As he focuses his consciousness into his dantian, Lin Xuan begins cultivating as the pill begins dispersing a warm energy into his dantian.
+
+Similar to the the time when he took nine low-grade pills at once, the mid-grade pill gives off a warm energy, although the heat is not as hot as that time.
+
+As the pill fully dissolves the energy produced is truly on a different level, and although it is hot, it gives a feeling similar to soaking in a hot spring.
+
+Since the pill has fewer impurities than the low-grade pill, the energy it gives off is more pure, and stronger.
+
+Since
+
+Although there are some records in the medical books telling what to expect from a mid-grade pill, it is completely different to experience it after all. Lin Xuan’s heart is filled with joy, but he did not allow it to affect his mind, as he concentrated his consciousness into refining the pill.
+
+His dantian gathered the spirit power, and compared to how it was at the first layer, both the quality and quantity of spiritual power has changed dramatically.
+
+If it was originally a fine strand of hair, it was now as thick as a matchstick, with a much deeper, almost dark color in comparison to the previous pale white color.
+
+After gathering the spiritual power, it began to flow, slowly passing through his kidneys, and eventually mixing with the energy from the pill.
+
+This is the most important step, as it is when you use the energy from the pill to nourish your own spiritual power.
+
+Similar to how the roots of a plant absorb nutrients to grow, his spiritual power is doing the same thing as it circulates.
+
+He circulated the spiritual power nine times!
+
+……
+
+Since the time Lin Xuan took the pill till now, it has already become noon, it seems that the time it takes to refine a mid-grade pill is slightly longer than the time for one low-grade pill, so of course the effects are also more pronounced.
+
+Using his consciousness to look over his body, Lin Xuan feel that the spiritual power in his body has undergone a significant growth, it seems that the effects of a mid-grade pill at the fourth layer is much more significant than a low-grade pill.
+
+In other words, it seems that the grade of the pill really matches up with the grade of cultivation.
+
+Although this was only a guess, from his own experiences, the problem lying in front of Lin Xuan now was how difficult it was to refine a mid-grade pill.
+
+After six months of using the blue lights, Lin Xuan of course has a lot of experience , and could purify a low-grade pill easily, but a mid-grade pill……
+
+Honestly, just having that one success was lucky, as Lin Xuan was not sure he could do so again. It wasn’t that he couldn’t purify it, but rather the process was too time-consuming and cost too much energy, on top of the low success rate.
+
+For example, right now Lin Xuan could purify a whole bottle of trash pills after spending one day and night working, with a success rate of about one in three, as his body could now support six to seven low-grade purification’s without rest.
+
+However, with his current amount of energy, he could only purify one mid-grade pill, with a very low success rate.
+
+In other words, he could get mid-grade pills, but it was extremely inefficient, and it would decrease the speed of his progress.
+
+What to do now?
+
+Lin Xuan lying in bed, began to think in silence for a moment, until finally deciding to purify mid-grade pills.
+
+The reason for such a decision, was that by continuing to cultivate under the effects of low-grade pills shows very little effect, and if he wants to breakthrough the next bottleneck like that, he did not know how many months it would take.
+
+Purifying mid-grade pills will take more time, but the more he does it the better he will get so in the long run mid-grade pills are more beneficial.
+
+He cannot allow himself to become complacent with just low-grade pills, since if he were to back down from mid-grade pills because it was too hard, that mentality would also affect his cultivation.
+
+So he is only left with the option to overcome.
+
+Lin Xuan believes that with constant practice, the efficiency of his purification will also increase, which will in turn increase his cultivation speed.
+
+Looking at the long run, although it will take time to master purifying mid-grade pills, it is still absolutely worthwhile.
+
+After carefully going over the pros and cons of the situation, Lin Xuan decides on his plan for future cultivation, and once again continues in his efforts.
+
+
+
+……
+
+- - -
+- - -
+
+[^1]:

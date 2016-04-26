@@ -1,0 +1,94 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+Over the next few days, Lin Xuan use half of his time
+
+to cultivate, and the other half to study the blue lights.
+
+………
+
+Like this, a week quickly goes by, with Lin Xuan still
+
+l unable to find anymore clues, but due to all his practice,
+
+he can now control the blue lights a lot easier whenever he circulates them.
+
+………
+
+“How am i supposed to use this.” Lin Xuan asks himself as he looks
+
+at the pill in his hand, after he had been given the trash pills, he hadn’t had
+
+a chance to look them over due to everything that had happened.
+
+Unlike the pills given to the other disciples, the trash pills that Lin Xuan received from the elder gave off a truly unpleasant odor.
+
+Trash pills served no purpose to cultivators, but Lin Xuan still did not want to throw them away, since the materials used to create them were considered treasures themselves. However just thinking about it would do no good, so Lin Xuan gives up on the pills for the moment.
+
+“I need to get back to cultivation.”
+
+Over the last few days Lin Xuan has had the blue lights cycle through his meridians many times, and each time they got to his hand, the blue lights escaped his body through the palms, this was obviously a big clue as to their purpose, so Lin Xuan tries to figure out the next step from there.
+
+He sat down cross-legged, once again gathering the blue lights in his dantian, he then begins to circulate them and the lights proceed as usual, although he has been doing this continuously the speed is still slow and so after a long while the lights finally pass through his meridians, and finally through his skin to break out of his body.
+
+Lin Xuan suddenly gets startled, as the situation now is slightly different than usual, although the blue lights escaped from his body, this time they did not dissipate like the previous times, instead they began to drill down towards the thing in his hand.
+
+………
+
+The trash pill! he had forgotten to put it away when he began circulating the blue lights, after discovering this, Lin Xuan became even more focused, as a steady stream of blue energy began to flow out from his dantian, although it was unclear why the blue lights are reacting this way to the trash pills, Lin Xuan did not try to stop it because this might finally be the breakthrough he’s been waiting for, what’s happening now might be the key to cracking the mystery of the blue lights!
+
+While carefully controlling the blue lights with his soul to flow smoothly towards the pill, the scene was also directly transferred to his mind. As he watched some of the lights began to go inside the pill, while some of it was unable to do so, and dissipated.
+
+One minute later….
+
+Two minutes later….
+
+Ten minutes later….
+
+The blue lights in his dantian are now one third of their original size, but at this time Lin Xuan became unable to move them from his dantian no matter how much effort he put in. It seems that this is his limit for his body, at this time a faint fragrance reached his nose.
+
+As he opened his eyes, Lin Xuan saw that originally rusty red trash pill has become pure white. “This is…… low-grade purifying essence pill?”
+
+Although Lin Xuan is considered mature in comparison to the others of his age, at this moment the difference was not seen, as as his face was one of shock. his usual calm demeanor was completely gone.
+
+Even after staring at it for a while, Lin Xuan was still unable to make sense of what he was seeing, however the aroma still wafting up to his nose finally broke him out of his shock, and made him realize that it really was a purifying essence pill.
+
+“Ha Ha.” After all the  time and effort Lin Xuan put in, Lin Xuan was finally rewarded with this discovery and could no longer contain his happiness. The trash pill has actually become an immortal pill, It seems that the blue lights are able to turn trash into treasure.
+
+If these lights could turn trash pills into usable immortal pills, then this truly was a treasure worth killing for.
+
+To cultivators, talent was one of the most important things, but with enough pills even the most talentless person with no spiritual roots could become a great master….
+
+Of course, this was just a theory, because even the biggest clans and schools could not afford to consume pills as if they were candy. But if these blue lights really can turn trash pills into treasures, then the situation is no longer the same…
+
+The happiness in Lin Xuan’s heart was unimaginable, but he soon smothered hi excitement, and regained his composure, as he began to plan. Although he already expected this treasure to be uncommon, he never would have expected that the effect would be one that goes against the will of heaven, turning trash into treasure. If people were to find out about him possessing it, they would be driven mad with greed, therefore Lin Xuan decided that the most important thing right now was keeping that he possessed these blue lights a secret.
+
+He did not know how Zhou Yan and Zhang Yu got their hands on this treasure, but what he did know was that there was a third party involved, but even so Lin Xuan was not worried, since Zhou Yan and Zhang Yu are dead, and it was impossible for the unknown third party to suspect a low-order disciple like himself.
+
+The thing that reassured him the most was that since others were unable to look into his dantian, unless he drew attention to himself or told anyone no one would ever suspect that he possessed such a treasure. Even if his cultivation became much higher than his peers, as long as he was careful and hid his cultivation, the chances of his exposure was minimal. As long as no one paid careful attention to him, he would be fine, with this understanding Lin Xuan threw off his worries, and decided that nothing could stop him from taking full advantage of the blue lighs.
+
+For all cultivators, to achieve success in the martial world, they need to meet two conditions, the first being that they need good spiritual roots, in other words sufficient talent, and the second requirement is that they need to be hard working, as those that slack off will never achieve anything. Disregarding the limitations of his body, Lin Xuan was confident in his willpower, as he always made the most efforts.
+
+It was safe to say that in the thundercloud valley, there was no one who could claim to be the most hard working other than Lin Xuan, as most other disciples didn’t even dare to step foot into the inner area. His cultivation methods alone show just how hard working he is. The only reason Lin Xuan was still a low-order disciple was because he lacked the talent to proceed any further, as he just an ordinary mortal, with average talent, and thus his cultivation speed was pitifully slow.
+
+However this situation will soon change, since he has finally found a solution to his slow cultivation speed. So long as he has enough immortal pills, even the most ordinary of mortals like himself can one day be a great master, of course immortal pills are not candies, and not even the strongest cultivators can afford to treat them as such.
+
+
+
+…
+
+- - -
+- - -
+
+[^1]:

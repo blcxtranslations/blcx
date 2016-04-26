@@ -1,0 +1,77 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: "https://sabertranslations.wordpress.com/2015/07/03/tempered-immortal-chapter-1/"
+sponsored: false
+completed: false
+---
+
+“Ugh!”
+
+Sighed an average looking boy with a stiff expression, after he failed again. This is the 49th time in the past 3 months that he has ended in failure, even with Lin Xuan’s mental fortitude, frustration and despair are beginning to overwhelm him.
+
+A Corner of his mouth showing a trace of a bitter smile, he shook his head and looked at his hand “ Is my innate talent really so low?”
+
+Lin Xuan tightly clenched his fists, fingernails cutting into his palm, but he didn’t seem to feel the pain.
+
+Lin Xuan who is 17 years old, has been a member of the Whirlwind Cloud Valley Sect for the past three years. Whirlwind Cloud Valley is a small martial sect with nearly a thousand disciples, and Lin Xuan is an Outer Sect Disciple.
+
+It’s been three years, and the other apprentice disciples that entered the sect with him had already entered the mid-level of gathering spirit,  even a few geniuses had entered the fifth layer, but Lin Xuan is still hovering in the first layer.
+
+Lin Xuan’s progress is slow, but not for lack of efforts, in reality he put in the most effort among the outer sect disciples. When the others practiced twice, he practiced three times, and when the others meditated for an hour, Lin Xuan meditated for three hours, but even with all his hard work, his results are small and was left far behind by the others, which filled Lin Xuan with frustration.
+
+Cultivation is divided into gathering spirit, foundation building, condensed dan, YuanYing, clutch, Dong Xuan, separate spirit, pass the eight disasters, each stage is divided into seven layers, the first two for early-stage, the third and fourth layer being mid-stage, fifth and sixth are considered late-stage, and the seventh layer is considered peak-stage, who are one breakthrough away from the next stage.
+
+Although Immortality is difficult, it is something that can be achieved with time, For example, for the first 2 layers of gathering spirit are simply crossing the threshold,  and people with good talent can pass it with the first two months of practice, and if the talent is low three to five months is fine, however this only applies to people who have spiritual roots.
+
+Simply put it is a wasted effort. And unfortunately, Lin Xuan has no spirit roots.
+
+In the beginning ordinary people like Lin Xuan with no spirit roots, even if they wanted to set foot on the path of cultivation, there would be no sect willing to take them in, but Lin Xuan is a special exception because three years ago he happened to save a Whirlwind Cloud Valley Elder who was seriously injured. The Elder in gratitude recommended Lin Xuan to become a disciple of Whirlwind Cloud Valley Sect.
+
+For three years, Lin Xuan practice never slacking off, training in the winter, dog days of summer training, sweating much more than the others, but even so he is left behind by the others.
+
+For those that pursue Immortality, talent in the most important thing, it is something impossible to make up for with efforts alone.
+
+After Washing up, Lin Xuan felt that he had reached the peak of the first layer, the distance to the second layer felt small, but that small gap was like a huge gap to Lin Xuan who had no spiritual root, so he was unable to cross over.
+
+After a long time, Lin Xuan loosened his clenched fist, frustrated, and in an attempt to drive out the depression in his heart, sat down again with his legs crossed and started to examine his body.
+
+The technique he is using is  a cultivating skill that allows one to examine their dantian and ki passages.
+
+As he looked into his dantian, he saw nothingness, the only presence is a trace of pale blue gas, which is the spiritual power. But the gas is small, and very thin due to Lin Xuan’s low talent.
+
+The so-called cultivator, that goes against heaven’s will, but to go against heaven’s will one must have the greatest power, you have to go through all kinds of difficulties in order to control the five elements, absorb the world’s aura, refining, and finally to use the power for oneself.
+
+This faint trace of spiritual power is the result of Lin Xuan’s three years of practice, which is sad amount compared to the other, because of his lack of spiritual root.
+
+His road of cultivation is therefore much more difficult than that of others.
+
+Under the guidance of the soul, threads of spiritual power that were as thin as a hair started to gather together and intertwine, and after time the spiritual power gradually grew to the thickness of a pinky.
+
+Lin Xuan’s head was surrounded by a white mist, his whole body soaked in sweat, just gathering the spiritual power requires his best effort. Compared to an average person, he really is walking on thorns.
+
+After gathering a good amount of spiritual power, Lin Xuan does not relax for even a moment, and starts to circulate the spiritual power through his heart, to the dantian and into his meridians as the teachers taught him to do.
+
+For Cultivators, the Dantian is where the spiritual power gathers, after that the Qi is circulated to the eight arteries, and when the spiritual power revolves through the eight arteries from head to toe, it is called a complete cycle.
+
+And for every revolution of the cycle, it will enhance the spiritual power in the body, although the change is small, it will eventually add up, so by doing this several times a day the spiritual power will gradually grow.
+
+Of course, with the thousands of cultivation practices, each skill’s complete cycle is not the same, and the effects are also very different.
+
+Complete Cycle, although it is a required practice for all cultivation paths, it is not an easy thing for those of the outside word, but not very hard either.
+
+Spiritual power does not need to flow through the heart, an Elder said so very clearly, so as long as the requirements are met the spiritual power would flow, but it would flow its own way because each individual had different meridians.
+
+Some people have vigorous meridians that are able to withstand more spiritual power, and also able to withstand faster flows of power, and some other people have weak meridians and their situation would be the exact opposite. In general, the better the roots the stronger the meridians, and vice versa. He had to be careful for each step, because if he increased his speed, not only would he fail to complete the cycle, it would also damage the meridians.
+
+
+- - -
+- - -
+
+[^1]:

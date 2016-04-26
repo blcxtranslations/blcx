@@ -1,0 +1,97 @@
+---
+layout: page
+number: "0000"
+name: "Sixty"
+title: "Beast Seal VS Hundred Souls Streamer"
+date: "Apr 24, 2016"
+characters: 2065
+chinese: "http://baishuku.com/html/30/30364/12441393.html"
+reddit: ""
+sponsored: false
+completed: true
+---
+
+Every single malicious spirit had a terrifying appearance of blood red eyes and hook-like fingers. They were all refined from the souls of the living that Ye Tian had collected.
+
+Because these innocent souls had all died in such tragic manners, they were all filled with vicious desires. But this was also exactly why the Hundred Souls Streamer was so powerful.
+
+A miserable and chilly wind blew accompanied by the mournful wailing of spirits, yet Lin Xuan remained unmoved. Instead, he intensified his efforts in activating the beast seal. Beast seals were not like regular ordinary seals. They were much more powerful, but to activate them, it also required one to use much more spiritual power. They could not be instantly activated like other seals.
+
+Ye Tian slightly waved the Hundred Souls Streamer in front of him as nine spirits formed. Using a technique to guide them, he shouted out "Go!"
+
+Immediately, the Yin energy in the surrounding area became much heavier. The spirits with the blood red eyes howled and pounced towards Lin Xuan.
+
+This kind of presence and power, not to mention actual fighters, even just bystanders would feel fearful and be terrified. Yet Lin Xuan was calm and collected. He only threw out his beast seal when the nine spirits were almost upon him.
+
+Bang! The beast seal ignited releasing a bright light. From the within the flames, a bestial roar sounded out, echoing through the mountain and causing the dust on the ground to fly up. A tiger cloaked in flames appeared.
+
+"Beast seal, Armoured Fierce Flame Tiger?" Yi Tian called out in alarm and surprise.
+
+Unexpectedly, Ye Tian also had knowledge of this seal. For an ordinary mortal without spiritual roots to exhibit a cultivation level of the fourth layer was already amazing, but shockingly, he even had this kind of treasure in his possession.
+
+But Lin Xuan's expression sank. He did not expect that his opponent would be this informed. It looks like it would be much harder to deal with this opponent than he originally thought. He did not stop his actions when thinking of this. His hands were moving non-stop, directing the soul of this demonic tiger to pounce towards the malicious spirits.
+
+The spirits wailed and the demonic beast howled. Both were of the Demonic Dao. Although the spirits were filled with viciousness, but they were still refined from the souls of ordinary mortals. But the Armoured Fierce Flame Tiger was a first-grade top-quality demonic beast. Its spiritual power would be comparable to an expert at the Great Perfection of the Spirit Gathering stage.
+
+The result was as expected......
+
+Roar!
+
+With one swipe of its claw, and the accompanying deathly pale demonic flame, one of the malicious spirit was annihilated.
+
+The Fierce Flame Tiger did not stop there. Raising its head, it bite down on another spirit's neck and swallowed it whole. It the licked its lips, a look of having had something delicious on its face.
+
+Although the malicious spirits did not have intelligence, but in the blink of an eye, two of their numbers have been destroyed, this caused them to instinctively fear it. Ye Tian's expression was even more dark and ugly to the extreme. Even though he had heard of beast seals before, but he never would have imagined that they were this powerful.
+
+Strictly speaking, Ye Tian's luck was really subpar. In reality, the demonic cultivation technique he had discovered was very out of the ordinary. If one followed the method described by the book to refine a Hundred Souls Streamer, then the power of the streamer would not be below that of a high-grade spirit weapon. The reason that he could not match up to Lin Xuan's beast seal was twofold.
+
+Firstly, it was not complete. Although he had collected a sufficient number of souls, and even used the souls of three cultivators as the lead[^1], but in order to give chase, he had only hurriedly refined their souls and did not take the time to perfectly fuse them into the Streamer. And this, of course, impacted the power of the Streamer.
+
+But even so, the power of the Hundred Souls Streamer could perfectly match that of a high-grade spirit weapon. If the was to compete against some other treasure, it could still come out on top. But Ye Tian had really bad luck. Although the Streamer was powerful, it was still refined from souls. That means it belonged to the Demonic Dao and was in the same category as the beast seal.
+
+The souls contained in beast seals were all demonic beasts and the one that Lin Xuan possessed was a first-class top-grade seal that contained an Armoured Fierce Flame Tiger.
+
+Even if ordinary souls were more vicious, when met with the soul of a demonic beast, they could still only be destroyed.
+
+In other words, even though in theory, the Hundred Souls Streamer was more powerful, but because they belonged in the same category, it could only be subdued by this seal of Lin Xuan's.
+
+Ye Tian also realized this point and his expression turned more ugly. He was so angry he almost vomited blood.
+
+Refining such a treasure was not easy, so, of course, he did not want to wantonly waste the souls he had by pitting them against the Armoured Fierce Flame Tiger. With a wave of the Streamer, a demonic fog emerged and blocked off the Tiger as he collected the malicious spirits back into the Streamer.
+
+Muttering to himself, he bit down on his tongue and spit out a mouthful of blood onto the Hundred Souls Streamer. Immediately, a vicious aura rose up, and even more malicious spirits emerged one after the other.
+
+But these malicious spirits did not rashly attack, but instead, under the lead of Ye Tian's techniques, gathered together and formed into a large skull.
+
+The skull was a full three metres tall and exuded a blood red glow. Its aura was truly vicious and would cause one to be terrified.
+
+Lin Xuan was also somewhat surprised. But without giving him time to think, that skull had already rushed over. The Armoured Fierce Flame Tiger let out a roar and went to meet it in battle.
+
+Although it was made of the souls of mortals, but when facing the demonic tiger, it did not show any signs of fear. Instead, it was Lin Xuan's beast seal that was at a disadvantage.
+
+Roar!
+
+Amidst the mad roaring and howling, the soul of the Armoured Fierce Flame Tiger started to dramatically increase in size. Ye Tian coldly smiled and cast a technique which gathered the demonic fog into the skull causing it to increase in size as well.
+
+Melee attacks had no effect, so the Fierce Flame Tiger opened its mouth and spat out a stream of demonic fire. The skull cruelly laughed and emitted a bloody light from its eye sockets, cancelling out the stream of fire.
+
+They were evenly matched！
+
+They were temporarily at an impasse. However, Lin Xuan's expression was extremely unsightly. Even though this seal of a demonic beast soul was not like ordinary seals, which were a one-time use item, but after its energy has been completely used it, it would no longer be of any use.
+
+Lin Xuan loathe to waste it, it was, after all, one of his precious treasures. Thinking of this, Lin Xuan reached into his bosom. But without waiting for Lin Xuan to take action, Ye Tian decided to attack first.
+
+With a swipe of his hand, an object flew out of his sleeve and changed into a Flaming Fire Snake in mid-air. It raised its head and flicked its tongue exuding a strong spiritual power.
+
+"Quick!" Ye Tian pointed with his right hand.
+
+The fire snake paused in mid-air, then immediately pounced towards Lin Xuan.
+
+"Spirit Weapon?"
+
+Lin Xuan gasped, his brows knit together tightly.
+
+- - -
+- - -
+
+[^1]: There is no clear description of what it means here. The word used is the word to draw or to guide. I am guessing currently that it is something like the core of the Streamer, where the three as used to lead the attack, kind of like the Lesser Thousand Swords in Desolate Era where the core determined the power.

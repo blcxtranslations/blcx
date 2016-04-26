@@ -1,0 +1,82 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+A killing blow ! Lin Xuan’s face darkens, she
+
+is even more ruthless than he expected…
+
+Gritting his teeth Lin Xuan faces it head on, and takes
+
+a step backwards, barely managing to dodge. Whoosh, the flying
+
+sword misses, and hits the cliff wall behind him, the force
+
+of the blow causing numerous pieces of gravel to break off from the top.
+
+Zhou Yan is stunned, she could have never imagined such a novice would be able to evade her attack. Lin Xuan didn’t run, but instead the instant the attack was over made a move of his own, somehow causing himself to sink into the ground.
+
+Zhou Yan in her anger and surprise, involuntarily started walking forward, as  Zhou Yan begins to walk forward slowly trying to figure out what was going on, and on her third step, she hears a loud snap, and a huge net drops down onto her from above.
+
+Zhou Yan however is not surprised by this and tries to control her spirit power to break free from the net, but at that moment  the ice ball Lin Xuan shot out sinks into the ground and cuts into a rope hidden at the base of a tree, as soon as the rope broke, Zhou Yan saw two wrist thick bamboo spears flying towards her.
+
+“No………”
+
+As the sound of her screams fade,her face turns pale, as the bamboo spears tear into her chest, without even having a chance to run, she dies.
+
+With unwilling eyes, her hands tighten on the treasure that she killed her master for, but after two minutes later her soul fades away, soon after Lin Xuan pulls himself out of the hole in the ground, and as he watches her body, he sighs, simply because she underestimated him, she failed to keep her guard up.
+
+Lin Xuan from the moment he was found, had been trying to figure out how to get rid of her, not just blindly trying to escape, as this clan is miles from the school. If he had tried to escape, she would have easily caught up to him and killed him, as her cultivation was higher than his, her speed with the Light-Wind technique would also be incomparable to his.
+
+Tying to escape from troubles, or even begging for mercy, Lin Xuan saw such acts as useless, the only way to survive, is to kill the other person before they kill you, and at first glance that seems like an impossibility for Lin Xuan, as even 100 Lin Xuan’s are no match for Zhou Yan.
+
+But she gave him no choice, and so long as they are the enemy anyone can always be outsmarted.
+
+Of course, thats easier said than done, if he were not as level-headed as he was, he would have had no chance to succeed.
+
+To outsmart her, he first had to analyze the situation, as he had fewer skills than her, Lin Xuan’s only advantage was that he was familiar with the terrain, in this canyon, because he has been coming here for the past two years, he knows it as if it was his own backyard.
+
+He also knew by watching how Zhou Yan, that she and her master had clearly come down to this canyon by accident, and the terrain was unfamiliar to her.
+
+So from the beginning , Lin Xuan was taking advantage of this, by twisting and turning, leading her straight into a trap. In this valley, other than the occasional rare herbs, there are also several animals that can be found, from rabbits to bears and tigers, Lin Xuan treating the place as his own private domain, occasionally went hunting for his meals.
+
+So to make things easier, he had set some traps at various place, and just now when he stopped, he had been checking the ground to check if the trap was destroyed. Thankfully, luck was on his side this time, and two of the traps were untouched and in good condition.
+
+Meant for hunting different things, one of the traps was a common pit trap made to capture animals that weren’t too large, with the top covered in weeds, Lin Xuan used that to fall into the ground.
+
+Lin Xuan had predicted that Zhou Yan, would not hesitate and would attack him right aways so he had stood in front of the pit trap and was ready to dodge her attack.
+
+Zhou Yan wouldn’t be expecting anything like that, so he expected she would be shocked, and step forward into his other trap, a trap used to catch large animals, such as tigers and bears, with not only nets, but also bamboo spears, a trap meant to kill rather than capture.
+
+Lin Xuan knew that as long as he could lure her into range, he could activate the trap, and because of its nature as a trap, she would be caught unaware and it had a high chance of success.
+
+Each step Lin Xuan had taken was calculated, using himself as the bait, and predicting how Zhou Yan would react, it was a very dangerous thing, but Lin Xuan was calmly able to plan out this strategy.
+
+Eventually his plan succeeded, not because his strength was greater than her’s, but rather because his mind was greater than his opponents.
+
+This battle, although didn’t require him to use much spiritual energy, and didn’t even take that long, left Lin Xuan mentally exhausted.
+
+Staring coldly at Zhou Yan’s corpse, Lin Xuan walked over and plucked from her hands a green crystal bracelet, not a decorative accessory, but rather a storage bracelet, Lin Xuan quickly sends his consciousness into it, and begins to take out the stuff within.
+
+Clothes, food, cosmetics, Lin Xuan didnt even look twice at that stuff and tossed it to the side.
+
+“Get.” Lin Xuan’s face lit up, as in his hand he held two translucent stones.
+
+Spirit Stones, over the past three years, Lin Xuan had heard them mentioned countless times, so he knew that they could be directly absorbed into the body, and were ranked according to the amount and purity of the spirit power contained within, divided into low-grade, mid-grade, top grade, peak-grade
+
+To cultivators, Spirit Stones, were one of the most important things, moreover they were treated as currency among cultivators.
+
+- - -
+- - -
+
+[^1]:

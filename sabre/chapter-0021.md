@@ -1,0 +1,102 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+“Ah.” Lin Xuan nodded in response to Zhao’s explanation,
+
+greatly relieving Zhao, as Lin Xuan was showing no emotions on his face.
+
+Becoming the steward of the trash room storage was
+
+only the first step in Lin Xuan’s plan, his next step had been
+
+to himself familiar with the accounting of the pills, so as to be
+
+able to do false accounts allowing him to steal pills as he needed,
+
+although he would have to be careful to not draw attention.
+
+But Lin Xuan never expected things to be so easy.
+
+Since the trash room storage was so disorganized, the accounts had never been done, and in other words, no one really knows how many trash pills there, allowing Lin Xuan to take them as needed without worry of being caught.
+
+Thinking of this, Lin Xuan finally showed a slight smile.
+
+“Immortal, Immortal” (Zhao)
+
+Hearing a voice reaching his years, Lin Xuan turned to find Zhao looking at him in a confused expression, Lin Xuan immediately put on a cold expression, giving himself a warning in his heart: “ I must not be so careless in the future, no matter what emotion im feeling it should never be visible to others.”
+
+“Nothing.” (Lin Xuan)
+
+Lin Xuan shook his head: “I just did not expect being the steward of the trash pill storage would be so easy, It seems that i will have alot of free time.”
+
+“Oh, rest assured that there is nothing to do in the trash pill room, and the few jobs that we do have to do are very small.” Zhao replied in a pleasant manner, trying to curry favor with his new boss.
+
+Lin Xuan nodded noncommittally, letting him lead the way to visit a few other places, and then picked a relatively secluded house as his own living area.
+
+Lin Xuan then had Zhao summon all the other boys, so he could announce some rules, the first being that without his permission, no one is allowed to approach within ten steps of his home.
+
+On this point, the boys didn’t have the slightest objection, since even though they were outer disciples, they still understood that everyone has their own secrets methods, and in the case of cultivators they would kill to keep their secrets.
+
+While low-level cultivators did not usually have the power to have such secret methods, these boys were living in a secluded area.
+
+Therefore, this statement made by Lin Xuan seemed very normal, leaving no doubts behind.
+
+After the boys had dispersed, Lin Xuan entered his room, to lie in bed for a while, while at the same time thinking over the day’s events as he meditated.
+
+So far everything is going well, and there is no longer a problem in getting trash pills.
+
+At different levels of cultivation, the required pills vary, as purifying essence pills are only useful for the spirit gathering stage, and were useless to those who are at foundation building stage or higher.
+
+Those higher grade pills although they have higher failure rates, there are still some uses for the trash pills created at higher levels.
+
+At any rate, at least for his cultivation level, Lin Xuan has an assured source of pills, as for the foundation building stage, he is far from achieving that so there are no worries for now.
+
+After considering things again, Lin Xuan sat up in bed, and after a moment took out a bracelet.
+
+It was Zhou Yan’s storage bracelet, which now belong to Lin Xuan, of course he wouldn’t be so silly as to put it on his wrist, as that would be tantamount to admitting his involvement in the disappearance of those two.
+
+After a quick search, Lin Xuan pulled out a talisman from the bracelet.
+
+A symbol array!
+
+Cultivation takes various forms, and along with the various energy techniques, there are also symbol arrays, which various sects use as a defensive method as well as for combat.
+
+In general, a good array requires the use of formation flags, formation circle, as well as a few other components, but those items are impossible for Lin Xuan to posses, as his cultivation is far too low, let alone that he would still be unable to use them.
+
+So what should a low-level cultivator do, are there any alternatives…?
+
+Of course.
+
+Similar to how there are magic weapons to allow for high level spirit techniques, there are also tools for allowing one to use formation arrays, that is the symbol array.
+
+Of course, the formations available through symbol arrays are the easiest and most simple of formations with limited power, but the benefits are still obvious as they are extremely easy to use and consume very little spiritual power, to the point that even low-level cultivators can easily use it.
+
+He hesitated a bit, after all formation flags, and circles as well as the other tools used in different formations can be recycled as long as they are not damaged, but the symbol array that he got from Zhang Yu, he only had twenty, and they were all single use.
+
+After thinking that, Lin Xuan still decides to use it and circulates spirit power from his dantian, while saying the incantation causing the talisman to light up and burn.
+
+Lin Xuan waves his hand, causing some wind, and shouted: “Form!”
+
+Suddenly, the spiritual power began to form up into a formation array taking the shape of the yin yang cycle, which rapidly soared up and out of the house until it enveloped the whole house.
+
+After a few moments, the rays of light began to dim, until eventually it completely faded from sight, restoring the area to its previous appearance, but this was only an illusion, as there is now a formation array around the house and if someone were to trespass they would activate it.
+
+After all, Lin Xuan had many secrets, and if someone were to see him purifying immortal pills it would be trouble, even though the boys who work for him would not dare go against  steward, it would be best not to take any risks, and so to prevent any accidents, Lin Xuan decided to use a formation array.
+
+This formation is a simple one and makes normal people unable to enter, and so long as a cultivator does not come, this formation should be foolproof.
+
+- - -
+- - -
+
+[^1]:

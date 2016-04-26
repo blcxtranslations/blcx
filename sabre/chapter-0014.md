@@ -1,0 +1,76 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+The reason no one could afford to treat immortal
+
+l pills like candy was because to begin with, those with the
+
+ability to become an alchemist were rare, and even the best of
+
+alchemists fail at least one in ten attempts, resulting in at least one
+
+trash pill, which because of its high impurity that ends up damaging
+
+the body rather than giving benefits, they are thrown away.
+
+Along with that, the various plants and materials used in
+
+creating pills are rare on their own, and taking into account the failure
+
+rates, the finished product is obviously very valuable.
+
+It is all these factors in alchemy, that gives many cultivators headaches, especially small schools like the thunder cloud valley, who don’t have the resources to call over a skilled alchemist, so of course their failure rate was very high, around fifty percent, because of that, the purifying essence pills which are the easiest pills to make and the most common, the school could still only afford to give two pills to the disciples every month.
+
+Because pills are so hard to obtain, most people are limited to relying only on their own talents to cultivate and are unable to use pills, however the difference between cultivating with pills and without was like the distance between heaven and earth, because with pills spiritual roots don’t matter. Understanding all this, Lin Xuan truly understands just how much of a great opportunity this is for him, all because of the treasure hidden in his body, that defies the heavens and turns trash into treasure.
+
+Just using thundercloud valley as an example there are more than three hundred disciples , and with each person getting two purifying essence pills every month, that totals to more than 600 pills, and then when the failure rate of around 50% is taken into account, there are just as many trash pills as there are completed pills. And because of the nature of trash pills they are usually thrown away as this is the common sense developed by the cultivating world over thousands of years. Although no one really cared or the trash pills, they weren’t just thrown away either, they were usually just put away somewhere with no security, So Lin Xuan decided to take advantage of this.
+
+Every month there are about 600 trash pills generated, and if he could get his hands on them, then he could use the blue lights to remove the impurities, which would truly let him treat immortal pills as if they were candy, and even without spiritual roots, his cultivation speed would then become faster than that of the geniuses of his generation. Although his future is now looking very bright, Lin Xuan isn’t letting himself get hot-headed, and maintains his cool-headed demeanor even in this situation.
+
+As he began to plan , Lin Xuan decided the first thing to do would be to try to figure out exactly why and how the blue lights turned trash into treasure, he must figure out the conditions required as well as how to control it, he realized that he needed to develop a firm understanding of the full capabilities of the blue lights.
+
+Determining his next step, Lin Xuan pulled the pill closer to his eyes, closely observing it. Color, Fragrance, Size, everything was correct, since other than the time when the elder made things difficult for Lin Xuan, Lin Xuan had been given purifying essence pills before, so he wouldn’t make a mistake in identifying one.
+
+Just to be safe however, Lin Xuan pulled out a true purifying essence pill from his storage bracelet, one of the pills that he got from Zhou Yan, he pulled the two together and took a close look. Compared to an authentic pill, the only difference was that the pill transformed by the blue lights was slightly smaller than the authentic pill. On top of the pill, Lin Xuan also noticed that there was a thin layer of dust, that exuded an unpleasant smell….. impurities? Not one to let such details slide by, Lin Xuan quickly realized the origin of the dust. It seems that the blue lights expelled the impurities from within the trash pill, leaving behind a pill free from any impurities.
+
+Such a thing has long been thought of as impossible, because although removing the impurities sounds easy in theory, in practice it is extremely difficult. Over tens of thousands of years, many large sects and schools have spent a lot of time and resources trying to remove the impurities, but even in all that time not even one was successful.
+
+After failing a countless amount of times, the cultivating world finally gave up a, and reluctantly began to discard the trash pills…after tens of thousands of years, the cultivating world finally decided that removing the impurities from immortal pills was impossible, and now here was Lin Xuan, staring at the small pile of dust that was the impurities.
+
+After a moment of contemplation, Lin Xuan began to understand, that the blue lights after going inside the trash pills, force out the impurities, thus turning trash into treasure. Of course, this is just his guess, and as Lin Xuan has no other way to confirm this theory, he will just have to observe carefully in the future.
+
+After thinking all this, Lin Xuan pours out another trash pill from the jade bottle, Holding it in his hand, he once again sits down cross-legged, and after a short break to recover the blue lights, he once again begins to circulate the lights.
+
+As usual, the process was difficult, but this was nothing to Lin Xuan, and this time when the lights reach his wrist, he focuses his consciousness on the lights to get a closer view so he won’t miss a single detail.
+
+Under the effect of his consciousness, the scene in front of Lin Xuan is magnified by several times, showing the scene clearly in his mind. As the lights began to flow out from his hands, some of them began to enter the pill while the rest dissipated into the air. As the lights entered the pill, black powder also began to get pushed out of the pill. At the same time the color of the pill began to get pushed out of the pill, at the same time the color of the pill began to get lighter and lighter, eventually becoming white. Lin Xuan was taking note of all the details, paying close attention to all of the changes occurring on the pill, he was also able to confirm his theory about the impurities getting pushed out.
+
+A the same time he was also paying attention to all the points of light that were not entering the pill, so Lin Xuan decided to try and gather together those wasted blue lights and forced them into the pill, thus increasing the amount of blue lights going inside the pill. The speed at which impurities were getting removed really did increase however, three minutes later.
+
+Bang!… With a loud sound and a flash of light, the pill in his palm exploded. Lin Xuan opened his hand, and moving his hand closer, saw the fragmented pill lying in his hand, issuing the smell of burning paste.
+
+It seems… that the second attempt has ended in failure.
+
+“ It seems that the blue lights can indeed separate the impurities, leaving behind just the pure essence, truly turning trash into treasure.” Lin Xuan said to himself as he sat, calmly going over everything that has just happened. Although this attempt has ended in failure, Lin Xuan is not worried, since his harvest was not small at all, after proving his theory.
+
+Thinking over what had just happened, Lin Xuan reasoned that the reason the process failed the second time was most likely the speed, the pill was unable to contain that many blue lights entering it at that speed. After hypothesizing that, Lin Xuan decided to try and confirm this theory, but before trying he had to once again rest and let the blue lights recover enough to try again.
+
+
+
+…………..
+
+- - -
+- - -
+
+[^1]:

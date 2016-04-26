@@ -1,0 +1,96 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+After cultivating for the past three years, it is the first
+
+time that Lin Xuan is able to relax and enjoy cultivation
+
+without being met with difficulties at every step of the way.
+
+With the doors and windows closed, Lin Xuan drags
+
+over a cushion, and sits down crossed-legged on the ground,
+
+pulling out the jade bottle, he pours out nine purifying essence pills.
+
+To Break through this bottleneck, Lin Xuan can be said to take great pains, yesterday he went to the medicinal pavilion, and glanced through some books, since he now does not lack the pills, he wanted to understand if there would be any negative effects from taking too many pills, or if there was a limit to how many can be taken.
+
+A clear understanding of this issue is required otherwise, after eating a lot of pills he might come to regret it. Reading the book on pills, in the first line in the Compounded Drug Illustration” Lin Xuan sees a row of introduction: purifying essence pills, the lowest level of pill, the most common of immortality pills, can increase the amount of spiritual power, if taken every day, no more than nine should be taken.
+
+What would happen after nine, the book did not say, but this description was already sufficient to Lin Xuan.
+
+He just needed to know the maximum dose of immortality pill he could take, Lin Xuan once again poured out the nine pills from the jade bottle, and carefully put them into his mouth, beginning to circulate the spiritual power to attack the second layer.
+
+The drugs quickly spread into the limbs.
+
+Boom!
+
+A boundless heat  flows out from his dantian through the various passages through which spirit power passes through, making Lin Xuan feel as if he was in a furnace.
+
+In the blink of an eye, his whole body was wet with sweat, moreover the heat flowing through him was constantly increasing rather than cooling down.
+
+Previously when taking the purifying essence pills, this never happened, was the book wrong , maybe i shouldn’t have taken so many at once.
+
+Lin Xuan’s mind flashed through several thoughts, but rather than panicking he decided to calmly deal with this unexpected accident.
+
+Although the heat was quickly becoming unbearable, due to Lin Xuan’s experience in the inner area it is still not at a level to worry him, gritting his teeth, he ignores the heat, and lets it freely move through his limbs, keeping his focus on his dantian, so long as he maintains his will, there shouldn’t be any surprises.
+
+Lin Xuan was eventually proven correct, as after two hours, the heat began to gradually weaken into a warm feeling that was spread all over.
+
+AT the same time, the spiritual power in his dantian began to change, just as if it was absorbing nutrients, it showed boundless growth, looking at just the volume it is twice as large as it was previously
+
+Lin Xuan ability with spiritual power also increased, as previously whenever he circulated through his meridians it was difficult, and the spirit power flowed slowly, but that is no longer the case.
+
+The situation is better than imagined, but Lin Xuan maintains his patience, as after all this time Lin Xuan has entered the most critical phase, Lin Xuan’s face quickly becomes motionless, fully focusing on his meditation.
+
+Ping, a light sound rang out, sounding as if something broke, in his dantian all the spiritual power immediately becomes unstable, and do not immediately re stabilize, although it can be said to be a rapid transformation, using the soul it can be observed as a change in the color of the spirit power, from spirit gathering first layer to the second layer, although it only one step, it is a qualitative change.
+
+After breaking through to the second layer, Lin Xuan immediately felt different from his past self, the spiritual power in his dantian has also greatly improved in both quality and quantity.
+
+Although Lin Xuan was happy, his expression was still calm, as the result was entirely within his expectations with the support of so many pills, if he had still been unable to breakthrough it would have been strange.
+
+The results this time proves that using pills can really overcome the defects of not having spiritual roots, thus boosting Lin Xuan’s confidence as a cultivator.
+
+After carefully understanding a bit about the second layer of the spirit gathering stage, and experiencing the differences, Lin Xuan begins to plan for the future, although he has a lot of time, his current cultivation is still far below that of the other disciples, and is imperative that he catch up.
+
+Also, the stuff that he got from Zhou Yan and Zhang Y, were unable to be used below the fourth layer, and could only look at it enviously, so for now the only thing to do is rapidly increas his strength.
+
+Thinking through all this, Lin Xuan sits down cross-legged, ready to inspect his current physical condition, to see if his current situation required any changes to his future training plans.
+
+It was then that Lin Xuan had an unexpected discovery.
+
+Looking at the changes in his dantian, Lin Xuan noticed that the blue lights have also become bigger and brighter along with the spiritual power.How?
+
+Lin Xuan began to wonder if the blue lights will grow along with his cultivation level, with the higher his cultivation the stronger the blue lights.
+
+This inference on the surface may seem strange, but after thinking about it, it is reasonable, and would even solve a problem that Lin Xuan had been worrying about.
+
+The first of which was the speed, although the blue lights recover after consumption, it will still take some time, and after all is not conductive to purifying a large amount of pills, previously, the blue lights were only able to purify two pills in a row, but now that the blue lights have doubled in size, four in a row should not be a problem.
+
+The second was for the long term, as according to Lin Xuan’s guess, since the blue lights can purify purifying essence pills, it should be also be able to purify other types of pills.
+
+Purifying essence pills were the lowest level of pills, and relatively speaking, had few steps to its creation, so its impurities were also less, but the other more advanced pills, had more complicated impurities, and thus would consume even more of the blue lights, if the blue lights had stayed the same size, they might not have been able to support the purification of a single pill.
+
+Lin Xuan has also tested, and found that the purification can not be interrupted, otherwise the result will be failure, although Lin Xuan didn’t pay much thought to that problem for now, he never would have expected that the solution would be so easy.
+
+If his guess was correct, then the blue lights will grown along with his spirit power, the more spirit power he posses, the stronger the blue lights.
+
+Of course if this is not the case, then it will take time to confirm that if there was any way to enhance the blue lights and allow them to grow.
+
+…
+
+- - -
+- - -
+
+[^1]:

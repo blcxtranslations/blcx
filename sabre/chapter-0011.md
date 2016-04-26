@@ -1,0 +1,104 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+Lin Xuan assured that he would not be found out,
+
+continued to live his life as before, and soon enough he was
+
+proven correct. Although Yun He was furious, he can do
+
+nothing but keep searching for Zhang Yu and Zhou Yan,
+
+with no progress.Even some nearby cultivation schools were
+
+suspected, and Cloud Valley entered conflicts with a few of them,
+
+and as a low level disciple and as long as he kept quiet and
+
+cultivated, it all had nothing to do with him.
+
+Overall, There were no changes in Lin Xuan’s daily life, as he maintained his usual diligent demeanor, as usual he had little to show for his efforts, the only difference was that he also spent a little time each day to try and examine the blue lights.
+
+In an instant, two weeks go by.
+
+“It seems like i need to go look up some information, i might be able to find a clue from some ancient books.” Lin Xuan thought as he lay in bed, the alternative to books was asking one of his seniors, as they were experienced with the outside world, and may have heard some things.
+
+Certainly, this was a possibility, but to Lin Xuan it was a joke, since if he was to ask an Elder and they were to know the truth, what would stop them from killing him for those lights.
+
+Lin Xuan wasn’t foolish enough to risk his life.
+
+Besides the point, his questions might reveal his connection to Zhang Yu and Zhou Yan……
+
+Those blue lights were his own secret to keep, and Lin Xuan clearly understood that he should figure it out on his own, and never let others know.
+
+With this decision, Lin Xuan went to bed, deciding to begin searching books the next morning.
+
+……
+
+The next morning Lin Xuan arrived in front of the main hall.
+
+The main hall, built into the mountainside stood magnificently, is one of the core areas of Cloud Valley, as that is where all the books are stored, and was heavily guarded, with three guard posts and 5 guards per post, with various spirit beasts patrolling the areas in between.
+
+The Spirit beasts, were actually just wild monsters, but unlike the ones in the wild, these spirit beasts gained have the power to control spiritual power as a result of how they were raised. As such they were regularly tamed by cultivators as pets. Their strength however is not to be underestimated, as they can cultivate to the same levels as humans, and a spirit beast of the same level is always stronger than a human. Moreover, once they recognize a master, they are highly loyal, and will never betray their master and would even fight to the death. It is because of this that Cloud Valley used many of them as guards.
+
+!!
+
+A roar echoes through the hills, as Lin Xuan gets within two hundred meters of the main hall. As the roar fades away, A red flash of light arrives in front of Lin Xuan, it is a large red tiger, however unlike normal tigers, this one is twice the size, with light flames all over its pure red body, causing the nearby grass to begin to burn.
+
+The imposing manner is definitely that of lions and tigers, its tyrannical aura, making the body run cold.
+
+Fierce Fire Tiger, first-level low-grade Spirit Beast!
+
+Spirit beasts are divided into eight stages corresponding to Spirit Gathering through the Eight Disasters, each level being divided into low-grade, mid-grade, high-grade, and best-grade.
+
+With first level corresponding to spirit gathering stage, second-level being foundation building, and so on……
+
+At the same rank, however, although spirit beasts have more power, they cannot win against cultivators because they do not posses the same level of intelligence.
+
+The Fire Fire Tiger’s body exceeding three meters in length, sending out flames from its whole body, is truly an imposing sight, however Lin Xuan could care less, since it simply had the mind of a domestic animal, and although Lin Xuan was looked down upon by the others in the school, he was still at the end of the day a legitimate disciple.
+
+Each spirit beast at the school knew the characteristics of all the disciples, as they had the relevant information imprinted into their minds , so that the beasts would be able to distinguish between outsiders and students.
+
+The Fierce Fire tiger, after arriving in front of Lin Xuan roars lowly, however Lin Xuan’s appearance is undisturbed, and as the Spirit beat examines Lin Xuan, the hostility in its eyes gradually fades away, quickly replaced by a pleased look, as it recognized Lin Xuan and moves to the side.
+
+Once through the door, Lin Xuan arrives in the hall, Lin Xuan examines the surroundings. The entire library being divided into  three levels, the first level containing the most volumes and was open to all students. However most of the books on the first level are merely storybooks, and held little value to cultivators.
+
+The true collection began on the second level, as they contained instructions for Alchemy, skill books, as well as different cultivation methods, and only foundation building experts and higher were allowed to borrow those books.
+
+The defenses on the first level are even more powerful on the second level, as it is guarded by not only an Elder, but also layers upon layers of spirit formations.
+
+As for the third level, that was where the most precious items were kept, they contained the cultivation manuals of each generation of school head for Cloud Valley, as well as the best training methods they discovered, only those accompanied by the school leader were allowed entrance there, as for the guard for the third layer, it was several high level monsters.
+
+As each disciple was only allowed to borrow up to three books at a time, Lin Xuan began to carefully began to search of information.
+
+As the entire first level occupied several thousand square feet, with rows of bookshelves, neatly organized, Lin Xuan begins on the left side and begins to scan titles.
+
+“Tianshan Nine Yang Jue”, “Unreliable Cloudy Daoist scripture”, “Said that Queen of night Palm”, “Evil spirit Reveres Overlord Fist” ……
+
+A martial arts skill book, it is a common one to cultivators, but to common people who are unable to cultivate , it is a high level skill.
+
+Lin Xuan shakes his head, and moves on to another corner.
+
+“Herb Records,” “13 Master Doctors,” Golden Cut veins of the….”
+
+Book after book, with hundreds of years of lost medical knowledge, but the knowledge contained within was useless to cultivators, as all it taught was how to make low level medicines, to cure various diseases of common people.
+
+Looking at the next title, the corners of Lin Xuan’s mouth reveal a sneer… no wonder these books are open to all disciples, they offer no value to cultivators, the books were all completely useless. and are simply kept here for appearance sake….
+
+Cultivating truly follows the law of the jungle, to gain power and respect, you must first have the strength to take it, mindful of that point, Lin Xuan renews his determination to cultivate
+
+- - -
+- - -
+
+[^1]:

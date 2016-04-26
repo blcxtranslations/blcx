@@ -1,0 +1,90 @@
+---
+layout: page
+number: "0000"
+name: ""
+title: ""
+date: "Nov 27, 2015"
+characters:
+chinese: "http://baishuku.com/html/30/30364/"
+reddit: ""
+saber: ""
+sponsored: false
+completed: false
+---
+
+Although after achieving the fourth layer Lin Xuan
+
+was met with a problem, as the effect of purified essence
+
+pills was greatly reduced, thus making his cultivation once
+
+again rise up in difficulty and slowing down.
+
+Its no surprise that cultivation becomes harder and
+
+harder the further you go, and so with Lin Xuan’s rise in skill,
+
+low-grade purified essence pills just aren’t enough.
+
+In accordance with common sense, it is possible to make up for the poor quality by increasing the quantity, however the problem lies with the limit of nine pills per day, thus not allowing him to overcome quality with quantity.
+
+Lin Xuan after some careful consideration, finally decided that the next step would be to once again try and purify beyond low-grade.
+
+Since according to the ancient texts, it only states that purified essence pills can only be taken nine times a day, but it does not specify a specific grade of pill, in other words since he is able to consume nine low-grade pills a day, he should also be able to eat nine pills of a higher grade per day.
+
+Since the low-grade pills are unable to meet his requirement, then of course the only option is to increase the quality, although Lin Xuan had tried once before to purify past low-grade and found it difficult, and eventually failed.
+
+The situation now is different, as the last time he tried he was only at the second layer of spirit gather stage, and is now at the fourth layer of spirit gathering stage, and since the blue lights are synchronized with his spiritual power’s  growth, the amount of blue lights he now possesses is now much greater. Although Lin Xuan can’t say for certain whether or not he has enough to purify further, but the only way to find out if its possible or not is to try it and see.
+
+After finally making his decision, Lin Xuan began to prepare, deciding to first take a short break, so that his spiritual power and blue lights can be restored to their best condition.
+
+Lin Xuan then sat down cross-legged, pouring out a  low-grade purified essence pill from a jade bottle, he holds it in his hand, and uses his divine consciousness to begin observing for any changes, as it has grown greatly along with Lin Xuan’s cultivation.
+
+Of course, his divine consciousness is still nothing compared to that of those legendary cultivators who were said to be able to spread their divine consciousness over hundreds of miles, however as far as Lin Xuan is concerned, they have nothing to do with him.
+
+The priority now is to purify a mid-grade pill.
+
+Thinking this, Lin Xuan began to circulate the blue lights, causing the blue lights to gather together, converging into a blue ribbon before moving along his meridians. This process which was once very difficult, can now be considered to be relaxing, as Lin Xuan has by this point purified thousands of pills, and practice does make perfect, and along with the improvement of his skills, his meridians are also a lot stronger than before, having more endurance, so the process truly no longer feels awkward.
+
+Eventually, the lights moving along his meridians reached his wrist and began to enter the pill in his hand.
+
+Immediately Lin Xuan’s consciousness enters the pill, magnifying the scene several times in his mind, giving Lin Xuan a clear view of the essence and impurities in the pill. Carefully controlling the speed of the blue lights, allowing them to slowly enter into the pill as the purification began, Lin Xuan watched as the blue lights slowly began to move the the impurities.
+
+This process is very difficult, because the impurities are usually tied closely with with the essences contained within the pill, making it very hard to separate the two, however the blue lights were able to do so, as they simply passed right through the essences and only affected the impurities.
+
+However the impurities in a low-grade pill and a trash pill are very different, as in a trash pill, the impurities are more spread out into a sort of powder, and thus easy to push out, but the impurities in a low-grade pill are in a thick, semi-liquid form and so it was much harder to separate them from the essence.
+
+Similarly, the size of the impurities is also much bigger than those in a trash pill, taking about three times the amount of blue lights to achieve the same result as it would in a trash pill. The last time the purification failed, because the amount of blue lights that Lin Xuan possessed was not enough, but there is now a larger amount of blue lights, allowing the process to run through to its end.
+
+It is also impossible to interrupt the purification process, meaning that he cannot purify half of it today, and then try again the next day. The blue lights only allow for success or failure, as there is no way to re-purify the pills which were partially purified.
+
+Due to his previous experiences, Lin Xuan predicted that with his current volume of blue lights, his current chance of success should be at about seventy percent, given that there are no unexpected accidents.
+
+So far, although it can be said that Lin Xuan has a lot of experience in regards to purifying pills, but as this was only his second attempt in purifying a low-grade pill, Lin Xuan was still not completely sure in the results.
+
+However, even if it ends in failure, Lin Xuan still possesses a large amount of low-grade pills, he would be able to try again and build up experience, and slowly increase his success rate, just as he did with purifying trash pills, and unlike that time he is not starting from scratch, so his success rate should still not be too bad.
+
+Having mentally prepared himself thus, Lin Xuan is no longer afraid of failure, and boldly continues the purification.
+
+Having started out with no issues, the impurities in their semi-liquid state were being steadily pushed out, although it required more energy, it looks to be sufficient.
+
+But as the impurities are gradually separated from the essence and pushed out to the edge, they stop moving further, refusing to be pushed out.
+
+How could this happen?
+
+Such a situation never occurred when purifying trash pills, Lin Xuan frowned as he began to think it over but did not panic, as that wouldn’t help anything.
+
+Using his divine consciousness to focus in on the edge of the pill, Lin Xuan saw that the edges of the pill were blocked with the liquid.
+
+“I see.” Lin Xuan maintained the flow of blue lights as he analyzed the situation, the impurities in a trash pill are in a powdery form, so pushing them out is easy, but a low-grade pill is purified the impurities are semi-liquid and thus too big to fit through the small openings, making it difficult to push out.
+
+It should be such a thing!.
+
+
+
+………
+
+- - -
+- - -
+
+[^1]:
