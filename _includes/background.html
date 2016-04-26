@@ -1,3 +1,8 @@
+<script>
+var images = ['background_0.jpg', 'background_1.jpg', 'background_2.jpg'];
+$('.background').css({'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')'});
+</script>
+
 <link rel="stylesheet" href="{{ site.baseurl }}/css/background.css">
 
 <div class="background">
