@@ -1,12 +1,12 @@
 ---
 layout: page
-number: "0000"
+number: "0060"
 name: "Sixty"
 title: "Beast Seal VS Hundred Souls Streamer"
-date: "Apr 24, 2016"
+date: "2016-04-26 11:52:52.090423"
 characters: 2065
 chinese: "http://baishuku.com/html/30/30364/12441393.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/4gjfyl/cn_tempered_immortal_chapter_0060/"
 sponsored: false
 completed: true
 ---
@@ -95,3 +95,4 @@ Lin Xuan gasped, his brows knit together tightly.
 - - -
 
 [^1]: There is no clear description of what it means here. The word used is the word to draw or to guide. I am guessing currently that it is something like the core of the Streamer, where the three as used to lead the attack, kind of like the Lesser Thousand Swords in Desolate Era where the core determined the power.
+
