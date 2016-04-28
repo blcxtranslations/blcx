@@ -1,9 +1,9 @@
 ---
 layout: page
-number: "0000"
+number: "0061"
 name: "Sixty-One"
 title: "请君入瓮"
-date: "Apr 17, 2016"
+date: "May 01, 2016"
 characters: 2090
 chinese: "http://baishuku.com/html/30/30364/12441395.html"
 reddit: ""
