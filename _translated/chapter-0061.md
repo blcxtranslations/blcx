@@ -2,18 +2,13 @@
 layout: page
 number: "0061"
 name: "Sixty-One"
-<<<<<<< HEAD
 title: "Taste of One's Own Medicine"
 date: "2016-05-28 21:34:41.599165"
-=======
-title: "请君入瓮"
-date: "May 01, 2016"
->>>>>>> 31f768dcff28a13515475c23b237c127e66d731c
 characters: 2090
 chinese: "http://baishuku.com/html/30/30364/12441395.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/4lij8x/cn_tempered_immortal_chapter_0061/"
 sponsored: false
-completed: false
+completed: true
 ---
 
 This Ye Tian definitely exceeded everyone's expectations. Not only was he a Demonic Cultivator and possessed the Hundred Souls Streamer, he also had a spirit artifact.
