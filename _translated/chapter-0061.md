@@ -63,7 +63,7 @@ But it was at that moment that Lin Xuan threw something else into the air.
 
 Ye Tian did not care about it at first. The shielding formed from demonic fog was extremely sturdy. It would even block a strike from a high-level technique of the peak of the mid-level techniques, the Ice Needles technique. With Lin Xuan's spiritual power, at most he could use some more low-grade seals, so what was there to worry about?
 
-But every soon, he realized that he was wrong!
+But very soon, he realized that he was wrong!
 
 The thing that was floating in the air immediately released an astonishing wave of spiritual power, easily overpowering the fire snake and golden rope.
 
