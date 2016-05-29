@@ -1,83 +1,86 @@
 ---
 layout: page
-number: "0000"
+number: "0061"
 name: "Sixty-One"
-title: "请君入瓮"
-date: "Apr 17, 2016"
+title: "Taste of One's Own Medicine"
+date: "2016-05-28 21:34:41.599165"
 characters: 2090
 chinese: "http://baishuku.com/html/30/30364/12441395.html"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/4lij8x/cn_tempered_immortal_chapter_0061/"
 sponsored: false
 completed: false
 ---
 
-这个叶天，还真有些出人意料，不仅是修魔者，拥有百魂幡这样的宝物，居然连灵器也有。
+This Ye Tian definitely exceeded everyone's expectations. Not only was he a Demonic Cultivator and possessed the Hundred Souls Streamer, he also had a spirit artifact.
 
-不过林轩却并不着急，反而是半忧半喜，忧的是对方法宝众多，比想象的还不好对付，喜的是叶天身家如此丰厚，杀了他，自己又可以发上一笔小财了。
+But Lin Xuan was not anxious but instead was both worried and happy at the same time. He was worried because his opponent had so many magical treasures which made him much harder to defeat than he originally thought. But he was also happy because Ye Tian was so wealthy. If he killed him, he would also have acquired a small fortune.
 
-虽然对方实力不弱，宝物众多，但比身家，就算是筑基期修士，也要比自己逊上一筹，所以取胜，林轩还是有百分之百的把握，只是要废上一番手脚了。
+Although his opponent was not weak and had many treasures, but if they were comparing wealth, even Foundation Building cultivators were slightly worse off than him. Therefore, Lin Xuan had one hundred percent confidence in his ability to achieve victory, he just had to expend more effort to do so.
 
-那半空中的火蛇，虽然声势惊人，但林轩已经用神识探查过，不过是一件下品灵器而已，这也是很正常的事，毕竟不是人人都像自己，有那么多的好运与奇遇。
+Although that fire snake floating in mid-air was giving off an astonishing presence, but Lin Xuan had already probed it with his spiritual sense, it was only a low-grade spirit artifact. This was also to be expected. After all, not everyone was like him to have such good luck and fortuitous encounters.
 
-灵动期的低阶修真者，有一件下品灵器，就已经很了不得，至于当初那位周燕周师姐，则情况特殊，她本来就是大圆满境界的高手，在门派里倍受恩宠，加上出生于一强大的修真家族，所以身家才如此丰厚，可惜最后全都便宜自己了。
+For lower layer Spirit Gathering stage cultivators to have a low-grade spirit artifact was already very impressive. As for that Senior Apprentice Sister Zhou, Zhou Yan, she had some special circumstances. She was already a Great Perfection expert and thus was favoured in the sect. Add on the fact that she came from a powerful cultivator clan, it was no surprise that she would be so wealthy. Sadly, in the end, all of it conveniently ended up in his hands.
 
-林轩袖袍一拂，一条尺许长的绳索被他祭起来了，散发着金色的光芒，迎向扑面而来的火蛇。
+Lin Xuan brushed his sleeve and let out a golden glowing rope that was perhaps a foot in length. It immediately rose to meet the fire snake.
 
-叶天几乎瞪掉眼珠，脸色难看得要死，用一种看怪物的目光看向林轩，想破头也想不通，一个连灵根都没有的普通人，身家为何会如此丰厚，兽魂之符，灵器……
+Ye Tian's eyes almost popped out and his expression turned extremely ugly. He looked as if he was looking at a freak. He wracked his brain and could still not understand what a regular person without spiritual roots would have this kind of wealth of a Beast Seal and a Spirit Artifact......
 
-虽然不清楚那究竟是何等宝物，但从威压上也知道是一件中品灵器，自己的火蛇危险了。
+Even though he was not clear on what kind of treasure it was, but from the might it was exuding, he could tell it was a mid-grade spirit artifact. His fire snake was in danger.
 
-好在对方只有第四层的修为，叶天红着眼睛，拼命的将灵力注入到火蛇之中，想要靠着“深厚”的法力，来弥补灵器品级的不足。
+Luckily, his opponent was only at the fourth layer. Ye Tian desperately poured his spiritual power into the fire snake. He wanted to use the "deepness" of his cultivation to make up for the mismatch of his spirit artifact grade.
 
-林轩表情难看，心中却冷笑不已，一眼就看穿了对方的战术与打算，因为自己用红绫草隐藏修为，所以让对方做出了错误的判断，百魂幡与兽符半斤八两，现在用下品灵器与自己的中品灵器对耗。
+Lin Xuan's expression was ugly to look at but he was sneering coldly on the inside. He had already seen through his opponent's decision and strategy. Because of the Red Silk grass extract hiding his cultivation, his opponent had mistakenly made a bad decision. The Hundred Souls Streamer was evenly matched with the Beast Seal. Now he wanted to match his low-grade spirit artifact with a mid-grade one.
 
-在叶天想来，他有第六层的修为，而林轩仅是第四层功法的弟子，虽然用下品灵器缠斗中品灵器，更加消耗灵力，但以自己的实力，应该也能够胜利！
+In Ye Tian's mind, his cultivation was at the sixth layer and Lin Xuan was only at the fourth layer. Although to go against a mid-grade spirit artifact with his low-grade one would consume a lot of spiritual power, but with his strength, he should still be victorious.
 
-鱼儿已经上钩，只要林轩将计就计，绝对能够将叶天的法力耗光，然后再杀掉对方，但林轩的打算并不是这样。
+The fish was hooked, and as long as Lin Xuan wanted to beat him at his own game, he could definitely waste all of Ye Tian's spiritual power and then kill him, but that was not Lin Xuan's plan.
 
-原因无他，一来不愿白白消耗兽魂之符的能量，二来，此地虽远离大路，但并不是十分隐秘，如果拖久了，难保不引人注意。
+And these were the reasons. Firstly, he did not want to waste the energy contained in the Beast Seal. And secondly, although they were far from the path, but they were not very concealed. If this was to drag on for a long time, there was no guarantee that they would not be discovered.
 
-如果有人前来查探，事情岂不是糟糕，林轩可不想出现这种情况，俗话说夜长梦多，速战速决才是最佳选择。
+It would be terrible if someone was to come and investigate. As the proverb goes, the situation might change if one waits too long, to resolve the issues in the shortest time possible is the best choice.
 
-林轩重新将手探入怀中，见了他的举动，叶天脸上虽然露出一丝警觉，但并不担心，原因无他，以林轩第四层的修为，同时驱动兽魂之符和一中品灵器，应该已经很勉强了，就算他还有其他宝物，也绝对没有多余的法力施展。
+Lin Xuan once again reached into his bosom. See his action, Ye Tian became more alert, but he was not worried at all because judging by Lin Xuan's cultivation of the fourth layer, to support the Beast Seal and a mid-grade spirit artifact was already very straining. Even if he had other treasures, he would still not be able to find the spiritual power to use them.
 
-最多，还能启动几张低阶的符箓。
+He could probably at most use a few more low-grade seals.
 
-想到这里，叶天冷笑一声，挥了挥手中的百魂幡，鬼雾弥漫，聚拢在一起，形成了一个黑色的护罩，将他包裹。
+Realizing this, Ye Tian coldly laughed and waved the Hundred Souls Streamer. A demonic fog formed,condensed into a black shielding, and wrapped around him.
 
-虽然单纯从威力来说，这百魂幡比上品灵器要逊色那么一点点，但却可攻可守，拥有更大的作用。
+Although it was somewhat unsophisticated, but when comparing power, although this Hundred Souls Streamer was slightly inferior to a high-grade spirit artifact, but it could both attack and defend, allowing it to have greater use.
 
-现在形势已经很明了，对方的兽魂之符能量用一分少一分，支持不了多久，而且以林轩第四层的修为，勉强操纵中品灵器，法力也会迅速耗光，不论怎么看，胜利都属于自己。
+The situation was now very clear. His opponent's Beast Seal, each move it made consumed so energy, therefore, it would not be able to last that much longer. In addition, with a cultivation at the fourth layer, Lin Xuan could only barely support the consumption of spiritual energy required by the mid-grade spirit artifact and would quickly run out of spiritual power. No matter how you looked at it, his victory was assured.
 
-叶天脸色狰狞，眼中闪过残忍而兴奋的光芒，修魔者多嗜杀，而且灭了林轩以后，还可以得到他的大量宝物，这小子还有什么虽然不清楚，但仅仅是中品灵器和兽魂之符就已经足够叶天流口水了。
+Ye Tian had a ferocious look on his face and a cruel and excited look in his eyes. Demonic cultivators liked to murder others, and after killing Lin Xuan, he would also be able to acquire all the other treasures he had. Although he was not clear on what other treasure he had, but just the Beast Seal and the mid-grade spirit artifact was already making Ye Tian drool in anticipation.
 
-对方的表情林轩一一看在眼里，心中哼了一声，表面上却装出一副惊惶的表情，似乎已经法宝尽出，穷途末路。
+Seeing everything on Ye Tian's face, Lin Xuan secretly snorted and put on a dismayed expression on his face, looking as if he had run out of treasures and as if he had reached the end of the road.
 
-“呵呵，林师弟，我不知道你一个没有灵根的弟子，修为怎么会到了第四层的境地，但没有关系，为兄今天就送你鹤驾归西，不用感激我，你的魂魄我不会浪费，会用来炼制这百魂幡的。”叶天和颜悦色的道，然而话的内容却狠毒到了令人毛骨悚然的地步。
+"Haha, Junior Apprentice Brother Lin, I have not idea how a disciple with no spiritual roots achieved a cultivation of the fourth layer, but no matter, Senior Apprentice Brother will help you pass on today. No need to thank me. I won't waste your soul either, I will use it to refine this Hundred Souls Streamer." Said Ye Tian in an amiable manner, yet the words he used would cause one's blood to run cold.
 
-林轩的脸色更难看了，额头上冒起豆大的汗滴，似乎被对方的狠话吓得心慌意乱，半空中的浑金索一颤，也被火蛇趁机压倒……
+Lin Xuan's expression turned even more ugly and sweat drops the size of beans start to appear on his forehead. It looked like he was very rattled by Ye Tian's cruel words. The golden rope also shivered in mid-air and the fire snake seized the opportunity to overwhelm it......
 
-叶天大喜，菜鸟就是菜鸟，一紧张，修为立刻锐减，不能发挥出全部的实力，他正要趁此机会，发动猛烈攻击，将对方一举歼灭。
+Ye Tian was extremely happy. Rookies were rookies, once they got flustered, their concentration would break apart and they would not be able to use their spiritual power effectively. He was about to take this opportunity to launch a vicious offensive and annihilate his opponent in one stroke.
 
-然而就在这时，林轩却将某物往半空中一抛。
+But it was at that moment that Lin Xuan threw something else into the air.
 
-叶天起初并没有在意，鬼雾所构成的防御罩，极其坚固，就算是高级法术，或者中级中最顶尖的冰针术，也能够挡下一次攻击，而以林轩现在的法力，最多能够启动低级符箓，自己有什么好担心的？
+Ye Tian did not care about it at first. The shielding formed from demonic fog was extremely sturdy. It would even block a strike from a high-level technique of the peak of the mid-level techniques, the Ice Needles technique. With Lin Xuan's spiritual power, at most he could use some more low-grade seals, so what was there to worry about?
 
-然而很快他就知道自己错了！
+But every soon, he realized that he was wrong!
 
-那物悬在空中以后，立刻放出惊人的灵力波，其威压轻易就盖过了火蛇与浑金索。
+The thing that was floating in the air immediately released an astonishing wave of spiritual power, easily overpowering the fire snake and golden rope.
 
-“上……上品灵器？”
+"High...... High-grade spirit artifact?"
 
-叶天的声音仿佛在梦呓，目光变得惊恐无比，而此时的林轩，也不再隐藏修为，法力全速运转。
+Ye Tian's voice sounded like the ravings of a madman, his eyes showing his horror. Lin Xuan also stopped hiding his cultivation, fully revolving his spiritual power.
 
-此时他表现出来的气质，整个人都不一样了，修为甚至比叶天还要更胜一筹。
+His temperament at the moment was not at all like what it was before, his cultivation was also high than Ye Tian's.
 
-“不，不可能，你入谷也不到四年，一个没有灵根的弟子，怎么可能是灵动期第六层的高手。”
+"Not, not possible. It hasn't even been four years since you entered the Valley, how could a disciple with no spiritual roots be an expert at the sixth layer of Spirit Gathering."
 
-叶天有些歇斯底里了，神情疯狂，原本他以为自己稳操胜券，没想到对方却是相爱扮猪吃老虎，设计阴谋，请君入瓮。
+Ye Tian was beginning to get hysterical, his expression frantic. Originally, he thought that victory was already in his grasp, but who would have thought that his opponent was a wolf in sheep's clothing[^1] and wanted to give him a taste of his own medicine[^2].
 
 - - -
 - - -
 
-[^1]:
+[^1]: Literally "playing the pig to eat the tiger"
+
+[^2]: Literally "please sir, get into the boiling pot"
+
