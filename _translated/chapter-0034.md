@@ -39,7 +39,7 @@ Hearing a voice drifting over, Lin Xuan turned his head and saw a young usher. F
 
 This young cultivator could only force a smile and greet the guests. After this treasures trade fair, he would have to cripple his own cultivation.
 
-Although he asked, there really was no point, the only people that could come to this place were cultivators. So the young person handed a jade strip[^1] to Lin Xuan.
+Although he asked, there really was no point, the only people that could come to this place were cultivators. So the young person handed a jade slip[^1] to Lin Xuan.
 
 Lin Xuan was somewhat surprised, but seeing that everyone around him also had one, he took it without saying anything.
 
@@ -47,7 +47,7 @@ Moving under a big tree, seeing that there was no one around him, Lin Xuan circu
 
 Lin Xuan took a look and sure enough, there were several techniques for sale. Unfortunately, the introductions were not very detailed, but it certain that the Spiritual Control technique was one of them. Lin Xuan was rejoicing in his heart, keeping a calm and collected look on his face, and withdrew his spiritual sense.
 
-Putting the jade strip[^1] into his bosom[^2], Lin Xuan moved into the basin. He first followed the requirements of the jade strip[^1] and went to a stretch of buildings on the east side of the basin.
+Putting the jade slip[^1] into his bosom[^2], Lin Xuan moved into the basin. He first followed the requirements of the jade slip[^1] and went to a stretch of buildings on the east side of the basin.
 
 There were many stand alone cottages which were the guest houses of the Soaring Cloud sect, which were now used to receive foreign cultivators. If they wanted to participate in the treasures trade fair, they must register here.
 
