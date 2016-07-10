@@ -3,10 +3,10 @@ layout: page
 number: "0063"
 name: "Sixty-Three"
 title: "Demonic Disguise Technique"
-date: "Jun 19, 2016"
+date: "2016-07-09 20:37:31.192322"
 characters: 2082
 chinese: "http://baishuku.com/html/30/30364/"
-reddit: ""
+reddit: "https://www.reddit.com/r/noveltranslations/comments/4s357u/cn_tempered_immortal_chapter_0063/"
 sponsored: false
 completed: true
 ---
@@ -81,3 +81,4 @@ The second flaws the technique must be used in conjunction with a certain medici
 [^2]: I am renaming all cultivation techniques to arts to avoid confusion with techniques used for fighting and such.
 
 [^2]: Renaming Spirit Gather to Spirit Condensation to attempt to follow the Noun way of naming stages instead of the Verb way and because it is more accurate
+
