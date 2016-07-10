@@ -13,23 +13,23 @@ completed: true
 
 Lin Xuan did not even dare to breathe too loudly after hearing such a big secret. Although it was only a few words, but just from the discussion from this father and son, he was already able to infer roughly what happened.
 
-This was the patriarch of the Yan family who was at the great perfection of the Spirit Gathering stage and was only one step away from the Foundation Building stage. Originally, he wanted to send his son to the Soaring Cloud sect and buy a mid-rank cultivation technique, but who could have know that it would be stolen from them.
+This was the patriarch of the Yan family who was at the great perfection of the Spirit Condensation stage and was only one step away from the Foundation Establishment stage. Originally, he wanted to send his son to the Soaring Cloud sect and buy a mid-rank cultivation technique, but who could have know that it would be stolen from them.
 
 This caused Yan Tian Heng to be endlessly angry. Yan family was only a mid-level cultivator clan and did not have enough strength to be allowed to operate behind the scenes and reserve items. Thus, the only mid-grade cultivation technique for sale have fallen into the hands of others. So in desperation, Yan Tian Heng decided to make a reckless move and ambushed another cultivator clan and snatched away their mid-grade cultivation technique.
 
-The clan that suffered the looting, the Wang family, their patriarch was an elder of the Floating Cloud Valley. They were one of the biggest cultivators clans in the area. Despite the fact that he had left to create his own sect, he still kept up a good relationship with the Floating Cloud Valley. With over one hundred people, three of which were in the Foundation Building stage, they are definitely a first-rate power in the cultivator clans of the area.
+The clan that suffered the looting, the Wang family, their patriarch was an elder of the Floating Cloud Valley. They were one of the biggest cultivators clans in the area. Despite the fact that he had left to create his own sect, he still kept up a good relationship with the Floating Cloud Valley. With over one hundred people, three of which were in the Foundation Establishment stage, they are definitely a first-rate power in the cultivator clans of the area.
 
 Unfortunately, the three elders of the Wang family have reached a critical point in their cultivation. Moreover, they did not think that anyone would dare to raise their hands against them, so they only sent a few juniors to attend the gathering. But this allowed Yan Tian Heng to snatch the opportunity to kill and pillage.
 
 After a clear analysis of what had happened, Lin Xuan did not dare to even move anymore. He already had misgivings against Yan Ming and after hearing of their dirty deeds today, if he was exposed, he would definitely be silenced as a witness.
 
-This vicious and ruthless father and son duo were not good people, but their cultivation were really not weak. Yan Tian Heng was only one step away from the Foundation Building stage and that Yan Ming had the same cultivation as himself, at the fourth layer.
+This vicious and ruthless father and son duo were not good people, but their cultivation were really not weak. Yan Tian Heng was only one step away from the Foundation Establishment stage and that Yan Ming had the same cultivation as himself, at the fourth layer.
 
 Of course, it worst comes to worst, he would not go without a fight. If a fight actually broke out, he still had a ray of hope. First was that Ice Needles technique he had just learned. Although it was a mid-rank technique, it still has great power. Secondly, he had acquired a lot of seals. Other than the over one hundred low-grade seals, he also had inherited many mid-grade seals from Zhang Yu and Zhou Yan.
 
 Lastly, he still had spirit tools. Even without the other two, he still was quite familiar with the golden rope. And although he could only use a portion of its power with the telekinesis technique, he could still use it as an ultimate technique.
 
-Of course, although he had confidence in himself, he would not take the initiative and attack those two. After all, one of them was at the great perfection of the Spirit Gathering stage and the less trouble he had the better. See that these two were prepared to spend the night here, Lin Xuan could only lament his bad luck. He would have to sleep in the tree tonight.
+Of course, although he had confidence in himself, he would not take the initiative and attack those two. After all, one of them was at the great perfection of the Spirit Condensation stage and the less trouble he had the better. See that these two were prepared to spend the night here, Lin Xuan could only lament his bad luck. He would have to sleep in the tree tonight.
 
 The honks of geese ran out and Yan Tian Heng stood up. Dry provisions did not taste that great and since there was prey delivering themselves then why not hunt one to fill his stomach.
 
@@ -45,7 +45,7 @@ Lin Xuan threw out a blaze seal with one hand and prepared the Ice Needles techn
 
 Yan Ming was shocked. Although the blaze and ice needles technique were low-rank techniques, but it he was hit by then, it would still take his life. In his panic, he showed the flaw of his lack of experience. Because of this clumsiness, he didn't even have time to start the spiritual shield technique and only thought of dodging. Because of his stupidity, he had already fallen into Lin Xuan's fatal trap of the quicksand technique.
 
-The quicksand had already caught his foot and the fireballs and ice needles were almost upon him. Yan Ming's face became very pale. Although he was also at the fourth layer of the Spirit Gathering stage, he had lived his like like a pampered prince from when he was young. He rarely had to do anything by himself since he had his father protecting him. Therefore, he had never been in this kind of danger before.
+The quicksand had already caught his foot and the fireballs and ice needles were almost upon him. Yan Ming's face became very pale. Although he was also at the fourth layer of the Spirit Condensation stage, he had lived his like like a pampered prince from when he was young. He rarely had to do anything by himself since he had his father protecting him. Therefore, he had never been in this kind of danger before.
 
 "Useless!"
 

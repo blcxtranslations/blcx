@@ -17,13 +17,13 @@ With the support of spiritual power, one could shake the heavens and the earth. 
 
 For example, the Ice Needles spell, Inner Sense, and Spirit Shield were all commonly used techniques.
 
-Cultivation levels were split into the Spirit Gathering, Foundation Building, Core Formation, Nascent Soul, LiHe, DongXuan, Spirit Severing, and Tribulation Ascension stages. Spirit beasts had the same corresponding stages. But techniques were different, they only have 3 stages, the low-rank techniques, mid-rank techniques, and high-rank techniques.
+Cultivation levels were split into the Spirit Condensation, Foundation Establishment, Core Formation, Nascent Soul, LiHe, DongXuan, Spirit Severing, and Tribulation Ascension stages. Spirit beasts had the same corresponding stages. But techniques were different, they only have 3 stages, the low-rank techniques, mid-rank techniques, and high-rank techniques.
 
 There was only one reason, Core Formation cultivators can have magic treasures, with matchless power. They relied on them for both offense and defense without any techniques. In the eyes of these high-level cultivators, techniques were too weak, and were just useless things, so, of course, they would not use them.
 
-Only Spirit Gathering and Foundation Building cultivators would know techniques, Spirit Gathering cultivators could only practice rank low or mid rank, high-rank techniques were for Foundation Building cultivators.
+Only Spirit Condensation and Foundation Establishment cultivators would know techniques, Spirit Condensation cultivators could only practice rank low or mid rank, high-rank techniques were for Foundation Establishment cultivators.
 
-In fact, Spirit Gathering cultivators would use them the most, because Foundation Building cultivators generally had spirit tools, which were more powerful than techniques. Of course, everything is not absolute, and there are a few high-rank techniques that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Building, they would still be unable to acquire spirit tools.
+In fact, Spirit Condensation cultivators would use them the most, because Foundation Establishment cultivators generally had spirit tools, which were more powerful than techniques. Of course, everything is not absolute, and there are a few high-rank techniques that are not inferior to spirit tools. Moreover, even though spirit tools were simplified versions of magic treasures, they were still very valuable. Some of the declining sects, or the poorer rogue cultivators, even if they reached Foundation Establishment, they would still be unable to acquire spirit tools.
 
 Thus, it can be seen that Lin Xuan, having three spirit tools, one of which was a top grade tool, was very rich indeed.
 
@@ -65,7 +65,7 @@ One must work harder than anyone else to be better than everyone else. If it was
 
 Focus on cultivating!
 
-Day by day, Lin Xuan's studies progressed smoothly. His first spell, the Spirit Shield, was a defensive spell, it was also the Spirit Gathering, and even Foundation Building cultivators favourite and most used basic defensive spell.
+Day by day, Lin Xuan's studies progressed smoothly. His first spell, the Spirit Shield, was a defensive spell, it was also the Spirit Condensation, and even Foundation Establishment cultivators favourite and most used basic defensive spell.
 
 The principle is not difficult, it could even be said to be very simple. It was to use spiritual power to cover the body, which could block the enemy's attack.
 

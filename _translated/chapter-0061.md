@@ -15,11 +15,11 @@ This Ye Tian definitely exceeded everyone's expectations. Not only was he a Demo
 
 But Lin Xuan was not anxious but instead was both worried and happy at the same time. He was worried because his opponent had so many magical treasures which made him much harder to defeat than he originally thought. But he was also happy because Ye Tian was so wealthy. If he killed him, he would also have acquired a small fortune.
 
-Although his opponent was not weak and had many treasures, but if they were comparing wealth, even Foundation Building cultivators were slightly worse off than him. Therefore, Lin Xuan had one hundred percent confidence in his ability to achieve victory, he just had to expend more effort to do so.
+Although his opponent was not weak and had many treasures, but if they were comparing wealth, even Foundation Establishment cultivators were slightly worse off than him. Therefore, Lin Xuan had one hundred percent confidence in his ability to achieve victory, he just had to expend more effort to do so.
 
 Although that fire snake floating in mid-air was giving off an astonishing presence, but Lin Xuan had already probed it with his spiritual sense, it was only a low-grade spirit artifact. This was also to be expected. After all, not everyone was like him to have such good luck and fortuitous encounters.
 
-For lower layer Spirit Gathering stage cultivators to have a low-grade spirit artifact was already very impressive. As for that Senior Apprentice Sister Zhou, Zhou Yan, she had some special circumstances. She was already a Great Perfection expert and thus was favoured in the sect. Add on the fact that she came from a powerful cultivator clan, it was no surprise that she would be so wealthy. Sadly, in the end, all of it conveniently ended up in his hands.
+For lower layer Spirit Condensation stage cultivators to have a low-grade spirit artifact was already very impressive. As for that Senior Apprentice Sister Zhou, Zhou Yan, she had some special circumstances. She was already a Great Perfection expert and thus was favoured in the sect. Add on the fact that she came from a powerful cultivator clan, it was no surprise that she would be so wealthy. Sadly, in the end, all of it conveniently ended up in his hands.
 
 Lin Xuan brushed his sleeve and let out a golden glowing rope that was perhaps a foot in length. It immediately rose to meet the fire snake.
 
@@ -73,7 +73,7 @@ Ye Tian's voice sounded like the ravings of a madman, his eyes showing his horro
 
 His temperament at the moment was not at all like what it was before, his cultivation was also high than Ye Tian's.
 
-"Not, not possible. It hasn't even been four years since you entered the Valley, how could a disciple with no spiritual roots be an expert at the sixth layer of Spirit Gathering."
+"Not, not possible. It hasn't even been four years since you entered the Valley, how could a disciple with no spiritual roots be an expert at the sixth layer of Spirit Condensation."
 
 Ye Tian was beginning to get hysterical, his expression frantic. Originally, he thought that victory was already in his grasp, but who would have thought that his opponent was a wolf in sheep's clothing[^1] and wanted to give him a taste of his own medicine[^2].
 

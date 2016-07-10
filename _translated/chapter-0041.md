@@ -13,9 +13,9 @@ completed: true
 
 Using the medallion to open the restrictions, Lin Xuan returned to his room. As soon as he entered, he stood silently stood beside the bed and became gloomy. The reason was because originally, he wanted to simply waste some time in the cafeteria and wanted to see if he could hear any useful information. Who knew he would learn of such shocking news.
 
-When he initially learned that there would be four mid-rank techniques for sale in the afternoon session of the trades fair, he was in a great mood. Because his goal was simply to acquire the Spiritual Control technique that was included in these cultivation techniques. He did not have any requirements as to whether if it was a good or bad technique since it was only usable by Foundation Building cultivators and he was still far from that stage.
+When he initially learned that there would be four mid-rank techniques for sale in the afternoon session of the trades fair, he was in a great mood. Because his goal was simply to acquire the Spiritual Control technique that was included in these cultivation techniques. He did not have any requirements as to whether if it was a good or bad technique since it was only usable by Foundation Establishment cultivators and he was still far from that stage.
 
-He only needed to learn the Spiritual Control technique, as to the mid-rank cultivation techniques of Foundation Building, he only needed to think about that when the time came. It was still too early right now.
+He only needed to learn the Spiritual Control technique, as to the mid-rank cultivation techniques of Foundation Establishment, he only needed to think about that when the time came. It was still too early right now.
 
 With this idea in mind, of the four techniques, he should not have a problem acquiring one of them.
 
@@ -23,7 +23,7 @@ But not......
 
 According to that old man, of the four mid-rank techniques, three of them have already been reserved by the cultivator clans. That only leaves one choice for him.
 
-They were not like the low-rank techniques of the Spirit Gathering stage. It was not often that a mid-rank technique showed up and so they were in high demand. But the number of cultivator clans participating in this gathering were not limited to just three. The other clans and rogue cultivators are probably also aiming for that last mid-rank technique and the difficulty of acquiring it for himself has also gone up greatly.
+They were not like the low-rank techniques of the Spirit Condensation stage. It was not often that a mid-rank technique showed up and so they were in high demand. But the number of cultivator clans participating in this gathering were not limited to just three. The other clans and rogue cultivators are probably also aiming for that last mid-rank technique and the difficulty of acquiring it for himself has also gone up greatly.
 
 Although speaking in terms of spiritual medicine, Lin Xuan was confident he would not lose to anyone, but if he was to do that......
 
@@ -51,13 +51,13 @@ Lin Xuan also did not delay and headed towards the south side of the plaza as de
 
 "How much for this Frozen Heart technique?" See that the jade slip was still at the stall, Lin Xuan released a relieved sigh because he did not come too late. But he did not show it on his face.
 
-"You are?" The one responsible for the stall was a latter stage Spirit Gathering cultivator. Taking a look at Lin Xuan, he was curious, because this was a technique that could only be used if one was at the Foundation Building stage.
+"You are?" The one responsible for the stall was a latter stage Spirit Condensation cultivator. Taking a look at Lin Xuan, he was curious, because this was a technique that could only be used if one was at the Foundation Establishment stage.
 
 Of course Lin Xuan would not stupidly reveal his usage of it, so he slightly raised his chin in a proud manner and asked: "I asked you how much is it?"
 
 His indifferent and haughty looked awed the other person. Although he was dressed like a rogue cultivator, but he had an extraordinary bearing, it could be possible that he had powerful teachers backing him.
 
-Thinking again of the fact that he wanted to purchase a cultivation technique that only Foundation Building cultivators could use, the owner of the stall immediately adopted a better attitude and smilingly said: "One hundred and fifty low-grade Purified Essence pills."
+Thinking again of the fact that he wanted to purchase a cultivation technique that only Foundation Establishment cultivators could use, the owner of the stall immediately adopted a better attitude and smilingly said: "One hundred and fifty low-grade Purified Essence pills."
 
 Seeing that the stall owner changed his attitude, Lin Xuan secretly smiled, because that was his intention. Since this was the only mid-rank cultivation technique left and a lot of other people wanted it, then being low key made no sense. It was better to be a little arrogant, this way, people would be unsure and might think he had powerful backing. This way he could add an extra layer of doubt.
 
@@ -65,7 +65,7 @@ But it went much better than expected, at least, there were no other buyers. It 
 
 Lin Xuan reached into his bosom and was preparing to retrieve the pills. But at that moment, a frivolous voice sounded behind him. "One hundred and fifty Purified Essence pills, I'll take this Frozen Heart technique."
 
-Lin Xuan's heart dropped. Who knew that in the end, there would still be an unexpected turn of events. Turning around with an expressionless face, he saw that it was a Spirit Gathering cultivator of about twenty-seven or eight years old who was dressed like the son of a noble family.
+Lin Xuan's heart dropped. Who knew that in the end, there would still be an unexpected turn of events. Turning around with an expressionless face, he saw that it was a Spirit Condensation cultivator of about twenty-seven or eight years old who was dressed like the son of a noble family.
 
 His clothes along with his tiresome expression all pointed to the fact that he was a member of a cultivator clan.
 
@@ -79,7 +79,7 @@ Bang, Bang. Two jade bottles were thrown onto the stand. Then that young man rea
 
 "Haha, first come first served. Can you, a rogue cultivator, even afford a mid-rank technique?" The youth ridiculed. "Moreover, even if you have the pills, do you dare to fight for it with my Yan family?"
 
-Yan family was a medium sized cultivator clan. They did not have many people, only about a dozen cultivators. However, their patriarch was at the great perfection of the Spirit Gathering stage and was only a step away from the Foundation Building stage.
+Yan family was a medium sized cultivator clan. They did not have many people, only about a dozen cultivators. However, their patriarch was at the great perfection of the Spirit Condensation stage and was only a step away from the Foundation Establishment stage.
 
 This knowledge of the Yan family flashed in his mind. Lin Xuan did not say anything else and retrieved the pills from his bosom. "One hundred sixty Purified Essence pills, I will take it."
 

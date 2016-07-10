@@ -21,7 +21,7 @@ Lin Xuan had a very unsightly expression and was silent for a quite a while. Sud
 
 "This kind of garbage technique, are you embarrassed using it?"
 
-Yan Tian Heng coldly laughed and did not make any moves. The hail technique was only an entry level technique. Not to mention a fourth layer cultivator, even if a Foundation Building cultivator used this kind of basic technique, it would still not be able to break through his spiritual shield.
+Yan Tian Heng coldly laughed and did not make any moves. The hail technique was only an entry level technique. Not to mention a fourth layer cultivator, even if a Foundation Establishment cultivator used this kind of basic technique, it would still not be able to break through his spiritual shield.
 
 Of course, Yan Tian Heng was also not the kind of person who would idly take a beating. He extended his hand and once again a firebird appeared causing a heatwave to bellow out.
 
@@ -53,7 +53,7 @@ Large amounts of water type cold air were produced in the air but Yan Tian Heng 
 
 Ice Needles technique!
 
-Yan Tian Heng blurted out in surprise, unable to keep down his fear anymore. The only reason was that even though the Ice Needles technique was also a mid-rank technique, but its power was definitely not lower than that of high-rank techniques. The only problem as that it was very hard to cultivate, even he, an expert at the great perfection of the Spirit Gathering stage could not use it. Yet this youth at the low level of the fourth layer......
+Yan Tian Heng blurted out in surprise, unable to keep down his fear anymore. The only reason was that even though the Ice Needles technique was also a mid-rank technique, but its power was definitely not lower than that of high-rank techniques. The only problem as that it was very hard to cultivate, even he, an expert at the great perfection of the Spirit Condensation stage could not use it. Yet this youth at the low level of the fourth layer......
 
 He originally thought that Lin Xuan was simply wealthy and had many seals. But now it looks like he had made an error in his judgment. This brat's power was very shocking. He was only pretending to be weak and intentionally lowering his foe's vigilance.
 

@@ -13,7 +13,7 @@ completed: true
 
 The hardest technique, Ice Needles, has already been grasped, and the last technique, Imperial Wind, was much easier. Of course, this was a comparison, so it took Lin Xuan nearly a week to grasp.
 
-Foundation Building cultivators can ride on their spirit tools, and travel thousands of kilometres a day. Spirit Gathering cultivators do not have this kind of ability. But the Imperial Wind spell was also extraordinary, take Lin Xuan as an example. With one movement, he could float nearly fifty meters, and jumping up, he could easily reach a height of close to twenty meters.
+Foundation Establishment cultivators can ride on their spirit tools, and travel thousands of kilometres a day. Spirit Condensation cultivators do not have this kind of ability. But the Imperial Wind spell was also extraordinary, take Lin Xuan as an example. With one movement, he could float nearly fifty meters, and jumping up, he could easily reach a height of close to twenty meters.
 
 Using the Imperial Wind technique to travel, in the eyes of ordinary people, was already like flying. Also, after grasping this kind of technique, the body would become much more flexible. The benefits were obvious.
 
@@ -47,9 +47,9 @@ But this difficult problem was placed in front of Lin Xuan. There was no way to 
 
 The more advanced version of telekinesis is the Spiritual Control technique, which is a mid-rank technique. It should be stored on the second floor of the library and the only way to read it would be to meet one of the following two conditions.
 
-Either reach the Foundation Building stage and become a high-level cultivator of the sect which naturally grants the qualifications to enter. But Lin Xuan directly rejected this idea. How can the path of cultivation be that easy? Even now, with the support of pills, to want to establish the foundation, would still require a long time.
+Either reach the Foundation Establishment stage and become a high-level cultivator of the sect which naturally grants the qualifications to enter. But Lin Xuan directly rejected this idea. How can the path of cultivation be that easy? Even now, with the support of pills, to want to establish the foundation, would still require a long time.
 
-And the second way, as a Spirit Gathering disciple, if one showed outstanding talent, and possessed a spirit tool, one can also petition the patriarch for admission onto the second floor of the library to consult the Spiritual Control technique.
+And the second way, as a Spirit Condensation disciple, if one showed outstanding talent, and possessed a spirit tool, one can also petition the patriarch for admission onto the second floor of the library to consult the Spiritual Control technique.
 
 On the surface, this seemed like a practical choice which could solve Lin Xuan's problem, but this is also a dead end. There is only one reason. After petitioning, if he wanted to be granted permission, then he must be tested. Although Lin Xuan's cultivation, compared to the other disciples of the sect, can be considered outstanding, but he would be hard pressed meet the requirements of the assessment.
 

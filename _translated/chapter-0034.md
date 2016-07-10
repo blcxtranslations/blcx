@@ -21,11 +21,11 @@ Lin Xuan did not move forward to strike up a conversation, instead, he deliberat
 
 And like this, after almost an hour, Lin Xuan arrived at the peak. However, he could not see anything because there were layers upon layers of fog shrouding his line of sight.
 
-Lin Xuan smiled slightly. Although he was merely a cultivator of the Spirit Gathering stage, but even he could tell with a single glance that this was the most shallow of the confusion arrays.
+Lin Xuan smiled slightly. Although he was merely a cultivator of the Spirit Condensation stage, but even he could tell with a single glance that this was the most shallow of the confusion arrays.
 
-This kind of array, strictly speaking, could not be considered a restrictive array. Because it was too crude and too low levelled. Even Spirit Gathering stage one cultivators, if they concentrated spiritual power to their eyes, would not be affected. This array was used mainly to keep mortals away. After all, although Sky Pillar peak was very steep and treacherous, but there were still martial arts masters among mortals. If they had the proper tools, they could still be able to climb to the peak. So an array to differentiate between cultivators and mortals was placed here.
+This kind of array, strictly speaking, could not be considered a restrictive array. Because it was too crude and too low levelled. Even Spirit Condensation stage one cultivators, if they concentrated spiritual power to their eyes, would not be affected. This array was used mainly to keep mortals away. After all, although Sky Pillar peak was very steep and treacherous, but there were still martial arts masters among mortals. If they had the proper tools, they could still be able to climb to the peak. So an array to differentiate between cultivators and mortals was placed here.
 
-Lin Xuan was already at the middle stages of the Spirit Gathering stage, so naturally this array would not affect him. After concentrating his spiritual power, flowing it along his meridians to his eyes, the illusive fog suddenly vanished, and in front of him appeared simple teleportation array.
+Lin Xuan was already at the middle stages of the Spirit Condensation stage, so naturally this array would not affect him. After concentrating his spiritual power, flowing it along his meridians to his eyes, the illusive fog suddenly vanished, and in front of him appeared simple teleportation array.
 
 The reason that the teleportation array was called simple was because the movement distance of this array was very short. But this was also good because it did not require much energy to use. There was no need to use spirit stones to power it, one only needed to inject spiritual power into the eye of the array for it to work.
 
@@ -59,9 +59,9 @@ Lin Xuan was determined to not have his identity exposed and did not hesitate to
 
 "Okay, this is your transaction token, hold on to it."
 
-Although it was only a casual showing off his power, the old man still made Lin Xuan speechless. He was actually in the early stages of Foundation Building. But like the young usher, he also had dull eyes, because after the trade fair, he also had to cripple his own cultivation and become a mortal.
+Although it was only a casual showing off his power, the old man still made Lin Xuan speechless. He was actually in the early stages of Foundation Establishment. But like the young usher, he also had dull eyes, because after the trade fair, he also had to cripple his own cultivation and become a mortal.
 
-One Foundation Building cultivator was already this powerful, and the Soaring Cloud sect still had at least a dozen more, and they were still forced to disband. Lin Xuan was very curious as to just how powerful Core Formation cultivators were. Although the patriarch of the Floating Cloud Valley was a Core Formation cultivator, but as a low-level disciple, he only saw him from afar when entering the sect. Usually the patriarch, Immortal Yun He, was in seclusion, and even when he came out, Lin Xuan would not be qualified to see him again.
+One Foundation Establishment cultivator was already this powerful, and the Soaring Cloud sect still had at least a dozen more, and they were still forced to disband. Lin Xuan was very curious as to just how powerful Core Formation cultivators were. Although the patriarch of the Floating Cloud Valley was a Core Formation cultivator, but as a low-level disciple, he only saw him from afar when entering the sect. Usually the patriarch, Immortal Yun He, was in seclusion, and even when he came out, Lin Xuan would not be qualified to see him again.
 
 He was somewhat moved in his heart but only showed an indifferent look. Lin Xuan took the medallion and went to look at his room. Although it cannot be said to be luxurious, it was still spacious and comfortable. It was especially wonderful because there was a layer of restriction around the house that would only allow the holder of the medallion through. This would not only let the cultivator sleep and rest, but also allow them to safely cultivate in peace.
 

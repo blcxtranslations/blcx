@@ -57,11 +57,11 @@ The restrictions outside of his house were intact. It looks like in the time he 
 
 Although this trip was somewhat troublesome, you could even say it was very dangerous, but there were also ample rewards. Other than the spirit stones and treasures, he now had three extra cultivation techniques, the Spiritual Control technique problem was solved, and now he even had the Soaring Cloud technique to help with his current cultivation.
 
-Although it was a low-rank cultivation technique, but even Foundation Building experts held it in high esteem. When used to cultivate in the Spirit Gathering stage, not only will it increase cultivation speed, it will also build a firmer foundation.
+Although it was a low-rank cultivation technique, but even Foundation Establishment experts held it in high esteem. When used to cultivate in the Spirit Condensation stage, not only will it increase cultivation speed, it will also build a firmer foundation.
 
-The path of cultivation was almost endless. Although the Spirit Gathering stage was the lowest stage, but one cannot overlook this stage. This was the stage where the foundation was laid. If the foundation is unstable, then it will hinder future progress. If the foundation is firm, then the benefits will gradually manifest.
+The path of cultivation was almost endless. Although the Spirit Condensation stage was the lowest stage, but one cannot overlook this stage. This was the stage where the foundation was laid. If the foundation is unstable, then it will hinder future progress. If the foundation is firm, then the benefits will gradually manifest.
 
-Lin Xuan did not immediately start cultivating but instead decided to rest and recover for a day. The battle with the father and son of the Yan family, although he did not suffer any injuries, was still very difficult. Even with the help of the spirit tool, Yan Tian Heng was still an expert of the great perfection of the Spirit Gathering stage.
+Lin Xuan did not immediately start cultivating but instead decided to rest and recover for a day. The battle with the father and son of the Yan family, although he did not suffer any injuries, was still very difficult. Even with the help of the spirit tool, Yan Tian Heng was still an expert of the great perfection of the Spirit Condensation stage.
 
 It wasn't only a contest of strength. It was also a battle of wits, of strategies of attacking the mind, of pretending to be weak, and of laying clever traps. Then with the addition of hurrying along during the night and only resting for two hours, his body had already been exhausted. To cultivate in this condition would definitely not yield good results. Therefore, Lin Xuan decided to recover first. Haste makes waste. Besides, it was only a few days and does not make a big difference.
 
@@ -71,7 +71,7 @@ This trip allowed Lin Xuan to deeply understand the importance of spiritual powe
 
 And spirit tools indeed had incomparable power. He could barely use his fourth layer cultivation to control the mid-grade golden rope. If he had enough spiritual power and could control that high-grade flying sword, then he would be able to speedily and easily remove Yan Tian Heng's head.
 
-It doesn't matter how many treasures one had, if one did not have enough spiritual power, then they were all useless or, at least, they could not display their full power. So the priority now is to increase his cultivation. As to the Spiritual Control technique, he can take it slow and start learning it once he enters the fifth or sixth layer of Spirit Gathering.
+It doesn't matter how many treasures one had, if one did not have enough spiritual power, then they were all useless or, at least, they could not display their full power. So the priority now is to increase his cultivation. As to the Spiritual Control technique, he can take it slow and start learning it once he enters the fifth or sixth layer of Spirit Condensation.
 
 Summarizing his experiences was Lin Xuan's strong point. He had learned a lot from this trip such as the tyranny of the sect and cultivator clans or how the rogue cultivators can only be angry and didn't dare to speak out. It also helped him understand that there was no reasoning in the cultivation world. In this kind of might makes right world, fists were the reason, the principle, and the justification. If you don't want to be bullied, then you have to strive to increase your strength.
 

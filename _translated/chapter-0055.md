@@ -11,7 +11,7 @@ sponsored: false
 completed: true
 ---
 
-Lin Xuan went to the Young Hawks Pavilion. He had not listened to a lecture in a long time. Although he was already in the latter layers of the Spirit Gathering stage, but listening to Foundation Building elders talking about their experiences can still save him from certain pitfalls along the road of cultivation.
+Lin Xuan went to the Young Hawks Pavilion. He had not listened to a lecture in a long time. Although he was already in the latter layers of the Spirit Condensation stage, but listening to Foundation Establishment elders talking about their experiences can still save him from certain pitfalls along the road of cultivation.
 
 But unlike before, Lin Xuan did not select a remote corner, but instead, chose a good seat in the front. He no longer needed to worry about exposing his cultivation now that he had the green liquid refined from the Red Silk grass.
 
@@ -58,11 +58,11 @@ As to whether other people will fall of this scheme, Lin Xuan was not a saint, h
 
 An ancient bell rung. The various groups of disciples quickly stopped their discussions, assembled together, and saluted the yellow robed lecturer. "Master."
 
-"Alright." The Foundation Building cultivator nodded. He glanced around. There was not the slightest trace of suspicion when his gaze passed over Lin Xuan. He then started lecturing.
+"Alright." The Foundation Establishment cultivator nodded. He glanced around. There was not the slightest trace of suspicion when his gaze passed over Lin Xuan. He then started lecturing.
 
 ......
 
-Two hours later, Lin Xuan left the Young Hawks Pavilion. The lecturer did not teach any new techniques but did talk about his experiences when cultivating. Lin Xuan listened with great interest and felt greatly enlightened. This past year, with the help of the medicinal power of pills, and because of his spending ten times the effort compared to others, he was able to rapidly rise from the first layer to the sixth layer of the Spirit Gathering stage.
+Two hours later, Lin Xuan left the Young Hawks Pavilion. The lecturer did not teach any new techniques but did talk about his experiences when cultivating. Lin Xuan listened with great interest and felt greatly enlightened. This past year, with the help of the medicinal power of pills, and because of his spending ten times the effort compared to others, he was able to rapidly rise from the first layer to the sixth layer of the Spirit Condensation stage.
 
 This could be considered very fast. But he was not very clear on the minute details of the cultivation techniques. Currently, there were no visible issues, but as time goes on and as he treads further upon the path of cultivation, there would be a lot of hidden damage.
 

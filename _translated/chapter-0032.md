@@ -39,7 +39,7 @@ This commandment has been upheld for tens of thousands of years. Who exactly it 
 
 So, although the Soaring Cloud sect was only a fourth or fifth rate sect after this news was spread, it still caused a sensation. Especially to the cultivators in the couple of thousands of kilometres of the surrounding area, they all acted without delay, getting ready to participate in the treasures trade fair.
 
-"Treasures trade fair?" Lin Xuan was momentarily stunned. Is this the mid-rank techniques for Foundation Building stage that they just mentioned? Although Lin Xuan was excited and wanted to learn more about it, but on his face, he did not display any expression, and casually said: "What is this treasures trade fair? Could junior brothers advise me?"
+"Treasures trade fair?" Lin Xuan was momentarily stunned. Is this the mid-rank techniques for Foundation Establishment stage that they just mentioned? Although Lin Xuan was excited and wanted to learn more about it, but on his face, he did not display any expression, and casually said: "What is this treasures trade fair? Could junior brothers advise me?"
 
 Although they have only known each other for a short while, but Lin Xuan had already seen through Li Hai's character. This guy is one of those that could not keep anything to himself, and as long as one casually brought a point, then he would continue to talk about that point.
 
@@ -61,7 +61,7 @@ After gathering clear information about this, Lin Xuan was very glad. This was d
 
 "What? Does senior brother want to go purchase treasures?"
 
-Li Hai looked at Lin Xuan curiously. Although the junior brother Zhao's cultivation was extraordinary, but that was only relative to his age. A Spirit Gathering stage cultivator should not have anything that could be exchanged.
+Li Hai looked at Lin Xuan curiously. Although the junior brother Zhao's cultivation was extraordinary, but that was only relative to his age. A Spirit Condensation stage cultivator should not have anything that could be exchanged.
 
 "Haha, of course not." Lin Xuan would not stupidly expose his intent. "How could this lowly one have anything to trade? I can only look on enviously. I am just curious and want to find out more, that's all."
 

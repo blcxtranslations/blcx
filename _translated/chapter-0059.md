@@ -55,7 +55,7 @@ But at the moment, Lin Xuan was not relaxed at all. Originally, he hid in the gr
 
 That Hundred Souls Streamer's power also caused Lin Xuan to worry.
 
-The difficulty of this battle far exceeded the one where he faced the Yan family patriarch. And although Lin Xuan was very much on guard, he was not overly worried in his heart. This was because he was not the same Lin Xuan from three months ago. He now had the power of the sixth layer of the Spirit Gathering stage.
+The difficulty of this battle far exceeded the one where he faced the Yan family patriarch. And although Lin Xuan was very much on guard, he was not overly worried in his heart. This was because he was not the same Lin Xuan from three months ago. He now had the power of the sixth layer of the Spirit Condensation stage.
 
 The two of them were mutually worried about the other and neither were in a nostalgic mood. After his sneak attack failed, Lin Xuan did not attempt to strike again and prepared to counter Ye Tian's attack instead.
 
@@ -63,7 +63,7 @@ But although Ye Tian was also very clever and cunning, when compared to Lin Xuan
 
 Suddenly, a black fog dispersed everywhere. Countless malicious ghosts and spirits appeared as terrifying wails sounded out.
 
-Yet Lin Xuan was unmoved, he even displayed a ridiculing smile. This kind of grand display, if it was real, would require one to be at least in the Foundation Building level. But his guy in front of his clearly did not have enough spiritual power to support it. Therefore, this must be an illusion.
+Yet Lin Xuan was unmoved, he even displayed a ridiculing smile. This kind of grand display, if it was real, would require one to be at least in the Foundation Establishment level. But his guy in front of his clearly did not have enough spiritual power to support it. Therefore, this must be an illusion.
 
 But just because it was an illusion does not mean that it was harmless. Even if one knew that it was not real, but when facing such a horrific sight, if it was someone else, the would definitely feel weak in the knees and break out in cold sweat. Under such intense dread, they would be able to at most display twenty to thirty percent of their power.
 

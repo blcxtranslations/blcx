@@ -11,7 +11,7 @@ sponsored: false
 completed: true
 ---
 
-Not so long ago, Lin Xuan had already reached the fourth layer of Spirit Gathering and could already use spirit tools. But a long time ago, from when he acquired them from Zhang Yu and Zhou Yan, he was already paying attention to spirit tools. Asking others about them would arouse suspicion, and of course, Lin Xuan would certainly not do something so stupid. So he quietly researched by consulting many books.
+Not so long ago, Lin Xuan had already reached the fourth layer of Spirit Condensation and could already use spirit tools. But a long time ago, from when he acquired them from Zhang Yu and Zhou Yan, he was already paying attention to spirit tools. Asking others about them would arouse suspicion, and of course, Lin Xuan would certainly not do something so stupid. So he quietly researched by consulting many books.
 
 The second and third floors of the library is closed off to lower levelled disciples. The books on the first floor, to cultivators, were mostly trash, since there were no cultivation techniques. But the first floor had a lot of books on introductory knowledge on a variety of subjects.
 
@@ -31,7 +31,7 @@ Suddenly, the golden rope emitted a brilliant light and grew to be several meter
 
 But just injecting spiritual power was only the first step, the second was to let the spiritual sense leave the body, attach to the spirit tool, and take control and manipulate the tool.
 
-This was the basic principle of telekinesis and also the reason that the fourth layer of Spirit Gathering was required to use spirit tools.
+This was the basic principle of telekinesis and also the reason that the fourth layer of Spirit Condensation was required to use spirit tools.
 
 Because spiritual sense was proportional to one's cultivation, before achieving the fourth layer, one's spiritual sense would be too weak, and simply could not control and manipulate spirit tools.
 
@@ -45,13 +45,13 @@ Lin Xuan's face showed a sliver of delight, but his mind did not fluctuate, and 
 
 In the blink of an eye, half an hour passed.
 
-The golden rope was back to its original shape. Lin Xuan was covered in sweat, lying on his bed. He didn't want to move even a finger, his spiritual power was almost exhausted. No wonder spirit tools were so powerful, it consumed simply too much spiritual power. Even though someone at the fourth layer of Spirit Gathering was able to manipulate them, but if they wanted to wilfully operate them as they liked, they would need to be at least in the fifth layer. And only at the sixth layer would one have enough spiritual power to support them.
+The golden rope was back to its original shape. Lin Xuan was covered in sweat, lying on his bed. He didn't want to move even a finger, his spiritual power was almost exhausted. No wonder spirit tools were so powerful, it consumed simply too much spiritual power. Even though someone at the fourth layer of Spirit Condensation was able to manipulate them, but if they wanted to wilfully operate them as they liked, they would need to be at least in the fifth layer. And only at the sixth layer would one have enough spiritual power to support them.
 
 But this first time practising, was much easier than he imagined. According to what was recorded in the books, manipulating spirit tools for the first time, even with the easiest low-grade spirit tool, the failure rate was very high. It was very difficult to move spirit tools with spiritual sense for the first time, but Lin Xuan accomplished it and even did it with a more difficult mid grade spirit tool.
 
 This was, of course, not because Lin Xuan was a genius at manipulating spirit tools. He was only an ordinary person with no spiritual roots. The reason why he was successful was because Lin Xuan's spiritual sense, compared to people with the same cultivation, was much greater.
 
-Simply put, in the disciples with the fourth layer of Spirit Gathering, Lin Xuan had the strongest spiritual sense. He far surpassed his peers, and the only reason was this: he put in much more effort than the others.
+Simply put, in the disciples with the fourth layer of Spirit Condensation, Lin Xuan had the strongest spiritual sense. He far surpassed his peers, and the only reason was this: he put in much more effort than the others.
 
 Others only performed three perfect cycles of spiritual power a day, but Lin Xuan cultivated by circulating his spiritual power through his Eight Extraordinary Meridians in nine perfect cycles a day, which also exercised his spiritual sense.
 
@@ -73,7 +73,7 @@ The cultivation world was very cruel; it followed the law of the jungle, the str
 
 The easiest way was to become stronger, if one's cultivation rises, one's spiritual power will also naturally increase, and the longer one can control spirit tools.
 
-But this kind of method was not practical, cultivation would become increasingly difficult, to break into the fifth layer and arrive at the latter layers of Spirit Gathering, would still require a few more months. What should he do in this time then?
+But this kind of method was not practical, cultivation would become increasingly difficult, to break into the fifth layer and arrive at the latter layers of Spirit Condensation, would still require a few more months. What should he do in this time then?
 
 Even though it was not likely to encounter danger in the sect, but it is always wise to play it safe. Lin Xuan loved to consider the issue beforehand, this was "in fair weather, prepare for foul".
 

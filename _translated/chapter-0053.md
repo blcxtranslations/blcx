@@ -15,7 +15,7 @@ Lin Xuan held the Red Silk grass in his hands and focused his spiritual sense on
 
 This was a new kind of experiment!
 
-After entering the latter layers of the Spirit Gathering stage, Lin Xuan's spiritual sense had strengthened further. His use of the blue stars had also become more skillful. Up to now, he had already purified thousands of pills.
+After entering the latter layers of the Spirit Condensation stage, Lin Xuan's spiritual sense had strengthened further. His use of the blue stars had also become more skillful. Up to now, he had already purified thousands of pills.
 
 But completed pills and fresh herbs were definitely different and Lin Xuan could only slowly feel it out.
 
@@ -23,7 +23,7 @@ He gathered the blue stars and slowly circulated them along his meridians until 
 
 Before, when Lin Xuan had just started purifying pills when the blue stars exited his body, he could not control them at all and could only allow them to drift about. Some would disperse into the air and only a small portion would enter into the pill. Therefore, a large portion of it was completely wasted.
 
-But he couldn't do anything about it. Back then, Lin Xuan did not have enough power. It was too difficult for him to control the shapeless stars through the air. But now, he had entered into the latter layers of the Spirit Gathering stage and his spiritual sense has increased greatly. Although he had not yet learned the Spiritual Control technique, but his telekinesis was already top-notch.
+But he couldn't do anything about it. Back then, Lin Xuan did not have enough power. It was too difficult for him to control the shapeless stars through the air. But now, he had entered into the latter layers of the Spirit Condensation stage and his spiritual sense has increased greatly. Although he had not yet learned the Spiritual Control technique, but his telekinesis was already top-notch.
 
 Using the telekinesis technique, Lin Xuan attached his spiritual sense to the blue stars. Just like this, even though the stars were floating in the air, they would not disperse and would do what Lin Xuan willed.
 

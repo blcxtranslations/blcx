@@ -29,7 +29,7 @@ Thus, it can be seen that the items being auctioned off were truly treasures of 
 
 The second part of the trade fair was free selection. It was called free selection because it was like the stalls of the rogue cultivators of the past few days. Only this time, it would be the Soaring Cloud sect setting them up, sorted into different categories, and allowing everyone to pick what they wanted.
 
-Although the best treasures were auctioned off, but after the accumulation of a thousand years, the wealth of the Soaring Cloud sect was definitely not small. Various useful items for low levelled cultivators, even Foundation Building cultivators, were likely to appear.
+Although the best treasures were auctioned off, but after the accumulation of a thousand years, the wealth of the Soaring Cloud sect was definitely not small. Various useful items for low levelled cultivators, even Foundation Establishment cultivators, were likely to appear.
 
 The various sects would not be interested in these, so the main customers are the cultivator clans and the rich among the rogue cultivators.
 
@@ -51,7 +51,7 @@ Because low level cultivation techniques belonged to the morning session, mid le
 
 After understanding the things described in the jade slip, Lin Xuan headed directly for the area where the low level cultivation techniques were sold. If he was going to buy them, he should act quickly. He did not want to let other beat him to it. He was not interested in other techniques because he was going to purchase the best low level cultivation technique that the Soaring Cloud sect had.
 
-He found the stall were quickly, it was in a relatively remote corner. The only reason for this was because low level cultivation techniques were only suitable for Spirit Gathering disciples. Not to mention the various sects, even the cultivator clans would not be interested. And even though rogue cultivators would want them, they were poor, even if they had enough pills, they could still not bear to part with them for this.
+He found the stall were quickly, it was in a relatively remote corner. The only reason for this was because low level cultivation techniques were only suitable for Spirit Condensation disciples. Not to mention the various sects, even the cultivator clans would not be interested. And even though rogue cultivators would want them, they were poor, even if they had enough pills, they could still not bear to part with them for this.
 
 Therefore, these cultivation techniques were things that were hard to sell, and the one responsible for this stall was also a common low levelled disciple of the Soaring Cloud sect.
 
@@ -61,11 +61,11 @@ The Stirring Sky technique, the Purple Sun Spirit technique, the Soft Wood techn
 
 In front of every jade slip was a label clearly stating the name of the technique. Lin Xuan read each one until he finally saw the Soaring Cloud technique.
 
-This was also a coincidence because before, at the Young Eagles pavilion, there was a very knowledgeable Foundation Building expert reviewing the base cultivation technique of the various sects. Among the few sects of the Yan prefecture, the most powerful one was of course the Floating Cloud Valley because they had the greatest number of Foundation Building cultivators and a Core Formation expert, Immortal Yun He, was the patriarch.
+This was also a coincidence because before, at the Young Eagles pavilion, there was a very knowledgeable Foundation Establishment expert reviewing the base cultivation technique of the various sects. Among the few sects of the Yan prefecture, the most powerful one was of course the Floating Cloud Valley because they had the greatest number of Foundation Establishment cultivators and a Core Formation expert, Immortal Yun He, was the patriarch.
 
-But in terms of low levelled disciples, the lower ranked Soaring Cloud sect was not at all inferior to the Floating Cloud Valley. Especially their best cultivation technique, the Soaring Cloud technique, compared to the Flying Cloud Spirit technique of the Floating Cloud sect, they were equally matched. They each had their own strengths and were both good cultivation techniques for the basis of Foundation Building.
+But in terms of low levelled disciples, the lower ranked Soaring Cloud sect was not at all inferior to the Floating Cloud Valley. Especially their best cultivation technique, the Soaring Cloud technique, compared to the Flying Cloud Spirit technique of the Floating Cloud sect, they were equally matched. They each had their own strengths and were both good cultivation techniques for the basis of Foundation Establishment.
 
-Lin Xuan did not care about the above remark at the time, but he always remembered it because that Foundation Building cultivator praised the Soaring Cloud technique a lot. So naturally, he wanted to purchase this cultivation technique.
+Lin Xuan did not care about the above remark at the time, but he always remembered it because that Foundation Establishment cultivator praised the Soaring Cloud technique a lot. So naturally, he wanted to purchase this cultivation technique.
 
 Picking up the jade slip marked Soaring Cloud technique, he inserted his spiritual sense into it and did a little inspecting. Then he raised his had and casually asked: "How much?"
 

@@ -31,7 +31,7 @@ Thinking that this was the case, Yan Ming became haughty once more: "This young 
 
 Yan Ming's forehead broke out in a cold sweat. He had never even dreamed that this unassuming guy in front of him could have such an abundant supply of medicinal pills. Although the Yan family was a mid-level cultivator clan with hundreds of years of history, but they did not have much wealth. Taking out two hundred Purified Essence pills already had their clan struggling to make ends meet, they even had to sell off many of their treasures.
 
-But before leaving, his Lord Father had decreed that no matter what, he must purchase a mid-level cultivation technique. There was only one reason. His Lord Father, the patriarch, was about to break through the bottleneck and enter the Foundation Building stage but did not have any suitable cultivation techniques.
+But before leaving, his Lord Father had decreed that no matter what, he must purchase a mid-level cultivation technique. There was only one reason. His Lord Father, the patriarch, was about to break through the bottleneck and enter the Foundation Establishment stage but did not have any suitable cultivation techniques.
 
 The sound of bidding attracted all the surrounding cultivators and the sound of discussion continued nonstop.
 
@@ -97,7 +97,7 @@ Under the effect of his spiritual power, the seal released a bright light and br
 
 This was an invisibility seal. As the name suggests, it had the effect of invisibility. This was a rare high-level seal and was exactly why Lin Xuan was so wistful just now.
 
-After sticking this seal on the body, for the next six hours, it would allow for one to vanish completely and at the same time, hide spiritual power fluctuations. Even a Foundation Building expect would not be able to detect it. But of course, it had some shortcomings. One could not move during those six hours or the invisibility effect would be lost.
+After sticking this seal on the body, for the next six hours, it would allow for one to vanish completely and at the same time, hide spiritual power fluctuations. Even a Foundation Establishment expect would not be able to detect it. But of course, it had some shortcomings. One could not move during those six hours or the invisibility effect would be lost.
 
 - - -
 - - -

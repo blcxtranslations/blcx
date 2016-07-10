@@ -73,7 +73,7 @@ That tall and lanky disciple also consumed quite a bit of medicinal wine so he n
 
 ......
 
-The three of them were both shocked and angry, but they also understood that a wise man knows better than to fight when the odds were against him, so they could only implore for forgiveness. At the same time, they were all very baffled. They were merely at the third layer of the Spirit Gathering stage, even if they joined hands and acted together, they would not be able to defeat the fifth layer Ye Tian.
+The three of them were both shocked and angry, but they also understood that a wise man knows better than to fight when the odds were against him, so they could only implore for forgiveness. At the same time, they were all very baffled. They were merely at the third layer of the Spirit Condensation stage, even if they joined hands and acted together, they would not be able to defeat the fifth layer Ye Tian.
 
 If he wanted to teach them a lesson, he wouldn't have to use such a bothersome and superfluous method like putting poison in the wine. Because they could not think of why he would do this, they started to panic.
 

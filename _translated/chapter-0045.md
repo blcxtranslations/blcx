@@ -51,13 +51,13 @@ Lin Xuan did not respond and circulated his spiritual power forming many pieces 
 
 "Hmph, such a trifling skill!"
 
-Yan Tian Heng showed a sinister smile. He was at the great perfection of the Spirit Gathering stage. How could he even look at such a low-level technique?
+Yan Tian Heng showed a sinister smile. He was at the great perfection of the Spirit Condensation stage. How could he even look at such a low-level technique?
 
 Yan Tian Heng raised his arm and pinched his forefinger and thumb together and started chanting an incantation and circulating his spiritual power. Immediately, a huge ball of flames appeared upon his palm and then suddenly changed into the shape of a bird.
 
 As for the hail technique, he didn't even bother to look at it. Even if it struck his spiritual shield it would not do any harm to him.
 
-Firebird technique is a fire type mid-rank technique. He was definitely worthy of being an expert one step away from Foundation Building. Even his opening move was extraordinary.
+Firebird technique is a fire type mid-rank technique. He was definitely worthy of being an expert one step away from Foundation Establishment. Even his opening move was extraordinary.
 
 But Lin Xuan did not panic at all. He once again reached into his bosom and fished out five more seals. Fire and water mutually suppress each other, and these five freeze seals, although there were all low-level seals, but relying on their numbers of five against one, it would still have, more or less, the same amount of power.
 
@@ -89,7 +89,7 @@ He first made a general plan on how to deal with the current situation and a bat
 
 Boom, boom, boom......
 
-The sounds of explosions rang out non-stop. The battle of cultivators could only be described as incomparably fierce. Yan Tian Heng was shocked and angry. Although he was at the great perfection of the Spirit Gathering stage, but using mid-rank techniques were no small matter. The spiritual power consumption was rapidly increasing and his spiritual power was rapidly dropping. But Lin Xuan was using seals as if he had an endless supply. If this continued......
+The sounds of explosions rang out non-stop. The battle of cultivators could only be described as incomparably fierce. Yan Tian Heng was shocked and angry. Although he was at the great perfection of the Spirit Condensation stage, but using mid-rank techniques were no small matter. The spiritual power consumption was rapidly increasing and his spiritual power was rapidly dropping. But Lin Xuan was using seals as if he had an endless supply. If this continued......
 
 - - -
 - - -

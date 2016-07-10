@@ -15,7 +15,7 @@ Thus, in the next period of time, Lin Xuan concentrated on purifying pills and p
 
 In particular, the purification of the low-grade pills was very successful, but the speed of the mid-grade pills was slower. He had also reached a bottleneck in the circulation of the star ocean. If he wanted to break through, he would need to raise his cultivation but one layer because the capabilities of the star ocean were directly related to the level of cultivation.
 
-The reason Lin Xuan purified so many pills at once was because he was planning to do some closed door cultivation for a little while. This time, he would stop at nothing to enter into the latter layers of the Spirit Gathering stage, and achieve the fifth layer.
+The reason Lin Xuan purified so many pills at once was because he was planning to do some closed door cultivation for a little while. This time, he would stop at nothing to enter into the latter layers of the Spirit Condensation stage, and achieve the fifth layer.
 
 Setting his goal, he strived to accomplish it. At present, all the preparations have been completed.
 
@@ -27,7 +27,7 @@ Secondly, at the trades fair, they were able to acquire quite a lot of treasures
 
 Originally, this was a joyous occasion, but who would have thought that after the trades fair, there would be a string of accidents. First the famous cultivation clan, the Wang family, their disciples that they had sent out were attacked and killed and the treasures and cultivation technique they had purchased had been stolen.
 
-Yan Tian Heng thought that he was an old fox, but he was still not meticulous enough. He was slightly negligent and left some tiny hints. The Wang family could be considered the number one cultivator clan in the thousands of kilometres of the surrounding area. When have they ever suffered this kind of misfortune? They were very angry and three Foundation Building elders even went to the Yan family demanding that they pay with their lives.
+Yan Tian Heng thought that he was an old fox, but he was still not meticulous enough. He was slightly negligent and left some tiny hints. The Wang family could be considered the number one cultivator clan in the thousands of kilometres of the surrounding area. When have they ever suffered this kind of misfortune? They were very angry and three Foundation Establishment elders even went to the Yan family demanding that they pay with their lives.
 
 There wasn't really anything out of the ordinary about this. The Wang family was strong, the Yan family was weak, and besides, Yan Tian Heng killed and plundered their people and treasures. Although the cultivation world was ruled by might, but the various clans would still give each other some face. However, Yan Tian Heng's actions were overly excessive so there was no room for redemption.
 
@@ -55,7 +55,7 @@ Of course, the Yan family would not accept this and appealed to the Flame Spirit
 
 The Flame Spirit sect, as the name implies, were experts in techniques of the fire type. In regards to their strength, in the sect of the Yan prefecture, they were ranked second and was just slightly inferior to the Floating Cloud Valley.
 
-Although their patriarch was only at the Foundation Building stage, but they still had a Core Formation senior elder. But that elder, although he had a high cultivation, he was very lecherous. Yan Tian Heng's second daughter was exactly one of that elder's favoured concubines.
+Although their patriarch was only at the Foundation Establishment stage, but they still had a Core Formation senior elder. But that elder, although he had a high cultivation, he was very lecherous. Yan Tian Heng's second daughter was exactly one of that elder's favoured concubines.
 
 With these kinds of relationships, in addition to the fact that the Flame Spirit sect and the Floating Cloud Valley was always contesting for the position of the overlord of the Yan prefecture, only added onto the existing hostilities between the sects. It was only because the sects were worried about the consequences that they kept their hostilities suppressed.
 

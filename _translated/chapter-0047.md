@@ -21,11 +21,11 @@ A roar sounded out, reverberating around the surrounding hills and causing many 
 
 A fierce flame tiger, no, that wasn't right. Its body was covered by a sharp carapace of bone. This should be an armoured fierce flame tiger, a first class top grade monstrous beast.
 
-For cultivators, their levels from Spirit Gathering to Tribulation Ascension were split into eight stages. Similarly, monstrous beasts also had eight levels with every level being further split into low-grade, mid-grade, high-grade, and top-grade.
+For cultivators, their levels from Spirit Condensation to Tribulation Ascension were split into eight stages. Similarly, monstrous beasts also had eight levels with every level being further split into low-grade, mid-grade, high-grade, and top-grade.
 
-Spirit Gathering corresponds to first class monstrous beasts, Foundation Building corresponds to second-class, and so on......
+Spirit Condensation corresponds to first class monstrous beasts, Foundation Establishment corresponds to second-class, and so on......
 
-In other words, this monstrous beast was not inferior to an expert at the great perfection of the Spirit Gathering stage.
+In other words, this monstrous beast was not inferior to an expert at the great perfection of the Spirit Condensation stage.
 
 Lin Xuan had a bitter expression on his face. This was not an illusory technique but was a genuine demon tiger. Or more correctly, the soul of a demon tiger.
 
@@ -67,11 +67,11 @@ Although it was a soul and did not have a corporeal body, but the spirit tool wa
 
 "Spirit tool!"
 
-Yan Tian Heng could not hold it in and yelled out with a face full of surprise. But who could blame him? Spirit tools were very rare precious treasures. Although theoretically, a low-levelled fourth layer cultivator could utilize them, but in reality, even some Foundation Building experts did not have them.
+Yan Tian Heng could not hold it in and yelled out with a face full of surprise. But who could blame him? Spirit tools were very rare precious treasures. Although theoretically, a low-levelled fourth layer cultivator could utilize them, but in reality, even some Foundation Establishment experts did not have them.
 
 Originally, it was already hard for him to imagine that Lin Xuan had so many seals, but he would never have thought that Lin Xuan would even have a spirit tool. The discovery caused him to feel apprehensive in his heart.
 
-Mid-grade pill, countless seals, and spirit tools together, not to mention rogue cultivators, even elite disciples of sects, no...... even Foundation Building expects might not have these.
+Mid-grade pill, countless seals, and spirit tools together, not to mention rogue cultivators, even elite disciples of sects, no...... even Foundation Establishment expects might not have these.
 
 Just what is this brats identity?
 

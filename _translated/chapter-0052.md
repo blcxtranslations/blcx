@@ -11,7 +11,7 @@ sponsored: false
 completed: true
 ---
 
-Among the disciples that entered the sect at the same time, Lin Xuan's strength, he would rank within the top three. The latter layers of the Spirit Gathering, even in a sect like the Floating Cloud Valley, could already be considered an elite disciple. But Lin Xuan was not satisfied. This seclusion training was not over yet.
+Among the disciples that entered the sect at the same time, Lin Xuan's strength, he would rank within the top three. The latter layers of the Spirit Condensation, even in a sect like the Floating Cloud Valley, could already be considered an elite disciple. But Lin Xuan was not satisfied. This seclusion training was not over yet.
 
 For one, he still have over one hundred pellets of Purified Essence pills and would last for another dozen days of cultivation at least. Also, although he had successfully broken through, he still had only just entered into the fifth layer. He needed to solidify his cultivation base. So he would continue to stay in seclusion.
 
@@ -59,7 +59,7 @@ Lin Xuan was very happy in his heart. He quickly and carefully read on. Then aft
 
 The Red Silk grass was a very rare and precious herb in the secular world, but in the cultivation world, it was a very common herb. It was also required to concoct Purified Essence pills. The sect had special herbal gardens, which meant that it would be very easy to find it there.
 
-It was also recorded in the book that the Red Silk grass had different grades. The regular ones can be used to concoct Purified Essence pills, mid-grades for Foundation Building pills, and the best could be used to concoct Spiritual Return pills, which are pulls for Core Formation cultivators.
+It was also recorded in the book that the Red Silk grass had different grades. The regular ones can be used to concoct Purified Essence pills, mid-grades for Foundation Establishment pills, and the best could be used to concoct Spiritual Return pills, which are pulls for Core Formation cultivators.
 
 What a joke. The materials used in pills for the Core Formation stage, it was obvious that it would be very precious. There was not way that he could be able to acquire it.
 

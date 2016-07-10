@@ -35,7 +35,7 @@ Keeping these objectives in mind, Lin Xuan arrived at the plaza and walked into 
 
 "So many cultivators!" Lin Xuan made a rough estimate. There were at least two thousand people peddling their wares and among the stalls. It seems the news of the disbanding of the Soaring Cloud sect was really far reaching. These cultivators are probably not just from the Yan prefecture, even cultivators from beyond the prefecture rushed here to participate.
 
-Although the rogue cultivators made up the majority, the various sects all more or less sent some members. For example, Floating Cloud Valley sent some disciples led by two Foundation Building elders. Although, in the whole world of cultivation, the Floating Cloud Valley's strength tended towards the lower end, but in the borders of the Yan prefecture, it was definitely a large and influential sect. Two cultivators in the Foundation Building stage was very shocking and frightening to the younger cultivators.
+Although the rogue cultivators made up the majority, the various sects all more or less sent some members. For example, Floating Cloud Valley sent some disciples led by two Foundation Establishment elders. Although, in the whole world of cultivation, the Floating Cloud Valley's strength tended towards the lower end, but in the borders of the Yan prefecture, it was definitely a large and influential sect. Two cultivators in the Foundation Establishment stage was very shocking and frightening to the younger cultivators.
 
 Other than the Floating Cloud Valley, The sects of Chong prefecture also sent elders over. These seven or eight sects of various sizes included the Flame Spirit sect, the Seal Mountain, the Starry Sky clan, etc.
 

@@ -2,7 +2,7 @@
 layout: page
 number: "0054"
 name: "Fifty-Four"
-title: "The Sixth Layer of Spirit Gathering"
+title: "The Sixth Layer of Spirit Condensation"
 date: "2016-01-22 22:31:43.680521"
 characters: 2197
 chinese: "http://baishuku.com/html/30/30364/12441383.html"
@@ -13,7 +13,7 @@ completed: true
 
 Even better, because spiritual power needed to be poured into the globe, he could control how much he poured into it and as a result how much cultivation he wanted to hide. If he poured more into it, then there would be less spiritual power left in his meridians and dantian and this his cultivation would appear lower.
 
-Lin Xuan tested it out and discovered that the most he could hide was ninety percent of his spiritual power. Thus, if someone probed his cultivation, they would mistake him for a cultivator at the first layer of the Spirit Gathering stage.
+Lin Xuan tested it out and discovered that the most he could hide was ninety percent of his spiritual power. Thus, if someone probed his cultivation, they would mistake him for a cultivator at the first layer of the Spirit Condensation stage.
 
 But no matter how hard Lin Xuan tried, he could not hide all the spiritual power is his body. One cannot be too greedy, Lin Xuan was already satisfied with this kind of result.
 
@@ -31,7 +31,7 @@ Lin Xuan rested for a while to allow the star ocean to recover, then he started 
 
 After spending the whole night, Lin Xuan was able to refine that entire basket of Red Silk grass and filled three jade bottles with essences. Because he only needed a sip of it to form the cultivation hiding globe, these three bottles would therefore last for a long time.
 
-With nothing else to worry about, Lin Xuan focused on his cultivation. He was not at all satisfied with reaching the latter layers of the Spirit Gathering stage. He was only entered into the fifth layer, now it was time to head for an even higher layer.
+With nothing else to worry about, Lin Xuan focused on his cultivation. He was not at all satisfied with reaching the latter layers of the Spirit Condensation stage. He was only entered into the fifth layer, now it was time to head for an even higher layer.
 
 It really was not because Lin Xuan was impatient, but this trip taught him that to cultivators, might makes right. He was still too weak, so he must increase his efforts in cultivating.
 
@@ -43,7 +43,7 @@ This was because using the Spiritual Control technique would use up spiritual po
 
 Lin Xuan was not disheartened at all. Increasing his power first was also good. If his foundation was solid, the amount of power he was able to display with spirit tools would also be greater.
 
-Following this, Lin Xuan spent half a month purifying pills. After entering the latter layers of the Spirit Gathering stage, the volume of the start ocean had increased greatly and with it, the success rate of purifying also went up. Therefore, although he had spent the same amount of time as last time, but he was able to purify many more pills than last time. In particular, he was able to purify over sixty mid-grade pills this time. Therefore, following his plan of entering seclusion for a month, he would be able to take two to three mid-grade pills a day.
+Following this, Lin Xuan spent half a month purifying pills. After entering the latter layers of the Spirit Condensation stage, the volume of the start ocean had increased greatly and with it, the success rate of purifying also went up. Therefore, although he had spent the same amount of time as last time, but he was able to purify many more pills than last time. In particular, he was able to purify over sixty mid-grade pills this time. Therefore, following his plan of entering seclusion for a month, he would be able to take two to three mid-grade pills a day.
 
 A month later, Lin Xuan left seclusion. He did not have any expressions on his face. Without saying a word, he went to the warehouse storing the waste pills and took a batch. Then he returned to his house and once again shut the doors.
 

@@ -31,7 +31,7 @@ Unexpectedly, Ye Tian also had knowledge of this seal. For an ordinary mortal wi
 
 But Lin Xuan's expression sank. He did not expect that his opponent would be this informed. It looks like it would be much harder to deal with this opponent than he originally thought. He did not stop his actions when thinking of this. His hands were moving non-stop, directing the soul of this demonic tiger to pounce towards the malicious spirits.
 
-The spirits wailed and the demonic beast howled. Both were of the Demonic Dao. Although the spirits were filled with viciousness, but they were still refined from the souls of ordinary mortals. But the Armoured Fierce Flame Tiger was a first-grade top-quality demonic beast. Its spiritual power would be comparable to an expert at the Great Perfection of the Spirit Gathering stage.
+The spirits wailed and the demonic beast howled. Both were of the Demonic Dao. Although the spirits were filled with viciousness, but they were still refined from the souls of ordinary mortals. But the Armoured Fierce Flame Tiger was a first-grade top-quality demonic beast. Its spiritual power would be comparable to an expert at the Great Perfection of the Spirit Condensation stage.
 
 The result was as expected......
 

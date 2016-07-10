@@ -13,7 +13,7 @@ completed: true
 
 Although it was an item from the secular world, but as long as it was applied properly, it can still be used to great effect. Lin Xuan always did things in a leakproof manner. Although he had already decided to purchase the seals from the simple youth in a deserted place, and even though the youth looked honest, but just to be safe, Lin Xuan still decided not to deal with him with his true appearance.
 
-This mask can be used to change one's appearance, but of course, it could not trick the spiritual sense of a Foundation Building cultivator. But that youth definitely looked to be in the same stage, the Spirit Gathering stage, as Lin Xuan, so as long as he does not use some technique to check, he would not be able to Lin Xuan's true appearance.
+This mask can be used to change one's appearance, but of course, it could not trick the spiritual sense of a Foundation Establishment cultivator. But that youth definitely looked to be in the same stage, the Spirit Condensation stage, as Lin Xuan, so as long as he does not use some technique to check, he would not be able to Lin Xuan's true appearance.
 
 Being a big customer, Lin Xuan believed that even if the youth was dull in the head, he would not do something so reckless. Because to intentionally use the Reveal technique on another, according to the rules of the cultivation world, was very rude and even hostile behaviour
 
@@ -77,7 +77,7 @@ Lin Xuan laid on the bed and rested for a while. Considering the time, the culti
 
 With this in mind, Lin Xuan once again came to the plaza. It seemed even more lively this time, the number of people also increased. It seems that the number of cultivators arriving increased as it got closer to the time of the treasures trade fair.
 
-The hawking of wares was very lively, but to Lin Xuan, there were not that many useful things. Although he was only a mid-stage Spirit Gathering cultivator, but based on his net worth, he was much richer than most Foundation Building cultivators. Therefore, most trivial things could not catch his eyes.
+The hawking of wares was very lively, but to Lin Xuan, there were not that many useful things. Although he was only a mid-stage Spirit Condensation cultivator, but based on his net worth, he was much richer than most Foundation Establishment cultivators. Therefore, most trivial things could not catch his eyes.
 
 Of course, that was not to say that Lin Xuan had no harvests. Wandering around for the entire afternoon, Lin Xuan still bought some things, namely, spirit stones.
 

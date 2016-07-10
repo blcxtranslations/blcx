@@ -25,7 +25,7 @@ Since he made the decision to participate and acquire the Spirit Control techniq
 
 This kind of sect disbanding trade fair was different from the regular trade fairs of the cultivator cities. These did not use spirit stones, but pills, as money. To Lin Xuan, the was great news, even though he acquired Zhou Yan and Zhang Yu's wealth, he only had dozens of low-grade spirit stones. But other than using spirit stones as a currency, it can also be used to cultivate or even to craft items. Lin Xuan would not bear to easily part with them.
 
-Moreover, Lin Xuan had special circumstances, the only thing he had no shortage of was pills. So to him, using pills as currency was for the best. Of course, the concept of "when you go out to buy, don't show your silver" was very clear to Lin Xuan, he was only a low-level Spirit Gathering cultivator, if he seemed like he had deep pockets, it was easy to bring disaster on himself. He could not be like the people of the Soaring Cloud sect, who had the protection of the commandment.
+Moreover, Lin Xuan had special circumstances, the only thing he had no shortage of was pills. So to him, using pills as currency was for the best. Of course, the concept of "when you go out to buy, don't show your silver" was very clear to Lin Xuan, he was only a low-level Spirit Condensation cultivator, if he seemed like he had deep pockets, it was easy to bring disaster on himself. He could not be like the people of the Soaring Cloud sect, who had the protection of the commandment.
 
 So for this trip, to be fully prepared, he needed to bring enough pills, and he also needed to be cautious. If it wasn't a good opportunity, he would not easily act. All in all, he needed to be careful and not attract attention.
 
@@ -39,7 +39,7 @@ When the immortal coming back and shutting himself indoors, the children led by 
 
 Five days passed like this. Lin Xuan got up off the ground and stretched his stiff body. These few days and nights of purifying was really tiring, but the haul was considerable. In total, he had three bottles, which was equal to three hundred low-grade pills, and nine mid grade pills.
 
-In terms of volume, this was already frightening. Lin Xuan's reason for purifying so many was to be prepared against mishaps. After all, in the pills and medicines of the cultivation world, this kind of Purified Essence pill for the Spirit Gathering stage was the lowest grade of pills and the trashiest kind. As to the value of these pills as currency, Lin Xuan had no concept of how much they were actually worth. So just in case, he brought this many with him as insurance.
+In terms of volume, this was already frightening. Lin Xuan's reason for purifying so many was to be prepared against mishaps. After all, in the pills and medicines of the cultivation world, this kind of Purified Essence pill for the Spirit Condensation stage was the lowest grade of pills and the trashiest kind. As to the value of these pills as currency, Lin Xuan had no concept of how much they were actually worth. So just in case, he brought this many with him as insurance.
 
 He did not want a situation where he did not have enough pills to purchase the skill he wanted!
 
@@ -53,7 +53,7 @@ In addition, Lin Xuan also put on a vest that he acquired from Zhang Yu. Althoug
 
 After doing all of this, Lin Xuan left. Of course, he first needed to notify the sect management first and get permission to leave.
 
-Foundation Building cultivators would be recorded, but for disciples of the Spirit Gathering stage, the sect did not really pay much attention. Any random reason could be used to fool their way out.
+Foundation Establishment cultivators would be recorded, but for disciples of the Spirit Condensation stage, the sect did not really pay much attention. Any random reason could be used to fool their way out.
 
 After getting the medallion allowing him to leave, Lin Xuan left the Floating Cloud Valley. This is his first time, in the four years he has been in the sect, that he has left on a long journey. He had many mixed feelings.
 

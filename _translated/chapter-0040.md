@@ -33,7 +33,7 @@ The man blushed. "We rogue cultivators, do not have the strength to participate 
 
 "Hey, listen to me." The man like to grandstand, seeing that they were not paying attention to him, he became agitated. "Do you know, the items in the auction are real treasures. Just this morning, there were three low-grade spirit tools, two mid-grade spirit tools, and one high-grade spirit tool."
 
-Speaking of spirit tools, all the cultivators started to become interested. Although spirit tools were simplified magical treasures, but their magical power was great. Many Foundation Building cultivators did not even have them, so these Spirit Gathering rogue cultivators could only wishfully think of them.
+Speaking of spirit tools, all the cultivators started to become interested. Although spirit tools were simplified magical treasures, but their magical power was great. Many Foundation Establishment cultivators did not even have them, so these Spirit Condensation rogue cultivators could only wishfully think of them.
 
 Although most of these people have not personally seen them, but they have heard their elders describe spirit tools as having infinite power.
 
@@ -57,7 +57,7 @@ Although the man liked to grandstand, but he was also eloquent, with a little ex
 
 This was put very bluntly, but everyone understood the point. Endlessly sighing, they also lost a lot of interest in what the man was saying. So not a lot of people heard what he said after. The afternoon auction would have even more precious treasures than the morning and included the top grade spirit tool of the patriarch of the Soaring Cloud sect and many monstrous beast eggs.
 
-Lin Xuan lifted his cup and used the motion of drinking his tea to conceal his slight smile. Hmmm, his luck was not bad. To other Spirit Gathering stage cultivators, low-grade spirit tools were only things that they might acquire by luck. But he had three of them, the worst being mid-grade, and one of them was even top grade.
+Lin Xuan lifted his cup and used the motion of drinking his tea to conceal his slight smile. Hmmm, his luck was not bad. To other Spirit Condensation stage cultivators, low-grade spirit tools were only things that they might acquire by luck. But he had three of them, the worst being mid-grade, and one of them was even top grade.
 
 Only, if he wanted to fully utilize their power, he would need the Spiritual Control technique. Thinking of this, Lin Xuan was even more determine to acquire this mid-rank technique.
 
@@ -81,9 +81,9 @@ The crowd was speechless. They were all rogue cultivators and were frequently bu
 
 Even if they were dissatisfied with them operating behind the scenes, they still could do nothing about it.
 
-"Then let them reserve those mid-rank techniques ahead of time. It's not like we Spirit Gathering cultivators can use them anyway!"
+"Then let them reserve those mid-rank techniques ahead of time. It's not like we Spirit Condensation cultivators can use them anyway!"
 
-"Well said, fellow cultivator. Few rogue cultivators can achieve Foundation Building. Even if they gave us those mid-rank techniques, it would still be useless for us."
+"Well said, fellow cultivator. Few rogue cultivators can achieve Foundation Establishment. Even if they gave us those mid-rank techniques, it would still be useless for us."
 
 "That's right, who cares, let's drink, let's drink."
 

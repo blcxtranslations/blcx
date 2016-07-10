@@ -33,7 +33,7 @@ Make a move? Or take this opportunity to leave?
 
 Lin Xuan hesitated then turned around and left. Although his strength was much better than it used to be, Demonic Cultivators were simply too strange. Since he did not have a grasp of the situation, it was unwise to make a move.
 
-In addition, the opponent was a cultivator in the Spirit Gathering stage, so he would not have a lot of wealth. The treasures he could gain after killing him could be counted on one hand. But if he makes a mistake while fighting, it would be too late to regret it. Lin Xuan did not have any duty to see justice being done, if there were no benefits for him, he would not take the risk.
+In addition, the opponent was a cultivator in the Spirit Condensation stage, so he would not have a lot of wealth. The treasures he could gain after killing him could be counted on one hand. But if he makes a mistake while fighting, it would be too late to regret it. Lin Xuan did not have any duty to see justice being done, if there were no benefits for him, he would not take the risk.
 
 After weighing the pros and cons, Lin Xuan decided to leave. He would pretend that he didn't see anything today. Worst comes to worst, he could just avoid Ye Tian in the future.
 
@@ -65,19 +65,19 @@ But for some reason, that feeling had suddenly disappeared.
 
 Did he discover me earlier?
 
-Could he be a Foundation Building cultivator?
+Could he be a Foundation Establishment cultivator?
 
 The reason Ye Tian thought like this was because the cultivation technique of Demonic Cultivators was special. A demonic cultivator at the same layer as a regular cultivator would be able to spread his spiritual sense much further.
 
-Also, because he had been using a demonic cultivation technique who's speed was faster, his cultivation was now at the sixth layer of the Spirit Gathering stage.
+Also, because he had been using a demonic cultivation technique who's speed was faster, his cultivation was now at the sixth layer of the Spirit Condensation stage.
 
-His spiritual sense had already exceeded that of a Spirit Gathering stage great perfection cultivator, or in other words, unless that person was a Foundation Building expert, he would not have been able to detect Ye Tian so fast.
+His spiritual sense had already exceeded that of a Spirit Condensation stage great perfection cultivator, or in other words, unless that person was a Foundation Establishment expert, he would not have been able to detect Ye Tian so fast.
 
-But if the opponent was a Foundation Building expert, then he surely would have annihilated him back at the mountain peak!
+But if the opponent was a Foundation Establishment expert, then he surely would have annihilated him back at the mountain peak!
 
 Ye Tian just could not figure it out. Of course, he couldn't have known that under normal conditions, regular cultivators had much weaker spiritual senses than demonic cultivators, but Lin Xuan was not a regular cultivator. Both the purification of pills and the time spent cultivating on the Heart Refinement Road was a form of tempering his spiritual sense.
 
-Comparing only spiritual sense, Lin Xuan was not one bit inferior to an initial stage Foundation Building cultivator!
+Comparing only spiritual sense, Lin Xuan was not one bit inferior to an initial stage Foundation Establishment cultivator!
 
 Even a wise man is not free of errors. In the beginning, Lin Xuan was somewhat careless and did not notice that the Yin energy had stuck onto him. Now that he had discovered it, he used his spiritual power to cover it and thus, Ye Tian could no longer discover his whereabouts.
 

@@ -2,7 +2,7 @@
 layout: page
 number: "0051"
 name: "Fifty-One"
-title: "Latter Stage of Spirit Gathering"
+title: "Latter Stage of Spirit Condensation"
 date: "2016-01-17 20:14:24.331851"
 characters: 2082
 chinese: "http://baishuku.com/html/30/30364/12441377.html"
@@ -31,7 +31,7 @@ After having finished preparing everything, Lin Xuan started to focus on cultiva
 
 Consuming pills everyday, sitting meditation, training his spirit......
 
-This so-called cultivation was basically absorbing the energy of heaven and earth. changing it into one's own spiritual power, and storing in one's dantian. But the cultivation techniques of the Spirit Gathering stage were very basic which all involved the circulation of that vital energy.
+This so-called cultivation was basically absorbing the energy of heaven and earth. changing it into one's own spiritual power, and storing in one's dantian. But the cultivation techniques of the Spirit Condensation stage were very basic which all involved the circulation of that vital energy.
 
 Although they were all about moving the vital energy through one's meridians, but different cultivation techniques had different paths through the meridians. The effects on one's cultivation were also very large.
 
@@ -65,7 +65,7 @@ The waste pills storage was quiet was usual, the children were bored and once ag
 
 This was all a ruse by Lin Xuan to avoid the suspicion of others. In reality, at this moment, he had arrived at a critical point of breaking through the bottleneck.
 
-With the Floating Cloud technique and the support of the medicinal pills, Lin Xuan made progress with lightning speed in the short period. He had already arrived at the peak of the fourth layer. With one more step forward, he would be able to step into the realm of the latter layers of the Spirit Gathering stage.
+With the Floating Cloud technique and the support of the medicinal pills, Lin Xuan made progress with lightning speed in the short period. He had already arrived at the peak of the fourth layer. With one more step forward, he would be able to step into the realm of the latter layers of the Spirit Condensation stage.
 
 He consumed two mid-grade pills and started to attempt to break through. The spiritual power in his body endlessly circulated and formed into a ball in his dantian. The vital energy he absorbed mixed with the medicinal power of the pills and continuously supplemented that ball of spiritual energy.
 
@@ -75,7 +75,7 @@ The ball of spiritual power became smaller. But the spiritual power in his merid
 
 Do not underestimate this process. It was easy to describe but very hard to complete. If one was even slightly inattentive, the spiritual energy ball would split open, cause one to fail in breaking through the bottleneck.
 
-But if all the spiritual power in one's body underwent this tempering, then they would undergo a metamorphosis. They would have successfully stepped past the threshold of the latter stages of the Spirit Gathering stage.
+But if all the spiritual power in one's body underwent this tempering, then they would undergo a metamorphosis. They would have successfully stepped past the threshold of the latter stages of the Spirit Condensation stage.
 
 Lin Xuan's forehead was drenched with sweat. He was being very careful. It took a lot of effort to arrive at this stage, he did not want all of his previous effort to go to waste.
 
@@ -85,7 +85,7 @@ The minutes and seconds ticked past. Lin Xuan's clothes had all been drenched wi
 
 Another two hours passed. Lin Xuan suddenly swayed and fell back onto the hardwood floor. It was not because he had failed in breaking through the bottleneck. He had succeeded but was so exhausted that he did not even have the power to sit up.
 
-"So dangerous!" Although he was so tired that he did not even want to move his fingers, he still had a smile on his face. He has finally reached the fifth layer and entered into the latter layers of the Spirit Gathering stage.
+"So dangerous!" Although he was so tired that he did not even want to move his fingers, he still had a smile on his face. He has finally reached the fifth layer and entered into the latter layers of the Spirit Condensation stage.
 
 - - -
 - - -

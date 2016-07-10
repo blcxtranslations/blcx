@@ -15,7 +15,7 @@ After doing all of this Lin Xuan sank into meditation to restore his spiritual p
 
 During this time, a few waves of cultivators came. These people were all up to no good and coveted Lin Xuan's treasures.
 
-However, the technique sealed into the invisibility seal was a high-level technique that even Foundation Building experts had trouble sensing. It was not possible for them to detect it.
+However, the technique sealed into the invisibility seal was a high-level technique that even Foundation Establishment experts had trouble sensing. It was not possible for them to detect it.
 
 They all had puzzled looks on their faces. They clearly saw the youth enter the valley, so how did he suddenly disappear? The had already searched the vicinity for a long time, some unwilling ones even used tracking type techniques, but in the end, they still found nothing.
 
@@ -27,11 +27,11 @@ Lin Xuan had a look of indifferent, showing neither joy and anger. Standing up a
 
 But overall, this trip to the Soaring Cloud sect has been very fruitful. Not only did he acquire the Spiritual Control technique, he had also gotten the Soaring Cloud technique.
 
-It must be known that even though there are many cultivation techniques for the Spirit Gathering stage, there were still trashy ones and precious ones. He was only an ordinary disciples of the Floating Cloud valley. That that was why even though he had many pills and worked so hard, he was still not able to break through to the fifth layer.
+It must be known that even though there are many cultivation techniques for the Spirit Condensation stage, there were still trashy ones and precious ones. He was only an ordinary disciples of the Floating Cloud valley. That that was why even though he had many pills and worked so hard, he was still not able to break through to the fifth layer.
 
 But the Soaring Cloud technique was a rare treasure. After practising it, his cultivation speed would certainly improve a lot.
 
-In addition, he had also bought two pieces of spirit stones and one hundred and eight seals. Although these were all low-level seals, but there was a large number of them. As long as he covered the heavens and earth with them, even Foundation Building experts would be hard pressed to defend against it.
+In addition, he had also bought two pieces of spirit stones and one hundred and eight seals. Although these were all low-level seals, but there was a large number of them. As long as he covered the heavens and earth with them, even Foundation Establishment experts would be hard pressed to defend against it.
 
 While he did spend a lot of medicinal pills, but to Lin Xuan, it was nothing. After gaining the ability to purify, as long as he spent a few days working hard, he could recover the amount he had spent.
 

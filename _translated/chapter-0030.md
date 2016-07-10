@@ -51,7 +51,7 @@ Fantasizing will not solve the problem, and stuffily sitting there would cause a
 
 After leaving Danxia mountain, his temperament changed yet again. He now seemed normal and ordinary. He first took a walk around the sect, and having no spoils, he headed to the library.
 
-As a low levelled Spirit Gathering disciple, he could only freely use the first floor. Despite knowing that there were no techniques and that there were only knowledge that would be valuable to ordinary people, which cultivators held no interest in, Lin Xuan still held some minuscule hope, and carefully looked through the first floor again.
+As a low levelled Spirit Condensation disciple, he could only freely use the first floor. Despite knowing that there were no techniques and that there were only knowledge that would be valuable to ordinary people, which cultivators held no interest in, Lin Xuan still held some minuscule hope, and carefully looked through the first floor again.
 
 Nothing!
 
@@ -61,11 +61,11 @@ The layout is different from building in the secular world. The first and second
 
 Lin Xuan only took a few steps, but air in front of him started fluctuating like water ripples, and a layer of yellow coloured shield, like a wall, blocked him way forward.
 
-This is a restriction. To reach the teleportation array, one must first break through the shield, which is also a test. Because according to the design of the sect, to break this restriction, one needed to be at least at the Foundation Building stage. This also guaranteed that those who entered the second floor were not low levelled disciples. Of course, that was excluding applying to the patriarch for permission to enter.
+This is a restriction. To reach the teleportation array, one must first break through the shield, which is also a test. Because according to the design of the sect, to break this restriction, one needed to be at least at the Foundation Establishment stage. This also guaranteed that those who entered the second floor were not low levelled disciples. Of course, that was excluding applying to the patriarch for permission to enter.
 
-Looking at the yellow light before him, Lin Xuan came to a stop and silently observed. Although according to common sense, this restriction could only be broken by those with the minimum cultivation of Foundation Building, but he still had a good chance of breaking through.
+Looking at the yellow light before him, Lin Xuan came to a stop and silently observed. Although according to common sense, this restriction could only be broken by those with the minimum cultivation of Foundation Establishment, but he still had a good chance of breaking through.
 
-Firstly, he grasped the Ice Needles spell, which was comparable to high-rank techniques in power. Secondly, he also had extraordinarily powerful spirit tools. As long as he puts all of his power into it, excluding everything else, in attack power, at least, Lin Xuan was confident that he would be no less powerful than a cultivator with no spirit tools who just stepped into the Foundation Building stage.
+Firstly, he grasped the Ice Needles spell, which was comparable to high-rank techniques in power. Secondly, he also had extraordinarily powerful spirit tools. As long as he puts all of his power into it, excluding everything else, in attack power, at least, Lin Xuan was confident that he would be no less powerful than a cultivator with no spirit tools who just stepped into the Foundation Establishment stage.
 
 But Lin Xuan did not act, and instead, he hesitated, then pretended that nothing happened and walked away. Whether it was Ice Needles or spirit tools, they would both shock others, and Lin Xuan did not want that kind of attention.
 
@@ -81,7 +81,7 @@ Looks like he has to think of something else. After making this decision, Lin Xu
 
 A cultivator up ahead nodded, and regretfully said: "Although the Soaring Cloud sect cannot compare to our Floating Cloud Valley, but they are still a sect with almost a thousand years of heritage, they must have a lot of techniques, spirit tools, and seals."
 
-"Yes, I heard there are also a lot of Foundation Building mid-rank techniques for sale."
+"Yes, I heard there are also a lot of Foundation Establishment mid-rank techniques for sale."
 
 - - -
 - - -

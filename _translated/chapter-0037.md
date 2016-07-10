@@ -29,7 +29,7 @@ No wonder it attracted so many cultivators.
 
 Lin Xuan pushed to the front and after taking a look at the seals placed in the stall, was greatly disappointed. He never thought there would be high-level seals for sale here, but there was not even a single mid grade seal.
 
-The seals that were for sale were all low grade, and they were the most basic and lowest of the low-grade techniques. For example, the Hail technique, the blaze technique, the Quicksand technique, the Rock Fall technique, the Briers technique, etc. There was plenty of variety, but these kinds of techniques, even Spirit Gathering first layer cultivators could easily use, what was the point of purchasing them?
+The seals that were for sale were all low grade, and they were the most basic and lowest of the low-grade techniques. For example, the Hail technique, the blaze technique, the Quicksand technique, the Rock Fall technique, the Briers technique, etc. There was plenty of variety, but these kinds of techniques, even Spirit Condensation first layer cultivators could easily use, what was the point of purchasing them?
 
 Therefore, even though there were many cultivators around the stall, not a single one was will to purchase anything. Finally, after a long time, a voice, with a ridiculing tone asked: "Stall owner, what are the prices for your seals?"
 
@@ -41,9 +41,9 @@ The crowd also ridiculed him for a while, then slowly dispersed. The youth flush
 
 It was not because low levelled seals were useless, for cultivators with low spirit power, they were a good choice for self-defense. There were two reasons that caused them to be difficult to sell.
 
-Firstly, Foundation Building cultivators would definitely not purchase these, because these kinds of low levelled techniques were not worth their time, so they would naturally not waste spirit stones or pills on this kind of exchange. Secondly, for Spirit Gathering cultivators, although they can execute these techniques, it would consume spiritual power and was slower to execute. So of course, they would want seals. But the problem was, they were poor, so it was beyond their grasp, and they could only insult what they could not have[^2].
+Firstly, Foundation Establishment cultivators would definitely not purchase these, because these kinds of low levelled techniques were not worth their time, so they would naturally not waste spirit stones or pills on this kind of exchange. Secondly, for Spirit Condensation cultivators, although they can execute these techniques, it would consume spiritual power and was slower to execute. So of course, they would want seals. But the problem was, they were poor, so it was beyond their grasp, and they could only insult what they could not have[^2].
 
-That was to say, these kinds of low levelled seals, Foundation Building cultivators don't want them, and Spirit Gathering cultivators either can't afford them or did not think it was a good deal. And thus, he was stuck in an embarrassing situation where he could not please either side.
+That was to say, these kinds of low levelled seals, Foundation Establishment cultivators don't want them, and Spirit Condensation cultivators either can't afford them or did not think it was a good deal. And thus, he was stuck in an embarrassing situation where he could not please either side.
 
 This simple and honest youth was from the Seal Mountain. One can tell from the sect's name that the cultivators there would be adept at creating seals.
 
@@ -61,7 +61,7 @@ Be disheartened and with the fact that it was time for the midday meal, he decid
 
 This whole time, Lin Xuan did not make a single sound, but he had other ideas in mind. He wanted to purchase these seals. This only reason being, although there low levelled techniques were garbage, but as long as there was enough of them, he could still blot out the sky and cover the ground, smashing them down on the enemy, they would still have overwhelming power.
 
-For example, these one hundred seals. If they were all used at the same time, even a Foundation Building expert need to frantically defend. And even if they could not wound the enemy, they would definitely at least give the user enough time to escape.
+For example, these one hundred seals. If they were all used at the same time, even a Foundation Establishment expert need to frantically defend. And even if they could not wound the enemy, they would definitely at least give the user enough time to escape.
 
 Of course, in the world of cultivation, other than Lin Xuan, would else would be so wasteful? With the ability to purify, what does Lin Xuan lack? He didn't lack pills, so one pill per two seals was a very simple transaction.
 

@@ -65,7 +65,7 @@ Otherwise, even if the beast seal could somehow rival it, it was not possible fo
 
 After thinking about this, Lin Xuan figured it must be because this demonic artifact had not been completely refined because it could only display a part of its power. But even then, its power still exceed that of a mid-grade spirit artifact and could be considered a good treasured item.
 
-The last item was that low-grade spirit artifact, the fire snake. To ordinary Spirit Gathering disciples, any spirit artifact, even if it was only a low-grade one, they could only hope to see one let alone owning one. But Lin Xuan's situation was special. To someone was wealthy as he was, it was nothing special. When he has the chance in the future, he would use this fire snake to trade for some spirit stones or other precious materials.
+The last item was that low-grade spirit artifact, the fire snake. To ordinary Spirit Condensation disciples, any spirit artifact, even if it was only a low-grade one, they could only hope to see one let alone owning one. But Lin Xuan's situation was special. To someone was wealthy as he was, it was nothing special. When he has the chance in the future, he would use this fire snake to trade for some spirit stones or other precious materials.
 
 So to sum it up. even though this battle had been dangerous, the gains were still good. His only regret was that the energy in the beast seal had been decreased greatly. But this kind of loss, compared to the benefits he had gained, was not even worth mentioning.
 

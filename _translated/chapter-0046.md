@@ -52,9 +52,9 @@ At the same time, Lin Xuan was also thinking that he could not continue like thi
 
 And now on to the other person. Yan Tian Heng was stuck between shock and suspicion. He originally thought that dealing with a fourth layer brat was going to be a piece of cake. But now he was completely uncertain of just how many seals this brat had. If this continued, his magical power would the first to give out.
 
-Switching to another perspective, this brat was simply too rich. His wealth was ampler than that of a Foundation Building expert. And thinking of how he used a mid-grade pill to exchange for a cultivation technique, it was not far-fetched to assume that he might even have a second one.
+Switching to another perspective, this brat was simply too rich. His wealth was ampler than that of a Foundation Establishment expert. And thinking of how he used a mid-grade pill to exchange for a cultivation technique, it was not far-fetched to assume that he might even have a second one.
 
-If he could acquire a mid-grade pill, then his chance at entering into the Foundation Building stage would be even greater. Thinking of this, Yan Tian Heng licked his lips as a strong look of greed flashed in his eyes. It looks like he would have to take out that precious treasure.
+If he could acquire a mid-grade pill, then his chance at entering into the Foundation Establishment stage would be even greater. Thinking of this, Yan Tian Heng licked his lips as a strong look of greed flashed in his eyes. It looks like he would have to take out that precious treasure.
 
 He released another mid-grade technique and at the same time, the spiritual shield around him released a great light. It looked as it the spiritual shield was more solid now. He then reached into his bosom.
 
