@@ -80,5 +80,5 @@ The second flaws the technique must be used in conjunction with a certain medici
 
 [^2]: I am renaming all cultivation techniques to arts to avoid confusion with techniques used for fighting and such.
 
-[^2]: Renaming Spirit Gather to Spirit Condensation to attempt to follow the Noun way of naming stages instead of the Verb way and because it is more accurate
+[^3]: Renaming Spirit Gather to Spirit Condensation to attempt to follow the Noun way of naming stages instead of the Verb way and because it is more accurate
 
