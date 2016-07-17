@@ -1,0 +1,94 @@
+---
+layout: page
+number: "0064"
+name: "Sixty-Four"
+title: "Passing Off as the Real Thing"
+date: "2016-07-17 18:07:51.535222"
+characters: 2085
+chinese: "http://baishuku.com/html/30/30364/12441399.html"
+reddit: "https://www.reddit.com/r/noveltranslations/comments/4tbtnk/cn_tempered_immortal_chapter_0064/"
+sponsored: false
+completed: true
+---
+
+And the medicine that was required by this technique was the high-grade Red Silk Grass!
+
+What a joke, all cultivators who had acquired this technique before to all endlessly cursed this requirement.
+
+To be honest, Red Silk Grass was not some precious medicinal herb in the world of cultivation. Each sect, even cultivator clans, would have lots of it growing in their herb gardens.
+
+But those were all only low-grade!
+
+According to the Herbal Encyclopaedia, Red Silk Grass was a kind of special medicinal herb. Based on the grade of each particular sprig, the prices could be worlds apart. Low-grade Red Silk Grass was the most common kind of herb in the cultivator world, it would be considered the most ordinary herb. Mid-grade Red Silk Grass could be used to concoct Foundation Establishment level pills, so they could be considered as rare. As for high-grade......
+
+Even Core Formation experts would draw their weapons and fight each other for these precious treasures!
+
+Normally, in ten thousand sprigs of Red Silk Grass, one could be able to find a single high-grade sprig. That was also if one was lucky, had good seeds, and took care of them properly.
+
+Not to mention the fact that an ordinary cultivator could not even take out such a treasured item, even if they experienced incredible luck and managed to obtain one, which idiot would use a high-grade Red Silk Grass to change their appearance, let alone that it would only work for two hours.
+
+I wouldn't trade these medicinal herbs for spirit stones or treasures!
+
+Because of its harsh requirements, other than the demonic cultivator who created this technique, of all the cultivators that had acquired this technique, not a single one of them had tried to practice it. They disregarded it as a technique of little value.
+
+"Haha!"
+
+Lin Xuan could not hold in his laughter. What a curious coincidence. Who would have thought that the high-grade Red Silk Grass would make such a perfect disguising technique when used with this demonic technique.
+
+To others, this technique is of little value and has no practical utility; but to himself, it was completely different. Since he has this refining ability, in his hands, regular Red Silk Grass could exhibit the abilities of high-grade ones just as well.
+
+If this technique was just as mysterious and miraculous as the jade slip described, then he would be able to consult the elders about his questions of the Spiritual Control technique.
+
+Once Lin Xuan laid out this plan, he calmed his heart and began gaining insight on this disguise technique.
+
+Although this technique was mysterious, but it was still only a support type technique and was not that difficult at all. The main focus was on the usage of spiritual power and now it flowed. Lin Xuan only needed half a day to thoroughly grasp the technique.
+
+Lin Xuan sucking in a breath of air, retrieved a small bottle from his bosom and took a drink of that green liquid extracted from the Red Silk Grass. Then he directed his spiritual power according to the manual and spoke the incantation. After that, a white fog condensed around him and wrapped around his body.
+
+A moment later, the fog dissipated, but Lin Xuan's appearance had already completely changed. Before, he had very ordinary features, if he was in a crowd, one would not remember him or be able to pick him out at all. But now, he had a very handsome appearance and looked like a descendant of a noble family.
+
+Ye Tian. Lin Xuan had changed into that same demonic cultivator he had killed a month ago.
+
+It was not only facial features, even his height and body structure has changed to be exactly like Ye Tian.
+
+Lin Xuan did this because Ye Tian was also an elite disciple of the sect and had the right to look for guidance from those Foundation Establishment elders at any time. Therefore, Lin Xuan decided to assume his name and identity.
+
+As for whether Lin Xuan arouse suspicions by assuming Ye Tian's identity after his disappearance, Lin Xuan was not worried at all. This was because according to the rules of the sect, only after a disciple has disappeared for two consecutive months would the sect declare them as missing.
+
+Because one might hit a bottleneck during cultivation, and to break through, other than natural talent, perseverance, one also needed insight. Therefore, disciples might also go out to cultivate from time to time.
+
+And since it has only been one month since the death of Ye Tian, if he assumed Ye Tian's identity, he should arouse any suspicions.
+
+Lin Xuan thought through all the possible things that might happen again and decided to practice speaking like Ye Tian some more. This was only a small technique, and also, most people focused on the appearance and not their voice, so it should not be much of a problem.
+
+Then without delaying at all, Lin Xuan speedily arrived at the Hall of the Elites!
+
+Just by the name alone, one was able to tell that the Hall of the Elites is a place that was very important in the sect. This was the place where elders taught and guided the talented disciples of the sect.
+
+The lecturers at the Young Hawks Pavilion were normally at the early stages of Foundation Establishment, and at best, they were at the middle stages. But the guiding elders at the Hall of the Elites were at least at the late stages of Foundation Establishment, not only that, there was also no lack of elders at the Great Perfection of the Foundation Establishment stage. There were even rumours of the patriarch, Daoist YunHe, the only Core Formation cultivator in the sect, would frequently appear at the Hall of the Elites to guide disciples of the younger generation.
+
+The reason that the sect attached such importance to these disciples is because generally, seventy to eighty percent of them would be able to successfully achieve Foundation Establishment and thus form the core of the sect's power in the future.
+
+This rumour somewhat impacted Lin Xuan's confidence in his plan. The patriarch's cultivation was at the Core Formation stage, which is more than enough to be able to see through his disguising technique. But after thinking it over again, he calmed down. Even if Daoist YunHe thought that these disciples were important, but with his identity as the patriarch and as a Core Formation expert, he would definitely not come to the Hall of the Elites too often. One or two a year was probably the maximum for him.
+
+If he actually did run into Daoist YunHe with such low probabilities, then he could only blame his luck for being completely rotten and that it was destined to happen. There was no point in complaining......
+
+Time was of the essence, so without stopping, Lin Xuan hurried into the Hall of the Elites. This was a lofty, imposing, and richly ornamented structure and was much more extensive than the Young Hawks Pavilion.
+
+Other than guiding elite disciples, there was also many elders that stayed here year round to cultivate. Although Foundation Establishment cultivators would be able to have their own immortal caves, but everyone had their own preferences, there was quite a few that enjoyed cultivating in the Hall of the Elites.
+
+"Haha, Junior Apprentice Brother Ye, long time no see. Which breath of wind carried you here today?"
+
+Steps sounded out behind him and a voice sounded out which startled Lin Xuan. This time, his greatest danger was meeting someone that was close to Ye Tian. He was not afraid of them seeing through his disguise, instead, he was afraid that he himself did not know the other person and thus might not be able to speak in the appropriate manner with them.
+
+Lin Xuan was on high alert. On the surface, he did not show any changes in his expression. He turned around and carefully looked at that person, then secretly let out the breath he was holding.
+
+This was good, he knows who the other person is!
+
+Of course, only Lin Xuan recognized the other, but they did not even know this Junior Apprentice Brother that had no spiritual roots called Lin Xuan. Elite disciples really only interacted with other elite disciples.
+
+- - -
+- - -
+
+[^1]:
+
