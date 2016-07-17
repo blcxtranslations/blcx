@@ -51,7 +51,7 @@ Lin Xuan knit his brows and thought deeply. This question was not a question tha
 
 Lin Xuan came to the library. Low-level disciples could only access the first layer. There were no cultivation techniques here. But there were a lot of books on various subjects. Lin Xuan spent a whole day there and finally found the answer to that question.
 
-On the Herbal encyclopedia was recorded the following:
+On the Herbal Encyclopaedia was recorded the following:
 
 The Red Silk grass aged over one hundred years can be used to concoct the Purified Essence pill and other such medicinal pills. When consumed, can also hide one's cultivation.
 

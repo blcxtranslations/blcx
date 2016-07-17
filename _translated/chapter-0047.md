@@ -11,9 +11,9 @@ sponsored: false
 completed: true
 ---
 
-A wild wind blew past, clearing the smoke and dust in the air. It revealed Yan Tian Heng holding a seal. He was channelling all of his spiritual power into it like a dam bursting. Seeing this kind of action, Lin Xuan's expression turned more and more serious. This is definitely not some simple seal.
+A wild wind blew past, clearing the smoke and dust in the air. It revealed Yan TianHeng holding a seal. He was channelling all of his spiritual power into it like a dam bursting. Seeing this kind of action, Lin Xuan's expression turned more and more serious. This is definitely not some simple seal.
 
-Lin Xuan was definitely not dumb enough to let his opponent complete their technique and thus prepared to though out an attack. But at that moment, Yan Tian Heng showed a sinister smile on his lips. He threw the seal into the air and yelled out: "Soul, release!"
+Lin Xuan was definitely not dumb enough to let his opponent complete their technique and thus prepared to though out an attack. But at that moment, Yan TianHeng showed a sinister smile on his lips. He threw the seal into the air and yelled out: "Soul, release!"
 
 Roar!
 
@@ -49,7 +49,7 @@ Although it was only the soul, it still had such a fearsome roar. Of course, aft
 
 "Go!"
 
-Yan Tian Heng made some incantation gestures and lightly tapped the beast causing it to bare its fangs and brandish its claws. It then changed into a ball of red light and charged towards Lin Xuan.
+Yan TianHeng made some incantation gestures and lightly tapped the beast causing it to bare its fangs and brandish its claws. It then changed into a ball of red light and charged towards Lin Xuan.
 
 It was a dangerous situation but Lin Xuan did not panic. He activated the seal in his hands and threw it in the air......
 
@@ -67,7 +67,7 @@ Although it was a soul and did not have a corporeal body, but the spirit tool wa
 
 "Spirit tool!"
 
-Yan Tian Heng could not hold it in and yelled out with a face full of surprise. But who could blame him? Spirit tools were very rare precious treasures. Although theoretically, a low-levelled fourth layer cultivator could utilize them, but in reality, even some Foundation Establishment experts did not have them.
+Yan TianHeng could not hold it in and yelled out with a face full of surprise. But who could blame him? Spirit tools were very rare precious treasures. Although theoretically, a low-levelled fourth layer cultivator could utilize them, but in reality, even some Foundation Establishment experts did not have them.
 
 Originally, it was already hard for him to imagine that Lin Xuan had so many seals, but he would never have thought that Lin Xuan would even have a spirit tool. The discovery caused him to feel apprehensive in his heart.
 
@@ -77,11 +77,11 @@ Just what is this brats identity?
 
 With this kind of wealth, his master must be a big-shot. It couldn't be a Core Formation expert right!?
 
-The more he thought about it, the more fearful Yan Tian Heng became.
+The more he thought about it, the more fearful Yan TianHeng became.
 
 But he was still the patriarch of a family so he did not let this mess up his strategies and instead his conviction of killing Lin Xuan became even stronger. If this brat got away and his master came out, he would definitely die a very horrible death. He must kill him here and now no matter what.
 
-It can't be said that Yan Tian Heng was too suspicious. If fact, the treasures that Lin Xuan took out were too shocking. It was easy for someone to let their imaginations run wild with speculations and end up scaring themselves.
+It can't be said that Yan TianHeng was too suspicious. If fact, the treasures that Lin Xuan took out were too shocking. It was easy for someone to let their imaginations run wild with speculations and end up scaring themselves.
 
 Although he wanted to kill Lin Xuan but it was very difficult to actually kill him. His cultivation was a while three layers lower but spirit tools were simply too hard to deal with.
 
@@ -89,9 +89,9 @@ Lin Xuan was very upset, his cultivation was still too low and could only contro
 
 They both wanted to kill the other. One did his utmost to urge his demon tiger to throw off its bindings; the other strived to control his spirit tool to continue to wrap around that beast soul. Once again, they came to a deadlock.
 
-As time passed, Lin Xuan seemed like he was getting more anxious. He was tweaking his ears and scratching his cheek, like a cat on a hot tin roof. Yan Tian Heng coldly smiled. His opponent was young and sure enough, was unable to remain calm. Looks like he would be the winner of this duel.
+As time passed, Lin Xuan seemed like he was getting more anxious. He was tweaking his ears and scratching his cheek, like a cat on a hot tin roof. Yan TianHeng coldly smiled. His opponent was young and sure enough, was unable to remain calm. Looks like he would be the winner of this duel.
 
-Another two minutes passed and Lin Xuan once again reached into his bosom causing Yan Tian Heng's expression to change. His opponent still had seals. It was not impossible to use mid-rank techniques while controlling the demon tiger soul, but that kind of usage would consume his spiritual power too fast. If he still had many seals......
+Another two minutes passed and Lin Xuan once again reached into his bosom causing Yan TianHeng's expression to change. His opponent still had seals. It was not impossible to use mid-rank techniques while controlling the demon tiger soul, but that kind of usage would consume his spiritual power too fast. If he still had many seals......
 
 But in the next moment, his face changed once again into a sinister smile because when Lin Xuan withdrew his hand, it was empty now he looked as if he was losing his head out of fear.
 

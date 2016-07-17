@@ -15,15 +15,15 @@ This brat was so troublesome to deal with not because of him having high cultiva
 
 The spirit tool and the beast soul were evenly matched, but his opponent has run out of seals. His victory is in the bag.
 
-Thinking of killing this brat, not only would he acquire the mid-grade pill, that spirit tool would also be his. Yan Tian Heng could almost not restrain himself from laughing wildly. He expression truly looked quite savage.
+Thinking of killing this brat, not only would he acquire the mid-grade pill, that spirit tool would also be his. Yan TianHeng could almost not restrain himself from laughing wildly. He expression truly looked quite savage.
 
 Lin Xuan had a very unsightly expression and was silent for a quite a while. Suddenly, he extended his hand, circulated his spiritual power, and shot out a few pieces of hail towards his opponent.
 
 "This kind of garbage technique, are you embarrassed using it?"
 
-Yan Tian Heng coldly laughed and did not make any moves. The hail technique was only an entry level technique. Not to mention a fourth layer cultivator, even if a Foundation Establishment cultivator used this kind of basic technique, it would still not be able to break through his spiritual shield.
+Yan TianHeng coldly laughed and did not make any moves. The hail technique was only an entry level technique. Not to mention a fourth layer cultivator, even if a Foundation Establishment cultivator used this kind of basic technique, it would still not be able to break through his spiritual shield.
 
-Of course, Yan Tian Heng was also not the kind of person who would idly take a beating. He extended his hand and once again a firebird appeared causing a heatwave to bellow out.
+Of course, Yan TianHeng was also not the kind of person who would idly take a beating. He extended his hand and once again a firebird appeared causing a heatwave to bellow out.
 
 The two techniques crisscrossed. The hail technique landed on the spiritual shield, and like a clay ox entering the sea disappeared without a trace without causing any damages.
 
@@ -35,7 +35,7 @@ Lin Xuan looked even more panic-stricken as if his strategies were all in disarr
 
 "Death throes!"
 
-Yan Tian Heng laughed proudly. His fear were seals, but to compete in spiritual power, this brat was simply looking to die. Then to satisfy his wish, he will keep using mid-rank techniques and attacked Lin Xuan's shield again.
+Yan TianHeng laughed proudly. His fear were seals, but to compete in spiritual power, this brat was simply looking to die. Then to satisfy his wish, he will keep using mid-rank techniques and attacked Lin Xuan's shield again.
 
 Just like this, after three exchanges, the Water Spirit shield broke and the Adamantine technique was on the verge of collapse. Even those the spirit tool and the demon tiger soul were evenly matched, but their personal strengths were not. Lin Xuan was already suppressed to a degree where he was panting, it could be said that he was already in dire straits.
 
@@ -49,23 +49,23 @@ From this other's arrogant expression, they had already decided that Lin Xuan on
 
 Lin Xuan did not change his expression. The battle had already lasted a long time. Although he had been using seals for most of the battle, but he also did not have much spiritual power left, so he summoned all of it together.
 
-Large amounts of water type cold air were produced in the air but Yan Tian Heng was not suspicious at all. But in the next instant, his eyes became wide, because it was not hail that appeared in front of Lin Xuan but instead they were coldly twinkling and densely packed sharp needles.
+Large amounts of water type cold air were produced in the air but Yan TianHeng was not suspicious at all. But in the next instant, his eyes became wide, because it was not hail that appeared in front of Lin Xuan but instead they were coldly twinkling and densely packed sharp needles.
 
 Ice Needles technique!
 
-Yan Tian Heng blurted out in surprise, unable to keep down his fear anymore. The only reason was that even though the Ice Needles technique was also a mid-rank technique, but its power was definitely not lower than that of high-rank techniques. The only problem as that it was very hard to cultivate, even he, an expert at the great perfection of the Spirit Condensation stage could not use it. Yet this youth at the low level of the fourth layer......
+Yan TianHeng blurted out in surprise, unable to keep down his fear anymore. The only reason was that even though the Ice Needles technique was also a mid-rank technique, but its power was definitely not lower than that of high-rank techniques. The only problem as that it was very hard to cultivate, even he, an expert at the great perfection of the Spirit Condensation stage could not use it. Yet this youth at the low level of the fourth layer......
 
 He originally thought that Lin Xuan was simply wealthy and had many seals. But now it looks like he had made an error in his judgment. This brat's power was very shocking. He was only pretending to be weak and intentionally lowering his foe's vigilance.
 
-After thinking of this, Yan Tian Heng's face became white as paper. It looks like he had fallen for a meticulously planned trap. The current situation had turned critical.
+After thinking of this, Yan TianHeng's face became white as paper. It looks like he had fallen for a meticulously planned trap. The current situation had turned critical.
 
-The tables have turned. Now it was Lin Xuan that showed a confident smile and waved his hand, sending out these over a hundred ice needles. Yan Tian Heng clenched his teeth and tried to thicken his spiritual shield with all his might. But sadly, it was already too late.
+The tables have turned. Now it was Lin Xuan that showed a confident smile and waved his hand, sending out these over a hundred ice needles. Yan TianHeng clenched his teeth and tried to thicken his spiritual shield with all his might. But sadly, it was already too late.
 
 His barely had any spiritual power left and with his strength, blocking a few mid-rank techniques was not an issue, but the Ice Needles technique was able to match high-rank techniques in power.
 
 If he was alert and guarding against attacks, he would definitely not try to block. The smart decision would be to dodge, but it was already too late.
 
-Over the added defense of Yan Tian Heng's spiritual shield, it let out a bright light. But the ice needles were more powerful. Popping sounds rang out. The shield was barely enough to defend against two-thirds of the ice needles, but the rest of these thirty some needles punctured Yan Tian Heng all over his body. Yan Tian Heng's eyes stayed open with a look of willingness on his face. Then he stiffly fell over.
+Over the added defense of Yan TianHeng's spiritual shield, it let out a bright light. But the ice needles were more powerful. Popping sounds rang out. The shield was barely enough to defend against two-thirds of the ice needles, but the rest of these thirty some needles punctured Yan TianHeng all over his body. Yan TianHeng's eyes stayed open with a look of willingness on his face. Then he stiffly fell over.
 
 "Father!" A fearful and sorrowful cry reached his ears. Lin Xuan turned around. It was that Yan Ming fearfully looking towards him.
 
@@ -79,7 +79,7 @@ To be honest, Lin Xuan was not one to kill wantonly. But when it came time to ta
 
 After taking care of the Yan father and son, Lin Xuan would, of course, collect his spoils of war. There was no need to be polite or modest here. He first waved his hand retrieving his golden rope.
 
-After Yan Tian Heng's death, the soul of the demon tiger lost its support and returned to the seal. This was also the only kind of seal that could be reused over and over again until all of its energy has run out.
+After Yan TianHeng's death, the soul of the demon tiger lost its support and returned to the seal. This was also the only kind of seal that could be reused over and over again until all of its energy has run out.
 
 Lin Xuan bent down and retrieved the beast seal.
 
@@ -87,7 +87,7 @@ Compared to other ordinary seals, the beast seals were slightly larger and emitt
 
 This was the kind of seal only a demonic path cultivator could craft. Lin Xuan held it in his hand, and after carefully examined it for quite a while, finally stored it away in his storage bracelet in his bosom.
 
-Back then, when he reached into his bosom for more seals yet pulled out nothing was also to deceive Yan Tian Heng and to let Yan Tian Heng underestimate him. In reality, he never used up all of his seals. But this battle had, in fact, used up almost a hundred of them. The seals he had acquired this time were all used up. But this beast seal could be said to be able to compensate for the losses from this battle.
+Back then, when he reached into his bosom for more seals yet pulled out nothing was also to deceive Yan TianHeng and to let Yan TianHeng underestimate him. In reality, he never used up all of his seals. But this battle had, in fact, used up almost a hundred of them. The seals he had acquired this time were all used up. But this beast seal could be said to be able to compensate for the losses from this battle.
 
 - - -
 - - -

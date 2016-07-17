@@ -12,9 +12,9 @@ completed: true
 
 ---
 
-Compared to the other's anxious look, Lin Xuan looked, at least on the surface, to have planned for this well in advance. On one hand, he used the power of seals to deal with the other's techniques, and on the other, he would occasionally cast a technique like the hail technique as a sneak attack. Although it could not hurt Yan Tian Heng, it still caused him to seethe in anger.
+Compared to the other's anxious look, Lin Xuan looked, at least on the surface, to have planned for this well in advance. On one hand, he used the power of seals to deal with the other's techniques, and on the other, he would occasionally cast a technique like the hail technique as a sneak attack. Although it could not hurt Yan TianHeng, it still caused him to seethe in anger.
 
-Especially Lin Xuan's expression. It was full of disdain. He would even occasionally ridicule him, causing Yan Tian Heng's expression to get more and more gloomy.
+Especially Lin Xuan's expression. It was full of disdain. He would even occasionally ridicule him, causing Yan TianHeng's expression to get more and more gloomy.
 
 It was not surprising. He was the patriarch of a family and a seventh layer expert. Yet he could not do anything to this fourth layer brat. It really caused him to be frustrated.
 
@@ -26,7 +26,7 @@ Of course not!
 
 He was doing this one purpose. As everyone knows, if one does not focus on the battle at hand with one hundred percent of their concentration, the would definitely suffer some losses. When facing someone more powerful than oneself, to seek victory was very difficult. Not only did one need the correct tactics and techniques and not make mistakes, but know what the enemy was thinking of was also very important.
 
-Therefore, Lin Xuan put on an infuriating appearance and used words to ridicule him. And sure enough, Yan Tian Heng was unable to remain calm.
+Therefore, Lin Xuan put on an infuriating appearance and used words to ridicule him. And sure enough, Yan TianHeng was unable to remain calm.
 
 This was clearly demonstrating Lin Xuan's ability to read people. Although this Yan family was a very vicious and crafty person, but he had a fiery temper. To anger him was not difficult.
 
@@ -38,7 +38,7 @@ Five low-grade seals would able to fight against the other's one mid-rank techni
 
 Yet this was only a thought because to activate low-level seals still required spiritual power. With Lin Xuan's spiritual power, the most he could activate at once was five and then he had to rest to recover to catch his breathe. It was a very short amount of time, about two or three seconds, but using another five seals after that amount of time would already have a greatly diminished effect.
 
-Because by then, the other side would have already used another mid-rank technique. As a result, this has been turned into a war of attrition to see if Yan Tian Heng would run dry of spiritual power first or if Lin Xuan would run out of seals first.
+Because by then, the other side would have already used another mid-rank technique. As a result, this has been turned into a war of attrition to see if Yan TianHeng would run dry of spiritual power first or if Lin Xuan would run out of seals first.
 
 But in fact, it was not impossible to use more than five seals at a time. Lin Xuan have read an introduction in a book before. It described a way to re-craft the seal using a precious material called the Spirit Attracting Grass to link seals together.
 
@@ -50,17 +50,17 @@ Therefore, Lin Xuan was very dismayed and wistful. But he did not show this on h
 
 At the same time, Lin Xuan was also thinking that he could not continue like this. Although the opponent's spiritual power has weakened by quite a bit, but to have it dry up would still take quite a while yet. Would he really have to continue wasting like this?
 
-And now on to the other person. Yan Tian Heng was stuck between shock and suspicion. He originally thought that dealing with a fourth layer brat was going to be a piece of cake. But now he was completely uncertain of just how many seals this brat had. If this continued, his magical power would the first to give out.
+And now on to the other person. Yan TianHeng was stuck between shock and suspicion. He originally thought that dealing with a fourth layer brat was going to be a piece of cake. But now he was completely uncertain of just how many seals this brat had. If this continued, his magical power would the first to give out.
 
 Switching to another perspective, this brat was simply too rich. His wealth was ampler than that of a Foundation Establishment expert. And thinking of how he used a mid-grade pill to exchange for a cultivation technique, it was not far-fetched to assume that he might even have a second one.
 
-If he could acquire a mid-grade pill, then his chance at entering into the Foundation Establishment stage would be even greater. Thinking of this, Yan Tian Heng licked his lips as a strong look of greed flashed in his eyes. It looks like he would have to take out that precious treasure.
+If he could acquire a mid-grade pill, then his chance at entering into the Foundation Establishment stage would be even greater. Thinking of this, Yan TianHeng licked his lips as a strong look of greed flashed in his eyes. It looks like he would have to take out that precious treasure.
 
 He released another mid-grade technique and at the same time, the spiritual shield around him released a great light. It looked as it the spiritual shield was more solid now. He then reached into his bosom.
 
 Lin Xuan frowned and his expression turned gloomy. Seeing his opponent's actions, how could he not know that they were about to use some powerful item.
 
-Lin Xuan of course would not let them succeed so easily. He did not have time to feel wistful. So he immediately pulled out two mid-grade seals. One canceled out the firebird technique, the other changed into a large scimitar and sliced towards Yan Tian Heng.
+Lin Xuan of course would not let them succeed so easily. He did not have time to feel wistful. So he immediately pulled out two mid-grade seals. One canceled out the firebird technique, the other changed into a large scimitar and sliced towards Yan TianHeng.
 
 Since preparing his killing technique would require all of his concentration, he could do nothing seeing the gold type scimitar technique chopping towards him.
 
@@ -68,11 +68,11 @@ Boom!
 
 The power of a mid-rank technique was no small matter and could not even be compared to the blaze seals used before. Even the sound of the collision with the spiritual shield was very shocking.
 
-Dirt flew everywhere and a deep ditch formed. After taking that strike, Yan Tian Heng's face was pale like paper and a trail of blood leaked out of the corner of his lips. But Lin Xuan was only feeling unfortunate. If the power of the scimitar technique was greater it would have been better. Although it did manage to inflict heavy damages against his opponent, in the end, it still failed to break open the defenses of the spiritual shield.
+Dirt flew everywhere and a deep ditch formed. After taking that strike, Yan TianHeng's face was pale like paper and a trail of blood leaked out of the corner of his lips. But Lin Xuan was only feeling unfortunate. If the power of the scimitar technique was greater it would have been better. Although it did manage to inflict heavy damages against his opponent, in the end, it still failed to break open the defenses of the spiritual shield.
 
 "Brat, to force an old fellow like me to this kind of state, you are pretty good. But you can die now!"
 
-The smoke and dust had yet to settle yet Yan Tian Heng's hateful and angry voice had already transmitted out. Lin Xuan shivered with fear for a moment and circulated spiritual power to his fingertips while pulling out more seals with the other hand.
+The smoke and dust had yet to settle yet Yan TianHeng's hateful and angry voice had already transmitted out. Lin Xuan shivered with fear for a moment and circulated spiritual power to his fingertips while pulling out more seals with the other hand.
 
 But he didn't mindlessly attack. To act without know what is going on is very stupid. One should first see what the enemy has prepared before making a plan and then taking action.
 

@@ -11,7 +11,7 @@ sponsored: false
 completed: true
 ---
 
-Lin Xuan then, once again, walked over to Yan Tian Heng's corpse and happily started to search for more spoils. This guy was very vicious and sinister, but he was still the patriarch of a clan, so presumably the wealth he was carrying would not disappoint Lin Xuan.
+Lin Xuan then, once again, walked over to Yan TianHeng's corpse and happily started to search for more spoils. This guy was very vicious and sinister, but he was still the patriarch of a clan, so presumably the wealth he was carrying would not disappoint Lin Xuan.
 
 Lin Xuan found a storage bracelet on his body. Inserting his spiritual sense, he took out everything that was in there.
 
@@ -61,15 +61,15 @@ Although it was a low-rank cultivation technique, but even Foundation Establishm
 
 The path of cultivation was almost endless. Although the Spirit Condensation stage was the lowest stage, but one cannot overlook this stage. This was the stage where the foundation was laid. If the foundation is unstable, then it will hinder future progress. If the foundation is firm, then the benefits will gradually manifest.
 
-Lin Xuan did not immediately start cultivating but instead decided to rest and recover for a day. The battle with the father and son of the Yan family, although he did not suffer any injuries, was still very difficult. Even with the help of the spirit tool, Yan Tian Heng was still an expert of the great perfection of the Spirit Condensation stage.
+Lin Xuan did not immediately start cultivating but instead decided to rest and recover for a day. The battle with the father and son of the Yan family, although he did not suffer any injuries, was still very difficult. Even with the help of the spirit tool, Yan TianHeng was still an expert of the great perfection of the Spirit Condensation stage.
 
 It wasn't only a contest of strength. It was also a battle of wits, of strategies of attacking the mind, of pretending to be weak, and of laying clever traps. Then with the addition of hurrying along during the night and only resting for two hours, his body had already been exhausted. To cultivate in this condition would definitely not yield good results. Therefore, Lin Xuan decided to recover first. Haste makes waste. Besides, it was only a few days and does not make a big difference.
 
 After taking a bath, Lin Xuan fell into a deep sleep. He slept from noon to the morning of the second day. After rising, he felt invigorated and refreshed, and his spiritual power had fully recovered. It was time to start cultivating.
 
-This trip allowed Lin Xuan to deeply understand the importance of spiritual power. For example, the battle he had, honestly speaking, other than the beast seal, Yan Tian Heng did not take out any other treasures. Yet he still used his cultivation to fight against the over one hundred seals that Lin Xuan had. If Lin Xuan did not lay a trap for him, winning this definitely would have been much more difficult.
+This trip allowed Lin Xuan to deeply understand the importance of spiritual power. For example, the battle he had, honestly speaking, other than the beast seal, Yan TianHeng did not take out any other treasures. Yet he still used his cultivation to fight against the over one hundred seals that Lin Xuan had. If Lin Xuan did not lay a trap for him, winning this definitely would have been much more difficult.
 
-And spirit tools indeed had incomparable power. He could barely use his fourth layer cultivation to control the mid-grade golden rope. If he had enough spiritual power and could control that high-grade flying sword, then he would be able to speedily and easily remove Yan Tian Heng's head.
+And spirit tools indeed had incomparable power. He could barely use his fourth layer cultivation to control the mid-grade golden rope. If he had enough spiritual power and could control that high-grade flying sword, then he would be able to speedily and easily remove Yan TianHeng's head.
 
 It doesn't matter how many treasures one had, if one did not have enough spiritual power, then they were all useless or, at least, they could not display their full power. So the priority now is to increase his cultivation. As to the Spiritual Control technique, he can take it slow and start learning it once he enters the fifth or sixth layer of Spirit Condensation.
 

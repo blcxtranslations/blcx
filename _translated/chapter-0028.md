@@ -25,7 +25,7 @@ Generally, high-rank techniques have higher requirements, so naturally its power
 
 Spirit Condensation stage cultivators can practice it, but the Ice Needles spell's power was no weaker than some high-rank techniques. Because of this, some of the elder generation even argued that this technique should be classified as a high-rank technique.
 
-But for whatever reason, that proposal was not passed, and the Ice Needles spell in the Encyclopedia of techniques was still listed as mid-rank. Then, of course, Ice Needles would be the most powerful of the mid-rank techniques.
+But for whatever reason, that proposal was not passed, and the Ice Needles spell in the Encyclopaedia of techniques was still listed as mid-rank. Then, of course, Ice Needles would be the most powerful of the mid-rank techniques.
 
 Some people even called the Ice Needles spell the “false mid-rank technique”.
 

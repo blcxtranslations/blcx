@@ -11,7 +11,7 @@ sponsored: false
 completed: true
 ---
 
-But not matter what, he was still his son. So Yan Tian Heng used one hand to pull his son behind him and raised the other in front of him. A light yellow coloured spirit power flowed from his body and changed into a spiritual shield.
+But not matter what, he was still his son. So Yan TianHeng used one hand to pull his son behind him and raised the other in front of him. A light yellow coloured spirit power flowed from his body and changed into a spiritual shield.
 
 Pop!
 
@@ -39,7 +39,7 @@ This was also a mid-grade defensive technique!
 
 When he originally heard from his son about the rogue cultivator that used a mid-grade pill to purchase a cultivation technique, even though there were many witnesses around to confirm it, he still was skeptical in his heart. But now he believed that there really was someone that did that. Using his experience of reading people, this youth in front of him wasn't a rogue cultivator. That kind of outfit was definitely used to try to fool other people.
 
-"Just who exactly are you?" Yan Tian Heng stressed each syllable and had a sinister face.
+"Just who exactly are you?" Yan TianHeng stressed each syllable and had a sinister face.
 
 Lin Xuan did not say anything. Since things were already like this, it could only end with one side or the other dying. There was no point in saying anything, only idiots would expose their own identities.
 
@@ -51,9 +51,9 @@ Lin Xuan did not respond and circulated his spiritual power forming many pieces 
 
 "Hmph, such a trifling skill!"
 
-Yan Tian Heng showed a sinister smile. He was at the great perfection of the Spirit Condensation stage. How could he even look at such a low-level technique?
+Yan TianHeng showed a sinister smile. He was at the great perfection of the Spirit Condensation stage. How could he even look at such a low-level technique?
 
-Yan Tian Heng raised his arm and pinched his forefinger and thumb together and started chanting an incantation and circulating his spiritual power. Immediately, a huge ball of flames appeared upon his palm and then suddenly changed into the shape of a bird.
+Yan TianHeng raised his arm and pinched his forefinger and thumb together and started chanting an incantation and circulating his spiritual power. Immediately, a huge ball of flames appeared upon his palm and then suddenly changed into the shape of a bird.
 
 As for the hail technique, he didn't even bother to look at it. Even if it struck his spiritual shield it would not do any harm to him.
 
@@ -61,15 +61,15 @@ Firebird technique is a fire type mid-rank technique. He was definitely worthy o
 
 But Lin Xuan did not panic at all. He once again reached into his bosom and fished out five more seals. Fire and water mutually suppress each other, and these five freeze seals, although there were all low-level seals, but relying on their numbers of five against one, it would still have, more or less, the same amount of power.
 
-Yan Tian Heng opened his eyes wide in shock. He was both surprised and angry. This brat was very unexpected. Just where exactly is he from that he could take out so many seals?
+Yan TianHeng opened his eyes wide in shock. He was both surprised and angry. This brat was very unexpected. Just where exactly is he from that he could take out so many seals?
 
 Not to mention rogue cultivators, even disciples of sects would not be this wealthy!
 
 But not matter what, he could not let him live.
 
-Thinking of this, Yan Tian Heng launched a wild storm of attacks, one mid-grade technique after another flew towards Lin Xuan.
+Thinking of this, Yan TianHeng launched a wild storm of attacks, one mid-grade technique after another flew towards Lin Xuan.
 
-Lin Xuan had an apathetic look on his face but in his heart, he had to admit that Yan Tian Heng indeed worthy of being a seventh layer of cultivation expert. At this very moment, he knew how lucky he was to be able to take care of Zhou Yan with a trap back then.
+Lin Xuan had an apathetic look on his face but in his heart, he had to admit that Yan TianHeng indeed worthy of being a seventh layer of cultivation expert. At this very moment, he knew how lucky he was to be able to take care of Zhou Yan with a trap back then.
 
 If it wasn't because of the fact that Zhou Yan underestimated him after seeing his weak cultivation and took him lightly, thus not even bothering to even raise a spiritual shield, then he would have fallen in that small mountain valley long ago.
 
@@ -79,7 +79,7 @@ Lin Xuan once again reached into his bosom for more seals. He was not using his 
 
 Secondly, since he had acquired the spirit tools, his main focus in his cultivation has deviated from the other disciples. Therefore, he only learned a few techniques.
 
-To defeat the enemy, one must avoid the enemy's strong points and attack the weak points. Compared to Yan Tian Heng, what was his strong point? Too many seals.
+To defeat the enemy, one must avoid the enemy's strong points and attack the weak points. Compared to Yan TianHeng, what was his strong point? Too many seals.
 
 Seals could be instantly activated and only used a minimal amount of spiritual power. Facing a stronger foe, it would be a waste not to use them.
 
@@ -89,7 +89,7 @@ He first made a general plan on how to deal with the current situation and a bat
 
 Boom, boom, boom......
 
-The sounds of explosions rang out non-stop. The battle of cultivators could only be described as incomparably fierce. Yan Tian Heng was shocked and angry. Although he was at the great perfection of the Spirit Condensation stage, but using mid-rank techniques were no small matter. The spiritual power consumption was rapidly increasing and his spiritual power was rapidly dropping. But Lin Xuan was using seals as if he had an endless supply. If this continued......
+The sounds of explosions rang out non-stop. The battle of cultivators could only be described as incomparably fierce. Yan TianHeng was shocked and angry. Although he was at the great perfection of the Spirit Condensation stage, but using mid-rank techniques were no small matter. The spiritual power consumption was rapidly increasing and his spiritual power was rapidly dropping. But Lin Xuan was using seals as if he had an endless supply. If this continued......
 
 - - -
 - - -

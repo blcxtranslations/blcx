@@ -61,7 +61,7 @@ The Stirring Sky technique, the Purple Sun Spirit technique, the Soft Wood techn
 
 In front of every jade slip was a label clearly stating the name of the technique. Lin Xuan read each one until he finally saw the Soaring Cloud technique.
 
-This was also a coincidence because before, at the Young Eagles pavilion, there was a very knowledgeable Foundation Establishment expert reviewing the base cultivation technique of the various sects. Among the few sects of the Yan prefecture, the most powerful one was of course the Floating Cloud Valley because they had the greatest number of Foundation Establishment cultivators and a Core Formation expert, Immortal Yun He, was the patriarch.
+This was also a coincidence because before, at the Young Eagles pavilion, there was a very knowledgeable Foundation Establishment expert reviewing the base cultivation technique of the various sects. Among the few sects of the Yan prefecture, the most powerful one was of course the Floating Cloud Valley because they had the greatest number of Foundation Establishment cultivators and a Core Formation expert, Daoist YunHe, was the patriarch.
 
 But in terms of low levelled disciples, the lower ranked Soaring Cloud sect was not at all inferior to the Floating Cloud Valley. Especially their best cultivation technique, the Soaring Cloud technique, compared to the Flying Cloud Spirit technique of the Floating Cloud sect, they were equally matched. They each had their own strengths and were both good cultivation techniques for the basis of Foundation Establishment.
 

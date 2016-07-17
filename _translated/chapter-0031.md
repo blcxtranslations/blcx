@@ -54,7 +54,7 @@ The three of them sat down in a secluded corner and exchanged some pleasantries.
 
 Generally, when powerful cultivators faced cultivators with lower cultivation, they would all be very arrogant. Li Hai was very impressed by Lin Xuan's kind and approachable attitude. Therefore, currently, he was telling Lin Xuan a very detailed account of everything he knew about the incident.
 
-There are tens of thousands of sects in the world of cultivation, and Floating Cloud Valley can be considered on the lower end of that scale. In the thousands of cultivators they had, ten percent of them were in the early layers of Spirit Condensation, but they did have almost one hundred Foundation Establishment cultivators as protector elders. At the same time, the patriarch Immortal Yun He was an early Core Formation stage expert.
+There are tens of thousands of sects in the world of cultivation, and Floating Cloud Valley can be considered on the lower end of that scale. In the thousands of cultivators they had, ten percent of them were in the early layers of Spirit Condensation, but they did have almost one hundred Foundation Establishment cultivators as protector elders. At the same time, the patriarch Daoist YunHe was an early Core Formation stage expert.
 
 This kind of strength, cannot be said to be strong, but also can't be easily looked down upon. After all, the patriarch did have a cultivation in the Core Formation stage and was powerful, and with almost a hundred Foundation Establishment stage cultivators also caused fear in people's hearts. In this area, they would not be able to seek hegemony or expand easily, but protecting against being supplanted or being bullied is no problem.
 

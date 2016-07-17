@@ -69,7 +69,7 @@ However, this breakthrough was not like last time. Last time when he had just br
 
 Of course, this was not because Lin Xuan was too tired from cultivating. Although these few months have been very trying, but he had already had a good night's sleep before coming out and his body and spiritual power had already recovered to their optimal conditions.
 
-He purposely acted listless and had also consumed some of the green liquid that was refined from the Red Silk grass. Not to mention some ordinary elders, even if he was standing in front of the patriarch, immortal Yun He, a Core Formation expert, Lin Xuan believed that he would also not be able to see through his fake cultivation of the first layer.
+He purposely acted listless and had also consumed some of the green liquid that was refined from the Red Silk grass. Not to mention some ordinary elders, even if he was standing in front of the patriarch, Daoist YunHe, a Core Formation expert, Lin Xuan believed that he would also not be able to see through his fake cultivation of the first layer.
 
 "Immortal!" See Lin Xuan finally coming out of the house, Zhao Ming and the children hurriedly saluted him.
 

@@ -19,7 +19,7 @@ Only when Lin Xuan finished purifying the pills and came out to get some fresh a
 
 He did not think that the death of the father and son of the Yan family would cause such an uproar. Of course, he did not feel guilty about it at all.
 
-Firstly, the reason for this whole affair was because Yan Tian Heng attacked and killed the people of Wang family and stole their cultivation technique. That had nothing to do with Lin Xuan. Secondly, Lin Xuan killed the two of them because they wanted him to die there. Should he not have taken action and waited for them to kill him?
+Firstly, the reason for this whole affair was because Yan TianHeng attacked and killed the people of Wang family and stole their cultivation technique. That had nothing to do with Lin Xuan. Secondly, Lin Xuan killed the two of them because they wanted him to die there. Should he not have taken action and waited for them to kill him?
 
 Lin Xuan was not dumb. If you do not offend me, then I won't offend you. If you offend me, then I will immediately and mercilessly take action. To survive in the cultivation world, one needed to learn how to be cold-hearted. Lin Xuan was not addicted to killing, but when dealing with enemies, he would not show a shred of mercy.
 
