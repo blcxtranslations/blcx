@@ -17,31 +17,30 @@ permalink: /sponsors.html
 <h1>
   Recent Sponsors
 </h1>
-<table>
+<table class="clear">
+  {% assign recent = site.data.sponsors | sort: 'date' %}
+  {% assign count = 0 | plus: 0 %}
   {% for sponsor in recent reversed %}
-
-  {% assign ptime = sponsor.date | date: '%s' | plus: 0 | minus: stime %}
-
-  {% if ptime < zero %}
-    {% break %}
-  {% endif %}
+  {% assign count = count | plus: 1 %}
 
   <tr>
     <td>
       {{ sponsor.date }}
     </td>
     <td>
-      <strong>
-        {{ sponsor.name }}
-      </strong>
+      {{ sponsor.name }}
     </td>
     <td>
       <script type="text/javascript">
         document.write(curfy({{ sponsor.amount }}))
       </script>
     </td>
+    </a>
   </tr>
-{% endfor %}
+  {% if count >= 5 %}
+    {% break %}
+  {% endif %}
+  {% endfor %}
 </table>
 <!--  -->
 

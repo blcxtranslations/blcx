@@ -8,7 +8,7 @@ characters: 2117
 chinese: "http://baishuku.com/html/30/30364/12441401.html"
 reddit: "https://www.reddit.com/r/noveltranslations/comments/4vkkkn/cn_tempered_immortal_chapter_0065/"
 sponsored: false
-completed: false
+completed: true
 ---
 
 "Apprentice Brother Ma!" Lin Xuan imitated Ye Tian's voice and cupped his hands in greeting.

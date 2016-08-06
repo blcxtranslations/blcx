@@ -7,7 +7,7 @@
     bottom: 0;
     width: 18rem;
 
-    /*background-image: url("/blcx/images/background.jpg");*/
+    background-image: url("/blcx/images/background.jpg");
     background-size: cover;
     background-position: right;
   }

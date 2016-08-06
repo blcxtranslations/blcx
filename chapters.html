@@ -1,0 +1,78 @@
+---
+layout: default
+title: "Chapters"
+permalink: /chapters.html
+---
+
+<h1>
+  Chapters
+</h1>
+<br />
+
+{% include adsense_top.html %}
+
+<ul>
+
+  {% assign book = 0 %}
+
+  {% for chapter in site.data.saber %}
+    {% assign cnum = chapter.number | plus: 0 %}
+    {% assign bnum = site.data.books[book].number | plus: 0 %}
+
+    {% if bnum == cnum %}
+      <li>
+        <h2>
+          {{ site.data.books[book].name }}: {{ site.data.books[book].title }}
+        </h2>
+      </li>
+      {% assign book = book | plus: 1 %}
+    {% endif %}
+
+    <li class="list_indent">
+      &nbsp&nbsp&nbsp
+      {{ chapter.number }}
+      &nbsp&nbsp&nbsp
+      <a href="{{ chapter.url }}">
+        {{ chapter.title }}
+      </a>
+    </li>
+  {% endfor %}
+
+  {% for chapter in site.translated %}
+    {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
+
+    {% if dtime > zero %}
+      {% break %}
+    {% endif %}
+
+    {% assign cnum = chapter.number | plus: 0 %}
+    {% assign bnum = site.data.books[book].number | plus: 0 %}
+
+    {% if bnum == cnum %}
+      <br />
+      <li>
+        <h2>
+          {{ site.data.books[book].name }}: {{ site.data.books[book].title }}
+        </h2>
+      </li>
+      {% assign book = book | plus: 1 %}
+
+    {% endif %}
+
+    <li class="list_indent">
+      &nbsp&nbsp&nbsp
+      {{ chapter.number }}
+      &nbsp&nbsp&nbsp
+      <a href="{{ site.baseurl }}{{ chapter.url }}">
+        中文
+      </a>
+      &nbsp&nbsp&nbsp
+      <a href="{{ site.baseurl }}{{ chapter.url }}">
+        {{ chapter.title }}
+      </a>
+    </li>
+  {% endfor %}
+
+</ul>
+
+{% include adsense_bottom.html %}

@@ -6,7 +6,7 @@ layout: default
 
   {% include adsense_top.html %}
 
-  <h1><a href="{{ site.baseurl }}/announcements.html" class="page-heading">Announcements</a></h1>
+  <h1><a href="{{ site.baseurl }}/announcements/" class="page-heading">Recent Announcements</a></h1>
 
   {% assign announcements = site.announcements | reverse %}
   {% assign count = 0 | plus: 0 %}
@@ -43,128 +43,61 @@ layout: default
     {% endfor %}
   </ul>
 
+  <h1><a href="{{ site.baseurl }}/chapters/" class="page-heading">Recent Chapters</a></h1>
 
-
-  <h1>Recent Updates</h1>
-
-  {% assign ntime = site.time | date: '%s' | plus: 0 %}
-  {% assign stime = site.time | date: '%s' | minus: 259200 | date: '%s' | plus: 0 %}
+  {% assign translated = site.translated | reverse %}
+  {% assign count = 0 | plus: 0 %}
   {% assign zero = 0 | plus: 0 %}
-  {% assign datetitle = '' %}
-
   <ul>
-    {% for chapter in site.translated reversed %}
+    {% for chapter in translated %}
+    {% assign count = count | plus: 1 %}
 
-      {% assign ptime = chapter.date | date: '%s' | plus: 0 | minus: stime %}
-      {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
-
-      {% if ptime < zero %}
-        {% break %}
-      {% endif %}
-
-      {% if dtime > zero %}
-        {% continue %}
-      {% endif %}
-
-      {% if chapter.date != datetitle %}
-        {% assign datetitle = chapter.date %}
-        <li>
-          <strong>
-            {% assign d = chapter.date | date: "%-d" %}
-            {{ chapter.date | date: "%b" }}
-            {% case d %}
-              {% when "1" or "21" or "31" %}
-                {{ d }}st,
-              {% when "2" or "22" %}
-                {{ d }}nd,
-              {% when "3" or "23" %}
-                {{ d }}rd,
-              {% else %}
-                {{ d }}th,
-            {% endcase %}
-            {{ chapter.date | date: "%Y" }}
-          </strong>
-        </li>
-        {% endif %}
-
-      <li class="list_indent">
-        &nbsp&nbsp&nbsp
-        {{ chapter.number }}
-        &nbsp&nbsp&nbsp
-        <a href="{{ site.baseurl }}{{ chapter.url }}">
-          {{ chapter.title }}
-        </a>
-      </li>
-
+    <li class="list_indent">
+      &nbsp&nbsp&nbsp
+      {{ chapter.number }}
+      &nbsp&nbsp&nbsp
+      <a href="{{ site.baseurl }}{{ chapter.url }}">
+        中文
+      </a>
+      &nbsp&nbsp&nbsp
+      <a href="{{ site.baseurl }}{{ chapter.url }}">
+        {{ chapter.title }}
+      </a>
+    </li>
+    {% if count >= 7 %}
+      {% break %}
+    {% endif %}
     {% endfor %}
   </ul>
 
   {% include adsense_bottom.html %}
+<!--
+  <h1><a href="{{ site.baseurl }}/sponsors/" class="page-heading">Recent Sponsors</a></h1>
 
-  <h1>Table of Contents</h1>
+  <table class="clear">
+    {% assign recent = site.data.sponsors | sort: 'date' %}
+    {% assign count = 0 | plus: 0 %}
+    {% for sponsor in recent reversed %}
+    {% assign count = count | plus: 1 %}
 
-  <ul>
-    {% assign book = 0 %}
-
-    {% for chapter in site.data.saber %}
-
-      {% assign cnum = chapter.number | plus: 0 %}
-      {% assign bnum = site.data.books[book].number | plus: 0 %}
-
-      {% if bnum == cnum %}
-
-        <li>
-          <h2>
-            {{ site.data.books[book].name }}: {{ site.data.books[book].title }}
-          </h2>
-        </li>
-        {% assign book = book | plus: 1 %}
-
-      {% endif %}
-
-      <li class="list_indent">
-        &nbsp&nbsp&nbsp
-        {{ chapter.number }}
-        &nbsp&nbsp&nbsp
-        <a href="{{ chapter.url }}">
-          {{ chapter.title }}
-        </a>
-      </li>
+    <tr>
+      <td>
+        {{ sponsor.date }}
+      </td>
+      <td>
+        {{ sponsor.name }}
+      </td>
+      <td>
+        <script type="text/javascript">
+          document.write(curfy({{ sponsor.amount }}))
+        </script>
+      </td>
+      </a>
+    </tr>
+    {% if count >= 5 %}
+      {% break %}
+    {% endif %}
     {% endfor %}
-
-    <!-- The rest which are not from Saber -->
-    {% for chapter in site.translated %}
-
-      {% assign dtime = chapter.date | date: '%s' | plus: 0 | minus: ntime %}
-
-      {% if dtime > zero %}
-        {% break %}
-      {% endif %}
-
-      {% assign cnum = chapter.number | plus: 0 %}
-      {% assign bnum = site.data.books[book].number | plus: 0 %}
-
-      {% if bnum == cnum %}
-        <br />
-        <li>
-          <h2>
-            {{ site.data.books[book].name }}: {{ site.data.books[book].title }}
-          </h2>
-        </li>
-        {% assign book = book | plus: 1 %}
-
-      {% endif %}
-
-      <li class="list_indent">
-        &nbsp&nbsp&nbsp
-        {{ chapter.number }}
-        &nbsp&nbsp&nbsp
-        <a href="{{ site.baseurl }}{{ chapter.url }}">
-          {{ chapter.title }}
-        </a>
-      </li>
-    {% endfor %}
-
-  </ul>
-
+  </table>
+ -->
 </div>

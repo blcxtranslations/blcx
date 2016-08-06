@@ -17,9 +17,12 @@ markdown: kramdown
 collections:
   translated:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:title/
+  original:
+    output: true
+    permalink: /:collection/:title/
   announcements:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:title/
 
 exclude: ['_translated/template.md']
